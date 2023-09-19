@@ -1,0 +1,100 @@
+Introduction to Swift C interoperability
+How to call C functions from Swift
+How to use C declarations in Swift code
+Understanding Swift's interoperability with C
+Interoperability challenges between Swift and C
+Importing C libraries in Swift
+Mixing Swift and C code in a project
+Converting C data types to Swift data types
+Working with C structs in Swift
+Passing arguments between Swift and C functions
+Swift wrappers for C APIs
+Calling Swift functions from C code
+Bridging pointers between Swift and C
+Overcoming naming conflicts between Swift and C
+Error handling in Swift C interoperability
+Handling memory management in Swift C interoperability
+Converting Swift strings to C strings
+Converting C strings to Swift strings
+Handling callbacks from C code in Swift
+Creating Swift extensions for C types
+Swift best practices for C interoperability
+Using C libraries in a Swift package
+Debugging issues in Swift C interoperability
+Creating a C-compatible API in Swift
+Wrapping C++ libraries with a Swift interface
+Automating Swift C interoperability with tools
+Performance considerations in Swift C interoperability
+Porting legacy C code to Swift
+Using C libraries that expose global variables in Swift
+Mixing Objective-C and C code in Swift projects
+Exposing Swift code to C consumers
+Interoperability between Swift and C++ libraries
+Using C macros in Swift
+Accessing C enums in Swift
+Using C unions in Swift
+Optimizing Swift C interoperability with @objc
+Handling C function pointers in Swift
+Interoperability between Swift and C# libraries
+Converting C arrays to Swift arrays
+Converting Swift arrays to C arrays
+Handling nested C structures in Swift
+Working with C-style function pointers in Swift
+Using C libraries with Swift frameworks
+Converting C numeric types to Swift numeric types
+Interoperability between Swift and Rust code
+Creating Swift wrappers for C++ libraries
+Using C libraries with SwiftUI projects
+Implementing C callbacks in Swift
+Building a C-based API for Swift developers
+Interoperability between Swift and Java code
+Using C libraries in iOS projects written in Swift
+Converting C-style strings to Swift strings using UnsafePointers
+Interoperability between Swift and Python code
+Using C libraries in macOS projects written in Swift
+Converting C-style arrays to Swift arrays using UnsafePointers
+Debugging memory issues in Swift C interoperability
+Passing C structures as inout arguments in Swift
+Working with C-style null-terminated strings in Swift
+Interoperability between Swift and Go code
+Converting C-style arrays to Swift arrays using withUnsafeBytes
+Interoperability between Swift and Ruby code
+Passing Swift closures to C functions
+Handling optional values in Swift C interoperability
+Converting C-style strings to Swift strings using withCString
+Working with C-style variadic functions in Swift
+Using C libraries in tvOS projects written in Swift
+Accessing C-style function pointers in Swift using UnsafeMutableRawPointer
+Interoperability between Swift and JavaScript code
+Handling large data sets in Swift C interoperability
+Converting Swift optionals to C booleans
+Handling C-style memory allocation in Swift
+Using C libraries in watchOS projects written in Swift
+Interoperability between Swift and PHP code
+Converting Swift enums to C enums
+Wrapping C++ exceptions for Swift error handling
+Implementing custom memory management in Swift C interoperability
+Using C libraries in Linux projects written in Swift
+Converting C-style arrays to Swift arrays using Array(UnsafeBufferPointer)
+Working with C-style variadic functions in Swift using withVaList
+Handling C-style memory deallocation in Swift
+Interoperability between Swift and Kotlin code
+Converting Swift optionals to C pointers
+Using C libraries in Windows projects written in Swift
+Gaining performance improvements with C interoperability in Swift
+Converting Swift tuples to C structs
+Working with C-style linked lists in Swift
+Interoperability between Swift and Lua code
+Converting C-style strings to Swift strings using String(cString:)
+Handling C-style bitfields in Swift
+Using C libraries in cross-platform Swift projects
+Converting C-style function pointers to Swift closures
+Interoperability between Swift and Perl code
+Using C libraries in web projects written in Swift
+Converting Swift classes to C structs
+Handling C-style file I/O in Swift
+Interoperability between Swift and R code
+Converting Swift sets to C arrays
+Using C libraries in server-side Swift projects
+Porting C code to Swift for better interoperability
+Converting Swift optionals to C-style null pointers

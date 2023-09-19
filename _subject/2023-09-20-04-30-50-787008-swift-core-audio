@@ -1,0 +1,100 @@
+Introduction to Swift Core Audio
+Basics of audio programming in Swift Core Audio
+Working with audio files in Swift Core Audio
+Playback and recording audio in Swift Core Audio
+Manipulating audio data in Swift Core Audio
+Real-time audio processing in Swift Core Audio
+Understanding audio formats in Swift Core Audio
+Mixing and synthesizing audio in Swift Core Audio
+Implementing audio effects in Swift Core Audio
+Working with audio units in Swift Core Audio
+Understanding audio graphs in Swift Core Audio
+Implementing audio routing in Swift Core Audio
+Working with MIDI in Swift Core Audio
+Implementing audio synchronization in Swift Core Audio
+Developing audio plugins in Swift Core Audio
+Creating custom audio processing algorithms in Swift Core Audio
+Optimizing audio performance in Swift Core Audio
+Debugging and troubleshooting in Swift Core Audio
+Implementing audio input/output on iOS devices using Swift Core Audio
+Implementing audio input/output on macOS using Swift Core Audio
+Implementing audio input/output on tvOS using Swift Core Audio
+Implementing audio input/output on watchOS using Swift Core Audio
+Introduction to audio signal processing in Swift Core Audio
+Understanding audio waveforms in Swift Core Audio
+Implementing audio filters in Swift Core Audio
+Implementing audio compression and decompression in Swift Core Audio
+Implementing audio normalization in Swift Core Audio
+Implementing audio panning and spatialization in Swift Core Audio
+Implementing audio time stretching and pitch shifting in Swift Core Audio
+Implementing audio spectral analysis in Swift Core Audio
+Implementing audio synthesis techniques in Swift Core Audio
+Implementing audio sampling techniques in Swift Core Audio
+Implementing audio resampling in Swift Core Audio
+Implementing audio recording and playback with AVAudioEngine in Swift Core Audio
+Implementing audio processing using AudioKit in Swift Core Audio
+Implementing audio streaming with AudioStreamer in Swift Core Audio
+Implementing audio analysis with AudioKit in Swift Core Audio
+Implementing audio visualization in Swift Core Audio
+Implementing audio effects using AudioUnit in Swift Core Audio
+Implementing audio modeling using DSP in Swift Core Audio
+Implementing audio synthesis using MIDI in Swift Core Audio
+Implementing audio spatialization using spatial audio in Swift Core Audio
+Implementing audio time stretching using time-based effects in Swift Core Audio
+Implementing audio pitch shifting using pitch-based effects in Swift Core Audio
+Implementing audio playback synchronization in Swift Core Audio
+Implementing audio real-time processing in Swift Core Audio
+Implementing audio distortion effects in Swift Core Audio
+Implementing audio modulation effects in Swift Core Audio
+Implementing audio delay effects in Swift Core Audio
+Implementing audio reverb effects in Swift Core Audio
+Implementing audio manipulation using AudioProcess in Swift Core Audio
+Implementing audio resampling using AudioConverter in Swift Core Audio
+Implementing audio dithering using AudioConverter in Swift Core Audio
+Implementing audio playback using AudioQueue in Swift Core Audio
+Implementing audio recording using AudioQueue in Swift Core Audio
+Implementing audio input/output using AudioSession in Swift Core Audio
+Implementing audio analysis using AudioUnit in Swift Core Audio
+Implementing audio visualization using Core Audio in Swift Core Audio
+Implementing audio encoding/decoding using AudioToolbox in Swift Core Audio
+Implementing audio playback using AudioPlayer in Swift Core Audio
+Implementing audio recording using AudioRecorder in Swift Core Audio
+Implementing audio streaming using AudioStreamer in Swift Core Audio
+Implementing audio synthesis using AudioSynthesizer in Swift Core Audio
+Implementing audio filtering using DigitalFilter in Swift Core Audio
+Implementing audio compression using AudioCompressor in Swift Core Audio
+Implementing audio normalization using AudioNormalizer in Swift Core Audio
+Implementing audio panning using AudioPanner in Swift Core Audio
+Implementing audio spatialization using AudioSpatializer in Swift Core Audio
+Implementing audio time stretching using AudioTimeStretcher in Swift Core Audio
+Implementing audio pitch shifting using AudioPitchShifter in Swift Core Audio
+Implementing audio analysis using AudioAnalyzer in Swift Core Audio
+Implementing audio visualization using AudioVisualizer in Swift Core Audio
+Implementing audio effects using AudioEffects in Swift Core Audio
+Implementing audio modeling using AudioModeler in Swift Core Audio
+Implementing audio synthesis using AudioSynthesizer in Swift Core Audio
+Implementing audio resampling using AudioResampler in Swift Core Audio
+Implementing audio dithering using AudioDitherer in Swift Core Audio
+Implementing audio routing using AudioRouter in Swift Core Audio
+Implementing audio synchronization using AudioSync in Swift Core Audio
+Implementing audio mixing using AudioMixer in Swift Core Audio
+Implementing audio input/output using AudioIO in Swift Core Audio
+Implementing audio playback using AudioPlayback in Swift Core Audio
+Implementing audio recording using AudioRecording in Swift Core Audio
+Implementing audio streaming using AudioStreaming in Swift Core Audio
+Implementing audio compression using AudioCompression in Swift Core Audio
+Implementing audio decompression using AudioDecompression in Swift Core Audio
+Implementing audio encoding using AudioEncoding in Swift Core Audio
+Implementing audio decoding using AudioDecoding in Swift Core Audio
+Implementing audio encoding/decoding using AudioEncodingDecoding in Swift Core Audio
+Implementing audio routing using AudioRouting in Swift Core Audio
+Implementing audio synchronization using AudioSynchronization in Swift Core Audio
+Implementing audio mixing using AudioMixing in Swift Core Audio
+Implementing audio visualization using AudioVisualization in Swift Core Audio
+Implementing audio effects using AudioEffects in Swift Core Audio
+Implementing audio modeling using AudioModeling in Swift Core Audio
+Implementing audio synthesis using AudioSynthesis in Swift Core Audio
+Implementing audio resampling using AudioResampling in Swift Core Audio
+Implementing audio dithering using AudioDithering in Swift Core Audio
+Implementing audio analysis using AudioAnalysis in Swift Core Audio
+Implementing audio manipulation using AudioManipulation in Swift Core Audio

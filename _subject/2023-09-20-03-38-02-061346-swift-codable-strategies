@@ -1,0 +1,100 @@
+JSONEncoder and JSONDecoder
+PropertyListEncoder and PropertyListDecoder
+Custom encoding and decoding logic
+Nested container strategies
+Ignoring unknown keys during decoding
+Custom key mapping during encoding and decoding
+Handling different data types during encoding and decoding
+Encoding and decoding non-standard data structures
+Encoding and decoding date formats
+Handling optional values during encoding and decoding
+Dealing with custom data formats during encoding and decoding
+Encoding and decoding enum types
+Using userInfo for additional encoding and decoding information
+Working with multiple levels of nested objects
+Handling default values during decoding
+Encoding and decoding raw data
+Passing custom contexts during encoding and decoding
+Custom serialization and deserialization strategies
+Encoding and decoding nested arrays and dictionaries
+Handling circular references during encoding and decoding
+Encoding and decoding large datasets efficiently
+Handling errors during encoding and decoding
+Working with external libraries for encoding and decoding
+Implementing custom encoding and decoding protocols
+Using key paths during encoding and decoding
+Encoding and decoding with different strategies for different properties
+Working with binary formats during encoding and decoding
+Transforming data during encoding and decoding
+Encoding and decoding arrays of varying lengths
+Handling missing keys during decoding
+Encoding and decoding custom URL formats
+Polymorphic encoding and decoding strategies
+Encoding and decoding data with encryption
+Handling different character encodings during encoding and decoding
+Encoding and decoding numeric types with different byte orders
+Encoding and decoding custom bitwise representations
+Working with complex data models during encoding and decoding
+Encoding and decoding data with compression
+Handling different locales during encoding and decoding
+Encoding and decoding data with checksums
+Encoding and decoding variable-length data fields
+Working with binary-coded decimal formats during encoding and decoding
+Encoding and decoding data with fixed-point arithmetic
+Handling data alignment during encoding and decoding
+Encoding and decoding data with error correction codes
+Working with time zone information during encoding and decoding
+Encoding and decoding data with floating-point precision
+Handling data truncation during encoding and decoding
+Encoding and decoding data with variable-length integers
+Working with network protocols during encoding and decoding
+Encoding and decoding data with data compression algorithms
+Handling data conversion during encoding and decoding
+Encoding and decoding data with different character sets
+Working with large integers during encoding and decoding
+Encoding and decoding data with variable-length strings
+Handling data validation during encoding and decoding
+Encoding and decoding data with variable-length arrays
+Working with bit streams during encoding and decoding
+Encoding and decoding data with variable-length chunks
+Handling endianness during encoding and decoding
+Encoding and decoding data with variable-length integers and floating-point numbers
+Working with data serialization formats during encoding and decoding
+Encoding and decoding data with variable-length lists
+Handling data encryption during encoding and decoding
+Encoding and decoding data with variable-length records
+Working with binary trees during encoding and decoding
+Encoding and decoding data with variable-length sequences
+Handling data compression during encoding and decoding
+Encoding and decoding data with variable-length fields
+Working with multimedia formats during encoding and decoding
+Encoding and decoding data with variable-length messages
+Handling data serialization issues during encoding and decoding
+Encoding and decoding data with variable-length blocks
+Working with data protocols during encoding and decoding
+Encoding and decoding data with variable-length codes
+Handling data integrity during encoding and decoding
+Encoding and decoding data with variable-length tags
+Working with asynchronous data during encoding and decoding
+Encoding and decoding data with variable-length packets
+Handling data persistence during encoding and decoding
+Encoding and decoding data with variable-length fields and records
+Working with distributed data systems during encoding and decoding
+Encoding and decoding data with variable-length messages and packets
+Handling data synchronization during encoding and decoding
+Encoding and decoding data with variable-length arrays and lists
+Working with real-time data during encoding and decoding
+Encoding and decoding data with variable-length strings and sequences
+Handling data replication during encoding and decoding
+Encoding and decoding data with variable-length blocks and codes
+Working with fault-tolerant data systems during encoding and decoding
+Encoding and decoding data with variable-length tags and fields
+Handling data transformation during encoding and decoding
+Encoding and decoding data with variable-length packets and messages
+Working with distributed file systems during encoding and decoding
+Encoding and decoding data with variable-length chunks and records
+Handling data partitioning during encoding and decoding
+Encoding and decoding data with variable-length codes and blocks
+Working with distributed computing models during encoding and decoding
+Encoding and decoding data with variable-length packets and fields
+Handling data replication and consistency during encoding and decoding

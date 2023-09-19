@@ -1,0 +1,100 @@
+Alamofire - a networking library for Swift that provides an elegant interface for making HTTP requests.
+PromiseKit - a library for handling asynchronous programming in Swift, using promises.
+SnapKit - a library for writing Auto Layout code in Swift, making it easier to define and modify constraints.
+ObjectMapper - a library that simplifies the conversion between model objects and JSON in Swift.
+SwiftyJSON - a library for easily parsing and manipulating JSON in Swift.
+Kingfisher - a library for downloading and caching images from the web in Swift.
+RealmSwift - an alternative to Core Data, RealmSwift is a mobile database designed specifically for Swift.
+Moya - a network abstraction layer that provides a simplified API for making network requests in Swift.
+RxSwift - a reactive programming library that allows you to handle asynchronous operations and events in a more declarative and concise way.
+SwiftyUserDefaults - a library that provides a simple and type-safe interface for working with NSUserDefaults in Swift.
+CryptoSwift - a library that provides a collection of cryptographic algorithms and tools for Swift.
+SwiftLint - a tool that helps enforce consistent coding style and best practices in Swift codebases.
+SwiftDate - a library for working with dates and times in Swift, providing a more intuitive and concise API than the standard library.
+NVActivityIndicatorView - a collection of loading indicators to use in your iOS app, implemented in Swift.
+IQKeyboardManager - a library that automatically manages the keyboard appearance and behavior in your iOS app, preventing the keyboard from covering your UI elements.
+SwiftyBeaver - a powerful, lightweight logging framework for Swift that provides feature-rich logging capabilities.
+SwiftyGif - a library for displaying animated GIF images in your iOS app, written in Swift.
+Hero - a library that enables smooth and interactive transition animations between view controllers in your iOS app.
+Firebase - a comprehensive set of tools and services for building mobile apps, including authentication, cloud storage, real-time database, and more.
+Firebase Firestore - a NoSQL cloud database offered by Firebase, designed for responsive and scalable mobile app development.
+Firebase Crashlytics - a crash reporting and analysis tool provided by Firebase, helping you track and fix crashes in your iOS app.
+Firebase Cloud Messaging - a cross-platform messaging solution that allows you to send push notifications to your iOS app users.
+Firebase Analytics - a tool for tracking user engagement, retention, and conversion in your iOS app, providing valuable insights for app optimization.
+Firebase Remote Config - a feature that lets you define key-value pairs to update your app's behavior without releasing a new version, allowing for remote configuration updates.
+Firebase Authentication - a service that provides easy-to-use authentication and user management for your iOS app, supporting email/password, social login, and more.
+Firebase Performance Monitoring - a tool for monitoring and optimizing your app's performance, identifying slow user interactions and high resource consumption.
+Firebase Realtime Database - a cloud-hosted database that synchronizes data in real-time, allowing for collaborative and offline-capable apps.
+CoreSpotlight - a framework that allows you to index and make your app's contents searchable within the Spotlight feature on iOS devices.
+SwiftSoup - a library for parsing and manipulating HTML documents in Swift, providing a similar interface to JSoup in Java.
+SwiftyUserDefaults - a library that simplifies using NSUserDefaults with a cleaner, more Swifty syntax.
+Sourcery - a code generation tool that runs on Swift code and generates boilerplate code automatically, reducing manual and repetitive tasks.
+ModelMapper - a library that simplifies mapping JSON to Swift objects, saving development time and reducing code complexity.
+Quick - a behavior-driven development (BDD) testing framework for Swift, allowing you to write concise and descriptive tests.
+Nimble - a matching framework for building expressive assertions in Swift, making your tests more readable and maintainable.
+OHHTTPStubs - a library for stubbing HTTP requests and responses in Swift, enabling offline or controlled testing environments.
+Permission - a library that simplifies requesting and handling various system permissions in Swift, such as camera, location, and notifications.
+ObjectMapper - a library for transforming JSON to Swift objects and vice versa, providing type-safe and easy-to-use mapping functions.
+Realm - a mobile database that offers a simple and efficient way to persist data in Swift apps, allowing for fast data queries and updates.
+RxAlamofire - a combination library of RxSwift and Alamofire, providing reactive extensions for handling network requests in Swift.
+SwiftyStoreKit - a library for in-app purchases in Swift, simplifying the process of adding, validating, and managing digital content purchases.
+DocC - a documentation compiler introduced at WWDC 2021, allowing developers to create comprehensive documentation for their Swift frameworks and packages.
+SwiftUI - a declarative UI framework introduced by Apple in 2019, enabling developers to build user interfaces across all Apple platforms in a unified way.
+Combine - a framework introduced by Apple in 2019, providing a reactive programming paradigm for handling asynchronous events and data streams in Swift.
+XCTest - the native testing framework provided by Apple for writing unit tests and UI tests in Swift and Objective-C.
+XCTestUI - a testing framework built on top of XCTest, allowing for UI testing of iOS and macOS applications using Swift.
+Core Data - Apple's object graph and persistence framework, allowing you to manage the model layer of your app and persist data to disk.
+AVFoundation - Apple's framework for working with audio and video in iOS and macOS apps, providing powerful multimedia capabilities.
+Core Location - a framework that allows your app to access the user's location information, enabling location-based services.
+Core Animation - a low-level animation framework provided by Apple, allowing for smooth and visually appealing animations in your app's user interface.
+CoreML - a framework introduced by Apple in 2017, enabling developers to incorporate machine learning models into their iOS and macOS apps.
+Core Graphics - a framework for creating and manipulating 2D graphics in iOS and macOS apps, providing tools for drawing shapes, images, and text.
+CoreBluetooth - a framework that enables communication with Bluetooth Low Energy (BLE) devices, allowing for the development of Bluetooth-enabled iOS apps.
+Core Image - a framework for processing and analyzing images, providing a wide range of pre-built filters and image manipulation capabilities.
+Core Text - a framework for rendering text in iOS and macOS apps with advanced typographic features, including complex text layout and Unicode support.
+Core Motion - a framework that provides access to various motion-related data and sensor information on iOS devices, enabling motion-based apps.
+SwiftUIX - a collection of helpful extensions and utilities for SwiftUI, enhancing its capabilities and providing additional UI components.
+Swinject - a lightweight dependency injection framework for Swift, simplifying the management of dependencies and promoting modular and testable code.
+Vapor - a server-side Swift web framework, allowing you to build scalable and high-performance web applications using Swift.
+Perfect - a web server and web application framework for Swift, providing a simple and efficient way to develop server-side Swift applications.
+Kitura - an open-source web framework for building server-side Swift applications, offering support for routing, templating, and more.
+Heroku - a cloud platform that allows you to deploy, manage, and scale your Swift web applications easily.
+AWS SDK for Swift - a software development kit provided by Amazon Web Services, enabling developers to build applications that interact with AWS services using Swift.
+Codable - a protocol introduced in Swift 4, enabling easy encoding and decoding of Swift types to and from various external formats, such as JSON.
+AuthenticationServices - a framework introduced in iOS 13, providing a unified and secure way for your app to authenticate users using their Apple ID.
+Core NFC - a framework introduced in iOS 11, allowing you to read NFC tags and interact with NFC-enabled devices in your iOS app.
+Natural Language - a framework that provides natural language processing capabilities, enabling your app to analyze and understand text in a more sophisticated way.
+UserNotifications - a framework that allows your app to display local and remote notifications to the user, keeping them informed and engaged.
+Vision - a framework that provides image and video analysis capabilities, enabling your app to perform tasks like face detection, object tracking, and text recognition.
+Metal - a low-level framework for creating high-performance 3D graphics applications, allowing for fine-grained control over the GPU.
+HealthKit - a framework that provides a centralized repository for health and fitness data on iOS devices, enabling your app to access and integrate with user health data.
+ARKit - a framework that enables augmented reality experiences on iOS devices, allowing your app to create immersive and interactive AR content.
+EventKit - a framework that allows your app to access and manipulate calendar, reminder, and event data on iOS devices, providing calendar integration.
+Contacts - a framework that enables your app to access and manage the user's contacts and contact groups on iOS devices.
+AudioToolbox - a low-level audio framework that provides tools and interfaces for handling audio in iOS and macOS apps, supporting audio playback, recording, and effects.
+VideoToolbox - a low-level video framework that provides tools and interfaces for working with video content in iOS and macOS apps, enabling video encoding, decoding, and processing.
+SceneKit - a high-level 3D rendering framework that simplifies the creation and manipulation of 3D scenes, allowing for real-time rendering and physics simulations.
+SpriteKit - a high-level 2D rendering and animation framework, providing a powerful toolset for building 2D games and interactive content.
+UIKit Dynamics - a framework that enables the creation of dynamic and physics-based user interfaces, allowing for realistic animations and interactions.
+Accelerate - a framework that provides low-level, high-performance mathematical and signal processing functions, enabling advanced calculations and optimizations.
+Speech - a framework that allows your app to convert spoken words into written text and vice versa, supporting dictation, speech recognition, and synthesis.
+AVKit - a framework that simplifies the development of media playback applications, providing pre-built UI components and functionality for playing audio and video content.
+CoreHaptics - a framework introduced in iOS 13, enabling your app to provide haptic feedback to the user, enhancing the user experience with tactile sensations.
+MapKit - a framework that allows you to embed and interact with maps in your iOS app, providing tools for displaying annotations, routes, and custom overlays.
+Photos - a framework that provides access to the user's photo and video library, allowing your app to browse, edit, and share media content.
+FileProvider - a framework that enables your app to integrate with the Files app on iOS and iPadOS, providing access to cloud storage providers and custom file systems.
+SafariServices - a framework that allows your app to display web content within the app using Safari's rendering engine, providing a consistent and secure browsing experience.
+CoreML Tools - a set of command-line tools provided by Apple for working with Core ML models, enabling model conversion, validation, and deployment.
+XCTestManifests - a framework that simplifies the organization and execution of XCTest-based tests, making it easier to manage your test suites and test targets.
+CoreML Model Format - a model format introduced by Apple for Core ML models, enabling interoperability and compatibility across different platforms and frameworks.
+CoreML Model Deployment - a set of tools and APIs provided by Apple for deploying Core ML models in your app, ensuring efficiency and performance on the target device.
+CombineX - a feature-rich backport of Apple's Combine framework, allowing you to use the power of Combine in projects targeting older versions of iOS, macOS, and tvOS.
+OpenCV - an open-source computer vision library that provides a comprehensive set of algorithms for image and video processing, enabling advanced computer vision applications in Swift.
+ARKitFaceTracking - a framework introduced in iOS 11, enabling your app to track and analyze the movements and expressions of the user's face in real-time, allowing for interactive and immersive experiences.
+LocationManager - a library that simplifies working with Core Location in Swift, providing a more Swifty API for handling location-related tasks such as querying the user's current location or monitoring for geofence events.
+Geofire - a library for efficiently storing and querying location data in Firebase Realtime Database, enabling real-time location-based functionality in your Swift app.
+Fakery - a library for generating realistic fake data in Swift, making it easy to populate your app with test data during development or testing.
+SwiftFormat - a code formatting and linting tool for Swift, ensuring consistent and readable code style in your Swift projects.
+SwiftGen - a code generation tool that makes working with assets, localization strings, storyboards, and other resources in Xcode projects easier and less error-prone.
+SwiftServer - an initiative to bring the Swift language to server-side development, providing tools and frameworks for building fast and scalable backend services in Swift.
+Swift for TensorFlow - an open-source project that combines the power of Swift and TensorFlow, enabling developers to build machine learning models and perform deep learning tasks using Swift syntax.

@@ -1,0 +1,100 @@
+Setting up AirDrop in Swift
+Sharing text files via AirDrop in Swift
+Sharing image files via AirDrop in Swift
+Sharing audio files via AirDrop in Swift
+Sharing video files via AirDrop in Swift
+Adding an AirDrop button to your iOS app in Swift
+Enabling AirDrop on Mac for Swift app
+Implementing AirDrop for custom file types in Swift
+Handling AirDrop interactions in Swift
+Sending data between devices using AirDrop in Swift
+Sending multiple files with AirDrop in Swift
+Limiting AirDrop to specific file types in Swift
+Excluding certain files from AirDrop in Swift
+Customizing the AirDrop UI in Swift
+Showing progress while sending files via AirDrop in Swift
+Implementing a progress bar for AirDrop in Swift
+Handling failed AirDrop transfers in Swift
+Setting a custom AirDrop icon in Swift
+Sharing contacts via AirDrop in Swift
+Sharing locations with AirDrop in Swift
+Implementing AirDrop between iOS and macOS devices in Swift
+Sending files from macOS to iOS using AirDrop in Swift
+Sending files from iOS to macOS using AirDrop in Swift
+Sharing app-specific data with AirDrop in Swift
+Sharing documents using AirDrop in Swift
+Sharing PDFs via AirDrop in Swift
+Sharing spreadsheets via AirDrop in Swift
+Sharing presentations via AirDrop in Swift
+Sharing code snippets via AirDrop in Swift
+Sharing notes with AirDrop in Swift
+Sharing files from third-party apps using AirDrop in Swift
+Implementing AirDrop with SwiftUI in Swift
+Sharing photos with AirDrop in Swift
+Sharing albums via AirDrop in Swift
+Sharing videos via AirDrop in Swift
+Sharing documents via AirDrop in Swift
+Sending messages via AirDrop in Swift
+Enabling/disabling AirDrop programmatically in Swift
+Accessing AirDrop settings in Swift
+Protecting AirDrop transfers with authentication in Swift
+Handling AirDrop interruptions in Swift
+Sending AirDrop invites in Swift
+Implementing AirDrop file previews in Swift
+Showing recipient suggestions during AirDrop in Swift
+Customizing the AirDrop sharing sheet in Swift
+Encrypting AirDrop transfers in Swift
+Customizing the AirDrop sharing animation in Swift
+Sending AirDrop notifications in Swift
+Sending URLs via AirDrop in Swift
+Sharing documents with iCloud using AirDrop in Swift
+Sending AirDrop invitations using deep links in Swift
+Previewing AirDrop content before sending in Swift
+Sharing app-specific data across devices using AirDrop in Swift
+Sharing files with specific AirDrop recipients in Swift
+Sharing files with nearby devices using AirDrop in Swift
+Implementing AirDrop in a chat application in Swift
+Sending AirDrop invitations via peer-to-peer connection in Swift
+Implementing AirDrop between different iOS apps in Swift
+Sharing app-specific data with AirDrop using Core Data in Swift
+Implementing AirDrop file validation in Swift
+Sharing documents with CloudKit using AirDrop in Swift
+Sending AirDrop invites using iMessage in Swift
+Sharing app-specific files using AirDrop in Swift
+Implementing AirDrop with Firebase in Swift
+Sharing Apple Music tracks using AirDrop in Swift
+Sharing books with Apple Books using AirDrop in Swift
+Sending AirDrop invites using Game Center in Swift
+Implementing AirDrop with MultipeerConnectivity framework in Swift
+Sharing app-specific files using iCloud Drive with AirDrop in Swift
+Sending AirDrop invitations using local network discovery in Swift
+Implementing AirDrop in augmented reality (AR) apps in Swift
+Sharing videos with Apple TV using AirDrop in Swift
+Sending AirDrop invites using SiriKit in Swift
+Implementing AirDrop for handwritten notes in Swift
+Sharing files with Apple Watch using AirDrop in Swift
+Sending AirDrop invitations using PassKit in Swift
+Implementing AirDrop for location-based apps in Swift
+Sharing files with HomePod using AirDrop in Swift
+Sending AirDrop invites using Apple Pay in Swift
+Implementing AirDrop for indoor navigation apps in Swift
+Sharing files with CarPlay using AirDrop in Swift
+Sending AirDrop invitations using HealthKit in Swift
+Implementing AirDrop for augmented reality glasses in Swift
+Sharing files with Apple Music using AirDrop in Swift
+Sending AirDrop invites using Core NFC in Swift
+Implementing AirDrop for voice recognition apps in Swift
+Sharing files with AirPods using AirDrop in Swift
+Sending AirDrop invitations using HomeKit in Swift
+Implementing AirDrop for gesture recognition apps in Swift
+Sharing files with Apple Watch faces using AirDrop in Swift
+Sending AirDrop invites using ResearchKit in Swift
+Implementing AirDrop for digital wallet apps in Swift
+Sharing files with Apple Pencil using AirDrop in Swift
+Sending AirDrop invitations using ARKit in Swift
+Implementing AirDrop for outdoor navigation apps in Swift
+Sharing files with Apple TV remote using AirDrop in Swift
+Sending AirDrop invites using VisionKit in Swift
+Implementing AirDrop for facial recognition apps in Swift
+Sharing files with smart home devices using AirDrop in Swift
+Sending AirDrop invites using MetalKit in Swift

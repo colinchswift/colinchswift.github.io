@@ -1,0 +1,100 @@
+Automatic Reference Counting (ARC) in Swift
+Strong, weak, and unowned references in Swift
+Retain cycles and memory leaks in Swift
+How to use the weak reference keyword in Swift
+Understanding the capture list in closures and memory management in Swift
+The concept of reference counting in Swift
+How to use the unowned reference keyword in Swift
+Manually managing memory in Swift with unsafe pointers
+How to break a strong reference cycle in Swift
+Memory management in Swift compared to Objective-C
+Avoiding memory leaks with delegates in Swift
+Using value types vs reference types for better memory management in Swift
+Working with weak references in Swift closures
+The weak self pattern for preventing retain cycles in closures in Swift
+Using weak references in UITableView delegate methods in Swift
+Deinit method and deinitializers in Swift
+Handling memory management in Swift with GCD (Grand Central Dispatch)
+The concept of automatic memory management in Swift
+Using the autoreleasepool in Swift for better memory management
+Understanding the concept of strong reference cycles in Swift
+Tips for efficient memory management in Swift
+Using the autoreleasepool in Swift for managing temporary objects
+Working with weak references in Swift protocol extensions
+Best practices for memory management in Swift
+The importance of balancing retain and release calls in Swift
+Using weak references in Swift with closures
+The role of autoreleasepool in multithreaded Swift applications
+Understanding the ARC (Automatic Reference Counting) optimization in Swift
+How to use the unowned(unsafe) reference keyword in Swift
+Memory management in Swift when working with iOS frameworks
+Exploring the strong reference cycle checkers in Xcode and Swift
+The role of weak references in delegate protocols in Swift
+How to break strong reference cycles when using self in closures in Swift
+Understanding memory management in Swift with blocks
+Using lazy properties for better memory management in Swift
+The differences between weak and unowned references in Swift
+How to use weak references to prevent retain cycles in Swift
+The concept of strong reference cycles in Swift classes
+Using weak references in Swift View Controllers to prevent memory leaks
+Implementing manual memory management in Swift using custom reference counting
+The role of weak references in Swift NotificationCenter
+How memory management differs in Swift when compared to C++ or Java
+The pitfalls of incorrectly using unowned references in Swift
+The role of weak references in Swift closures with capture lists
+How to handle memory management in Swift when using third-party libraries
+Analyzing memory usage and performance in Swift applications
+The importance of understanding retain cycles in Swift for efficient memory management
+How to override retain and release methods in Swift for custom memory management
+Using weak references in Swift to avoid strong reference cycles in delegation
+The concept of memory management ownership in Swift
+Working with weak references in Swift singletons
+Memory management best practices when using Core Data in Swift
+Tips for debugging memory issues in Swift applications
+The role of autoreleasepool in Swift initializers and constructors
+How to handle memory management in Swift when working with closures and concurrency
+Analyzing and optimizing memory usage in Swift with Instruments
+The concept of memory management zones in Swift
+Using weak references in Swift with NSNotificationCenter
+The benefits of using value types for automatic memory management in Swift
+Advanced memory management techniques in Swift with advanced reference counting
+Best practices for memory management in Swift apps that handle large amounts of data
+The limitations of ARC in Swift and when manual memory management might be necessary
+How to use weak references in Swift with delegation patterns
+The role of weak references in Swift for handling optional chaining
+Understanding automatic memory management in Swift with value types
+Memory management considerations when using Swift with external frameworks, such as Metal or Core Graphics
+How to handle memory management in Swift with multi-threading and concurrent programming
+Analyzing and optimizing memory usage in Swift with Xcode's memory graph debugger
+The concept of reference counting and retain counts in Swift memory management
+Using weak references in Swift with NSOperation and NSOperationQueue
+The role of weak references in Swift with storyboards and view controllers
+How to use weak references in Swift with GCD (Grand Central Dispatch) queues
+Dealing with memory management in Swift when using Core Animation and CALayers
+The role of weak references in Swift Combine publishers and subscribers
+How to implement custom memory management in Swift with raw pointers
+Understanding the role of weak references in SwiftUI and state management
+How to handle memory management in Swift with reactive programming frameworks, such as RxSwift or Combine
+Tips for avoiding memory leaks in Swift when working with closures and observers
+Exploring the memory management impact of different data structures in Swift
+The role of weak references in Swift with delegation patterns and protocols
+How to handle memory management in Swift when working with complex data structures, such as trees or graphs
+Analyzing and optimizing memory usage in Swift with Xcode's memory debugger and memory reports
+The concept of automatic memory management in Swift with value semantics
+Understanding the impact of closures on memory management in Swift
+How to use weak references in Swift with asynchronous networking tasks
+The role of weak references in Swift with SwiftUI state bindings
+Tips for efficient memory management in Swift with large collections and arrays
+The importance of understanding memory management when working with custom Swift structs and classes
+How to handle memory management in Swift for long-running background tasks
+Analyzing and optimizing memory usage in Swift with the Swift Package Manager
+The concept of weak references in Swift for handling memory management in concurrent programming
+Understanding the memory management implications of different architectural patterns in Swift, such as MVVM or VIPER
+How to use weak references in Swift with Core Graphics and drawing operations
+Tips for managing memory in Swift when working with image processing and manipulation
+The role of weak references in Swift with Combine publishers and SwiftUI views
+How to handle memory management in Swift with long-lived objects or singletons
+Analyzing and optimizing memory usage in Swift with tools like LLDB and memory profiling
+The concept of weak references in Swift for handling memory management in multithreaded environments
+Understanding memory management when working with Swift and external hardware devices, such as Bluetooth peripherals
+How to use weak references in Swift with Combine subscriptions and publishers.

@@ -1,0 +1,100 @@
+Initializing a DateFormatter in Swift
+Understanding DateFormatter style options in Swift
+Swift DateFormatter.dateStyle property explained
+Swift DateFormatter.timeStyle property explained
+Setting the locale for a DateFormatter in Swift
+Formatting a date using DateFormatter's string(from:) method
+Parsing a string into a Date using DateFormatter in Swift
+Using DateFormatter to convert between different date formats in Swift
+Formatting a date with a specific timezone using DateFormatter in Swift
+Customizing date formatting strings in Swift DateFormatters
+Handling date input with DateFormatter in Swift
+Formatting dates for display in different languages using DateFormatter in Swift
+Displaying relative dates (e.g., "Yesterday", "2 weeks ago") using DateFormatter in Swift
+Using DateFormatter to display time elapsed since a specific date in Swift
+Working with different calendar systems using DateFormatter in Swift
+Using DateFormatter to parse and format ISO 8601 dates in Swift
+Displaying countdowns or countdown timers using DateFormatter in Swift
+Customizing how time is displayed using DateFormatter in Swift
+Displaying dates in different time zones using DateFormatter in Swift
+Working with different date formats using DateFormatter in Swift
+Formatting dates with different precision (e.g., day, month, year) using DateFormatter in Swift
+Parsing dates from user input with flexible formatting options using DateFormatter in Swift
+Displaying lunar dates using DateFormatter in Swift
+Working with fractions of seconds using DateFormatter in Swift
+Displaying dates with ordinal indicators (e.g., 1st, 2nd, 3rd) using DateFormatter in Swift
+Formatting dates with AM/PM time designation using DateFormatter in Swift
+Displaying dates with abbreviated or full month and weekday names using DateFormatter in Swift
+Formatting dates with different time styles (e.g., short, medium, long) using DateFormatter in Swift
+Displaying dates with abbreviated or full timezone names using DateFormatter in Swift
+Formatting relative time intervals using DateFormatter in Swift
+Using DateFormatter to display dates in a calendar view in Swift
+Input validation and error handling with DateFormatter in Swift
+Displaying dates with different era styles (e.g., AD, BC) using DateFormatter in Swift
+Displaying countdown timers with hours, minutes, and seconds using DateFormatter in Swift
+Formatting and displaying dates with different number systems using DateFormatter in Swift
+Displaying dates with different time zone offsets using DateFormatter in Swift
+Working with different date styles and formats simultaneously using DateFormatter in Swift
+Displaying dates with ordinal indicators in different languages using DateFormatter in Swift
+Formatting and displaying dates with different time zones and DST (daylight saving time) rules using DateFormatter in Swift
+Parsing dates with varying precision and granularity using DateFormatter in Swift
+Displaying dates with different calendar era styles (e.g., Jimmu era in Japan) using DateFormatter in Swift
+Formatting and displaying dates with custom formatting patterns using DateFormatter in Swift
+Displaying dates with local time, UTC time, or specific time zone offsets using DateFormatter in Swift
+Handling leap years and non-existent dates using DateFormatter in Swift
+Displaying dates with different time intervals (e.g., seconds, minutes, hours) using DateFormatter in Swift
+Handling time zones with fractional offsets using DateFormatter in Swift
+Formatting and displaying dates using the ISO week date system with DateFormatter in Swift
+Displaying dates with abbreviated or full quarter names using DateFormatter in Swift
+Handling dates with non-standard calendar systems (e.g., Chinese calendar) using DateFormatter in Swift
+Displaying dates using alternate formatting styles for different locales using DateFormatter in Swift
+Handling dates formatted with different separators using DateFormatter in Swift
+Formatting and displaying dates with elapsed time since a specific event using DateFormatter in Swift
+Displaying dates with different time zone abbreviations using DateFormatter in Swift
+Formatting and displaying dates with custom time zones using DateFormatter in Swift
+Displaying dates with abbreviated or full week of year numbers using DateFormatter in Swift
+Handling dates with irregular intervals (e.g., every 10 days) using DateFormatter in Swift
+Formatting and displaying dates with hours, minutes, and seconds using DateFormatter in Swift
+Displaying dates with abbreviated or full month and year values using DateFormatter in Swift
+Customizing date string output for different locales using DateFormatter in Swift
+Formatting and displaying dates with different time zone offsets and DST rules using DateFormatter in Swift
+Displaying dates with abbreviated or full weekday values using DateFormatter in Swift
+Formatting and displaying dates with different time intervals and granularities using DateFormatter in Swift
+Handling dates with different locale specifications using DateFormatter in Swift
+Displaying dates with abbreviated or full day and month names using DateFormatter in Swift
+Formatting and displaying dates with different date and time separators using DateFormatter in Swift
+Displaying dates with ordinal indicators in different languages and locale variants using DateFormatter in Swift
+Handling dates with variable time zone offsets using DateFormatter in Swift
+Formatting and displaying dates with different era and year representations using DateFormatter in Swift
+Displaying dates with different time zone abbreviations and DST rules using DateFormatter in Swift
+Customizing date formatting for different locales and time zone rules using DateFormatter in Swift
+Formatting and displaying dates with different time zone and hour format preferences using DateFormatter in Swift
+Displaying dates with abbreviated or full month and day names using DateFormatter in Swift
+Handling dates with varying precision and granularity in different time zones using DateFormatter in Swift
+Formatting and displaying dates with different time zone and DST rule considerations using DateFormatter in Swift
+Displaying dates with abbreviated or full month and year values in different languages using DateFormatter in Swift
+Customizing date representation and output for different calendar systems using DateFormatter in Swift
+Formatting and displaying dates with different time zone offsets and DST rules in different locales using DateFormatter in Swift
+Handling dates with different locale preferences in different time zones using DateFormatter in Swift
+Displaying dates with abbreviated or full weekday values in different languages using DateFormatter in Swift
+Formatting and displaying dates with different date and time separators in different languages using DateFormatter in Swift
+Handling dates with non-standard calendar systems and irregular intervals using DateFormatter in Swift
+Formatting and displaying dates with different era and year representations in different languages using DateFormatter in Swift
+Displaying dates with different time zone abbreviations and DST rules in different locales using DateFormatter in Swift
+Customizing date formatting for different locales, time zone rules, and time zone formats using DateFormatter in Swift
+Formatting and displaying dates with different time zone and hour format preferences in different languages using DateFormatter in Swift
+Displaying dates with abbreviated or full month and day names in different languages and locales using DateFormatter in Swift
+Handling dates with varying precision and granularity in different time zones and locales using DateFormatter in Swift
+Formatting and displaying dates with different time zone and DST rule considerations in different languages using DateFormatter in Swift
+Displaying dates with abbreviated or full month and year values in different languages and locales using DateFormatter in Swift
+Customizing date representation and output for different calendar systems, time zone rules, and time zone formats using DateFormatter in Swift
+Formatting and displaying dates with different time zone offsets and DST rules in different locales and languages using DateFormatter in Swift
+Handling dates with different locale preferences in different time zones and locales using DateFormatter in Swift
+Displaying dates with abbreviated or full weekday values in different languages and locales using DateFormatter in Swift
+Formatting and displaying dates with different date and time separators in different languages and locales using DateFormatter in Swift
+Handling dates with non-standard calendar systems, irregular intervals, and alternate month and day names using DateFormatter in Swift
+Formatting and displaying dates with different era and year representations in different languages, locales, and calendar systems using DateFormatter in Swift
+Displaying dates with different time zone abbreviations and DST rules in different languages and locales with custom formatting preferences using DateFormatter in Swift
+Customizing date formatting for different locales, time zone rules, time zone formats, and date separators using DateFormatter in Swift
+Formatting and displaying dates with different time zone and hour format preferences in different languages and locales with custom formatting patterns using DateFormatter in Swift
+Displaying dates with abbreviated or full month and day names in different languages and locales with varying precision and granularity and alternate formatting styles using DateFormatter in Swift

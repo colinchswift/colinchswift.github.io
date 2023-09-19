@@ -1,0 +1,100 @@
+Introduction to Swift Localized Strings
+Importance of Localizing Strings in Swift
+How to Create Localized Strings in Swift
+Using NSLocalizedString in Swift for Localization
+Localizing Strings with NSLocalizedFormatString in Swift
+Best Practices for Localizing Strings in Swift
+Localizing Strings with Variables in Swift
+Localizing Plurals in Swift
+Localizing Gender-Dependent Strings in Swift
+Handling Right-to-Left (RTL) Languages in Swift Localized Strings
+Localizing Date and Time Format in Swift
+Localizing Number and Currency Format in Swift
+Localizing Images and Icons in Swift
+Localizing Button Titles in Swift
+Localizing Error Messages in Swift
+Localizing Alerts and Notifications in Swift
+Localizing Help and Support Text in Swift
+Localizing App Store Metadata in Swift
+Testing and Debugging Swift Localized Strings
+Handling Missing Translations in Swift Localized Strings
+Updating Localized Strings in Swift
+Supporting Multiple Language Preferences in Swift
+Localizing Strings for Different Regions or Countries in Swift
+Using Third-Party Libraries for Localization in Swift
+Localizing String Constants in Swift
+Best Practices for Organizing Localized String Files in Swift
+Localizing Strings in Storyboards and XIBs in Swift
+Localizing Strings in SwiftUI in Swift
+Localizing Strings in Programmatically Created UI in Swift
+Localizing Strings in NSAttributedString in Swift
+Localizing Strings for Accessibility in Swift
+Localizing Strings for VoiceOver and Screen Recognition in Swift
+Using External Translation Services for Swift Localized Strings
+Localizing Strings in Codable Objects in Swift
+Localizing Strings for Dynamic Content in Swift
+Localizing Strings for Dynamic Fonts in Swift
+Localizing Strings for Dynamic Themes in Swift
+Localizing Strings for Dynamic Content Size in Swift
+Localizing Strings for Today's Extensions in Swift
+Localizing Strings for WatchKit Extensions in Swift
+Localizing Strings for Siri Shortcuts in Swift
+Localizing Strings for WidgetKit Extensions in Swift
+Localizing Strings for CloudKit Extensions in Swift
+Localizing Strings for Core Data in Swift
+Localizing Strings for MapKit in Swift
+Localizing Strings for HealthKit in Swift
+Localizing Strings for HomeKit in Swift
+Localizing Strings for ARKit in Swift
+Localizing Strings for Core ML in Swift
+Localizing Strings for Core Animation in Swift
+Localizing Strings for Core Location in Swift
+Localizing Strings for Core Image in Swift
+Localizing Strings for Core Bluetooth in Swift
+Localizing Strings for Core Data in Swift
+Localizing Strings for Core NFC in Swift
+Localizing Strings for Core Spotlight in Swift
+Localizing Strings for Core Motion in Swift
+Localizing Strings for Core Telephony in Swift
+Localizing Strings for Core Image in Swift
+Localizing Strings for Core Graphics in Swift
+Localizing Strings for Core Video in Swift
+Localizing Strings for Core Audio in Swift
+Localizing Strings for Core AudioKit in Swift
+Localizing Strings for Core Haptics in Swift
+Localizing Strings for Core Foundation in Swift
+Localizing Strings for Core ML in Swift
+Localizing Strings for Core NFC in Swift
+Localizing Strings for Core Spotlight in Swift
+Localizing Strings for Core Media in Swift
+Localizing Strings for CloudKit in Swift
+Localizing Strings for Core Media in Swift
+Localizing Strings for Core Video in Swift
+Localizing Strings for SceneKit in Swift
+Localizing Strings for StoreKit in Swift
+Localizing Strings for SpriteKit in Swift
+Localizing Strings for ClassKit in Swift
+Localizing Strings for Core Text in Swift
+Localizing Strings for Core Animation in Swift
+Localizing Strings for Core Graphics in Swift
+Localizing Strings for Core Location in Swift
+Localizing Strings for CoreBluetooth in Swift
+Localizing Strings for UIKit in Swift
+Localizing Strings for SafariServices in Swift
+Localizing Strings for Photos in Swift
+Localizing Strings for AVFoundation in Swift
+Localizing Strings for Core Image in Swift
+Localizing Strings for Core Audio in Swift
+Localizing Strings for Core AudioKit in Swift
+Localizing Strings for Core Haptics in Swift
+Localizing Strings for Core Foundation in Swift
+Localizing Strings for Core ML in Swift
+Localizing Strings for Core NFC in Swift
+Localizing Strings for Core Spotlight in Swift
+Localizing Strings for Core Media in Swift
+Localizing Strings for CloudKit in Swift
+Localizing Strings for Core Media in Swift
+Localizing Strings for Core Video in Swift
+Localizing Strings for SceneKit in Swift
+Localizing Strings for StoreKit in Swift
+Localizing Strings for SpriteKit in Swift

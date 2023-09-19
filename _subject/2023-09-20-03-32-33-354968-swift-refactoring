@@ -1,0 +1,100 @@
+Introduction to Swift refactoring
+Basics of code refactoring in Swift
+Benefits of using Swift refactoring
+Common mistakes to avoid while refactoring Swift code
+Strategies for successful Swift refactoring
+Tools and techniques for Swift refactoring
+When to consider refactoring Swift code
+Understanding code smells in Swift and how to refactor them
+Refactoring complex Swift classes
+Refactoring singletons and static classes in Swift
+Refactoring nested functions in Swift
+Refactoring switch statements in Swift
+Extracting methods and functions during Swift refactoring
+Inline methods and functions during Swift refactoring
+Refactoring Swift closures
+Refactoring nested ifs in Swift
+Extracting variables during Swift refactoring
+Removing unnecessary code during Swift refactoring
+Refactoring Swift extensions
+Refactoring Swift data structures and models
+Improving code readability during Swift refactoring
+Minimizing code duplication during Swift refactoring
+Refactoring error handling in Swift
+Simplifying conditionals during Swift refactoring
+Refactoring Swift network requests and APIs
+Making code more testable during Swift refactoring
+Refactoring UIKit code in Swift
+Upgrading Swift syntax during refactoring
+Refactoring Swift view controllers and UI code
+Improving performance during Swift refactoring
+Refactoring Swift notification handling
+Streamlining Swift concurrency code during refactoring
+Refactoring Swift protocol implementations
+Refactoring Swift navigation and routing code
+Converting Swift sync code to async during refactoring
+Refactoring Swift dependency injection
+Refactoring Swift optionals and unwrapping
+Refactoring Swift enums and associated values
+Simplifying data validation during Swift refactoring
+Reorganizing class hierarchies during Swift refactoring
+Refactoring Swift error messages and logging
+Refactoring Swift asynchronous code
+Refactoring Swift unit tests
+Refactoring Swift data persistence and storage
+Refactoring Swift user input handling
+Removing deprecated code during Swift refactoring
+Refactoring Swift app architecture
+Refactoring Swift animation code
+Streamlining Swift error handling and recovery
+Refactoring Swift concurrency models
+Refactoring Swift data processing and manipulation
+Refactoring Swift code for better memory management
+Improving naming conventions during Swift refactoring
+Refactoring Swift code for better code organization
+Refactoring Swift code for modularity and reusability
+Refactoring Swift code for better error handling
+Refactoring Swift code for better error reporting
+Refactoring Swift code for better performance optimization
+Refactoring Swift code for better readability and maintainability
+Refactoring Swift code for better scalability
+Refactoring Swift code for better testability
+Refactoring Swift code for better usability
+Refactoring Swift code for improved code review process
+Refactoring Swift code for improved debuggability
+Refactoring Swift code for improved efficiency
+Refactoring Swift code for improved performance
+Refactoring Swift code for improved security
+Refactoring Swift code for improved user experience
+Refactoring Swift code for improved error handling
+Refactoring Swift code for improved error recovery
+Refactoring Swift code for improved code maintainability
+Refactoring Swift code for improved code reuse
+Refactoring Swift code for improved code quality
+Refactoring Swift code for improved code readability
+Refactoring Swift code for improved code modularity
+Refactoring Swift code for improved code organization
+Refactoring Swift code for improved code structure
+Refactoring Swift code for improved code performance
+Refactoring Swift code for improved code optimization
+Refactoring Swift code for improved code debugging
+Refactoring Swift code for improved code efficiency
+Refactoring Swift code for improved code scalability
+Refactoring Swift code for improved code testability
+Refactoring Swift code for improved code usability
+Refactoring Swift code for improved code maintainability
+Refactoring Swift code for improved code review process
+Refactoring Swift code for improved code debuggability
+Refactoring Swift code for improved code efficiency
+Refactoring Swift code for improved code performance
+Refactoring Swift code for improved code scalability
+Refactoring Swift code for improved code security
+Refactoring Swift code for improved code user experience
+Refactoring Swift code for improved code error handling
+Refactoring Swift code for improved code error recovery
+Refactoring Swift code for improved code maintainability
+Refactoring Swift code for improved code reuse
+Refactoring Swift code for improved code quality
+Refactoring Swift code for improved code readability
+Refactoring Swift code for improved code modularity
+Refactoring Swift code for improved code organization

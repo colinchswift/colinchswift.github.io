@@ -1,0 +1,100 @@
+What is Swift ARC?
+How does Swift ARC work?
+Advantages of using Swift ARC.
+Drawbacks of using Swift ARC.
+ARC vs. manual memory management in Swift.
+How to enable ARC in a Swift project.
+What are strong references in Swift ARC?
+What are weak references in Swift ARC?
+What are unowned references in Swift ARC?
+Difference between weak and unowned references in Swift ARC.
+How to break reference cycles in Swift ARC.
+What is the retain count in Swift ARC?
+How does Swift handle cyclic references?
+How to create weak references in Swift ARC.
+How to create unowned references in Swift ARC.
+How to deallocate memory in Swift ARC.
+Working with closures and Swift ARC.
+How to use weak self in closures to avoid reference cycles.
+Strong reference cycles and memory leaks in Swift ARC.
+Capture lists in Swift ARC.
+How to use [weak self] in a capture list.
+How to use [unowned self] in a capture list.
+Automatic Reference Counting vs. Garbage Collection.
+Swift ARC threading and concurrency considerations.
+The autoreleasepool in Swift ARC.
+How to use objects across multiple threads with Swift ARC.
+Conditional weak references in Swift ARC.
+How to use weak var in Swift ARC.
+How to use weak in Swift ARC closure parameters.
+How to use unowned in Swift ARC closure parameters.
+How to use capture lists in Swift ARC closure parameters.
+Ownership in Swift ARC.
+How to extend the lifetime of an object in Swift ARC.
+How to assign weak references in Swift ARC.
+How to avoid reference cycles with delegates in Swift ARC.
+Differences between strong and weak delegates in Swift ARC.
+How to use weak self in Swift ARC delegates.
+Using weak self vs. unowned self in Swift ARC closures.
+How to use unowned(unsafe) in Swift ARC.
+How to use unowned(safe) in Swift ARC.
+Class hierarchies and Swift ARC.
+How to use strong references in class hierarchies with Swift ARC.
+How to use weak references in class hierarchies with Swift ARC.
+Memory management for singleton classes in Swift ARC.
+Techniques for optimizing memory usage with Swift ARC.
+Swift ARC and reference counting performance considerations.
+Accessing weak references in Swift ARC.
+How to debug reference cycles in Swift ARC.
+How to check if a weak reference is nil in Swift ARC.
+Swift ARC best practices.
+Memory management patterns in Swift ARC.
+How to use weak references in notifications with Swift ARC.
+How to use weak references in closures with Swift ARC.
+How to use autoreleasepools in Swift ARC.
+Working with Objective-C code and Swift ARC.
+Differences in memory management between Swift ARC and Objective-C ARC.
+Swift ARC and reference counting interaction with Core Foundation objects.
+How to use unowned in lazy properties with Swift ARC.
+Using weak self vs. unowned self in Swift ARC blocks.
+Swift ARC and memory management in multi-threaded environments.
+How to deallocate objects with Swift ARC in real-time applications.
+How to use unowned references in computed properties with Swift ARC.
+Working with closures and weak self capture in Swift ARC.
+How to use weak captures in Swift ARC closures.
+How to use unowned captures in Swift ARC closures.
+Differences between weak and unowned captures in Swift ARC closures.
+Swift ARC and memory management in SwiftUI.
+How to use weak captures in SwiftUI closures with Swift ARC.
+How to use unowned captures in SwiftUI closures with Swift ARC.
+Swift ARC and memory management in UIKit.
+Differences in memory management between Swift ARC and Core Data.
+How to avoid memory leaks in Swift ARC when using delegates.
+Swift ARC and memory management in Combine.
+Best practices for using weak references in Combine with Swift ARC.
+How to use weak self in Combine closures with Swift ARC.
+How to use unowned self in Combine closures with Swift ARC.
+How to use weak captures in Combine closures with Swift ARC.
+How to use unowned captures in Combine closures with Swift ARC.
+How to use weak references in SwiftUI properties with Swift ARC.
+How to deallocate SwiftUI objects with Swift ARC.
+How to use weak self in SwiftUI closures with Swift ARC.
+Differences in memory management between Swift ARC and RxSwift.
+Best practices for using weak references in RxSwift with Swift ARC.
+How to use weak self in RxSwift closures with Swift ARC.
+How to use unowned self in RxSwift closures with Swift ARC.
+How to use weak captures in RxSwift closures with Swift ARC.
+How to use unowned captures in RxSwift closures with Swift ARC.
+Swift ARC and memory management in watchOS applications.
+How to use weak references in watchOS closures with Swift ARC.
+How to use unowned references in watchOS closures with Swift ARC.
+Swift ARC and memory management in tvOS applications.
+How to use weak references in tvOS closures with Swift ARC.
+How to use unowned references in tvOS closures with Swift ARC.
+Swift ARC and memory management in macOS applications.
+How to use weak references in macOS closures with Swift ARC.
+How to use unowned references in macOS closures with Swift ARC.
+Swift ARC and memory management in server-side Swift.
+Best practices for using weak references in server-side Swift with Swift ARC.
+How to use weak self in server-side Swift closures with Swift ARC.
+How to use unowned self in server-side Swift closures with Swift ARC.

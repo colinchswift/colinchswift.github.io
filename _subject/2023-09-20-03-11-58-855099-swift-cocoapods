@@ -1,0 +1,100 @@
+Introduction to CocoaPods for Swift
+Setting up CocoaPods in a Swift project
+Installing CocoaPods on macOS
+Installing CocoaPods on Windows for Swift
+Adding a CocoaPod to a Swift project
+Updating CocoaPods in a Swift project
+Removing a CocoaPod from a Swift project
+Using CocoaPods in a SwiftUI project
+Using CocoaPods in a UIKit project
+Using CocoaPods in a SpriteKit project
+Common CocoaPods commands for Swift projects
+Creating a Podfile for a Swift project
+Specifying pod dependencies in a Podfile for Swift
+Using a specific version of a CocoaPod in a Swift project
+Integrating Firebase with CocoaPods in Swift
+Integrating Alamofire with CocoaPods in Swift
+Integrating Kingfisher with CocoaPods in Swift
+Integrating SwiftyJSON with CocoaPods in Swift
+Integrating Realm with CocoaPods in Swift
+Integrating AlamofireImage with CocoaPods in Swift
+Integrating SnapKit with CocoaPods in Swift
+Integrating SVProgressHUD with CocoaPods in Swift
+Integrating IQKeyboardManager with CocoaPods in Swift
+Integrating CryptoSwift with CocoaPods in Swift
+Integrating Moya with CocoaPods in Swift
+Integrating ObjectMapper with CocoaPods in Swift
+Using private pods in a Swift CocoaPods project
+Debugging CocoaPods installation issues in Swift projects
+Using subspecs in a Swift CocoaPods project
+Customizing the installation process for a CocoaPod in Swift
+Creating a private CocoaPod for Swift projects
+Using local dependencies in a Swift CocoaPods project
+Using post-install hooks in a Swift CocoaPods project
+Customizing the project structure with CocoaPods in Swift
+Using frameworks with CocoaPods in Swift
+Setting up a development environment for contributing to CocoaPods in Swift
+Verifying the integrity of CocoaPods in Swift projects
+Using plugins with CocoaPods in Swift
+Using pre-built frameworks with CocoaPods in Swift
+Understanding the Podfile.lock file in a Swift CocoaPods project
+Using dynamic frameworks with CocoaPods in Swift
+Setting up Cocoapods cache for faster installations in Swift projects
+Using nested dependencies in a Swift CocoaPods project
+Integrating SQLite.swift with CocoaPods in Swift
+Integrating Starscream with CocoaPods in Swift
+Integrating AlgoliaSearchClient with CocoaPods in Swift
+Integrating CoreData with CocoaPods in Swift
+Integrating Charts with CocoaPods in Swift
+Integrating CryptoTokenKit with CocoaPods in Swift
+Using test dependencies with CocoaPods in Swift projects
+Creating a modular architecture with CocoaPods in Swift
+Using different configuration files with CocoaPods in Swift
+Distributing a Swift CocoaPod publicly
+Integrating Quick/Nimble with CocoaPods in Swift
+Integrating RxSwift with CocoaPods in Swift
+Integrating SDWebImage with CocoaPods in Swift
+Integrating RealmSwift with CocoaPods in Swift
+Integrating Firebase/Firestore with CocoaPods in Swift
+Integrating ApolloGraphQL with CocoaPods in Swift
+Integrating GoogleSignIn with CocoaPods in Swift
+Integrating ObjectMapper+Realm with CocoaPods in Swift
+Integrating YPImagePicker with CocoaPods in Swift
+Integrating GoogleMobileAds with CocoaPods in Swift
+Integrating FBSDKCoreKit with CocoaPods in Swift
+Integrating Firebase/Analytics with CocoaPods in Swift
+Integrating GTMSessionFetcher with CocoaPods in Swift
+Integrating Braintree with CocoaPods in Swift
+Integrating Firebase/Crashlytics with CocoaPods in Swift
+Integrating Firebase/Authentication with CocoaPods in Swift
+Integrating GoogleMapsUtils with CocoaPods in Swift
+Integrating Firebase/RemoteConfig with CocoaPods in Swift
+Integrating DynamicBlurView with CocoaPods in Swift
+Integrating Firebase/Performance with CocoaPods in Swift
+Integrating Firebase/Messaging with CocoaPods in Swift
+Integrating AlgoliaPlaces with CocoaPods in Swift
+Integrating AloeStackView with CocoaPods in Swift
+Integrating GooglePlacePicker with CocoaPods in Swift
+Integrating PeekPop with CocoaPods in Swift
+Integrating Firebase/MachineLearning with CocoaPods in Swift
+Integrating Firebase/MLVision with CocoaPods in Swift
+Integrating Firebase/InAppMessaging with CocoaPods in Swift
+Integrating Firebase/DynamicLinks with CocoaPods in Swift
+Integrating Firebase/DynamicLinksSwift with CocoaPods in Swift
+Integrating Apollo/Codegen with CocoaPods in Swift
+Integrating GooglePlaces with CocoaPods in Swift
+Integrating SwiftLint with CocoaPods in Swift
+Integrating GoogleSignIn/GoogleSignIn with CocoaPods in Swift
+Integrating GooglePlaces/Picker with CocoaPods in Swift
+Integrating Kingfisher-Color with CocoaPods in Swift
+Integrating Firebase/Auth with CocoaPods in Swift
+Integrating Firebase/RealTimeDatabase with CocoaPods in Swift
+Integrating Firebase/CloudFirestore with CocoaPods in Swift
+Integrating FirebaseAuthSwift with CocoaPods in Swift
+Integrating GoogleSignIn/Swift with CocoaPods in Swift
+Integrating Parse with CocoaPods in Swift
+Integrating GoogleMaps with CocoaPods in Swift
+Integrating GoogleMaps/Maps with CocoaPods in Swift
+Integrating GooglePlaces/AutocompleteFull with CocoaPods in Swift
+Integrating SwiftMessages with CocoaPods in Swift
+Integrating Fabric/Crashlytics with CocoaPods in Swift

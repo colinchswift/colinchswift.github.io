@@ -1,0 +1,100 @@
+Introduction to Core Image framework in Swift
+Overview of image processing using Core Image in Swift
+Applying filters to images using Core Image in Swift
+Using Core Image to crop and resize images in Swift
+Introduction to CIFilter class in Core Image framework in Swift
+Applying color effects to images using CIFilter in Swift
+Using CIFilter to adjust brightness and contrast of images in Swift
+Applying blur and sharpen effects to images using CIFilter in Swift
+Using CIFilter to add vignette and noise effects to images in Swift
+Introduction to CIColorKernel and CIKernel classes in Core Image framework in Swift
+Creating custom filters using CIColorKernel in Swift
+Creating custom filters using CIKernel in Swift
+Using Core Image to detect and recognize facial features in images in Swift
+Introduction to CIDetector class in Core Image framework in Swift
+Using CIDetector to detect faces in images in Swift
+Using CIDetector to detect eyes and mouths in images in Swift
+Using CIDetector to detect smiles in images in Swift
+Using Core Image to perform image alignment and registration in Swift
+Introduction to CIContext class in Core Image framework in Swift
+Using CIContext to render images and apply filters in Swift
+Introduction to CIColorSpace and CGColorSpace classes in Core Image framework in Swift
+Understanding color spaces in Core Image and Swift
+Converting images between different color spaces using Core Image in Swift
+Introduction to CIVector class in Core Image framework in Swift
+Using CIVector to specify coordinates and dimensions in Core Image in Swift
+Introduction to CIImage class in Core Image framework in Swift
+Creating CIImage from various sources in Swift
+Processing video frames using Core Image in Swift
+Using Core Image to apply filters to live camera feed in Swift
+Introduction to CIFeature class in Core Image framework in Swift
+Using CIFeature to detect QR codes in images in Swift
+Using CIFeature to detect barcodes in images in Swift
+Introduction to CICategory class in Core Image framework in Swift
+Overview of different categories of filters in Core Image in Swift
+Introduction to CIAttributes and CIAttribute constants in Core Image framework in Swift
+Understanding filter attributes in Core Image and Swift
+Accessing and modifying filter attributes in Swift
+Introduction to Core Image kernels in Swift
+Understanding the concept of image convolution in Core Image and Swift
+Creating custom convolution filters using Core Image kernels in Swift
+Introduction to CIBlendKernel class in Core Image framework in Swift
+Using CIBlendKernel to create custom image blending filters in Swift
+Introduction to CISampler class in Core Image framework in Swift
+Using CISampler to sample and access image data in Core Image in Swift
+Introduction to CIFilterGenerator class in Core Image framework in Swift
+Creating custom filters using CIFilterGenerator in Swift
+Introduction to CIImageProvider protocol in Core Image framework in Swift
+Implementing custom image providers in Swift
+Introduction to CIImageAccumulator class in Core Image framework in Swift
+Using CIImageAccumulator for high-quality image accumulation in Swift
+Introduction to CIVideoRange and CIWhitePoint constants in Core Image framework in Swift
+Understanding video range and white point adjustment in Core Image and Swift
+Using Core Image to perform white balance adjustment on images in Swift
+Introduction to CISpotColorFilter class in Core Image framework in Swift
+Using CISpotColorFilter to apply spot color effects to images in Swift
+Introduction to CIReductionFilter class in Core Image framework in Swift
+Using CIReductionFilter to reduce noise in images in Swift
+Using Core Image to perform chroma keying and green screen effects in Swift
+Introduction to CIEdgePreserveUpsample and CIDisparityToDepth classes in Core Image framework in Swift
+Using Core Image for depth-based image effects in Swift
+Introduction to CIBlurFilter class in Core Image framework in Swift
+Using CIBlurFilter for various blur effects in Swift
+Introduction to CIColorInvert and CIColorMonochrome classes in Core Image framework in Swift
+Using Core Image to invert and convert images to monochrome in Swift
+Introduction to CIDocument class in Core Image framework in Swift
+Creating and managing Core Image documents in Swift
+Introduction to CIImageAsset class in Core Image framework in Swift
+Using CIImageAsset for asset management in Core Image in Swift
+Introduction to CIImageMosaic and CIImageRipple classes in Core Image framework in Swift
+Using Core Image to create mosaic and ripple effects in Swift
+Introduction to CIFaceFeature class in Core Image framework in Swift
+Using CIFaceFeature to detect facial landmarks in images in Swift
+Introduction to CIStraightenFilter and CIVortexDistortion classes in Core Image framework in Swift
+Using Core Image to straighten and distort images in Swift
+Introduction to CIRectangleFeature class in Core Image framework in Swift
+Using CIRectangleFeature to detect rectangles in images in Swift
+Introduction to CITorchLight and CILightTunnel classes in Core Image framework in Swift
+Using Core Image to create torch light and light tunnel effects in Swift
+Introduction to CIExposureAdjust and CIColorPosterize classes in Core Image framework in Swift
+Using Core Image to adjust exposure and create posterized effects in Swift
+Introduction to CIRadialGradient and CIGaussianGradient classes in Core Image framework in Swift
+Using Core Image to create radial and Gaussian gradients in Swift
+Introduction to CISharpenLuminance and CIUnsharpMask classes in Core Image framework in Swift
+Using Core Image to sharpen and enhance image details in Swift
+Introduction to CIEllipseFeature and CITextFeature classes in Core Image framework in Swift
+Using Core Image to detect ellipses and text in images in Swift
+Introduction to CIPolarity and CIDiscBlur classes in Core Image framework in Swift
+Using Core Image to create polarity and disc blur effects in Swift
+Introduction to CIStarShineGenerator and CIPixellate classes in Core Image framework in Swift
+Using Core Image to create star shine and pixelated effects in Swift
+Introduction to CIConstantColorGenerator class in Core Image framework in Swift
+Using CIConstantColorGenerator to generate images with constant color in Swift
+Introduction to CIMedianFilter and CILineScreen classes in Core Image framework in Swift
+Using Core Image to perform median filtering and line screening in Swift
+Introduction to CIBumpDistortion and CIDepthOfField classes in Core Image framework in Swift
+Using Core Image to create bump distortion and depth of field effects in Swift
+Introduction to CIComicEffect and CIHoleDistortion classes in Core Image framework in Swift
+Using Core Image to create comic book and hole distortion effects in Swift
+Introduction to CIClamp and CIErode classes in Core Image framework in Swift
+Using Core Image to clamp and erode image data in Swift

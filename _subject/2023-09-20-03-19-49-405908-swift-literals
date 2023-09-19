@@ -1,0 +1,100 @@
+String literals in Swift
+Integer literals in Swift
+Floating-point literals in Swift
+Boolean literals in Swift
+Character literals in Swift
+Array literals in Swift
+Dictionary literals in Swift
+Set literals in Swift
+Tuple literals in Swift
+Range literals in Swift
+Nil literals in Swift
+Type literals in Swift
+Expressing color literals in Swift
+Expressing date literals in Swift
+Expressing time literals in Swift
+Expressing regular expression literals in Swift
+Expressing URL literals in Swift
+Expressing number literals with a radix in Swift
+Expressing binary literals in Swift
+Expressing hexadecimal literals in Swift
+Expressing octal literals in Swift
+Expressing Unicode literals in Swift
+Expressing emoji literals in Swift
+Expressing Unicode scalar literals in Swift
+Expressing character literals with escape sequences in Swift
+Expressing multiline string literals in Swift
+Expressing interpolated string literals in Swift
+Using string literals as keys in Swift dictionary literals
+Initializing default values with literals in Swift
+Using literals to create collections in Swift
+Using literals to create optionals in Swift
+Using literals to set default values for function parameters in Swift
+Using literals to initialize structs in Swift
+Using literals to initialize enums in Swift
+Using array literals to initialize arrays with variable number of elements in Swift
+Using dictionary literals to initialize dictionaries with variable number of elements in Swift
+Using set literals to initialize sets with variable number of elements in Swift
+Using tuple literals to assign multiple variables in Swift
+Using literals to initialize objects in Swift
+Using literals to set default values for class properties in Swift
+Customizing literals using raw value initializers in Swift
+Using literals to initialize option sets in Swift
+Using literals to initialize URL objects in Swift
+Using literals to set default values in user interface design in Swift
+Using literals to set default values in data models in Swift
+Using literals to set default values in API responses in Swift
+Using literals to set default values in network requests in Swift
+Using literals to set default values in error handling in Swift
+Using literals to set default values in unit tests in Swift
+Using literals to define constants in Swift
+Using literals for testing purposes in Swift
+Defining custom literals in Swift
+Using date literals to set default values for timestamps in Swift
+Using time literals to set default values for time-related calculations in Swift
+Using literals for dependency injection in Swift
+Using literals to set default values for app configuration in Swift
+Using literals to define default colors in Swift
+Using literals to define default fonts in Swift
+Using literals to define default text styles in Swift
+Using literals to define default image assets in Swift
+Using literals to define default animation assets in Swift
+Using literals for localization in Swift
+Using literals to set default values for user preferences in Swift
+Using literals to define default audio assets in Swift
+Using literals to set default values for network communication in Swift
+Using literals to define default video assets in Swift
+Using literals to set default values for user access control in Swift
+Using literals to define default table view cell prototypes in Swift
+Using literals to set default values for animation timings in Swift
+Using literals for mocking objects in unit tests in Swift
+Using literals to define default file paths in Swift
+Using literals to set default values for caching in Swift
+Using literals to define default gesture recognizers in Swift
+Using literals to set default values for encryption in Swift
+Using literals to define default navigation flows in Swift
+Using literals to set default values for notifications in Swift
+Using literals to define default button styles in Swift
+Using literals for conditional statements in Swift
+Using literals to set default values for location services in Swift
+Using literals to define default audio playback settings in Swift
+Using literals to set default values for push notifications in Swift
+Using literals to define default view controller transitions in Swift
+Using literals to set default values for encryption keys in Swift
+Using literals to define default UI components in Swift
+Using literals to set default values for network timeouts in Swift
+Using literals to define default animation curves in Swift
+Using literals to set default values for app state persistence in Swift
+Using literals to define default colors for theming in Swift
+Using literals to set default values for push notification payloads in Swift
+Using literals to define default table view cell heights in Swift
+Using literals to set default values for image compression in Swift
+Using literals to define default text styles for localization in Swift
+Using literals to set default values for caching strategies in Swift
+Using literals to define default audio playback modes in Swift
+Using literals to set default values for encryption algorithms in Swift
+Using literals to define default navigation styles in Swift
+Using literals to set default values for notification categories in Swift
+Using literals to define default button sizes in Swift
+Using literals to set default values for location accuracy in Swift
+Using literals to define default in-app purchase products in Swift

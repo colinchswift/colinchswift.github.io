@@ -1,0 +1,100 @@
+If statements in Swift
+Switch statements in Swift
+For loops in Swift
+While loops in Swift
+Repeat-while loops in Swift
+Break statements in Swift
+Continue statements in Swift
+Early exit with guard statements in Swift
+Fallthrough in Swift switch statements
+Pattern matching in Swift switch statements
+Optional binding in Swift
+Multiple conditionals in if statements in Swift
+Compound conditions in if statements in Swift
+Nested if statements in Swift
+Using ranges in for loops in Swift
+Modifying loop behavior with stride in Swift
+Enumerating arrays with for-in loops in Swift
+Enumerating dictionaries with for-in loops in Swift
+Enumerating strings with for-in loops in Swift
+Using labeled statements in Swift
+Exiting multiple levels of loop with labeled statements in Swift
+Early exit with labeled guard statements in Swift
+Control transfer with return statements in Swift
+Control transfer with throw statements in Swift
+Control transfer with defer statements in Swift
+Exiting a function prematurely with fatalError() in Swift
+Using the fallthrough keyword in switch statements in Swift
+Matching against multiple values in switch statements in Swift
+Matching against ranges in switch statements in Swift
+Matching against tuples in switch statements in Swift
+Matching against type patterns in switch statements in Swift
+Matching against where clauses in switch statements in Swift
+Using the _ wildcard for default cases in switch statements in Swift
+Using expressions in case statements in switch statements in Swift
+Using value bindings in case statements in switch statements in Swift
+Using logical operators in conditional statements in Swift
+Combining conditions with logical AND (&&) in Swift
+Combining conditions with logical OR (||) in Swift
+Inverting conditions with logical NOT (!) in Swift
+Combining conditions with parentheses in Swift
+Short-circuit evaluation of logical operators in Swift
+Triggering an action when a condition is true in Swift
+Triggering an action when a condition is false in Swift
+Performing different actions based on multiple conditions in Swift
+Performing the same action based on multiple conditions in Swift
+Using if-else statements in Swift
+Using switch statements instead of if-else statements in Swift
+Using else-if statements in Swift
+Using guards in Swift to check conditions early
+Using break statements to exit a loop early in Swift
+Using continue statements to skip an iteration in a loop in Swift
+Using return statements to exit a function early in Swift
+Using throw statements to handle errors in Swift
+Using do-try-catch blocks to handle errors in Swift
+Using defer statements to execute code at the end of a function in Swift
+Using optional binding with if-let statements in Swift
+Using optional chaining to access nested properties in Swift
+Using nil coalescing operator to provide default values in Swift
+Using optional unwrapping with force-unwrap (!) operator in Swift
+Using for-each loops to iterate over an array in Swift
+Using enumerated() method to get index and value of array elements in Swift
+Using stride() method to iterate over a range with a specified increment in Swift
+Using where clause with for-in loops to filter elements in Swift
+Using case and if statements together in switch statements in Swift
+Using case and where clauses together in switch statements in Swift
+Using switch statements with enum cases in Swift
+Using switch statements with associated values in Swift
+Using switch statements with raw values in Swift
+Using switch statements with ranges of values in Swift
+Using switch statements with tuple patterns in Swift
+Using switch statements with type patterns in Swift
+Using switch statements with fallthrough to execute additional code in Swift
+Using switch statements with compound cases in Swift
+Using switch statements with wildcard (_) case in Swift
+Using switch statements with expressions in case clauses in Swift
+Using if statements with compound conditions using logical operators in Swift
+Using if statements with parentheses to group conditions in Swift
+Using if statements with multiple conditions separated by commas in Swift
+Using if statements with negation in Swift
+Using if-else statements with multiple conditions in Swift
+Using if-else statements with nested if blocks in Swift
+Using if-else-if statements with multiple conditions in Swift
+Using if-else-if statements with fallthrough to execute additional code in Swift
+Using if-else-if statements with compound conditions using logical operators in Swift
+Using if-else-if statements with short-circuit evaluation of logical operators in Swift
+Using guard statements with single condition in Swift
+Using guard statements with multiple conditions in Swift
+Using guard statements with let declarations in Swift
+Using guard statements with var declarations in Swift
+Using guard statements with optional binding in Swift
+Using guard statements with early exit in Swift
+Using break statements to exit multiple nested loops in Swift
+Using continue statements to skip iterations in nested loops in Swift
+Using return statements to exit multiple nested functions in Swift
+Using throw statements to propagate errors in nested functions in Swift
+Using defer statements to clean up resources in nested functions in Swift
+Using labeled statements to control transfer to specific loop or scope in Swift
+Using labeled statements with break statements in Swift
+Using labeled statements with continue statements in Swift
+Using labeled statements with return statements in Swift

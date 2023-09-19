@@ -1,0 +1,100 @@
+Introduction to Swift Package Manager
+Installation and setup of Swift Package Manager
+Creating a new Swift package
+Managing dependencies with Swift Package Manager
+Adding and updating dependencies in a Swift package
+Resolving dependency conflicts in Swift Package Manager
+Building and compiling a Swift package with Swift Package Manager
+Testing a Swift package with Swift Package Manager
+Publishing a Swift package on a package registry
+Using third-party packages with Swift Package Manager
+Working with package manifests in Swift Package Manager
+Understanding package versions and semantic versioning in Swift Package Manager
+Using package resources in a Swift package
+Creating executable targets in Swift Package Manager
+Using conditional compilation with Swift Package Manager
+Configuring build settings in Swift Package Manager
+Customizing the package layout with Swift Package Manager
+Organizing source code files in a Swift package
+Adding documentation to a Swift package with Swift Package Manager
+Adding tests and test resources to a Swift package
+Generating code coverage reports with Swift Package Manager
+Distributing a Swift package as a binary framework
+Debugging and troubleshooting in Swift Package Manager
+Integrating a Swift package with Xcode projects
+Creating a modular architecture with Swift Package Manager
+Creating a Swift package for iOS apps
+Creating a Swift package for macOS apps
+Creating a Swift package for watchOS apps
+Creating a Swift package for tvOS apps
+Creating a Swift package for command-line tools
+Creating a Swift package for server-side applications
+Creating a Swift package for web applications
+Creating a Swift package for cross-platform development
+Using Swift Package Manager with C libraries
+Using Swift Package Manager with Objective-C libraries
+Using Swift Package Manager with system libraries
+Using Swift Package Manager with Swift frameworks
+Using Swift Package Manager with Swift plugins
+Using Swift Package Manager with Swift modules
+Using Swift Package Manager with Swift libraries
+Using Swift Package Manager with Swift extensions
+Using Swift Package Manager with Swift scripts
+Using Swift Package Manager with Swift playgrounds
+Using Swift Package Manager with Swift REPL
+Using Swift Package Manager with Swift templates
+Using Swift Package Manager with Swift playground books
+Using Swift Package Manager with Swift frameworks in Objective-C projects
+Using Swift Package Manager with Swift frameworks in Swift projects
+Using Swift Package Manager with Swift frameworks in mixed-language projects
+Using Swift Package Manager with Swift frameworks in cross-platform projects
+Using Swift Package Manager with Swift frameworks in multi-target projects
+Understanding package caching in Swift Package Manager
+Understanding package resolution in Swift Package Manager
+Understanding package mirroring in Swift Package Manager
+Understanding package checksums in Swift Package Manager
+Understanding package versions in Swift Package Manager
+Understanding package dependencies in Swift Package Manager
+Understanding package targets in Swift Package Manager
+Understanding package products in Swift Package Manager
+Understanding package manifests in Swift Package Manager
+Understanding package build phases in Swift Package Manager
+Understanding package resources in Swift Package Manager
+Understanding package layouts in Swift Package Manager
+Understanding package architectures in Swift Package Manager
+Understanding package platforms and deployment targets in Swift Package Manager
+Understanding package environments in Swift Package Manager
+Understanding package settings in Swift Package Manager
+Understanding package schemes in Swift Package Manager
+Understanding package distributions in Swift Package Manager
+Understanding package documentation in Swift Package Manager
+Understanding package licensing in Swift Package Manager
+Understanding package maintenance in Swift Package Manager
+Understanding package metadata in Swift Package Manager
+Understanding package registries in Swift Package Manager
+Understanding package repositories in Swift Package Manager
+Understanding package tags in Swift Package Manager
+Understanding package releases in Swift Package Manager
+Understanding package owners and contributors in Swift Package Manager
+Understanding package collaboration in Swift Package Manager
+Understanding package security in Swift Package Manager
+Understanding package audits and vulnerabilities in Swift Package Manager
+Understanding package updates and migrations in Swift Package Manager
+Understanding package integration with continuous integration tools
+Understanding package integration with continuous deployment tools
+Understanding package integration with version control systems
+Understanding package integration with code review tools
+Understanding package integration with code quality tools
+Understanding package integration with code coverage tools
+Understanding package integration with documentation tools
+Understanding package integration with localization tools
+Understanding package integration with analytics tools
+Understanding package integration with crash reporting tools
+Understanding package integration with logging tools
+Understanding package integration with performance monitoring tools
+Understanding package integration with error tracking tools
+Understanding package integration with profiling tools
+Understanding package integration with debugging tools
+Understanding package integration with monitoring tools
+Understanding package integration with security testing tools
+Understanding package integration with load testing tools

@@ -1,0 +1,100 @@
+Naming conventions in Swift
+Use of camel case in Swift code
+Use of snake case in Swift code
+Capitalization rules for variables in Swift
+Capitalization rules for functions in Swift
+Capitalization rules for classes in Swift
+Proper indentation in Swift code
+Use of whitespace in Swift code
+Line length and breaking conventions in Swift
+Commenting style in Swift code
+Use of abbreviations in Swift code
+Use of acronyms in Swift code
+Best practices for naming constants in Swift
+Best practices for naming enums in Swift
+Best practices for naming properties in Swift
+Best practices for naming methods in Swift
+Best practices for naming classes in Swift
+Best practices for naming structures in Swift
+Best practices for naming protocols in Swift
+Best practices for naming closures in Swift
+Best practices for organizing code in Swift
+Preferred coding style for optional unwrapping in Swift
+Use of optionals vs. implicitly unwrapped optionals in Swift
+Use of force unwrapping in Swift code
+Best practices for error handling in Swift code
+Proper use of guard statements in Swift
+Best practices for if-else statements in Swift code
+Use of switch statements in Swift
+Use of for loops in Swift
+Use of while loops in Swift
+Best practices for code reuse in Swift
+Guidelines for structuring conditional logic in Swift
+Preferred way to handle nil values in Swift
+Use of map, filter, and reduce functions in Swift
+Best practices for type inference in Swift
+Use of protocols and protocol-oriented programming in Swift
+Best practices for working with optionals in Swift
+Recommended way to structure access control in Swift code
+Preferred way to format tuples in Swift
+Use of trailing closures in Swift
+Best practices for using whitespace in function declarations in Swift
+Guidelines for initializing properties in Swift
+Preferred style for NSArray, NSDictionary, and other Foundation types in Swift
+Best practices for using operators in Swift code
+Proper use of early returns in Swift functions
+Guidelines for formatting multi-line strings in Swift
+Preferred style for using function parameters in Swift code
+Best practices for handling exception handling in Swift
+Guidelines for organizing unit tests in Swift
+Preferred style for working with enums with associated values in Swift
+Best practices for working with extension methods in Swift
+Guidelines for working with Swift closures
+Preferred style for working with generics in Swift
+Best practices for working with import statements in Swift
+Proper use of access control modifiers in Swift
+Best practices for private vs. fileprivate in Swift
+Guidelines for class inheritance in Swift
+Preferred style for method chaining in Swift
+Best practices for code documentation in Swift
+Proper use of guard let vs if let in Swift
+Recommended way to handle multiple optional bindings in Swift
+Style guide for working with raw values in Swift enums
+Best practices for handling date and time formatting in Swift
+Preferred style for working with JSON data in Swift
+Guidelines for handling network requests in Swift
+Best practices for working with notifications in Swift
+Preferred way to structure error messages in Swift code
+Use of localization and internationalization in Swift code
+Proper use of constants vs static properties in Swift
+Guidelines for coding conventions in Swift playgrounds
+Best practices for using assertions in Swift code
+Preferred way to handle multi-threading in Swift applications
+Use of async/await in Swift code
+Best practices for managing memory and optimizing performance in Swift
+Recommended way to handle JSON parsing in Swift
+Preferred way to deal with view animations in Swift
+Use of method overloading in Swift
+Guidelines for working with didSet and willSet in Swift properties
+Best practices for working with breakpoints and debugging in Swift
+Proper use of @escaping closures in Swift
+Best practices for working with GCD (Grand Central Dispatch) in Swift
+Preferred style for handling UITableView and UICollectionView in Swift
+Use of guard-else statements in Swift
+Best practices for working with delegates in Swift
+Preferred style for handling keyboard events in Swift
+Guidelines for handling user input validation in Swift
+Use of lazy initialization in Swift code
+Best practices for working with Core Data in Swift
+Recommended way to handle file I/O in Swift
+Preferred style for working with image manipulation in Swift
+Guidelines for using SwiftUI in Swift applications
+Best practices for working with auto-layout in Swift
+Proper use of dependency injection in Swift code
+Use of protocol extensions in Swift
+Best practices for working with URL requests in Swift
+Preferred style for handling app permissions in Swift
+Guidelines for working with local databases in Swift
+Best practices for working with third-party libraries and frameworks in Swift
+Recommended way to handle view controller transitions in Swift
+Guidelines for working with Core Animation in Swift applications.

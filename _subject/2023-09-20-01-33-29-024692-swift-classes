@@ -1,0 +1,100 @@
+Introduction to Swift classes
+Properties in Swift classes
+Methods in Swift classes
+Initializers in Swift classes
+Instance variables in Swift classes
+Class variables in Swift classes
+Inheritance in Swift classes
+Overriding methods in Swift classes
+Access control in Swift classes
+Class methods in Swift classes
+Structs vs Classes in Swift
+Reference types vs Value types in Swift
+Designing class hierarchies in Swift
+Abstract classes in Swift
+Creating a singleton class in Swift
+Subclassing in Swift classes
+Superclass in Swift classes
+Working with class protocols in Swift
+Type casting in Swift classes
+Polymorphism in Swift classes
+Method overriding in Swift classes
+Class extensions in Swift
+Final classes in Swift
+Nested classes in Swift
+Error handling in Swift classes
+Copying objects in Swift classes
+Deinitializers in Swift classes
+Inheritance vs composition in Swift classes
+Initializing objects in Swift classes
+Working with optional properties in Swift classes
+Inheriting from multiple classes in Swift
+Working with lazy properties in Swift classes
+Class composition in Swift
+Multiple initializers in Swift classes
+Default property values in Swift classes
+working with computed properties in Swift classes
+Singleton objects in Swift classes
+Properties observers in Swift classes
+Type methods in Swift classes
+Dynamic dispatch in Swift classes
+Designated initializers in Swift classes
+Convenience initializers in Swift classes
+Inheriting properties in Swift classes
+Type constraints in Swift classes
+Automatic reference counting (ARC) in Swift classes
+Instance methods in Swift classes
+Type properties in Swift classes
+Memory management in Swift classes
+Value type properties in Swift classes
+Access levels in Swift classes
+Protocol-oriented programming in Swift classes
+Inheritance hierarchy in Swift classes
+Composition vs inheritance in Swift classes
+Method overloading in Swift classes
+Optional chaining in Swift classes
+Working with generics in Swift classes
+Protocol extensions in Swift classes
+Optional protocol methods in Swift classes
+Protocols as types in Swift classes
+Capturing values in Swift classes
+Escaping closures in Swift classes
+Delegates in Swift classes
+Factory methods in Swift classes
+Abstraction in Swift classes
+Working with value types in Swift classes
+Associated types in Swift classes
+Property wrappers in Swift classes
+Initializer chaining in Swift classes
+Type erasure in Swift classes
+Covariance and contravariance in Swift classes
+Escaping closures and memory leaks in Swift classes
+Access control for initializers in Swift classes
+Lazy initialization in Swift classes
+Class-based vs struct-based inheritance in Swift
+Protocol inheritance in Swift classes
+Swift class design patterns
+Dynamic dispatch vs static dispatch in Swift classes
+Unowned references in Swift classes
+Retaining and releasing objects in Swift classes
+Advanced debugging techniques for Swift classes
+Advanced error handling in Swift classes
+Customizing class behavior with extensions in Swift
+Reflection and introspection in Swift classes
+Method swizzling in Swift classes
+Customizing property access in Swift classes
+Debugging memory leaks in Swift classes
+Advanced class composition techniques in Swift
+Type-safe ways to work with Swift classes
+Implementing data structures with Swift classes
+Creating custom operators for Swift classes
+Memory management for class instances in Swift
+Advanced protocol-oriented programming in Swift classes
+Implementing design patterns with Swift classes
+Unit testing Swift classes
+Functional programming with Swift classes
+Advanced concurrency techniques with Swift classes
+Customizing class behavior with meta programming in Swift
+Implementing data persistence with Swift classes
+Debugging multithreaded Swift classes
+Advanced performance tuning for Swift classes.

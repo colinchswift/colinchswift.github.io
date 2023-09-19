@@ -1,0 +1,100 @@
+Introduction to functional programming in Swift
+Advantages of functional programming in Swift
+Basics of functional programming in Swift
+Difference between functional programming and imperative programming in Swift
+Pure functions in Swift
+Immutable data in Swift functional programming
+Higher-order functions in Swift
+Map function in Swift functional programming
+Filter function in Swift functional programming
+Reduce function in Swift functional programming
+FlatMap function in Swift functional programming
+Chaining functions in Swift functional programming
+Partial application and currying in Swift functional programming
+Composing functions in Swift functional programming
+Recursion in Swift functional programming
+Tail recursion optimization in Swift functional programming
+Memoization in Swift functional programming
+Reduction of side effects in Swift functional programming
+Function composition in Swift functional programming
+Optionals in Swift functional programming
+Handling errors in Swift functional programming
+Function as a first-class citizen in Swift functional programming
+Closures in Swift functional programming
+Purely functional data structures in Swift
+Algebraic data types in Swift functional programming
+Pattern matching in Swift functional programming
+Monads in Swift functional programming
+Functors in Swift functional programming
+Applicative functors in Swift functional programming
+Monoids in Swift functional programming
+Immutable collections in Swift functional programming
+Lazy evaluation in Swift functional programming
+Pipelines and data flow in Swift functional programming
+Function pipelining in Swift functional programming
+Memoization techniques in Swift functional programming
+Parallel programming in Swift functional programming
+Concurrency patterns in Swift functional programming
+Higher-order functions for handling collections in Swift functional programming
+Immutable state management in Swift functional programming
+Protocol-oriented programming in Swift functional programming
+Immutability and thread safety in Swift functional programming
+Composition over inheritance in Swift functional programming
+Type inference in Swift functional programming
+Generics in Swift functional programming
+Operator overloading in Swift functional programming
+Higher-kinded types in Swift functional programming
+Type-safe functional programming in Swift
+Functional reactive programming in Swift
+Async programming in Swift functional programming
+Combinatorial algorithms in Swift functional programming
+Memoization and caching in Swift functional programming
+State machines in Swift functional programming
+Lazy sequences and infinite lists in Swift functional programming
+Lenses and optics in Swift functional programming
+Parsing and parsing combinators in Swift functional programming
+Domain-specific languages in Swift functional programming
+Functional testing in Swift functional programming
+Immutable infrastructure in Swift functional programming
+Functional programming patterns in Swift
+Type theory in Swift functional programming
+Type-level programming in Swift functional programming
+Dependent types in Swift functional programming
+Monadic error handling in Swift functional programming
+Typeclasses in Swift functional programming
+Comonads in Swift functional programming
+Kleisli composition in Swift functional programming
+Partiality and totality in Swift functional programming
+Lawful programming in Swift functional programming
+Optics and functional lenses in Swift functional programming
+Immutable data structures and persistent data structures in Swift functional programming
+Crypto and cryptographic primitives in Swift functional programming
+Machine learning and functional programming in Swift
+Graph algorithms in Swift functional programming
+Functional programming for web development in Swift
+Reactive programming and FRP frameworks in Swift
+Type providers in Swift functional programming
+Formal verification and proof assistants in Swift functional programming
+Property-based testing in Swift functional programming
+Automatic differentiation in Swift functional programming
+Code generation and metaprogramming in Swift functional programming
+Generic programming in Swift functional programming
+Lazy evaluation and infinite data structures in Swift functional programming
+Constraint programming in Swift functional programming
+Function memoization in Swift functional programming
+Continuation passing style in Swift functional programming
+Debugging and testing techniques in Swift functional programming
+Profiling and performance optimization in Swift functional programming
+IO monad and side effects in Swift functional programming
+Category theory and abstract algebra in Swift functional programming
+Parallel and distributed computing in Swift functional programming
+Software transactional memory in Swift functional programming
+Type-safe data modeling and validation in Swift functional programming
+Concurrency and thread safety in Swift functional programming
+Domain-driven design and functional programming in Swift
+Design patterns and functional programming in Swift
+Secure coding practices in Swift functional programming
+Monoids and semigroups in Swift functional programming
+Type-level programming and generics in Swift functional programming
+Higher-kinded types and type constructors in Swift functional programming
+Ignoring state and managing side effects in Swift functional programming

@@ -1,0 +1,100 @@
+UIView
+UIViewController
+UILabel
+UIButton
+UITextField
+UITextView
+UIImageView
+UITableView
+UICollectionView
+UIStackView
+UIScrollView
+UIActivityIndicatorView
+UIAlertController
+UISwitch
+UISlider
+UIProgressView
+UIPickerView
+UIDatePicker
+UITabBarController
+UINavigationController
+UIPageViewController
+UIBarButtonItem
+UIRefreshControl
+UIToolbar
+UIStatusBar
+UINavigationBar
+UITextFieldDelegate
+UITextViewDelegate
+UITableViewDataSource
+UITableViewDelegate
+UICollectionViewDataSource
+UICollectionViewDelegate
+UIGestureRecognizer
+UISwipeGestureRecognizer
+UIPanGestureRecognizer
+UITapGestureRecognizer
+UISegmentedControl
+UIWebView
+UITextField autocorrectionType
+UITextField autocapitalizationType
+UITextField keyboardType
+UITextField clearButtonMode
+UITextField returnKeyType
+UITextField inputAccessoryView
+UITextView keyboardType
+UITextView textContainerInset
+UITextView isEditable
+UITextView isSelectable
+UIImagePickerController
+CLLocationManager
+UIBezierPath
+CAShapeLayer
+CATextLayer
+CAGradientLayer
+CAKeyframeAnimation
+CABasicAnimation
+CAMediaTimingFunction
+Core Animation
+CGAffineTransform
+Core Graphics
+CGPath
+CGBitmapContext
+Core Image
+CIFilter
+CIContext
+CIImage
+CIFaceFeature
+CAEmitterLayer
+CAGradientLayer
+CAAffineTransform
+CGGradient
+Core Animation
+Core Graphics
+Core Data
+NSManagedObject
+NSFetchRequest
+NSFetchedResultsController
+NSPredicate
+Core Animation Transitions
+CATransition
+Core Graphics
+Core Animation
+Core Image
+Core Data
+Core Location
+Core Motion
+AVFoundation
+SpriteKit
+MapKit
+HealthKit
+StoreKit
+Core Bluetooth
+Core NFC
+CoreML
+SiriKit
+ARKit
+VisionFramework
+Core Image Filters
+SwiftUI
+Combine Framework

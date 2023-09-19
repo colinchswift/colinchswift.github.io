@@ -1,0 +1,100 @@
+Introduction to Swift Views
+Understanding the View hierarchy in Swift
+Basic components of Swift Views
+Creating and using UILabel in Swift Views
+Working with UIButton in Swift Views
+Implementing UITableView in Swift Views
+Building UICollectionView in Swift Views
+Using UIImageView in Swift Views
+Adding UISwitch in Swift Views
+Utilizing UITextField in Swift Views
+Creating and customizing UISegmentedControl in Swift Views
+Implementing UIProgressView in Swift Views
+Working with UIStepper in Swift Views
+Incorporating UISlider in Swift Views
+Creating UIActivityIndicatorView in Swift Views
+Implementing UITextView in Swift Views
+Building UIDatePicker in Swift Views
+Using UIPickerView in Swift Views
+Adding UIPageControl in Swift Views
+Utilizing UIWebView in Swift Views
+Customizing UINavigationBar in Swift Views
+Creating UITabBar in Swift Views
+Implementing UISearchBar in Swift Views
+Working with UIStackView in Swift Views
+Adding UIPickerView in Swift Views
+Utilizing UIDocumentPickerViewController in Swift Views
+Customizing UITableViewCells in Swift Views
+Using UIAlertController in Swift Views
+Building UIActionSheet in Swift Views
+Implementing UIDatePickerView in Swift Views
+Working with UIDatePickerMode in Swift Views
+Adding UICollectionViewController in Swift Views
+Utilizing UIRefreshControl in Swift Views
+Customizing UITableViewHeaderFooterView in Swift Views
+Creating custom UIScrollView in Swift Views
+Implementing UIPageViewController in Swift Views
+Working with UICollectionViewFlowLayout in Swift Views
+Adding UICollectionReusableView in Swift Views
+Utilizing WKWebView in Swift Views
+Customizing UISearchBarDelegate in Swift Views
+Creating custom UITextFieldDelegate in Swift Views
+Implementing UIPickerViewDelegate in Swift Views
+Working with UIDocumentPickerDelegate in Swift Views
+Adding UICollectionViewDelegate in Swift Views
+Utilizing UITableViewDiffableDataSource in Swift Views
+Customizing UISearchResultsUpdating in Swift Views
+Creating custom UIGestureRecognizer in Swift Views
+Implementing UITableViewDropDelegate in Swift Views
+Working with UICollectionViewDelegateFlowLayout in Swift Views
+Adding UIDocumentPickerDelegate in Swift Views
+Utilizing UISearchControllerDelegate in Swift Views
+Customizing UITabBarControllerDelegate in Swift Views
+Creating custom UIScrollViewDelegate in Swift Views
+Implementing userInteractionEnabled in Swift Views
+Working with frame vs bounds in Swift Views
+Adding contentMode in Swift Views
+Utilizing autoresizingMask in Swift Views
+Customizing clipsToBounds in Swift Views
+Creating custom tintColor in Swift Views
+Implementing backgroundColor in Swift Views
+Working with alpha in Swift Views
+Adding isHidden in Swift Views
+Utilizing contentEdgeInsets in Swift Views
+Customizing titleEdgeInsets in Swift Views
+Creating custom imageEdgeInsets in Swift Views
+Implementing stackViewAlignment in Swift Views
+Working with stackViewDistribution in Swift Views
+Adding stackViewSpacing in Swift Views
+Utilizing stackViewAxis in Swift Views
+Customizing stackViewLayoutMargins in Swift Views
+Creating custom stackViewLayoutMarginsRelativeArrangement in Swift Views
+Implementing isUserInteractionEnabled in Swift Views
+Working with isAccessibilityElement in Swift Views
+Adding accessibilityLabel in Swift Views
+Utilizing accessibilityHint in Swift Views
+Customizing accessibilityTraits in Swift Views
+Creating custom accessibilityValue in Swift Views
+Implementing contentMode in UIImageView in Swift Views
+Working with tintColor in UIImageView in Swift Views
+Adding isHighlighted in UIImageView in Swift Views
+Utilizing animationImages in UIImageView in Swift Views
+Customizing adjustsImageWhenAncestorFocused in UIImageView in Swift Views
+Creating custom image in UIButton in Swift Views
+Implementing backgroundImage in UIButton in Swift Views
+Working with titleEdgeInsets in UIButton in Swift Views
+Adding attributedTitle in UIButton in Swift Views
+Utilizing adjustsImageWhenHighlighted in UIButton in Swift Views
+Customizing adjustsImageWhenDisabled in UIButton in Swift Views
+Implementing titleLabel in UIButton in Swift Views
+Working with addTarget in UIButton in Swift Views
+Adding isSecureTextEntry in UITextField in Swift Views
+Utilizing clearsOnBeginEditing in UITextField in Swift Views
+Customizing keyboardType in UITextField in Swift Views
+Creating custom borderStyle in UITextField in Swift Views
+Implementing clearButtonMode in UITextField in Swift Views
+Working with leftViewMode in UITextField in Swift Views
+Adding rightViewMode in UITextField in Swift Views
+Utilizing adjustsFontSizeToFitWidth in UITextField in Swift Views
+Customizing minimumFontSize in UITextField in Swift Views
+Creating custom inputAccessoryView in UITextField in Swift Views

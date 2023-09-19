@@ -1,0 +1,100 @@
+Introduction to Swift delegates
+Advantages of using delegates in Swift
+Creating a delegate protocol in Swift
+Implementing a delegate in Swift
+Assigning a delegate in Swift
+Delegates vs. closures in Swift
+Delegate pattern in iOS development using Swift
+Using delegates for communication between view controllers in Swift
+Delegation in Swift for data passing
+Using delegates for handling user input in Swift
+Delegate management in Swift
+Custom delegate methods in Swift
+Delegates for handling asynchronous tasks in Swift
+Defining a delegate in Swift
+Delegate chaining in Swift
+Delegate design patterns in Swift
+Using delegates for networking tasks in Swift
+Delegate methods in Swift
+Best practices for working with delegates in Swift
+Limitations of using delegates in Swift
+Delegate and data source pattern in Swift
+Delegates for UI updates in Swift
+Using delegates with table views in Swift
+Handling button taps using delegates in Swift
+Understanding delegation in Swift
+Delegate pattern in macOS development using Swift
+Using delegates for error handling in Swift
+Implementing delegation in Swift for handling notifications
+Using delegates for inter-module communication in Swift
+Delegates for handling user interactions in Swift
+Delegate subscription in Swift
+Working with optional delegates in Swift
+Delegate pattern in SwiftUI using Swift
+Using delegates for animation in Swift
+Delegates for handling location updates in Swift
+Delegate methods for custom UIViews in Swift
+Broadcasting events using delegates in Swift
+Best practices for delegate naming conventions in Swift
+Delegate pattern in watchOS development using Swift
+Implementing delegation for user authorization in Swift
+Using delegates for media playback in Swift
+Delegate pattern in tvOS development using Swift
+Delegates for Google Maps integration in Swift
+Using delegates for camera functionality in Swift
+Delegate pattern in ARKit development using Swift
+Implementing delegation for push notifications in Swift
+Using delegates for Firebase integration in Swift
+Delegate pattern in Core Data development using Swift
+Delegates for handling audio playback in Swift
+Implementing delegation for data persistence in Swift
+Using delegates for social media integration in Swift
+Delegate pattern in HealthKit development using Swift
+Delegates for handling image processing in Swift
+Implementing delegation for push notifications in Swift
+Using delegates for Core Location updates in Swift
+Delegates for handling video playback in Swift
+Delegate pattern in SiriKit development using Swift
+Delegates for handling augmented reality experiences in Swift
+Implementing delegation for user authentication in Swift
+Using delegates for in-app purchases in Swift
+Delegate pattern in Core Bluetooth development using Swift
+Delegates for handling accelerometer data in Swift
+Implementing delegation for user feedback in Swift
+Using delegates for biometric authentication in Swift
+Delegate pattern in Core Motion development using Swift
+Delegates for handling iBeacon data in Swift
+Implementing delegation for user preferences in Swift
+Using delegates for barcode scanning in Swift
+Delegate pattern in Core ML development using Swift
+Delegates for handling gyroscope data in Swift
+Implementing delegation for user activity tracking in Swift
+Using delegates for facial recognition in Swift
+Delegate pattern in Core NFC development using Swift
+Delegates for handling accelerometer data in Swift
+Implementing delegation for user feedback in Swift
+Using delegates for biometric authentication in Swift
+Delegate pattern in Core Motion development using Swift
+Delegates for handling iBeacon data in Swift
+Implementing delegation for user preferences in Swift
+Using delegates for barcode scanning in Swift
+Delegate pattern in Core ML development using Swift
+Delegates for handling gyroscope data in Swift
+Implementing delegation for user activity tracking in Swift
+Using delegates for facial recognition in Swift
+Delegate pattern in Core NFC development using Swift
+Delegates for handling NFC data in Swift
+Implementing delegation for user location tracking in Swift
+Using delegates for Apple Pay integration in Swift
+Delegate pattern in Core Spotlight development using Swift
+Delegates for handling search functionality in Swift
+Implementing delegation for user preferences in Swift
+Using delegates for speech recognition in Swift
+Delegate pattern in Core Audio development using Swift
+Delegates for handling audio processing in Swift
+Implementing delegation for user activity logging in Swift
+Using delegates for handwriting recognition in Swift
+Delegate pattern in Core Animation development using Swift
+Delegates for handling animation events in Swift
+Implementing delegation for user permissions in Swift
+Using delegates for Bluetooth Low Energy integration in Swift

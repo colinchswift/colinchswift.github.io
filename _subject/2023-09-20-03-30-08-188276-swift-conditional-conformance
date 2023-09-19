@@ -1,0 +1,100 @@
+Introduction to conditional conformance in Swift
+How conditional conformance works in Swift
+The benefits of conditional conformance in Swift
+Using conditional conformance to make generic types more flexible
+Examples of conditional conformance in Swift
+Limitations of conditional conformance in Swift
+Exploring the syntax for conditional conformance in Swift
+How to define conditional conformance in Swift
+Using conditional conformance to add functionality to existing types
+Implementing conditional conformance for protocols in Swift
+Conditional conformance with associated types in Swift
+Using conditional conformance to satisfy constraints in generic types
+Conditional conformance versus protocol inheritance in Swift
+Adding conditional conformance for optional types in Swift
+Working with collections and conditional conformance in Swift
+Conditional conformance for enum cases in Swift
+Conditional conformance for class types in Swift
+The differences between static and dynamic conditional conformance in Swift
+Handling conditional conformance clashes in Swift
+Conditional conformance for numeric types in Swift
+Conditional conformance for string types in Swift
+Extending types with conditional conformance in Swift
+Conditional conformance and type inference in Swift
+Conditional conformance for Codable types in Swift
+The role of where clauses in conditional conformance in Swift
+Nested conditional conformance in Swift
+Limiting conditional conformance with associated type constraints in Swift
+Using conditional conformance to handle type constraints in Swift
+Conditional conformance for arrays in Swift
+Conditional conformance for dictionaries in Swift
+Conditional conformance for sets in Swift
+Customizing behavior with conditional conformance in Swift
+Using conditional conformance to provide default implementations in Swift
+Performance considerations for conditional conformance in Swift
+Conditional conformance for optionals in Swift
+Conditional conformance for ranges in Swift
+Conditional conformance for tuples in Swift
+Using conditional conformance to implement type erasure in Swift
+Conditional conformance for lazy collections in Swift
+The distinction between implicit and explicit conditional conformance in Swift
+Conditional conformance for non-optional types in Swift
+Conditional conformance and protocol composition in Swift
+Conditional conformance for protocol hierarchies in Swift
+Conditional conformance for nested types in Swift
+Using conditional conformance in third-party libraries in Swift
+Conditional conformance and memory management in Swift
+Conditional conformance for associated enums in Swift
+Conditional conformance for option sets in Swift
+Conditional conformance for key paths in Swift
+Conditional conformance and error handling in Swift
+Conditional conformance for collection views in Swift
+Conditional conformance for function types in Swift
+Conditional conformance and protocol witnesses in Swift
+Conditional conformance for protocols with self or associated type requirements in Swift
+Conditional conformance for function builders in Swift
+Conditional conformance and variadic parameters in Swift
+Conditional conformance for compile-time reflection in Swift
+Conditional conformance for modules in Swift
+Conditional conformance for closures in Swift
+Conditional conformance and code generation in Swift
+Conditional conformance for enums with associated values in Swift
+Conditional conformance for lazy initialization in Swift
+Conditional conformance for graph algorithms in Swift
+Conditional conformance and atomics in Swift
+Conditional conformance for type inference in Swift
+Conditional conformance and type safety in Swift
+Conditional conformance for lazy properties in Swift
+Conditional conformance for async/await in Swift
+Conditional conformance and run-time introspection in Swift
+Conditional conformance for default generic arguments in Swift
+Conditional conformance and subclassing in Swift
+Conditional conformance for function-like types in Swift
+Conditional conformance and protocol witness tables in Swift
+Conditional conformance for collection slicing in Swift
+Conditional conformance and custom subscripts in Swift
+Conditional conformance for JSON serialization in Swift
+Conditional conformance and operator overloading in Swift
+Conditional conformance for generic type constraints in Swift
+Conditional conformance and pattern matching in Swift
+Conditional conformance for closures with generic parameters in Swift
+Conditional conformance and generics with type constraints in Swift
+Conditional conformance for higher-kinded types in Swift
+Conditional conformance and type-safe file I/O in Swift
+Conditional conformance for variadic generics in Swift
+Conditional conformance and type aliases in Swift
+Conditional conformance for graph traversal in Swift
+Conditional conformance and type punning in Swift
+Conditional conformance for distributed systems in Swift
+Conditional conformance and type descriptors in Swift
+Conditional conformance for convenience initializers in Swift
+Conditional conformance and asynchronous programming in Swift
+Conditional conformance for immutable types in Swift
+Conditional conformance and type inference for generic subscripts in Swift
+Conditional conformance for custom operators in Swift
+Conditional conformance and shared memory in Swift
+Conditional conformance for validation in Swift
+Conditional conformance and type reification in Swift
+Conditional conformance for resource management in Swift
+Conditional conformance and type-safe networking in Swift
+Conditional conformance for key-value coding in Swift

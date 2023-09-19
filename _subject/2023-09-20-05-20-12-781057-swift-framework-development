@@ -1,0 +1,100 @@
+Introduction to Swift framework development
+Basics of Swift programming language
+Understanding Xcode IDE for Swift framework development
+Creating a new Swift framework project
+App vs framework development in Swift
+Best practices for Swift framework development
+Design patterns in Swift framework development
+Unit testing for Swift frameworks
+Integrating third-party libraries in Swift frameworks
+Using Swift Package Manager for framework development
+Implementing networking functionality in Swift frameworks
+Data persistence in Swift frameworks
+Handling errors and exceptions in Swift framework development
+Using protocols and delegates in Swift framework development
+Implementing notifications in Swift frameworks
+Creating UI components in Swift frameworks
+Adding localization support in Swift frameworks
+Implementing security measures in Swift framework development
+Incorporating user authentication in Swift frameworks
+Using Core Data in Swift frameworks
+Integrating Core Graphics in Swift framework development
+Implementing animations in Swift frameworks
+Creating custom views and controls in Swift frameworks
+Incorporating audio and video features in Swift frameworks
+Implementing background tasks in Swift frameworks
+Integrating push notifications in Swift frameworks
+Implementing in-app purchases in Swift frameworks
+Using Core Location and Maps in Swift frameworks
+Implementing social media sharing functionality in Swift frameworks
+Integrating Firebase in Swift framework development
+Implementing machine learning models in Swift frameworks
+Using Augmented Reality (AR) in Swift framework development
+Implementing image processing in Swift frameworks
+Integrating Bluetooth functionality in Swift frameworks
+Implementing advanced animations and transitions in Swift frameworks
+Using Core ML for machine learning in Swift frameworks
+Implementing biometric authentication in Swift frameworks (Touch ID, Face ID)
+Integrating SiriKit in Swift framework development
+Implementing gesture recognition in Swift frameworks
+Using ARKit for augmented reality experiences in Swift frameworks
+Incorporating speech recognition and synthesis in Swift frameworks
+Implementing custom keyboards in Swift frameworks
+Integrating Apple Pay functionality in Swift frameworks
+Implementing screen recording in Swift frameworks
+Using Core Animation for advanced visual effects in Swift frameworks
+Implementing barcode scanning functionality in Swift frameworks
+Integrating HealthKit for health and fitness data in Swift frameworks
+Implementing NFC functionality in Swift frameworks
+Using Core ML for natural language processing in Swift frameworks
+Implementing accessibility features in Swift frameworks
+Integrating Core Motion for motion sensing in Swift frameworks
+Implementing file management and sharing in Swift frameworks
+Using Core Image for image processing in Swift frameworks
+Implementing iMessage app extensions in Swift frameworks
+Integrating CloudKit for cloud storage and syncing in Swift frameworks
+Implementing Core Spotlight for search functionality in Swift frameworks
+Using Core NFC for Near Field Communication in Swift frameworks
+Implementing iCloud Keychain syncing in Swift frameworks
+Integrating Core Spotlight for voice search in Swift frameworks
+Implementing App Clips in Swift frameworks
+Using Core Data for syncing data between devices in Swift frameworks
+Implementing document scanning and OCR in Swift frameworks
+Integrating Siri shortcuts in Swift framework development
+Implementing background audio playback in Swift frameworks
+Using Core Image for face detection and recognition in Swift frameworks
+Implementing barcode generation in Swift frameworks
+Integrating Core Bluetooth for Bluetooth Low Energy (BLE) in Swift frameworks
+Implementing image caching and lazy loading in Swift frameworks
+Using Core Motion for pedometer and activity tracking in Swift frameworks
+Implementing screen mirroring and AirPlay in Swift frameworks
+Integrating Core Graphics for custom drawing in Swift frameworks
+Implementing biometric authentication using LocalAuthentication in Swift frameworks
+Using Core NFC for contactless authentication in Swift frameworks
+Implementing push notifications with rich media content in Swift frameworks
+Integrating SiriKit for voice-controlled app interactions in Swift frameworks
+Implementing OAuth authentication in Swift frameworks
+Using Core ML for object detection and tracking in Swift frameworks
+Implementing interactive map overlays and annotations in Swift frameworks
+Integrating Core Telephony for call handling in Swift frameworks
+Implementing audio streaming and recording in Swift frameworks
+Using Core ML for sentiment analysis in Swift frameworks
+Implementing custom camera functionalities in Swift frameworks
+Integrating Vision framework for image recognition in Swift frameworks
+Implementing background location tracking in Swift frameworks
+Using Core Animation for 3D and particle effects in Swift frameworks
+Implementing deep linking and universal links in Swift frameworks
+Integrating Core NFC for transit card reading in Swift frameworks
+Implementing augmented reality filters and effects in Swift frameworks
+Using Core ML for style transfer and image classification in Swift frameworks
+Implementing intelligent voice assistants with Speech framework in Swift frameworks
+Integrating Core Spotlight for content indexing and search in Swift frameworks
+Implementing secure file encryption and decryption in Swift frameworks
+Using Core Graphics for custom PDF rendering in Swift frameworks
+Implementing indoor positioning and navigation with CoreLocation in Swift frameworks
+Integrating Core NFC for asset tracking and inventory management in Swift frameworks
+Implementing handwriting recognition using MLKit in Swift frameworks
+Using Core ML for real-time object tracking in Swift frameworks
+Implementing customizable notification actions in Swift frameworks
+Integrating Core Data for offline data synchronization in Swift frameworks
+Implementing secure biometric password management in Swift frameworks

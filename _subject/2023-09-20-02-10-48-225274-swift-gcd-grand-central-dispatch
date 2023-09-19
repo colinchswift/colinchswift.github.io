@@ -1,0 +1,100 @@
+Introduction to Swift GCD (Grand Central Dispatch)
+Basics of concurrent programming with Swift GCD
+Serial and concurrent queues in Swift GCD
+Synchronous and asynchronous dispatch in Swift GCD
+DispatchWorkItem in Swift GCD
+DispatchGroups in Swift GCD
+Dispatch Barrier in Swift GCD
+DispatchSemaphore in Swift GCD
+DispatchSource in Swift GCD
+Dispatch I/O in Swift GCD
+Dispatch IO flags in Swift GCD
+Dispatch IO channels in Swift GCD
+Dispatch IO operations in Swift GCD
+Dispatch Timers in Swift GCD
+Dispatch Time in Swift GCD
+Dispatch Sources in Swift GCD
+Dispatch Event types in Swift GCD
+Dispatch When in Swift GCD
+Dispatch Interval in Swift GCD
+Dispatch QoS (Quality of Service) in Swift GCD
+Customizing QoS classes in Swift GCD
+Dispatch Queue Attributes in Swift GCD
+Main Dispatch Queue in Swift GCD
+Global Dispatch Queue in Swift GCD
+Custom Dispatch Queue in Swift GCD
+Sync vs. Async in Swift GCD
+Dispatch After in Swift GCD
+Dispatch After result in Swift GCD
+Dispatch Barrier Async in Swift GCD
+Dispatch Apply in Swift GCD
+Dispatch Apply concurrency in Swift GCD
+Dispatch Data in Swift GCD
+Dispatch Data format in Swift GCD
+Dispatch Data layout in Swift GCD
+Dispatch Work in Swift GCD
+Dispatch WorkItem flags in Swift GCD
+Dispatch WorkItem lifecycle in Swift GCD
+Dispatch WorkItem cancel in Swift GCD
+Dispatch WorkItem sync in Swift GCD
+Dispatch WorkItem perform in Swift GCD
+Dispatch Group Wait in Swift GCD
+Dispatch Group Result in Swift GCD
+Dispatch Group Enter in Swift GCD
+Dispatch Group Leave in Swift GCD
+Dispatch Semaphore Wait in Swift GCD
+Dispatch Semaphore Signal in Swift GCD
+Dispatch Semaphore Value in Swift GCD
+Dispatch Source Create in Swift GCD
+Dispatch Source Activate in Swift GCD
+Dispatch Source Events in Swift GCD
+Dispatch Source Handler in Swift GCD
+Dispatch IO Create in Swift GCD
+Dispatch IO Read in Swift GCD
+Dispatch IO Write in Swift GCD
+Dispatch IO Close in Swift GCD
+Dispatch IO Operations in Swift GCD
+Dispatch Timer Create in Swift GCD
+Dispatch Timer Start in Swift GCD
+Dispatch Timer Cancel in Swift GCD
+Dispatch Time Now in Swift GCD
+Dispatch Time Interval in Swift GCD
+Dispatch Source Create type in Swift GCD
+Dispatch Source Cancel in Swift GCD
+Dispatch Source Resume in Swift GCD
+Dispatch When in Swift GCD
+Dispatch Interval in Swift GCD
+Dispatch QoS Default in Swift GCD
+Dispatch Queue Autorelease in Swift GCD
+Dispatch Queue Label in Swift GCD
+Dispatch Queue Priority in Swift GCD
+Dispatch Queue Concurrent in Swift GCD
+Main Dispatch Queue Suspend in Swift GCD
+Global Dispatch Queue QoS in Swift GCD
+Custom Dispatch Queue Target in Swift GCD
+Sync vs. Async concurrency in Swift GCD
+Dispatch After result handler in Swift GCD
+Dispatch WorkItem flags behavior in Swift GCD
+Dispatch Group Notify in Swift GCD
+Dispatch Semaphore Wait timeout in Swift GCD
+Dispatch Semaphore Wait behavior in Swift GCD
+Dispatch Source Resume handler in Swift GCD
+Dispatch IO Read operation in Swift GCD
+Dispatch IO Write operation in Swift GCD
+Dispatch IO Close handler in Swift GCD
+Dispatch Timer Cancel behavior in Swift GCD
+Dispatch Time Interval behavior in Swift GCD
+Dispatch Source Cancel behavior in Swift GCD
+Dispatch Queue Quality of Service behavior in Swift GCD
+Custom Dispatch Queue QoS behavior in Swift GCD
+Dispatch Queue Autorelease frequency in Swift GCD
+Dispatch Queue Label naming conventions in Swift GCD
+Dispatch Barrier Async behavior in Swift GCD
+Dispatch Apply concurrency behavior in Swift GCD
+Dispatch Group Result behavior in Swift GCD
+Dispatch Group Enter behavior in Swift GCD
+Dispatch Group Leave behavior in Swift GCD
+Dispatch Semaphore Value behavior in Swift GCD
+Dispatch Source Event types in Swift GCD
+Dispatch When behavior in Swift GCD
+Dispatch QoS behavior in Swift GCD.

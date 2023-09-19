@@ -1,0 +1,100 @@
+Basic authentication with Swift
+Token-based authentication in Swift
+OAuth authentication in Swift
+Two-factor authentication in Swift
+JWT (JSON Web Token) authentication in Swift
+Keychain-based authentication in Swift
+Biometric authentication in Swift (Touch ID/Face ID)
+Role-based authentication in Swift
+Session-based authentication in Swift
+Multi-factor authentication in Swift
+Firebase authentication in Swift
+Social media authentication (Facebook, Google, Twitter) in Swift
+Apple Sign-In authentication in Swift
+LDAP authentication in Swift
+Active Directory authentication in Swift
+SAML (Security Assertion Markup Language) authentication in Swift
+OAuth2 client authentication in Swift
+OpenID Connect authentication in Swift
+Kerberos authentication in Swift
+Digest authentication in Swift
+Cognito authentication in Swift
+Custom authentication provider in Swift
+Firebase Authentication with REST API in Swift
+PKI (Public Key Infrastructure) authentication in Swift
+Certificate-based authentication in Swift
+HMAC (Hash-based Message Authentication Code) authentication in Swift
+Session management and authentication in Swift
+API key-based authentication in Swift
+Bearer token authentication in Swift
+Digest access authentication in Swift
+NTLM (Microsoft Windows NT LAN Manager) authentication in Swift
+OAuth1 authentication in Swift
+Mutual SSL (Secure Sockets Layer) authentication in Swift
+Form-based authentication in Swift
+Identity Provider (IDP) authentication in Swift
+Custom Authorization in Swift
+RBAC (Role-based Access Control) authorization in Swift
+ABAC (Attribute-based Access Control) authorization in Swift
+PBAC (Policy-based Access Control) authorization in Swift
+Rule-based authorization in Swift
+Permissions management in Swift
+OAuth scope-based authorization in Swift
+Resource-based authorization in Swift
+JSON-based authorization in Swift
+Claims-based authorization in Swift
+Fine-grained authorization in Swift
+Policy enforcement in Swift
+Time-limited access and authorization in Swift
+Access control lists (ACL) in Swift
+Dynamic authorization rules in Swift
+Database-driven authorization in Swift
+Authorization based on user roles in Swift
+Multitenant authorization in Swift
+Authorization for microservices in Swift
+Authorization middleware in Swift
+Hierarchical authorization in Swift
+Data anonymization and authorization in Swift
+Conditional authorization in Swift
+Authorization matrix in Swift
+Delegation-based authorization in Swift
+Web-based authorization in Swift
+Attribute manipulation and authorization in Swift
+Authorization caching in Swift
+JWT claims-based authorization in Swift
+Role-based policy authorization in Swift
+OAuth token validation and authorization in Swift
+Authorization policy management in Swift
+Access denial and authorization in Swift
+Authorization based on user attributes in Swift
+Authorization as a service in Swift
+Authorization decision query in Swift
+Authorization workflows in Swift
+Authorization bypass and exception handling in Swift
+Authorization audit trail in Swift
+Authorization rules evaluation in Swift
+Authorization vs authentication in Swift
+Authorization header and token handling in Swift
+Authorization for distributed systems in Swift
+Authorization policies enforcement in Swift
+Authorization rules evaluation order in Swift
+Authorization with third-party services in Swift
+Authorization with external identity providers in Swift
+Authorization management for mobile apps in Swift
+Authorization and user roles mapping in Swift
+Authorization best practices in Swift
+Authorization for serverless applications in Swift
+Authorization for internet of things (IoT) devices in Swift
+Authorization with consent management in Swift
+Authorization for offline access in Swift
+Authorization based on business rules in Swift
+Authorization for event-driven systems in Swift
+Authorization as code in Swift
+Authorization and data protection in Swift
+Authorization for cross-domain communications in Swift
+Authorization in distributed microservices architecture with Swift
+Authorization for data sharing in Swift
+Permissions inheritance and authorization in Swift
+Authorization for reactive programming in Swift
+Authorization and secure data storage in Swift
+Custom authorization server in Swift

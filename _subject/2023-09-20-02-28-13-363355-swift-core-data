@@ -1,0 +1,100 @@
+Introduction to Swift Core Data
+Setting up Core Data in Swift
+Entity in Swift Core Data
+Attributes in Swift Core Data
+Relationships in Swift Core Data
+Fetching data from Core Data in Swift
+Creating records in Swift Core Data
+Updating records in Swift Core Data
+Deleting records in Swift Core Data
+Sorting data in Swift Core Data
+Filtering data in Swift Core Data
+Batch processing in Swift Core Data
+Using predicates in Swift Core Data
+Fetching data asynchronously in Swift Core Data
+Using NSFetchedResultsController in Swift Core Data
+Implementing data validation in Swift Core Data
+Using fetched property in Swift Core Data
+Implementing encryption in Swift Core Data
+Implementing versioning and migration in Swift Core Data
+Synchronizing Core Data with a remote server in Swift
+Implementing search functionality in Swift Core Data
+Implementing pagination in Swift Core Data
+Implementing undo and redo in Swift Core Data
+Implementing backup and restore functionality in Swift Core Data
+Implementing data synchronization between devices in Swift Core Data
+Implementing Core Data concurrency in Swift
+Using NSManagedObject subclasses in Swift Core Data
+Using NSManagedObjectModel in Swift Core Data
+Using NSPersistentStoreCoordinator in Swift Core Data
+Using NSManagedObjectContext in Swift Core Data
+Implementing data migration in Swift Core Data
+Using lightweight migration in Swift Core Data
+Using custom migration in Swift Core Data
+Implementing versioning and multiple stores in Swift Core Data
+Implementing cloud syncing in Swift Core Data
+Implementing localization with Swift Core Data
+Implementing indexing and searching in Swift Core Data
+Implementing Core Data constraints in Swift
+Implementing performance tuning in Swift Core Data
+Implementing caching in Swift Core Data
+Using Core Data batch updates in Swift
+Implementing conflict resolution in Swift Core Data
+Implementing Core Data background processing in Swift
+Implementing Core Data data seeding in Swift
+Implementing Core Data undo management in Swift
+Implementing Core Data validation rules in Swift
+Implementing Core Data read-only mode in Swift
+Implementing Core Data for offline mode in Swift
+Implementing Core Data for real-time updates in Swift
+Implementing Core Data for multi-threading in Swift
+Implementing Core Data multitenancy in Swift
+Implementing Core Data data encryption at rest in Swift
+Implementing Core Data data privacy in Swift
+Implementing Core Data data authorization in Swift
+Implementing Core Data data integrity in Swift
+Implementing Core Data data caching in Swift
+Implementing Core Data distributed architecture in Swift
+Implementing Core Data scalability in Swift
+Implementing Core Data performance optimization in Swift
+Implementing Core Data error handling in Swift
+Implementing Core Data backup and restore in Swift
+Implementing Core Data data replication in Swift
+Implementing Core Data data synchronization in Swift
+Implementing Core Data data archiving in Swift
+Implementing Core Data data querying in Swift
+Implementing Core Data data indexing in Swift
+Implementing Core Data data modeling in Swift
+Implementing Core Data data migration in Swift
+Implementing Core Data data validation in Swift
+Implementing Core Data data filtering in Swift
+Implementing Core Data data sorting in Swift
+Implementing Core Data data manipulation in Swift
+Implementing Core Data data aggregation in Swift
+Implementing Core Data data transformation in Swift
+Implementing Core Data data serialization in Swift
+Implementing Core Data data deserialization in Swift
+Implementing Core Data data streaming in Swift
+Implementing Core Data data batching in Swift
+Implementing Core Data data chunking in Swift
+Implementing Core Data data persistence in Swift
+Implementing Core Data data caching in Swift
+Implementing Core Data data eviction in Swift
+Implementing Core Data data prefetching in Swift
+Implementing Core Data data routing in Swift
+Implementing Core Data data sharding in Swift
+Implementing Core Data data replication in Swift
+Implementing Core Data data synchronization in Swift
+Implementing Core Data data compression in Swift
+Implementing Core Data data encryption in Swift
+Implementing Core Data data validation in Swift
+Implementing Core Data data deduplication in Swift
+Implementing Core Data data consistency in Swift
+Implementing Core Data data concurrency in Swift
+Implementing Core Data data indexing in Swift
+Implementing Core Data data serialization in Swift
+Implementing Core Data data deserialization in Swift
+Implementing Core Data data marshalling in Swift
+Implementing Core Data data unmarshalling in Swift
+Implementing Core Data data representation in Swift
+Implementing Core Data data presentation in Swift.

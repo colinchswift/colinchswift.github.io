@@ -1,0 +1,100 @@
+Introduction to Swift methods
+Syntax and structure of Swift methods
+Types of Swift methods
+Instance methods in Swift
+Class methods in Swift
+Static methods in Swift
+Access control in Swift methods
+Parameterizing Swift methods
+Return types in Swift methods
+Overloading methods in Swift
+Calling methods in Swift
+Chaining methods in Swift
+Optional parameters in Swift methods
+Default parameter values in Swift methods
+Inout parameters in Swift methods
+Guards in Swift methods
+Error handling in Swift methods
+Nested methods in Swift
+Key differences between functions and methods in Swift
+Method shadowing in Swift
+Method overriding in Swift
+Calling superclass methods in Swift
+Method dispatch in Swift
+Modifying external parameters names in Swift methods
+Enforcing parameter names in Swift methods
+Function-like methods in Swift
+Method signatures in Swift
+Mutating methods in Swift
+Struct methods in Swift
+Enum methods in Swift
+Protocol methods in Swift
+Accessing self in Swift methods
+Extensions and methods in Swift
+Convenience methods in Swift
+Cloning methods in Swift
+Synchronous methods in Swift
+Asynchronous methods in Swift
+Async/await methods in Swift
+Method cascading in Swift
+Method contracts in Swift
+Method decorators in Swift
+Method chaining vs method cascading in Swift
+Method auto-completion in Swift
+Method injection in Swift
+Method delegation in Swift
+Method swizzling in Swift
+Method memoization in Swift
+Method currying in Swift
+Method composition in Swift
+Method dispatch strategies in Swift
+Method synchronization in Swift
+Method profiling in Swift
+Lazy loading methods in Swift
+Thread-safe methods in Swift
+Class factory methods in Swift
+Class convenience methods in Swift
+Method lookup in Swift
+Method discovery in Swift
+Method interception in Swift
+Method filtering in Swift
+Method visibility in Swift
+Method scoping in Swift
+Method categorization in Swift
+Operator methods in Swift
+Comparable methods in Swift
+Equatable methods in Swift
+Custom subscript methods in Swift
+Inheritance and methods in Swift
+Method contracts in Swift protocols
+Method overloading vs overriding in Swift
+Method documentation in Swift
+Method access modifiers in Swift
+Method introspection in Swift
+Method-templating in Swift
+Method parameters and generic types in Swift
+Nullability in Swift methods
+Optional chaining with methods in Swift
+Pure functions and methods in Swift
+Higher-order methods in Swift
+Method extensions in Swift
+Fluent interfaces in Swift methods
+Method caching in Swift
+Method overloading resolution in Swift
+Method sharing in Swift
+Method visibility with extensions in Swift
+Higher-order functions vs methods in Swift
+Method composition with closures in Swift
+Method access control in Swift frameworks
+Method dependency injection in Swift
+Method dispatch and performance in Swift
+Method signature validation in Swift
+Method extraction in Swift
+Method return types and error handling in Swift
+Method mocking in Swift unit tests
+Method parameters validation in Swift
+Method execution time measurement in Swift
+Method recursion in Swift
+Method execution order in Swift
+Method locking in Swift
+Efficiency and optimization in Swift methods

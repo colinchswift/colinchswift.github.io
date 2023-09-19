@@ -1,0 +1,100 @@
+Understanding breakpoints in Swift
+Adding breakpoints in Xcode for Swift
+Using breakpoints for debugging in Swift
+Different types of breakpoints in Swift
+Conditional breakpoints in Swift
+Setting symbolic breakpoints in Swift
+Exception breakpoints in Swift
+Function breakpoints in Swift
+Setting breakpoints for specific lines of code in Swift
+Enabling and disabling breakpoints in Swift
+Clearing breakpoints in Swift
+Modifying breakpoints in Swift
+Moving breakpoints in the code in Swift
+Using inline breakpoints in Swift
+Breakpoint actions in Swift
+Using print statements with breakpoints in Swift
+Logging breakpoints in Swift
+Using sound notifications with breakpoints in Swift
+Conditional breakpoints with expressions in Swift
+Using breakpoints with optionals in Swift
+Breakpoints for closures and completion handlers in Swift
+Debugging multi-threaded code with breakpoints in Swift
+Inspecting variables and objects at breakpoints in Swift
+Manipulating variables at breakpoints in Swift
+Evaluating expressions at breakpoints in Swift
+Breaking on exceptions in Swift
+Catching and handling exceptions with breakpoints in Swift
+Breaking on specific error conditions in Swift
+Using breakpoints for performance optimization in Swift
+Setting breakpoints in unit tests for Swift
+Using breakpoints with network or API requests in Swift
+Testing UI elements with breakpoints in Swift
+Debugging view hierarchies in Swift with breakpoints
+Breakpoints for memory management in Swift
+Debugging memory leaks with breakpoints in Swift
+Breakpoints for detecting and fixing crashes in Swift
+Using breakpoints with UI rendering in Swift
+Breakpoints for user input handling in Swift
+Debugging asynchronous operations with breakpoints in Swift
+Setting breakpoints for specific device configurations in Swift
+Using breakpoints for code coverage analysis in Swift
+Breakpoints for analyzing app flow and control logic in Swift
+Debugging Apple framework code with breakpoints in Swift
+Breakpoints for debugging third-party libraries in Swift
+Debugging Swift packages with breakpoints
+Using breakpoints for animation and UI transitions in Swift
+Breakpoints for debugging Core Data operations in Swift
+Debugging Codable and JSON parsing with breakpoints in Swift
+Breakpoints for audio and video playback in Swift
+Debugging gesture recognizers with breakpoints in Swift
+Breakpoints for location-based services in Swift
+Using breakpoints for push notifications in Swift
+Debugging file operations and file handling with breakpoints in Swift
+Breakpoints for database operations in Swift
+Debugging web services and API integrations with breakpoints in Swift
+Breakpoints for debugging accessibility features in Swift
+Debugging augmented reality and ARKit with breakpoints in Swift
+Breakpoints for debugging machine learning models in Swift
+Debugging Core Bluetooth and wireless communication with breakpoints in Swift
+Using breakpoints for debugging Core ML and image recognition in Swift
+Breakpoints for debugging Core Graphics and drawing operations in Swift
+Debugging Core Animation with breakpoints in Swift
+Breakpoints for debugging Core Location and geolocation services in Swift
+Debugging background tasks and multitasking with breakpoints in Swift
+Breakpoints for debugging iCloud and cloud services in Swift
+Using breakpoints for debugging testing and QA processes in Swift
+Debugging UI automation and UI testing with breakpoints in Swift
+Breakpoints for debugging accessibility and voiceover in Swift
+Debugging cryptography and encryption operations with breakpoints in Swift
+Breakpoints for debugging Core Image and image processing in Swift
+Using breakpoints for debugging Core Text and text rendering in Swift
+Debugging Core Motion and motion sensing with breakpoints in Swift
+Breakpoints for debugging Core Audio and audio processing in Swift
+Debugging Core Spotlight and search integration with breakpoints in Swift
+Using breakpoints for debugging Core Foundation and low-level APIs in Swift
+Breakpoints for debugging Core Video and video processing in Swift
+Debugging Core Telephony and cellular network integration with breakpoints in Swift
+Breakpoints for debugging Core NFC and near field communication in Swift
+Debugging Core Image and custom filters with breakpoints in Swift
+Using breakpoints for debugging Core Spotlight and search indexing in Swift
+Breakpoints for debugging Core Haptics and haptic feedback in Swift
+Debugging Core Animation and complex animations with breakpoints in Swift
+Breakpoints for debugging Core Bluetooth and Bluetooth Low Energy in Swift
+Debugging Core Text and advanced typography with breakpoints in Swift
+Using breakpoints for debugging Core Graphics and drawing optimizations in Swift
+Breakpoints for debugging Core Data and data synchronization in Swift
+Debugging Core Location and geofencing with breakpoints in Swift
+Breakpoints for debugging Core ML and machine learning model performance in Swift
+Debugging Core Audio and audio playback with breakpoints in Swift
+Using breakpoints for debugging Core Image and face detection in Swift
+Breakpoints for debugging Core Motion and gesture recognition in Swift
+Debugging Core Location and map integration with breakpoints in Swift
+Breakpoints for debugging Core Graphics and image resizing in Swift
+Debugging Core Animation and layer rendering with breakpoints in Swift
+Using breakpoints for debugging Core Image and image editing in Swift
+Breakpoints for debugging Core Data and data validation in Swift
+Debugging Core Text and text layout with breakpoints in Swift
+Breakpoints for debugging Core Bluetooth and peripherals in Swift
+Debugging Core Image and live camera filters with breakpoints in Swift
+Using breakpoints for debugging Core Animation and view transitions in Swift

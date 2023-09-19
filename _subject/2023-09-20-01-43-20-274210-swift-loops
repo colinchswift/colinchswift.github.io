@@ -1,0 +1,100 @@
+For loops in Swift
+While loops in Swift
+Repeat-while loops in Swift
+Range-based loops in Swift
+Looping over arrays in Swift
+Looping over dictionaries in Swift
+Looping over sets in Swift
+Looping over strings in Swift
+Looping over ranges in Swift
+Nested loops in Swift
+Controlling loop execution with break in Swift
+Controlling loop execution with continue in Swift
+Controlling loop execution with return in Swift
+Using labeled statements with loops in Swift
+Looping with stride in Swift
+Looping over characters in a string in Swift
+Looping over elements in a collection in Swift
+Looping over indices in Swift
+Looping with index validation in Swift
+Using enumerated() in loops in Swift
+Looping over optional values in Swift
+Looping over optional collections in Swift
+Looping with guard statements in Swift
+Looping with if statements in Swift
+Looping and pattern matching in Swift
+Looping over tuples in Swift
+Looping over optionals in Swift
+Looping and error handling in Swift
+Looping with async-await in Swift
+Looping with await in Swift
+Looping over sequences in Swift
+Looping with parallelization in Swift
+Looping with concurrency in Swift
+Looping over file contents in Swift
+Looping over URLs in Swift
+Looping over network responses in Swift
+Looping over JSON objects in Swift
+Looping over XML nodes in Swift
+Looping over Core Data entities in Swift
+Looping over SwiftUI views in Swift
+Looping over UIKit views in Swift
+Looping over view controllers in Swift
+Looping over closures in Swift
+Looping over custom data structures in Swift
+Looping over enums in Swift
+Looping over option sets in Swift
+Looping over protocols in Swift
+Looping over associated values in Swift
+Looping over function parameters in Swift
+Looping over generic types in Swift
+Looping and memory management in Swift
+Looping over async operations in Swift
+Looping over timers in Swift
+Looping over animation sequences in Swift
+Looping over UI updates in Swift
+Looping over user input in Swift
+Looping over sensor data in Swift
+Looping over augmented reality data in Swift
+Looping over machine learning data in Swift
+Looping over camera frames in Swift
+Looping over audio data in Swift
+Looping over video frames in Swift
+Looping over location updates in Swift
+Looping over push notifications in Swift
+Looping over keychain items in Swift
+Looping over local storage in Swift
+Looping over cloud storage in Swift
+Looping over biometric data in Swift
+Looping over health data in Swift
+Looping over CoreML predictions in Swift
+Looping over database records in Swift
+Looping over Core Bluetooth devices in Swift
+Looping over sensors in Swift
+Looping over map overlays in Swift
+Looping over touch events in Swift
+Looping over gesture recognizers in Swift
+Looping over semantic actions in Swift
+Looping over push notification actions in Swift
+Looping over keyboard events in Swift
+Looping over accelerometer data in Swift
+Looping over gyroscope data in Swift
+Looping over magnetometer data in Swift
+Looping over 3D touch events in Swift
+Looping over file system changes in Swift
+Looping over network changes in Swift
+Looping over UI changes in Swift
+Looping over accessibility events in Swift
+Looping over Core Location updates in Swift
+Looping over haptic feedback events in Swift
+Looping over SiriKit intents in Swift
+Looping over motion events in Swift
+Looping over camera permissions in Swift
+Looping over microphone permissions in Swift
+Looping over photo gallery permissions in Swift
+Looping over user contacts in Swift
+Looping over user calendar events in Swift
+Looping over user reminders in Swift
+Looping over NFC events in Swift
+Looping over system notifications in Swift
+Looping over accessibility settings in Swift

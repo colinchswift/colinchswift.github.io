@@ -1,0 +1,102 @@
+Currency formatting in Swift using NumberFormatter
+Formatting decimal numbers in Swift with NumberFormatter
+Scientific notation formatting in Swift using NumberFormatter
+Percent formatting in Swift with NumberFormatter
+Custom formatting options with NumberFormatter in Swift
+Localized number formatting in Swift using NumberFormatter
+Rounding numbers with NumberFormatter in Swift
+Formatting large numbers with NumberFormatter in Swift
+Formatting small numbers with NumberFormatter in Swift
+Formatting negative numbers with NumberFormatter in Swift
+Formatting fractions with NumberFormatter in Swift
+Formatting ordinal numbers with NumberFormatter in Swift
+Formatting roman numerals with NumberFormatter in Swift
+Formatting hexadecimal numbers with NumberFormatter in Swift
+Formatting binary numbers with NumberFormatter in Swift
+Formatting octal numbers with NumberFormatter in Swift
+Formatting complex numbers with NumberFormatter in Swift
+Formatting imaginary numbers with NumberFormatter in Swift
+Formatting real numbers with NumberFormatter in Swift
+Formatting ratios with NumberFormatter in Swift
+Formatting interval numbers with NumberFormatter in Swift
+Formatting exponential numbers with NumberFormatter in Swift
+Formatting logarithmic numbers with NumberFormatter in Swift
+Formatting square root numbers with NumberFormatter in Swift
+Formatting root numbers with NumberFormatter in Swift
+Formatting trigonometric numbers with NumberFormatter in Swift
+Formatting logarithmic values with NumberFormatter in Swift
+Formatting geographic coordinates with NumberFormatter in Swift
+Formatting temperature values with NumberFormatter in Swift
+Formatting time values with NumberFormatter in Swift
+Formatting date values with NumberFormatter in Swift
+Formatting speed values with NumberFormatter in Swift
+Formatting weight values with NumberFormatter in Swift
+Formatting length values with NumberFormatter in Swift
+Formatting area values with NumberFormatter in Swift
+Formatting volume values with NumberFormatter in Swift
+Formatting angle values with NumberFormatter in Swift
+Formatting power values with NumberFormatter in Swift
+Formatting energy values with NumberFormatter in Swift
+Formatting pressure values with NumberFormatter in Swift
+Formatting velocity values with NumberFormatter in Swift
+Formatting acceleration values with NumberFormatter in Swift
+Formatting density values with NumberFormatter in Swift
+Formatting frequency values with NumberFormatter in Swift
+Formatting fuel consumption values with NumberFormatter in Swift
+Formatting currency exchange rates with NumberFormatter in Swift
+Formatting phone numbers with NumberFormatter in Swift
+Formatting file sizes with NumberFormatter in Swift
+Formatting percentage differences with NumberFormatter in Swift
+Formatting mathematical constants with NumberFormatter in Swift
+
+Formatting numerical IDs with NumberFormatter in Swift
+Formatting ISBN numbers with NumberFormatter in Swift
+Formatting social security numbers with NumberFormatter in Swift
+Formatting credit card numbers with NumberFormatter in Swift
+Formatting IP addresses with NumberFormatter in Swift
+Formatting MAC addresses with NumberFormatter in Swift
+Formatting file permissions with NumberFormatter in Swift
+Formatting postal codes with NumberFormatter in Swift
+Formatting GPS coordinates with NumberFormatter in Swift
+Formatting RGB color values with NumberFormatter in Swift
+Formatting RGBA color values with NumberFormatter in Swift
+Formatting HSL color values with NumberFormatter in Swift
+Formatting HSV color values with NumberFormatter in Swift
+Formatting CMYK color values with NumberFormatter in Swift
+Formatting hexadecimal color values with NumberFormatter in Swift
+Formatting binary color values with NumberFormatter in Swift
+Formatting octal color values with NumberFormatter in Swift
+Formatting musical note values with NumberFormatter in Swift
+Formatting MIDI values with NumberFormatter in Swift
+Formatting EAN-13 barcodes with NumberFormatter in Swift
+Formatting ISBN-10 barcodes with NumberFormatter in Swift
+Formatting ISBN-13 barcodes with NumberFormatter in Swift
+Formatting QR codes with NumberFormatter in Swift
+Formatting barcodes with NumberFormatter in Swift
+Formatting HTML color codes with NumberFormatter in Swift
+Formatting Unicode code points with NumberFormatter in Swift
+Formatting Morse code with NumberFormatter in Swift
+Formatting Braille representations with NumberFormatter in Swift
+Formatting musical time signatures with NumberFormatter in Swift
+Formatting GPS coordinates in degrees, minutes, seconds with NumberFormatter in Swift
+
+Formatting IMEI numbers with NumberFormatter in Swift
+Formatting lottery numbers with NumberFormatter in Swift
+Formatting ISBN-10 check digits with NumberFormatter in Swift
+Formatting ISBN-13 check digits with NumberFormatter in Swift
+Formatting bank account numbers with NumberFormatter in Swift
+Formatting hexadecimal color codes with NumberFormatter in Swift
+Formatting ASCII values with NumberFormatter in Swift
+Formatting number systems other than decimal with NumberFormatter in Swift
+Formatting JSON numbers with NumberFormatter in Swift
+Formatting XML numeric attributes with NumberFormatter in Swift
+Formatting URL query string parameters with NumberFormatter in Swift
+Formatting interface element identifiers with NumberFormatter in Swift
+Formatting atomic masses with NumberFormatter in Swift
+Formatting U.S. Census data with NumberFormatter in Swift
+Formatting RGB color codes with NumberFormatter in Swift
+Formatting phone numbers for international dialing codes with NumberFormatter in Swift
+Formatting ISBN metadata with NumberFormatter in Swift
+Formatting geographic coordinates with different notations using NumberFormatter in Swift
+Formatting currency values with custom symbols using NumberFormatter in Swift
+Formatting number ranges with NumberFormatter in Swift

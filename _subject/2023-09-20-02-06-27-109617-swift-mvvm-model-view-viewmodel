@@ -1,0 +1,100 @@
+What is the MVVM architecture pattern?
+Swift: Introduction and basics
+Advantages of using MVVM in Swift development
+Key components of the MVVM architecture pattern
+How does MVVM differ from other architectural patterns?
+What is the role of the model in MVVM?
+What is the role of the view in MVVM?
+What is the role of the view model in MVVM?
+How does data binding work in MVVM?
+Implementing data binding in Swift using MVVM
+Testing and debugging MVVM applications in Swift
+Best practices for implementing MVVM in Swift
+Data validation in MVVM using Swift
+Dependency injection in MVVM applications
+Handling user interactions in MVVM architecture
+Updating UI using bindings and observables in MVVM
+Managing navigation in MVVM applications
+Handling asynchronous tasks in MVVM
+Implementing data persistence in MVVM using Swift
+Integrating networking in MVVM applications
+Error handling and exception management in MVVM
+Unit testing MVVM components in Swift
+Performance optimization techniques in MVVM
+Implementing internationalization/localization in MVVM
+Accessibility considerations in MVVM UI design
+Securing data in MVVM applications
+Balancing reusability and decoupling in MVVM
+Monitoring and logging in MVVM applications
+Code organization and project structure in MVVM
+Integrating third-party libraries in MVVM applications
+Handling state management in MVVM
+Using coordinators in MVVM architecture
+Caching strategies in MVVM applications
+Implementing real-time updates in MVVM
+Fine-grained control over UI components in MVVM
+Implementation patterns in MVVM architecture
+Reactive programming with RxSwift in MVVM
+Using Combine for reactive programming in MVVM
+Implementing form validation in MVVM applications
+Implementing authentication and authorization in MVVM
+Error handling and error display in MVVM
+Implementing search functionality in MVVM applications
+Implementing pagination in MVVM architecture
+Implementing sorting and filtering in MVVM
+Implementing multi-language support in MVVM
+Handling device orientations in MVVM UI design
+Implementing animations and transitions in MVVM
+Implementing dark mode support in MVVM
+Sharing data between view models in MVVM
+Implementing offline support in MVVM applications
+Integrating push notifications in MVVM architecture
+Implementing in-app purchases in MVVM applications
+Implementing social media sharing in MVVM
+Implementing analytics and tracking in MVVM
+Implementing unit tests for view models in MVVM
+Implementing unit tests for views in MVVM
+Implementing unit tests for models in MVVM
+Implementing UI tests in MVVM applications
+Continuous integration and deployment for MVVM projects
+Working with different screen sizes and resolutions in MVVM
+Handling memory management in MVVM applications
+Debugging and troubleshooting MVVM applications
+Upgrading or migrating to MVVM from other architectures
+Managing user settings and preferences in MVVM
+Implementing undo/redo functionality in MVVM
+Implementing offline data synchronization in MVVM
+Handling background tasks and multitasking in MVVM
+Implementing share extensions in MVVM applications
+Implementing deep linking and universal links in MVVM
+Implementing biometric authentication in MVVM
+Implementing image caching and lazy loading in MVVM
+Implementing rich text formatting in MVVM applications
+Implementing custom UI components in MVVM architecture
+Implementing notifications and alerts in MVVM
+Implementing tab bar and navigation bar in MVVM
+Implementing gestures and touch handling in MVVM
+Implementing keyboard management in MVVM
+Implementing localization for dates and times in MVVM
+Implementing user feedback and ratings in MVVM
+Implementing onboarding and tutorials in MVVM
+Implementing clipboard and sharing features in MVVM
+Implementing drag and drop functionality in MVVM
+Implementing camera and photo library access in MVVM
+Implementing audio and video playback in MVVM
+Implementing maps and location services in MVVM
+Implementing barcode and QR code scanning in MVVM
+Implementing file management and storage in MVVM
+Implementing push notifications with payload handling in MVVM
+Implementing in-app messaging and chat in MVVM
+Implementing local notifications and reminders in MVVM
+Implementing payment gateways and transactions in MVVM
+Implementing augmented reality in MVVM applications
+Implementing Face ID and Touch ID authentication in MVVM
+Implementing Siri integration in MVVM applications
+Implementing biometric data tracking in MVVM
+Implementing machine learning and AI in MVVM
+Implementing voice recognition and speech synthesis in MVVM
+Implementing accessibility features in MVVM applications
+Implementing location-based services in MVVM
+Optimizing app startup time in MVVM architecture

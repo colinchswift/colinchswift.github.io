@@ -1,0 +1,100 @@
+Introduction to Swift Mirror API
+What is reflection in Swift?
+How to use the Swift Mirror API?
+Accessing the type and properties of an object using Swift Mirror API
+Enumerating the properties of an object using Swift Mirror API
+Accessing the superclass of an object using Swift Mirror API
+Getting the display style of an object using Swift Mirror API
+Extracting the subject of a Swift Mirror using Swift Mirror API
+Accessing the children of a Swift Mirror using Swift Mirror API
+Filtering the children of a Swift Mirror using Swift Mirror API
+Reflecting upon the instance variables of a class using Swift Mirror API
+Reflecting upon the computed properties of a class using Swift Mirror API
+Inspecting the methods of an object using Swift Mirror API
+Reflecting upon the protocols adopted by an object using Swift Mirror API
+Extracting the type of a variable using Swift Mirror API
+Reflecting upon the generic type arguments of a class or struct using Swift Mirror API
+Getting the parent mirror of a Swift Mirror using Swift Mirror API
+Converting a Swift Mirror to a string representation using Swift Mirror API
+Comparing two Swift Mirrors using Swift Mirror API
+Creating a custom mirror for a class using Swift Mirror API
+Using the displayStyle property of Swift Mirror to determine the type of an object
+Enumerating the properties of a struct using Swift Mirror API
+Getting the subject type of a Swift Mirror using Swift Mirror API
+Retrieving the superclass mirror of a Swift Mirror using Swift Mirror API
+Using the children property of Swift Mirror to iterate over the properties of an object
+Filtering the properties of an object using Swift Mirror API
+Extracting the label and value of a property using Swift Mirror API
+Inspecting the methods of a class using Swift Mirror API
+Reflecting upon the protocols implemented by a class using Swift Mirror API
+Extracting the type name of a variable using Swift Mirror API
+Reflecting upon the generic type arguments of a class or struct using Swift Mirror API
+Accessing the parent mirror of a Swift Mirror using Swift Mirror API
+Converting a Swift Mirror to a JSON representation using Swift Mirror API
+Comparing two Swift Mirrors for equality using Swift Mirror API
+Creating a custom mirror for a struct using Swift Mirror API
+Using Swift Mirror to verify the conformance of a protocol by an instance
+Reflecting upon the computed properties of a struct using Swift Mirror API
+Inspecting the methods of a protocol using Swift Mirror API
+Accessing the raw value of an enum case using Swift Mirror API
+Extracting the generic constraints of a type using Swift Mirror API
+Using Swift Mirror to determine if an object is a class or a struct
+Reflecting upon the instance variables of a struct using Swift Mirror API
+Getting the label and value of a property with Swift Mirror API
+Inspecting the initializer methods of a class using Swift Mirror API
+Extracting the protocols implemented by a class using Swift Mirror API
+Using Swift Mirror to retrieve the associated values of an enum case
+Reflecting upon the child elements of a Swift Mirror using Swift Mirror API
+Accessing the type information of a property with Swift Mirror API
+Getting the superclass of a class using Swift Mirror API
+Inspecting the deinitializer method of a class using Swift Mirror API
+Extracting the protocols adopted by a struct using Swift Mirror API
+Using Swift Mirror to retrieve the associated types of a generic type
+Reflecting upon the instance methods of a class using Swift Mirror API
+Accessing the raw value of an enum using Swift Mirror API
+Getting the generic type arguments of a class or struct using Swift Mirror API
+Inspecting the type methods of a class using Swift Mirror API
+Extracting the protocols implemented by a struct using Swift Mirror API
+Using Swift Mirror to retrieve the associated types of a protocol
+Reflecting upon the instance methods of a struct using Swift Mirror API
+Accessing the type metadata of a Swift Mirror using Swift Mirror API
+Getting the raw value of an enum case with Swift Mirror API
+Inspecting the type properties of a class using Swift Mirror API
+Extracting the protocols adopted by an enum using Swift Mirror API
+Using Swift Mirror to retrieve the associated values of a protocol
+Reflecting upon the instance methods of an enum using Swift Mirror API
+Accessing the type metadata of a property using Swift Mirror API
+Getting the generic type constraints of a class or struct using Swift Mirror API
+Inspecting the type properties of a struct using Swift Mirror API
+Extracting the protocols implemented by an enum using Swift Mirror API
+Using Swift Mirror to retrieve the associated values of a generic type
+Reflecting upon the initializer methods of a struct using Swift Mirror API
+Accessing the type metadata of a method using Swift Mirror API
+Getting the generic type constraints of a generic type using Swift Mirror API
+Inspecting the type methods of a struct using Swift Mirror API
+Extracting the protocols adopted by a protocol using Swift Mirror API
+Using Swift Mirror to retrieve the associated types of an enum case
+Reflecting upon the initializer methods of an enum using Swift Mirror API
+Accessing the type metadata of an enum using Swift Mirror API
+Getting the generic type constraints of a protocol using Swift Mirror API
+Inspecting the type properties of an enum using Swift Mirror API
+Extracting the protocols implemented by a protocol using Swift Mirror API
+Using Swift Mirror to retrieve the associated values of a struct
+Reflecting upon the type methods of a protocol using Swift Mirror API
+Accessing the type metadata of a protocol using Swift Mirror API
+Getting the generic type constraints of an enum using Swift Mirror API
+Inspecting the type methods of an enum using Swift Mirror API
+Extracting the protocols adopted by a class using Swift Mirror API
+Using Swift Mirror to retrieve the associated types of a struct
+Reflecting upon the deinitializer methods of a class using Swift Mirror API
+Accessing the type metadata of a struct using Swift Mirror API
+Getting the generic type constraints of a property using Swift Mirror API
+Inspecting the type properties of a protocol using Swift Mirror API
+Extracting the protocols adopted by a struct using Swift Mirror API
+Using Swift Mirror to retrieve the associated types of a class
+Reflecting upon the deinitializer methods of a struct using Swift Mirror API
+Accessing the type metadata of a generic type using Swift Mirror API
+Getting the generic type constraints of a method using Swift Mirror API
+Inspecting the type methods of a protocol using Swift Mirror API
+Extracting the protocols implemented by a class using Swift Mirror API
+Using Swift Mirror to retrieve the associated types of a protocol method

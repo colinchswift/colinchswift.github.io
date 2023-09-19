@@ -1,0 +1,100 @@
+Introduction to Swift SPM (Swift Package Manager)
+How to install Swift SPM
+Creating a new package with Swift SPM
+Adding dependencies to a Swift SPM package
+Managing package versions with Swift SPM
+Publishing a package using Swift SPM
+Resolving and updating dependencies in Swift SPM
+Using Swift SPM in Xcode projects
+Building a library with Swift SPM
+Building an executable with Swift SPM
+Testing packages with Swift SPM
+Debugging Swift SPM package build issues
+Using Swift SPM with different platforms (iOS, macOS, Linux)
+Customizing the package structure in Swift SPM
+Adding resources to a Swift SPM package
+Using Swift SPM with different Swift versions
+Handling Swift SPM package dependencies conflicts
+Using Swift SPM to manage project dependencies
+Creating a Swift package from an existing project with Swift SPM
+Resolving dependencies in a multi-package Swift SPM project
+Versioning and tagging in Swift SPM
+Using Swift SPM with CI/CD workflows
+Sharing Swift SPM packages with other developers
+Using Swift SPM for Swift script management
+Migrating from CocoaPods to Swift SPM
+Migrating from Carthage to Swift SPM
+Managing Swift SPM package release notes and changelogs
+Using Swift SPM in open-source projects
+Resolving transitive dependencies in Swift SPM
+Creating a Swift SPM package with resources and assets
+Using Swift SPM with XCFrameworks
+Deploying Swift SPM packages to a private package registry
+Configuring build settings in Swift SPM
+Customizing build targets in Swift SPM
+Adding Swift package tests to a Swift SPM package
+Working with branch and tag references in Swift SPM
+Using Swift SPM with SwiftPM Library evolution
+Adding custom build scripts to Swift SPM
+Using Swift SPM in a multi-language project
+Using Swift SPM with SwiftUI Projects
+Using Swift SPM with Combine Framework
+Swift SPM integration with other build tools (e.g., Make)
+Using Swift SPM to manage project localization
+Swift SPM integration with code coverage tools
+Using Swift SPM with different package registries (e.g., GitHub, Bitbucket)
+Configuring Swift SPM for different deployment targets
+Using Swift SPM with pre-compiled binaries
+Generating documentation for Swift SPM packages
+Using Swift SPM with server-side Swift projects
+Migrating from Swift SPM 3 to Swift SPM 4
+Using Swift SPM with Swift Playgrounds
+Creating Swift SPM packages with cross-platform support
+Using Swift SPM with third-party frameworks
+Debugging Swift SPM package resolution errors
+Using Swift SPM with Swift Package Collections
+Using Swift SPM with SwiftNIO
+Creating Swift SPM packages for API clients
+Using Swift SPM with C libraries
+Using Swift SPM with SwiftLint for code style enforcement
+Using Swift SPM with SwiftFormat for code formatting
+Using Swift SPM with SwiftPM Library Evolution
+Migrating from Swift SPM 4 to Swift SPM 5
+Using Swift SPM with Swift on Windows
+Using Swift SPM with CMake for cross-platform build
+Using Swift SPM with Swift Protobuf for Protocol Buffers
+Using Swift SPM with Firebase & Firestore
+Using Swift SPM with SQLite
+Using Swift SPM with Vapor for server-side Swift
+Debugging Swift SPM build failures on different platforms
+Using Swift SPM with Core Data for data persistence
+Using Swift SPM with XCTest for unit testing
+Using Swift SPM with HTTP networking libraries (e.g., Alamofire)
+Integration testing Swift SPM packages
+Using Swift SPM with WebSocket libraries (e.g., Vapor WebSockets)
+Using Swift SPM with Swift Crypto for cryptographic operations
+Creating Swift SPM packages for command-line utilities
+Using Swift SPM with SwiftUI for macOS apps
+Using Swift SPM with SwiftUI for iOS apps
+Using Swift SPM with SwiftUI for watchOS apps
+Using Swift SPM with SwiftUI for tvOS apps
+Using Swift SPM with ARKit for augmented reality apps
+Using Swift SPM with SceneKit for 3D graphics apps
+Using Swift SPM with Metal for low-level GPU programming
+Using Swift SPM with CombineSchedulers for reactive programming
+Using Swift SPM with CoreDataSQLite for Core Data persistence
+Using Swift SPM with Swift Argument Parser for command-line parsing
+Using Swift SPM with SwiftUI-Introspect for SwiftUI introspection
+Using Swift SPM with Swift Argument Parser for generating CLIs
+Using Swift SPM with TensorFlow for machine learning
+Using Swift SPM with Yams for YAML parsing
+Using Swift SPM with CombineNetworking for networking
+Using Swift SPM with CodableCSV for CSV parsing
+Using Swift SPM with SwiftSVG for SVG rendering
+Using Swift SPM with Alamofire for networking
+Using Swift SPM with GRDB for SQLite
+Using Swift SPM with SQLite.swift for SQLite
+Using Swift SPM with Firebase Authentication
+Using Swift SPM with Firebase Analytics
+Using Swift SPM with Firebase Realtime Database
+Using Swift SPM with Firebase Cloud Firestore.

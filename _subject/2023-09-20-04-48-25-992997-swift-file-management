@@ -1,0 +1,100 @@
+Reading and writing to files in Swift
+Creating a new file in Swift
+Opening an existing file in Swift
+Closing a file in Swift
+Checking if a file exists in Swift
+Deleting a file in Swift
+Copying a file in Swift
+Moving a file in Swift
+Renaming a file in Swift
+Getting the size of a file in Swift
+Getting the creation date of a file in Swift
+Getting the modification date of a file in Swift
+Checking if a file is readable in Swift
+Checking if a file is writable in Swift
+Checking if a file is executable in Swift
+Checking if a file is a directory in Swift
+Creating a directory in Swift
+Deleting a directory in Swift
+Moving a directory in Swift
+Renaming a directory in Swift
+Getting the contents of a directory in Swift
+Filtering files by extension in Swift
+Sorting files by name in Swift
+Sorting files by size in Swift
+Sorting files by creation date in Swift
+Sorting files by modification date in Swift
+Parsing CSV files in Swift
+Parsing JSON files in Swift
+Parsing XML files in Swift
+Reading and writing text files in Swift
+Reading and writing binary files in Swift
+Reading and writing property list files in Swift
+Parsing log files in Swift
+Parsing configuration files in Swift
+Parsing HTML files in Swift
+Reading and writing image files in Swift
+Reading and writing audio files in Swift
+Reading and writing video files in Swift
+Reading and writing PDF files in Swift
+Reading and writing SQLite databases in Swift
+Compressing files in Swift
+Decompressing files in Swift
+Encrypting files in Swift
+Decrypting files in Swift
+Resizing images in Swift
+Cropping images in Swift
+Rotating images in Swift
+Converting file formats in Swift
+Extracting metadata from files in Swift
+Searching for files in a directory in Swift
+Creating symbolic links in Swift
+Resolving symbolic links in Swift
+Composing file paths in Swift
+Converting file sizes to human-readable format in Swift
+Serializing and deserializing data to files in Swift
+Synchronizing file access in Swift
+Batch processing files in Swift
+Handling file permissions in Swift
+Watching a file for changes in Swift
+Reading and writing Excel files in Swift
+Reading and writing Word files in Swift
+Reading and writing PowerPoint files in Swift
+Reading and writing CSV files with custom delimiters in Swift
+Reading and writing fixed-width files in Swift
+Parsing and generating RSS feeds in Swift
+Parsing and generating Atom feeds in Swift
+Serializing and deserializing binary data to files in Swift
+Serializing and deserializing JSON data to files in Swift
+Serializing and deserializing XML data to files in Swift
+Serializing and deserializing property list data to files in Swift
+Serializing and deserializing log data to files in Swift
+Serializing and deserializing HTML data to files in Swift
+Serializing and deserializing image data to files in Swift
+Serializing and deserializing audio data to files in Swift
+Serializing and deserializing video data to files in Swift
+Serializing and deserializing PDF data to files in Swift
+Querying and filtering data from SQLite databases in Swift
+Joining and transforming data from multiple files in Swift
+Synchronizing data across multiple files in Swift
+Bulk renaming files in a directory in Swift
+Sorting files by file extension in Swift
+Parsing and generating YAML files in Swift
+Extracting text from PDF files in Swift
+Converting text files to different encodings in Swift
+Reading and writing configuration files in Swift
+Reading and writing INI files in Swift
+Reading and writing Markdown files in Swift
+Extracting and manipulating audio data from video files in Swift
+Reading and writing binary plist files in Swift
+Parsing and generating GEDCOM files in Swift
+Parsing and generating VCard files in Swift
+Parsing and generating iCalendar files in Swift
+Parsing and generating 3D model files in Swift
+Parsing and generating GIS files in Swift
+Combining multiple files into a single file in Swift
+Splitting a large file into smaller files in Swift
+Identifying the file type based on file signatures in Swift
+Parsing and generating CSV files with custom delimiters in Swift
+Geocoding addresses and saving to files in Swift
+Parsing and generating MIDI files in Swift

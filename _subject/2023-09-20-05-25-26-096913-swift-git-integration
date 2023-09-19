@@ -1,0 +1,100 @@
+How to set up Git in a Swift project
+Using Source Control Navigator in Xcode for Git integration
+Understanding Git repositories in Swift
+Creating a new Git branch in a Swift project
+Cloning a Git repository in Swift
+Pushing changes to a remote Git repository in Swift
+Pulling changes from a Git repository in Swift
+Resolving merge conflicts in a Swift project with Git
+Committing changes to Git in Swift
+Viewing Git commit history in Xcode for Swift projects
+Using Git tags in a Swift project
+Configuring Git remote repositories in Swift
+Collaborating with a team using Git in Swift projects
+Using a Git GUI tool with Swift projects
+Utilizing Git stash feature in Swift development
+Ignoring files and folders in Git for Swift projects
+Setting up a continuous integration workflow with Git in Swift projects
+Using Git submodules in a Swift project
+Reverting changes in Git for Swift development
+Renaming files and folders in Git-integrated Swift projects
+Analyzing code changes using Git diff in Swift projects
+Using Git bisect for bug tracking in Swift projects
+Git interactive rebase for Swift developers
+Moving Git commits to a separate branch in Swift projects
+Squashing Git commits in Swift development
+Exporting Git repository history in Swift projects
+Cherry-picking Git commits in Swift development
+Using Git hooks in a Swift project
+Configuring Git aliases for Swift development
+Merging Git branches in a Swift project
+Recovering lost Git commits in Swift projects
+Using Git blame to track changes in Swift code
+Working with Git submodules in Swift projects
+Collaborating with other developers using Git in Swift projects
+Using Gitignore with Swift projects
+Creating and applying Git patches in Swift development
+Managing Git branches in a Swift project
+Rolling back Git commits in Swift projects
+Distributing Swift code using Git repositories
+Using Git hooks for automated tasks in Swift projects
+Setting up Git pre-commit hooks for Swift development
+Configuring Git post-commit hooks for Swift projects
+Enhancing Git log output in Swift development
+Debugging Git issues in Swift projects
+Utilizing Git bisect to locate regressions in Swift code
+Using Git cherry-pick for selective commits in Swift projects
+Managing Git submodules in Swift development
+Cleaning up Git history in a Swift project
+Automating Git workflows with Swift scripts
+Using Gitlab or Bitbucket for Git hosting with Swift projects
+Configuring Git credentials for Swift development
+Using Git revert to undo changes in Swift projects
+Integrating Swift code reviews with Git pull requests
+Setting up Git webhooks for Swift project notifications
+Performing code reviews in Git-integrated Swift projects
+Configuring Git aliases for Swift development shortcuts
+Using Git reflog to recover lost commits in Swift projects
+Understanding Git blame output in Swift code analysis
+Customizing Git log formatting for Swift projects
+Using Git cherry-pick to apply specific commits in Swift codebase
+Renaming Git branches in Swift development
+Using Git pull request templates in Swift projects
+Recovering deleted Git branches in Swift development
+Debugging Git merge conflicts in Swift projects
+Tracking file history with Git in Swift codebase
+Using Git filter-branch for repository cleanups in Swift projects
+Automating Git commit signing for Swift development
+Using Git hooks to enforce coding standards in Swift projects
+Integrating Swift test frameworks with Git pre-push hooks
+Tracking file renames with Git in Swift codebase
+Setting up Git script hooks for Swift development automation
+Using Git blame to identify contributors in Swift projects
+Configuring Git hooks to prevent sensitive data leaks in Swift code
+Utilizing Git tags for versioning in Swift projects
+Working with multiple Git remotes in a Swift project
+Using Git cherry-pick to apply changes across branches in Swift development
+Organizing commits with Git interactive rebase in Swift projects
+Using Git stash to temporarily save changes in Swift codebase
+Removing sensitive data from Git history in Swift projects
+Integrating Swift documentation generators with Git pre-commit hooks
+Configuring Git hooks for automated release processes in Swift projects
+Using Git blame to trace code changes in Swift projects
+Verifying Git commits with GPG signatures in Swift development
+Using Git push --force to overwrite remote commits in Swift codebase
+Automating Git branch cleanup in Swift projects
+Configuring Git hooks for Swift project linting
+Importing Git patches into a Swift codebase
+Using Git blame for code ownership tracking in Swift projects
+Reordering commits with Git interactive rebase in Swift development
+Automating Git changelog generation for Swift projects
+Verifying Git tags with GPG signatures in Swift codebase
+Leveraging Git bisect for performance monitoring in Swift projects
+Using Git hooks for Swift project dependency management
+Restoring deleted files with Git in a Swift codebase
+Customizing Git log output in Swift development
+Using Git hooks for Swift project code signing
+Exporting Git repository statistics for Swift projects
+Using Git smudge filters for Swift project file transformations
+Configuring Git hooks for Swift project documentation generation
+Using Git bisect for testing optimizations in Swift projects

@@ -1,0 +1,100 @@
+Basic string manipulation in Swift
+Creating a string variable in Swift
+Concatenating strings in Swift
+Accessing individual characters in a Swift string
+Finding the length of a string in Swift
+Comparing strings in Swift
+Checking if a string is empty in Swift
+Removing whitespace from a string in Swift
+Converting a string to uppercase in Swift
+Converting a string to lowercase in Swift
+Replacing characters in a string in Swift
+Splitting a string into an array in Swift
+Joining an array of strings into a single string in Swift
+Substring extraction in Swift
+Searching for a substring within a string in Swift
+Checking if a string starts with a specific substring in Swift
+Checking if a string ends with a specific substring in Swift
+Checking if a string contains only numbers in Swift
+Checking if a string contains only letters in Swift
+Checking if a string contains a certain character in Swift
+Formatting a string using placeholders in Swift
+Formatting a string as a currency in Swift
+Encoding and decoding strings in Swift
+Creating a multiline string in Swift
+Escaping special characters in a Swift string
+Accessing Unicode scalars in a Swift string
+Checking if a string is a palindrome in Swift
+Reversing a string in Swift
+Trimming leading and trailing whitespace from a string in Swift
+Trimming specific characters from a string in Swift
+Finding the first occurrence of a character in a string in Swift
+Finding the last occurrence of a character in a string in Swift
+Calculating the hash value of a string in Swift
+Concatenating multiple strings with a separator in Swift
+Counting the number of occurrences of a substring in a string in Swift
+Checking if a string contains only alphanumeric characters in Swift
+Checking if a string contains a valid email address in Swift
+Parsing and extracting data from a string in Swift
+Checking if a string is a valid URL in Swift
+Checking if a string is a valid IP address in Swift
+Checking if a string is a valid phone number in Swift
+Encrypting and decrypting strings in Swift
+Checking if a string contains a specific word in Swift
+Finding the index of a substring within a string in Swift
+Removing a specific substring from a string in Swift
+Checking if a string contains a given regular expression pattern in Swift
+Capitalizing the first letter of each word in a string in Swift
+Checking if a string is a valid date in a specific format in Swift
+Checking if a string is a valid JSON format in Swift
+Splitting a string into sentences in Swift
+Sorting an array of strings in ascending order in Swift
+Sorting an array of strings in descending order in Swift
+Checking if a string is a valid hexadecimal color code in Swift
+Converting a string to a number in Swift
+Checking if a string is a valid UUID in Swift
+Extracting digits from a string in Swift
+Extracting letters from a string in Swift
+Checking if a string contains a specific emoji in Swift
+Checking if a string is a valid XML format in Swift
+Checking if a string is a valid HTML format in Swift
+Replacing multiple occurrences of a substring in a string in Swift
+Checking if a string is a valid barcode in Swift
+Checking if a string is a valid credit card number in Swift
+Checking if a string is a valid social security number in Swift
+Checking if a string is a valid IPv6 address in Swift
+Checking if a string is a valid MAC address in Swift
+Checking if a string is a valid MIME type in Swift
+Checking if a string is a valid base64 encoded format in Swift
+Checking if a string is a valid Base32 encoded format in Swift
+Checking if a string is a valid Morse code in Swift
+Checking if a string is a valid Roman numeral in Swift
+Reversing the order of words in a string in Swift
+Checking if a string contains only whitespace characters in Swift
+Checking if a string is a palindrome ignoring case in Swift
+Checking if a string is a valid JSON Web Token (JWT) in Swift
+Checking if a string is a valid email address ignoring case in Swift
+Checking if a string is a valid URL ignoring case in Swift
+Checking if a string is a valid IP address ignoring case in Swift
+Checking if a string is a valid phone number ignoring case in Swift
+Checking if a string is a valid date in any format in Swift
+Checking if a string is a valid XML format ignoring case in Swift
+Checking if a string is a valid HTML format ignoring case in Swift
+Checking if a string is a valid barcode ignoring case in Swift
+Checking if a string is a valid credit card number ignoring case in Swift
+Checking if a string is a valid social security number ignoring case in Swift
+Checking if a string is a valid IPv6 address ignoring case in Swift
+Checking if a string is a valid MAC address ignoring case in Swift
+Checking if a string is a valid MIME type ignoring case in Swift
+Checking if a string is a valid base64 encoded format ignoring case in Swift
+Checking if a string is a valid Base32 encoded format ignoring case in Swift
+Checking if a string is a valid Morse code ignoring case in Swift
+Checking if a string is a valid Roman numeral ignoring case in Swift
+Checking if a string contains only certain characters in Swift
+Checking if a string contains a specific word ignoring case in Swift
+Checking if a string contains only printable ASCII characters in Swift
+Checking if a string contains only non-printable ASCII characters in Swift
+Checking if a string contains a specific special character in Swift
+Checking if a string contains only whitespace characters ignoring case in Swift
+Checking if a string is a valid JWT ignoring case in Swift
+Checking if a string is a valid MIME type ignoring case in Swift

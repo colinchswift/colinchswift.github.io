@@ -1,0 +1,100 @@
+Classes
+Objects
+Inheritance
+Polymorphism
+Superclass
+Subclass
+Class methods
+Class variables
+Static methods
+Instance methods
+Properties
+Getters and setters
+Constructors
+Memory management
+Deinitializers
+Copying objects
+Reference counting
+Automatic Reference Counting (ARC)
+Strong reference cycles
+Weak references
+Unowned references
+Reference types vs value types
+Mutability
+Identity operators
+Type casting
+Class hierarchies
+Overriding methods
+Access control
+Dynamic dispatch
+Protocol conformance
+Generics with reference types
+Extension of classes
+Class composition
+Lazy initialization
+Class initialization
+Class properties
+Class inheritance vs composition
+Method overriding vs overloading
+Singleton pattern
+Factories and abstract factories
+Observer pattern
+Decorator pattern
+Prototype pattern
+Bridge pattern
+Composite pattern
+Facade pattern
+Adapter pattern
+Proxy pattern
+Command pattern
+Strategy pattern
+Template method pattern
+Visitor pattern
+Mediator pattern
+State pattern
+Iterator pattern
+Flyweight pattern
+Memento pattern
+Chain of Responsibility pattern
+Null Object pattern
+Object pool pattern
+Immutable objects
+Immutable data structures
+Deep copying
+Shared mutable state
+Read-only access
+Mutable access
+Synchronization in concurrent programming
+Atomic operations
+Copy-on-write
+Copy-proof deep copy
+Immutable reference types
+Reference counting with thread safety
+Garbage collection
+Mark-and-sweep algorithm
+Generational garbage collection
+Reference tracing
+Reference graph
+Root set
+Reference queues
+Weak reference collections
+Incremental garbage collection
+Real-time garbage collection
+Automatic garbage collection
+Memory leaks in reference-based systems
+Manual memory management
+Object lifetimes
+Memory fragmentation
+Memory allocation strategies
+Object pools
+Finalizers
+Resource management in reference types
+External resource cleanup
+Disposable pattern
+RAII (Resource Acquisition Is Initialization)
+Memory safety in reference types
+Null safety
+Optional types
+Unwrapping optionals
+Optional chaining
+Guard statements

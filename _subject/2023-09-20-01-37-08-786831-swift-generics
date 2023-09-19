@@ -1,0 +1,100 @@
+Introduction to Swift generics
+Syntax of using generics in Swift
+Generic functions in Swift
+Generic types in Swift
+Type constraints in Swift generics
+Type parameters in Swift generics
+Associated types in Swift generics
+Advantages of using generics in Swift
+Examples of using generics in Swift
+Implementing a generic collection in Swift
+Using generics with Array in Swift
+Using generics with Dictionary in Swift
+Using generics with Set in Swift
+Using generics with Optionals in Swift
+Using generics with Enums in Swift
+Using generics with protocols in Swift
+Using generics with classes in Swift
+Using generics with structs in Swift
+Type erasure with generics in Swift
+Variadic generics in Swift
+Nested generic types in Swift
+Recursive generics in Swift
+Using generics with Closures in Swift
+Constraints on generic type parameters in Swift
+Using generics in network requests with Alamofire in Swift
+Using generics in JSON parsing with Codable in Swift
+Using generics in Core Data with Swift
+Using generics in SwiftUI views in Swift
+Using generics in Combine framework in Swift
+Using generics in unit testing with XCTest in Swift
+Limitations of generics in Swift
+Method overloading with generics in Swift
+Using generics in protocol extensions in Swift
+Using generics in typealias in Swift
+Generic operators in Swift
+Using generics in async/await in Swift
+Default generic types in Swift
+Type inference with generics in Swift
+Subclassing generic types in Swift
+Using generics in handling errors with Result in Swift
+Dealing with memory management in generics in Swift
+Using generics in sorting algorithms in Swift
+Using generics in data structures in Swift
+Using generics in algorithms in Swift
+Using generics in functional programming paradigms in Swift
+Higher-kinded types with generics in Swift
+Understanding type variance in Swift generics
+Using generics with associated values in Swift Enums
+Using generics in async programming with Task in Swift
+Using generics in property wrappers in Swift
+Generic multiple constraints in Swift
+Type aliases for generic types in Swift
+Using generics in dependency injection in Swift
+Using generics in singletons in Swift
+Using generics in factories in Swift
+Using generics in coding patterns in Swift
+Type subscripting with generics in Swift
+Using generics in type casting in Swift
+Using generics with lazy loading in Swift
+Using generics in conditional compilation in Swift
+Using generics for type safety in Swift
+Opaque types with generics in Swift
+Using generics in type introspection in Swift
+Protocol composition with generics in Swift
+Using generics in caching mechanisms in Swift
+Using generics in shared resource management in Swift
+Using generics in event handling with delegates in Swift
+Using generics in state management in Swift
+Using generics in debugging tools in Swift
+Using generics in functional reactive programming with RxSwift in Swift
+Using generics in promises and futures in Swift
+Using generics in serialization and deserialization with Codable in Swift
+Using generics in system frameworks in Swift
+Using generics in building APIs in Swift
+Using generics in data validation in Swift
+Using generics in performance optimizations in Swift
+Using generics in type inference in Swift
+Using generics in type casting in Swift
+Using generics in task parallelism in Swift
+Using generics in concurrency in Swift
+Using generics in thread safety in Swift
+Using generics in distributed systems in Swift
+Using generics in machine learning in Swift
+Using generics in natural language processing in Swift
+Using generics in image processing in Swift
+Using generics in audio processing in Swift
+Using generics in video processing in Swift
+Using generics in augmented reality in Swift
+Using generics in virtual reality in Swift
+Using generics in game development in Swift
+Using generics in UI/UX development in Swift
+Using generics in animation frameworks in Swift
+Using generics in gesture recognition in Swift
+Using generics in accessibility in Swift
+Using generics in localization in Swift
+Using generics in data persistence in Swift
+Using generics in networking in Swift
+Using generics in security in Swift
+Using generics in encryption and decryption in Swift
+Using generics in error handling in Swift.

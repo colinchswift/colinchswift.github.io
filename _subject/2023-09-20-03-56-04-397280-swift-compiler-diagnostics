@@ -1,0 +1,100 @@
+Syntax errors in Swift code
+Type mismatch errors in Swift code
+Unused variable warnings in Swift code
+Unused import statement warnings in Swift code
+Unreachable code warnings in Swift code
+Missing return statement errors in Swift code
+Unexpected nil value warnings in Swift code
+Incorrect access control warnings in Swift code
+Redundant access control modifiers warnings in Swift code
+Deprecated function usage warnings in Swift code
+Unexpected break statement errors in Swift code
+Infinite loop warnings in Swift code
+Invalid type casting errors in Swift code
+Duplicate function definition errors in Swift code
+Invalid override errors in Swift code
+Incorrectly formatted function parameter errors in Swift code
+Missing required function parameter errors in Swift code
+Incorrectly formatted method call errors in Swift code
+Incorrectly formatted variable assignment errors in Swift code
+Incompatible protocol conformances errors in Swift code
+Inconsistent optionals usage warnings in Swift code
+Missing required initializer errors in Swift code
+Incomplete switch statement warnings in Swift code
+Incorrect switch case ordering warnings in Swift code
+Unused enum case warnings in Swift code
+Invalid computed property implementation errors in Swift code
+Incorrect variable scoping warnings in Swift code
+Unhandled error case warnings in Swift code
+Incorrect closure syntax errors in Swift code
+Incorrect property binding errors in Swift code
+Invalid subscript access errors in Swift code
+Incorrect URL formatting errors in Swift code
+Invalid JSON parsing errors in Swift code
+Incorrect date formatting errors in Swift code
+Invalid regular expression syntax errors in Swift code
+Missing localization key errors in Swift code
+Unbalanced parentheses errors in Swift code
+Incorrect use of static keyword errors in Swift code
+Invalid class inheritance errors in Swift code
+Incorrect use of class vs struct errors in Swift code
+Incorrect use of final keyword warnings in Swift code
+Incorrect method parameter label errors in Swift code
+Incorrect use of inout parameter errors in Swift code
+Invalid attribute usage errors in Swift code
+Unreachable initializer warnings in Swift code
+Incorrect typealias implementation errors in Swift code
+Incorrect enum raw value assignment errors in Swift code
+Missing conformance to protocol errors in Swift code
+Incorrect use of optional chaining errors in Swift code
+Invalid subscript assignment errors in Swift code
+Overlapping generic constraints errors in Swift code
+Incorrect handling of OptionSet values errors in Swift code
+Incorrect use of @escaping closure warnings in Swift code
+Incorrect use of DispatchQueue errors in Swift code
+Invalid use of DispatchGroup errors in Swift code
+Incorrect use of GCD queues errors in Swift code
+Incorrectly formatted URL requests errors in Swift code
+Incorrectly implemented URLSession completion handlers errors in Swift code
+Inconsistent use of Codable protocol errors in Swift code
+Incorrect use of NSPredicate errors in Swift code
+Invalid Core Data fetch request errors in Swift code
+Incorrect use of UserDefaults errors in Swift code
+Invalid use of NotificationCenter errors in Swift code
+Incorrect use of Timer errors in Swift code
+Inconsistent use of global constants warnings in Swift code
+Duplicated function and variable names errors in Swift code
+Incorrect use of NSNotificationCenter errors in Swift code
+Invalid use of Storyboard identifiers errors in Swift code
+Incorrect use of Core Location framework errors in Swift code
+Duplicated constraint names errors in Swift code
+Incorrect collection view cell registration errors in Swift code
+Missing required table view data source methods errors in Swift code
+Invalid use of UIStackView constraints errors in Swift code
+Inconsistent use of Auto Layout warnings in Swift code
+Missing localization for storyboard errors in Swift code
+Incorrect handling of Core Data fetch results errors in Swift code
+Invalid use of Grand Central Dispatch errors in Swift code
+Incorrect use of DispatchSemaphore errors in Swift code
+Invalid use of DispatchSource errors in Swift code
+Incorrect use of DispatchWorkItem errors in Swift code
+Missing tests for XCTestCase subclasses errors in Swift code
+Invalid use of XCTestExpectation errors in Swift code
+Incorrect use of XCTFail errors in Swift code
+Inconsistent use of XCTestCase class methods warnings in Swift code
+Missing required delegate methods in Swift code
+Invalid use of UIPageViewController errors in Swift code
+Incorrect handling of Core Graphics contexts errors in Swift code
+Missing implementation of UITableViewDelegate methods errors in Swift code
+Invalid use of UICollectionViewLayout errors in Swift code
+Incorrect use of USUnitConverter errors in Swift code
+Missing implementation of AVAudioRecorderDelegate methods errors in Swift code
+Invalid use of AVPlayerLayer errors in Swift code
+Incorrect use of AVSpeechSynthesizer errors in Swift code
+Inconsistent use of Core Animation warnings in Swift code
+Invalid use of UISearchBar errors in Swift code
+Incorrect use of UIRefreshControl errors in Swift code
+Missing implementation of MKMapViewDelegate methods errors in Swift code
+Invalid use of URLRequest errors in Swift code
+Incorrect use of UNUserNotificationCenter errors in Swift code
+Missing implementation of UNUserNotificationCenterDelegate methods errors in Swift code

@@ -1,0 +1,100 @@
+Initialization basics in Swift
+Designated initializers in Swift
+Convenience initializers in Swift
+Failable initializers in Swift
+Required initializers in Swift
+Memberwise initializers in Swift
+Automatic initializer inheritance in Swift
+Overriding initializers in Swift
+Required initializers and subclassing in Swift
+Initializer chaining in Swift
+Deinitializer in Swift
+Custom initialization in Swift
+Default parameter values in initializers in Swift
+Optional member variables in initializers in Swift
+Lazy initialization in Swift
+Initialization expressions in Swift
+Initialization of optional types in Swift
+Initialization with default values in Swift
+Multiple initializers in Swift
+Initializers with variadic parameters in Swift
+Nested initializers in Swift
+Propagating initialization failure in Swift
+Overloading initializers in Swift
+Required initializers in Swift protocols
+Initializing an empty object in Swift
+Memberwise initializer inheritance in Swift
+Initializers for value types in Swift
+Initializers for reference types in Swift
+Initializers for enumeration cases in Swift
+Initialization requirements in Swift protocols
+Initializing a class from a protocol in Swift
+Inheriting initializers from a superclass in Swift
+Type casting during initialization in Swift
+Initializers in inheritance chains in Swift
+Class cluster initialization in Swift
+Automatic initializer synthesis in Swift
+Initialization with closures in Swift
+Failable initializer propagation in Swift
+Initializers for read-only computed properties in Swift
+Initializing a struct with a closure in Swift
+Initializers for computed properties in Swift
+Initializing a class with a closure in Swift
+Initializing a protocol with a closure in Swift
+Initializing a default implementation in Swift protocols
+Initializer inheritance within generics in Swift
+Initializing a generic type in Swift
+Initializing a generic type with a closure in Swift
+Mutating initializers in Swift
+Subclass initialization in Swift
+Class initialization and deinitialization order in Swift
+Initializers for class-only protocols in Swift
+Required and non-required initializers in Swift
+Convenience initializers for subclasses in Swift
+Initializers for throwing functions in Swift
+Initializing an enumeration with associated values in Swift
+Inheriting initializers with stored properties in Swift
+Creating a default initializer in Swift
+Required initializers for class properties in Swift
+Initialization requirements in protocol extensions in Swift
+Custom initialization with dependency injection in Swift
+Deferring initialization in Swift
+Implicitly unwrapped optional initialization in Swift
+Initializers for Objective-C interoperability in Swift
+Overriding a superclass's required initializer in Swift
+Initializer inheritance with protocols in Swift
+Chaining designated and convenience initializers in Swift
+Initializing a class from a struct in Swift
+Simple initialization examples in Swift
+Initializing an empty collection in Swift
+Failable initializers for optionals in Swift
+Initializers with optional guarding in Swift
+Explicit initializer invocation in Swift
+Initializing a dictionary in Swift
+Initializers for subclassing a final class in Swift
+Handling initialization failure in Swift
+Using initialValue() in Swift initializers
+Copy-on-write initialization in Swift
+Lazy property initialization with closure in Swift
+Initializing a class with a function in Swift
+Initializers with access control in Swift
+Chaining initializers within the same class in Swift
+Initializing a struct from a class in Swift
+Initializing a tuple in Swift
+Defer statement in initializers in Swift
+Force unwrapping optionals in Swift initialization
+Creating default values in initializers in Swift
+Changing the superclass in subclass initialization in Swift
+Initializing an array in Swift
+Initialization requirements for storing constant properties in Swift
+Initializing an enumeration with raw values in Swift
+Initializing a class with a dictionary in Swift
+Initializing a class with an array in Swift
+Double initialization prevention in Swift
+Initialization of computed properties in Swift
+Forced initialization in Swift
+Initialization with required parameters in Swift
+Initialization with ignored result in Swift
+Initializing a class from a Swift module
+Lazy initialization with closures and weak self in Swift
+Initializing a struct from a tuple in Swift

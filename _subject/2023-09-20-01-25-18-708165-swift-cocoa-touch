@@ -1,0 +1,100 @@
+Basics of Swift programming language
+Introduction to Cocoa Touch framework
+Using Xcode for Cocoa Touch development
+Creating a new project in Cocoa Touch
+Understanding the MVC (Model-View-Controller) design pattern in Cocoa Touch
+Exploring the UIKit framework in Cocoa Touch
+Using Interface Builder to design user interfaces in Cocoa Touch
+Working with views and view controllers in Cocoa Touch
+Understanding Auto Layout for responsive user interfaces in Cocoa Touch
+Implementing user interactions with gestures in Cocoa Touch
+Using the Core Animation framework for smooth animations in Cocoa Touch
+Handling user input with text fields and buttons in Cocoa Touch
+Displaying and formatting text with labels and text views in Cocoa Touch
+Working with images and image views in Cocoa Touch
+Using table views to display structured data in Cocoa Touch
+Fetching and displaying data from remote sources using URLSession in Cocoa Touch
+Implementing navigation and segues in Cocoa Touch
+Understanding data persistence using Core Data in Cocoa Touch
+Working with databases using SQLite in Cocoa Touch
+Integrating third-party libraries and frameworks in Cocoa Touch
+Implementing networking functionality with Alamofire in Cocoa Touch
+Handling JSON data using Codable in Cocoa Touch
+Adding location services to your app with Core Location in Cocoa Touch
+Using MapKit to display maps and annotations in Cocoa Touch
+Implementing push notifications with Firebase Cloud Messaging in Cocoa Touch
+Implementing in-app purchases with StoreKit in Cocoa Touch
+Understanding background execution and multitasking in Cocoa Touch
+Implementing gesture recognizers and touch handling in Cocoa Touch
+Working with audio and video playback in Cocoa Touch
+Implementing camera and photo functionality in Cocoa Touch
+Creating custom animations and transitions in Cocoa Touch
+Supporting accessibility features in Cocoa Touch
+Implementing internationalization and localization in Cocoa Touch
+Handling device orientation and screen sizes in Cocoa Touch
+Building adaptive layouts for different device types in Cocoa Touch
+Implementing user preferences and settings in Cocoa Touch
+Working with dates and time in Cocoa Touch
+Implementing background tasks and notifications in Cocoa Touch
+Creating custom UI controls and components in Cocoa Touch
+Integrating social media sharing in Cocoa Touch
+Enhancing user experience with Core Haptics in Cocoa Touch
+Implementing augmented reality features with ARKit in Cocoa Touch
+Working with health and fitness data using HealthKit in Cocoa Touch
+Integrating Siri voice commands and shortcuts in Cocoa Touch
+Implementing drag and drop functionality in Cocoa Touch
+Creating custom keyboard extensions in Cocoa Touch
+Implementing biometric authentication with Touch ID and Face ID in Cocoa Touch
+Enhancing app security with keychain services in Cocoa Touch
+Implementing deep linking and Universal Links in Cocoa Touch
+Integrating social login and authentication with Firebase Auth in Cocoa Touch
+Implementing real-time collaborative features with CloudKit in Cocoa Touch
+Working with videos and live streaming using AVFoundation in Cocoa Touch
+Implementing secure network communication with TLS/SSL in Cocoa Touch
+Creating complex animations with Core Animation in Cocoa Touch
+Implementing machine learning features with Core ML in Cocoa Touch
+Working with sensors and motion data using Core Motion in Cocoa Touch
+Implementing indoor navigation and mapping with IndoorAtlas in Cocoa Touch
+Working with Bluetooth and iBeacon technology in Cocoa Touch
+Integrating Apple Pay for in-app purchases in Cocoa Touch
+Implementing handwriting recognition using Core ML in Cocoa Touch
+Creating custom transitions and animations with UIViewPropertyAnimator in Cocoa Touch
+Working with PDF documents and annotations in Cocoa Touch
+Implementing custom photo and video filters in Cocoa Touch
+Enhancing app performance with Instruments in Cocoa Touch
+Implementing drag and drop between apps with Drag and Drop APIs in Cocoa Touch
+Working with custom fonts and typography in Cocoa Touch
+Implementing app extensions for sharing and action extensions in Cocoa Touch
+Creating interactive iMessage apps in Cocoa Touch
+Working with Core Graphics for custom drawing and rendering in Cocoa Touch
+Implementing handoff and continuity between devices in Cocoa Touch
+Integrating machine vision features with Vision framework in Cocoa Touch
+Creating custom gesture recognizers in Cocoa Touch
+Working with Core Data relationships and advanced query techniques in Cocoa Touch
+Implementing natural language processing with NSLinguisticTagger in Cocoa Touch
+Debugging and troubleshooting techniques in Cocoa Touch development
+Implementing secure file storage and encryption in Cocoa Touch
+Working with augmented reality 3D models and rendering with RealityKit in Cocoa Touch
+Implementing custom keyboard shortcuts and text expansion in Cocoa Touch
+Creating custom watchOS apps with WatchKit in Cocoa Touch
+Integrating machine learning models into your app with Core ML Model Deployment in Cocoa Touch
+Working with Core NFC for Near Field Communication features in Cocoa Touch
+Implementing voice commands and control with SiriKit in Cocoa Touch
+Creating custom Today widgets for the Notification Center in Cocoa Touch
+Working with App Clips for lightweight app experiences in Cocoa Touch
+Implementing machine learning features with Create ML in Cocoa Touch
+Enhancing app privacy with App Tracking Transparency in Cocoa Touch
+Working with Core ML Model Encryption and Model Signing in Cocoa Touch
+Implementing indoor positioning and navigation with IndoorAtlas in Cocoa Touch
+Creating custom haptic feedback patterns with Core Haptics in Cocoa Touch
+Working with custom URL schemes and deep linking in Cocoa Touch
+Implementing custom NFC tag reading and writing in Cocoa Touch
+Creating custom UI components with SwiftUI in Cocoa Touch
+Working with AR Quick Look for augmented reality previews in Cocoa Touch
+Implementing custom app icons and launch screens in Cocoa Touch
+Working with machine learning and Core ML models on-device with Neural Engine in Cocoa Touch
+Implementing App Store features and in-app purchases with StoreKit in Cocoa Touch
+Creating custom in-app interactive experiences with Siri Event Suggestions in Cocoa Touch
+Working with AR Quick Look for 3D models and animations in Cocoa Touch
+Implementing custom app analytics and performance monitoring in Cocoa Touch
+Creating dynamic and resizable user interfaces with SwiftUI in Cocoa Touch

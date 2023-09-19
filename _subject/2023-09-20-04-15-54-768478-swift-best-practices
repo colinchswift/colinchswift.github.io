@@ -1,0 +1,100 @@
+Properly use optionals
+Follow naming conventions
+Use value types instead of reference types when appropriate
+Prefer immutability when possible
+Avoid force unwrapping optionals
+Use guard statements for early exits
+Handle errors gracefully
+Use struct for smaller, simple data types
+Limit the use of global variables
+Properly handle memory management
+Use enums to represent a fixed set of values
+Avoid using magic numbers
+Keep code modular and organized
+Test code using unit tests
+Use protocols and protocol extensions to promote code reuse
+Minimize the use of force casts
+Keep functions short and focused
+Utilize Swift's type inference
+Use the Swift Standard Library for common operations
+Follow the SOLID principles
+Prioritize readability over clever code
+Prefer composition over inheritance
+Follow the Single Responsibility Principle
+Utilize the Swift Package Manager for dependency management
+Follow the DRY (Don't Repeat Yourself) principle
+Avoid excessive nested closures
+Use computed properties instead of getter and setter methods when possible
+Keep consistent naming and casing conventions throughout the codebase
+Apply the "Tell, Don't Ask" principle to improve code clarity
+Make use of value semantics for concurrency safety
+Use the defer statement to ensure cleanup in resource management
+Avoid unnecessary type constraints in generic functions or types
+Utilize Swift's collection operators (map, filter, reduce) for concise and expressive code
+Use guard statements instead of if statements for parameter validation
+Minimize the use of force-unwrapping optionals in external APIs
+Prefer dependency injection over singleton pattern for improving testability
+Use lazy initialization to delay the creation of objects until they are needed
+Consider using SwiftLint for enforcing coding style and best practices
+Use extensions to separate protocol conformance from primary types
+Document code with clear comments and descriptive variable/constant names
+Avoid using too many optional chaining operations in a single line
+Use typealias to simplify complex type declarations
+Utilize access control modifiers to enforce encapsulation and information hiding
+Separate concerns in code by adhering to the separation of concerns principle
+Avoid excessive nesting of control structures
+Prefer high-level abstractions over low-level implementation details
+Use enumerated() to iterate over elements of an array with both the index and the value
+Use Swift's error handling mechanisms (try, catch) instead of returning nil or using optional error types
+Avoid force-unwrapping optionals in favor of optional binding with if let or guard let statements
+Follow the Law of Demeter to reduce coupling between classes
+Use the defer statement to release resources after they are no longer needed
+Utilize Swift's function and closure expressions for concise and expressive code
+Use guard let statements to unwrap optionals and handle failure cases early
+Follow the Open-Closed Principle by designing code that is easily extensible but difficult to modify
+Use lifecycle hooks (such as viewDidLoad, viewWillAppear) to organize code in view controllers
+Utilize Swift's higher-order functions (such as forEach, flatMap) for clean and concise code
+Prefer value types (struct, enum) over reference types (class) to simplify code and reduce bugs
+Use availability modifiers (such as @available) to handle platform-specific code and compatibility issues
+Consider using Swift's Codable protocol for easy serialization and deserialization of data models
+Use property observers (such as didSet, willSet) to perform additional actions when properties change
+Adopt Codable and NSCoding protocols for easy persistence of data models
+Use Swift's guard keyword to perform early parameter validation and handle edge cases
+Use the Result type to handle asynchronous operations and propagate errors
+Avoid using implicitly unwrapped optionals in favor of explicit optionals or value types
+Prefer composition over inheritance to promote code reuse and maintainability
+Utilize Swift's pattern matching capabilities (such as switch statements) for concise and readable code
+Use guard case statements to conditionally unwrap optionals and execute code only if certain conditions are met
+Avoid strong reference cycles by using weak or unowned references when necessary
+Use Swift's error handling mechanisms (try, catch) instead of completion handlers for better code readability
+Consider using Swift's combine framework for reactive programming and handling asynchronous events
+Use Swift's property wrappers to simplify common property behaviors such as validation or logging
+Avoid using type shortcuts like '!important' in favor of explicit type annotations or generic constraints
+Use Swift's trailing closure syntax for improved code readability and clarity
+Utilize Swift's Codable protocol with custom coding keys for fine-grained control over JSON serialization and deserialization
+Use Swift's key paths to access properties and invoke methods on objects dynamically
+Avoid excessive method chaining by breaking it down into smaller, more readable steps
+Use Swift's map, compactMap, and flatMap functions to transform and filter collections of objects
+Utilize Swift's type erasure techniques (such as Any or AnyHashable) to create type-agnostic abstractions
+Prefer asynchronous programming patterns (such as async/await or Combine) to handle asynchronous tasks
+Use Swift's inout parameter modifier to modify variables passed by reference
+Utilize Swift's property observers (willSet, didSet) to trigger side effects when properties change
+Avoid using force-unwrapping optionals in production code, especially in critical or safety-critical sections
+Use Swift's @escaping keyword to mark closure parameters that are stored or used outside the scope of the function
+Follow Apple's Human Interface Guidelines when designing user interfaces with Swift/UIKit
+Use the Swift Package Manager to manage external dependencies and facilitate code sharing
+Utilize Swift's lazy initialization to improve performance by deferring object creation until needed
+Follow the Principle of Least Astonishment by writing code that behaves in an intuitive and expected manner
+Use Swift's guard statement to handle early exits and avoid nested if statements for better code readability
+Utilize Swift's extension feature to add functionality to existing types without modifying their original implementation
+Use Swift's defer statement to ensure cleanup actions are executed even in the presence of exceptions or early returns
+Avoid using deprecated APIs or features in Swift to ensure compatibility and future-proof code
+Use Swift's native error handling mechanism (try-catch) to gracefully handle and propagate errors
+Follow the Interface Segregation Principle by designing small, focused protocols instead of large, monolithic ones
+Use Swift's flatMap function to transform optionals into collections and flatten nested optionals
+Utilize Swift's subscripts to provide convenient access to elements of a collection or type
+Avoid unnecessary code duplication by using generics and higher-order functions
+Prefer functional programming paradigms (such as immutability and pure functions) in Swift code
+Use Swift's property observers (willSet, didSet) to enforce data validation or trigger side effects
+Follow the Swift API Design Guidelines to write clear, consistent, and idiomatic code
+Utilize Swift's built-in concurrency mechanisms (such as async/await or actors) for efficient and safe parallel execution

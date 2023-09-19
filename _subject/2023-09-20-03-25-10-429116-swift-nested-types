@@ -1,0 +1,100 @@
+Introduction to Swift nested types
+Advantages of using nested types in Swift
+Defining a nested type in Swift
+Accessing nested types in Swift
+Difference between nested types and inner types in Swift
+Using nested types for code organization in Swift
+Best practices for using nested types in Swift
+Using nested types for encapsulation in Swift
+Implementing protocols with nested types in Swift
+Using nested types for namespacing in Swift
+Differences between nested types and extensions in Swift
+Using nested enums in Swift
+Using nested structs in Swift
+Using nested classes in Swift
+Using nested protocols in Swift
+Defining a nested type within a struct in Swift
+Defining a nested type within a class in Swift
+Defining a nested type within an enum in Swift
+Defining a nested type within a function in Swift
+Defining a nested type within another nested type in Swift
+Differences between nested types and global types in Swift
+Using nested types for code reusability in Swift
+Access control for nested types in Swift
+Implementing inheritance with nested types in Swift
+Using nested types for polymorphism in Swift
+Using computed properties within nested types in Swift
+Using methods within nested types in Swift
+Using initializers within nested types in Swift
+Using properties within nested types in Swift
+Using type aliases within nested types in Swift
+Accessing properties and methods of nested types in Swift
+Limitations of using nested types in Swift
+Using nested types within generic types in Swift
+Handling ambiguities with naming of nested types in Swift
+Using nested types in Swift extensions
+Using nested types for dependency injection in Swift
+Using nested types in MVVM architecture in Swift
+Using nested types in VIPER architecture in Swift
+Using nested types in SwiftUI in Swift
+Using nested types in reactive programming in Swift
+Using nested types in asynchronous programming in Swift
+Using nested types for state management in Swift
+Using nested types for error handling in Swift
+Using nested types for data modeling in Swift
+Using nested types for validation in Swift
+Using nested types for network communication in Swift
+Using nested types for database operations in Swift
+Using nested types for UI components in Swift
+Using nested types for animations in Swift
+Using nested types for unit testing in Swift
+Using nested types for mock objects in Swift
+Using nested types for generics in Swift
+Using nested types for type constraints in Swift
+Using nested types for type conversions in Swift
+Exploring real-world examples of nested types in Swift
+Using nested types in game development in Swift
+Using nested types in app development in Swift
+Using nested types in web development with SwiftUI in Swift
+Using nested types in framework development in Swift
+Using nested types in library development in Swift
+Using nested types in server-side Swift development
+Using nested types in backend development in Swift
+Using nested types in iOS development in Swift
+Using nested types in macOS development in Swift
+Using nested types in watchOS development in Swift
+Using nested types in tvOS development in Swift
+Using nested types in cross-platform development in Swift
+Using nested types in data analysis with Swift
+Using nested types in machine learning with Swift
+Using nested types in artificial intelligence with Swift
+Using nested types in image processing with Swift
+Using nested types in audio processing with Swift
+Using nested types in video processing with Swift
+Using nested types in augmented reality with Swift
+Using nested types in virtual reality with Swift
+Using nested types in cryptography with Swift
+Using nested types in networking with Swift
+Using nested types in concurrency with Swift
+Using nested types in multithreading with Swift
+Using nested types in debugging and profiling with Swift
+Using nested types in performance optimization in Swift
+Using nested types in error handling and debugging with Swift
+Using nested types in UI/UX design with Swift
+Using nested types in accessibility and localization with Swift
+Using nested types in animations and transitions with Swift
+Using nested types in state restoration and persistence with Swift
+Using nested types in security and encryption with Swift
+Using nested types in authentication and authorization with Swift
+Using nested types in logging and monitoring with Swift
+Using nested types in testing and debugging with Swift
+Using nested types in continuous integration and delivery with Swift
+Using nested types in error reporting and crash analytics with Swift
+Using nested types in user analytics and tracking with Swift
+Using nested types in push notifications and in-app messaging with Swift
+Using nested types in data synchronization and offline support with Swift
+Using nested types in data encryption and decryption with Swift
+Using nested types in data compression and decompression with Swift
+Using nested types in data validation and sanitization with Swift
+Using nested types in data storage and retrieval with Swift
+Using nested types in data serialization and deserialization with Swift

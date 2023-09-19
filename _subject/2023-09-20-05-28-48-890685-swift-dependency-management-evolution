@@ -1,0 +1,80 @@
+Introduction to Swift Dependency Management Evolution
+Basics of Swift Package Manager
+Using CocoaPods with Swift
+Migrating from Cocoapods to Swift Package Manager
+Exploring Carthage for Swift Dependency Management
+Integrating SwiftPM and Carthage in a project
+Comparing Swift Package Manager, Cocoapods, and Carthage
+Benefits of using Swift Package Manager in iOS Development
+Managing third-party dependencies in Swift projects
+Creating custom Swift packages
+Using Git submodules for dependency management in Swift
+Working with binary frameworks in Swift
+Handling versioning and compatibility in Swift packages
+Tips for optimizing Swift dependency management
+Dealing with conflicts in Swift dependencies
+Enhancing build times in Swift Package Manager
+Debugging issues related to Swift dependency resolution
+Automating Swift dependency management with scripts
+Deploying Swift packages to different platforms
+Integrating Swift Package Manager with Xcode
+Managing dependencies in a multi-platform Swift project
+Version pinning and semantic versioning in Swift dependencies
+Using conditional package dependencies in Swift
+Collaborating on Swift packages with other developers
+Exploring Swift Package Registry for package discovery
+Framework vs. library in Swift dependency management
+Using Swift Test Dependencies for unit testing
+Continuous integration and Swift dependency management
+Best practices for documenting Swift packages
+Analyzing the impact of dependencies on app size in Swift
+Handling deprecated dependencies in Swift projects
+Comparing Swift Package Manager and Gradle (for Android)
+Security considerations in Swift dependency management
+Integrating Swift packages with Objective-C projects
+Using Swift package mirrors for faster downloads
+Creating modular and reusable Swift packages
+Dependency management in Swift frameworks for macOS
+Optimizing network requests when dealing with Swift dependencies
+Best practices for managing transitive dependencies in Swift
+Offline support in Swift dependency management
+Exploring alternative package managers for Swift
+Managing Swift package versions in a monorepo setup
+Techniques for reducing dependency bloat in Swift projects
+Dealing with deprecated Swift packages
+Using Swift dependency injection frameworks
+Implementing caching strategies for Swift dependencies
+Integrating Swift packages with SwiftUI projects
+Validating licenses and permissions in Swift dependencies
+Strategies for managing Swift package metadata
+Exploring the impact of Swift dependency management on build times
+Running acceptance tests for Swift packages
+Managing Swift dependencies in enterprise-level projects
+Exploring Swift binary frameworks vs. source dependencies
+Optimizing CI/CD pipelines for Swift dependency management
+Managing Swift package continuous integration with Jenkins
+Deploying Swift packages to private package repositories
+Strategies for handling forks and pull requests in Swift dependencies
+Building and distributing Swift packages for open-source projects
+Dealing with cyclic dependencies in Swift projects
+Using Swift dedicated dependency managers like Mint
+Constraining Swift package dependencies with custom rules
+Strategies for migrating legacy dependencies to Swift Package Manager
+Distributing Swift packages via third-party package managers
+Handling Swift package dependency updates with ease
+Metadata validation and security audits for Swift dependencies
+Implementing feature toggles in Swift dependencies
+Best practices for versioning Swift packages
+Managing Swift package release and tagging processes
+Debugging issues related to Swift package caching
+Strategies for maintaining and supporting Swift packages
+Creating Swift packages with documentation generators
+Managing Swift package dependencies in offline development environments
+Exploring Swift package discovery tools and platforms
+Implementing code signing for Swift package dependencies
+Enhancing performance with dynamic Swift package resolution
+Integrating unit tests from Swift packages to Xcode test targets
+Implementing dependency graphs for Swift packages
+Debugging issues with Swift package resolution conflicts
+Best practices for publishing Swift packages to package indexes
+Strategies for deali

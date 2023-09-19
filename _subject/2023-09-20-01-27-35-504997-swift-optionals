@@ -1,0 +1,100 @@
+Defining an optional variable in Swift
+Unwrapping an optional using if let statements
+Force unwrapping an optional using the exclamation mark (!) operator
+Using optional chaining in Swift
+Nil coalescing operator in Swift optionals
+Implicitly unwrapped optionals in Swift
+Difference between nil and optional in Swift
+Optional binding in Swift
+Unwrapping multiple optionals using guard statements
+Dealing with optional function return values in Swift
+Initializing an empty optional in Swift
+Using optional types in Swift structs and classes
+Optional runtime safety in Swift
+Using optional enum values in Swift
+Advantages of using optionals in Swift
+Handling nil values using optionals in Swift
+Optional throwing functions in Swift
+Working with optionals in Swift arrays
+Optionals and error handling in Swift
+Using optionals with Swift dictionaries
+Typecasting optionals in Swift
+Using optional values in Swift closures
+Optional subscripting in Swift
+Implicitly unwrapped optionals as function parameters in Swift
+Handling optionals in Swift switch statements
+Optional accessors in Swift properties
+Optional parameters in Swift functions
+Immutable optionals in Swift
+Optional requirements in Swift protocols
+Difference between implicitly unwrapped optionals and optionals in Swift
+Optional chaining in nested optionals in Swift
+Failable initializers in Swift
+Checking for nil in Swift optionals
+Optional unwrapping using guard let statements in Swift
+Comparison of optional types in Swift
+Using optionals in Swift pattern matching
+Optional binding with conditional unwrapping in Swift
+Optional casting in Swift
+Unwrapping optionals using try? in Swift
+Handling optional closures in Swift
+Optional parameters in Swift initializers
+Using optionals in Swift switch case patterns
+Combining optionals with default values in Swift
+Optional type aliasing in Swift
+Handling optionals in Swift completion handlers
+Conditional operator with optionals in Swift
+Using optionals in Swift extensions
+Handling optionals in Swift loops and iterations
+Optional unwrapping using fatalError in Swift
+Optional dictionary values in Swift
+Optional in-out parameters in Swift functions
+Optional subscripting in Swift arrays
+Working with optional raw values in Swift enums
+Using optionals in Swift initializers
+Converting optional tuples in Swift
+Handling optional payloads in Swift notifications
+Optional closures in Swift guards
+Unwrapping multiple optionals using optional patterns in Swift
+Optionals and value types in Swift
+Using optional values in Swift computed properties
+Optional unwrapping using map and flatMap in Swift
+Optional lazy initialization in Swift
+Using optionals in Swift error handling
+Optional switch case bindings in Swift
+Handling optional escaping closures in Swift
+Nesting optionals in Swift
+Custom handling of nil in optional types in Swift
+Optional function types in Swift
+Extending optionals in Swift with custom methods
+Optional parameters in Swift subscripting
+Handling optional associated values in Swift enums
+Using optionals in Swift sets
+Optional closures as completion handlers in Swift
+Creating optional nested structs in Swift
+Optional chaining with computed properties in Swift
+Handling optional tuples in Swift higher-order functions
+Optional initialization using closure in Swift
+Optional unwrapping using switch statements in Swift
+Dealing with optional date values in Swift
+Optional unwrapping using nil-coalescing operator in Swift
+Optional subscripting in Swift dictionaries
+Handling optional scalar values in Swift
+Using optionals in Swift tuple assignments
+Optional unwrapping using for loops in Swift
+Optional subscripting in Swift collections
+Handling optional error values in Swift
+Optional escaping closures in Swift
+Implicitly unwrapped optionals in Swift generics
+Using optionals in Swift didSet and willSet observers
+Optional value bindings in Swift guard statements
+Optional access to weak references in Swift
+Handling optional date components in Swift
+Optional casting to concrete types in Swift
+Using optionals in Swift property observers
+Optional map function in Swift collections
+Optional subscripting with key paths in Swift
+Handling optional UIKit views in Swift
+Optional initialization using throwing closures in Swift
+Using optionals in Swift autoclosures
+Optional binding with multiple variables in Swift

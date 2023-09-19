@@ -1,0 +1,100 @@
+Variables in Swift
+Constants in Swift
+Optional types in Swift
+Enums in Swift
+Structs in Swift
+Classes in Swift
+Functions in Swift
+Closures in Swift
+Type inference in Swift
+Type annotations in Swift
+Control flow in Swift
+Loops in Swift
+If statements in Swift
+Switch statements in Swift
+Error handling in Swift
+Optional chaining in Swift
+Guard statements in Swift
+Tuples in Swift
+Arrays in Swift
+Dictionaries in Swift
+Sets in Swift
+Ranges in Swift
+String manipulation in Swift
+Stride in Swift
+Type aliases in Swift
+Type casting in Swift
+Error handling in Swift
+Destructuring in Swift
+Initialization in Swift
+Properties in Swift
+Computed properties in Swift
+Lazy properties in Swift
+Property observers in Swift
+Methods in Swift
+Inheritance in Swift
+Polymorphism in Swift
+Encapsulation in Swift
+Access control in Swift
+Protocols in Swift
+Extensions in Swift
+Generics in Swift
+Error handling in Swift
+Subscripts in Swift
+Associated types in Swift
+Type erasure in Swift
+Automatic Reference Counting (ARC) in Swift
+Memory management in Swift
+Option sets in Swift
+Error protocols in Swift
+Codable protocol in Swift
+Equatable protocol in Swift
+Comparable protocol in Swift
+Hashable protocol in Swift
+Custom operators in Swift
+Type constraints in Swift
+Extensions for built-in types in Swift
+Reflection in Swift
+Namespacing in Swift
+Mixins in Swift
+Core Graphics in Swift
+unit testing in Swift
+Performance optimization in Swift
+Concurrency in Swift
+GCD (Grand Central Dispatch) in Swift
+Networking in Swift
+JSON parsing in Swift
+Core Data in Swift
+Core Location in Swift
+Core Animation in Swift
+AVFoundation in Swift
+UIKit in Swift
+SwiftUI in Swift
+Auto Layout in Swift
+Collection Views in Swift
+Table Views in Swift
+Core Image in Swift
+Core ML in Swift
+MapKit in Swift
+Multithreading in Swift
+Dispatch queues in Swift
+Queues in Swift
+Synchronization in Swift
+Thread safety in Swift
+Asynchronous programming in Swift
+Error handling in asynchronous code in Swift
+Codable for asynchronous operations in Swift
+Combine framework in Swift
+Testing asynchronous code in Swift
+Debugging in Swift
+Xcode shortcuts for Swift
+Working with dates in Swift
+File handling in Swift
+Regular expressions in Swift
+Internationalization and localization in Swift
+Debug symbols in Swift
+Xcode build settings for Swift
+Swift Package Manager (SPM)
+Continuous integration in Swift projects
+Xcode plugins for Swift development
+Best practices for Swift development

@@ -1,0 +1,100 @@
+Basic animation principles in Swift
+Animating views in Swift
+Creating animated transitions in Swift
+Using keyframe animations in Swift
+Using Spring animations in Swift
+Working with timing functions in Swift animations
+Creating custom animation curves in Swift
+Animating constraints in Swift
+Animating opacity and alpha in Swift
+Animating scale and rotation in Swift
+Animating position and frame in Swift
+Creating parallax effects in Swift animations
+Adding bounce animations in Swift
+Creating slide and fade animations in Swift
+Animating table and collection views in Swift
+Creating interactive animations in Swift
+Animating shape layers in Swift
+Creating animation loops in Swift
+Animating colors in Swift
+Creating animated progress indicators in Swift
+Using Core Animation in Swift animations
+Working with CALayer animations in Swift
+Using CABasicAnimation in Swift
+Creating complex animations with CAAnimationGroup in Swift
+Animating gradients in Swift
+Creating custom transitions between view controllers in Swift
+Using UIViewPropertyAnimator for interactive animations in Swift
+Applying easing functions to Swift animations
+Creating animated splash screens in Swift
+Animating navigation bar and toolbar in Swift
+Adding motion effects to Swift animations
+Animating text and labels in Swift
+Creating flip and rotation animations in Swift
+Using CGAffineTransform for transformations in Swift animations
+Animating scroll views and paging in Swift
+Creating animated buttons and controls in Swift
+Adding particle effects to Swift animations
+Animating SVG graphics in Swift
+Creating animated charts and graphs in Swift
+Using UIViewPropertyAnimator for view controller presentation and dismissal animations in Swift
+Creating animated page transitions in Swift
+Adding physics-based animations with UIDynamicAnimator in Swift
+Animating constraint changes with UIViewPropertyAnimator in Swift
+Creating animated navigation transitions in Swift
+Using Core Graphics for custom drawing and animations in Swift
+Creating animated loading indicators in Swift
+Adding motion blur and camera effects to Swift animations
+Animating modal and popover transitions in Swift
+Creating animated background effects in Swift
+Using Core Image for animated image processing in Swift
+Animating image view transitions and effects in Swift
+Creating animated onboarding experiences in Swift
+Adding 3D effects and animations to Swift views
+Animating map views and annotations in Swift
+Using UIViewPropertyAnimator to create interactive navigation transitions in Swift
+Creating animated navigation menus in Swift
+Adding swipe and gesture-based animations in Swift
+Animating collection view layouts in Swift
+Creating animated masks and clipping in Swift
+Using Core Animation particle systems in Swift
+Animating video playback in Swift
+Creating animated progress bars and loaders in Swift
+Adding parallax and depth effects to Swift animations
+Animating text fields and form elements in Swift
+Using Core Graphics for animated icons and vector graphics in Swift
+Creating morphing and shape-shifting animations in Swift
+Animating camera and photo effects in Swift
+Creating animated sliding menu and sidebars in Swift
+Adding ripple and water effects to Swift animations
+Animating tab bar and tab navigation in Swift
+Creating animated photo galleries and sliders in Swift
+Using Core Animation for layer animations in Swift
+Animating audio and music effects in Swift
+Creating animated countdown timers and clocks in Swift
+Adding perspective and 3D transformations to Swift views
+Animating custom gesture recognizers in Swift
+Creating animated page curl and flip transitions in Swift
+Using Core Graphics for mask animations in Swift
+Animating volume and sound effects in Swift
+Creating animated gesture-based interactions in Swift
+Adding morphing and shape-changing effects to Swift animations
+Animating custom video player controls in Swift
+Creating animated slide-out menus in Swift
+Using Core Animation for particle effects in Swift
+Animating voice and speech recognition in Swift
+Creating animated infographics and data visualizations in Swift
+Adding tilt and parallax effects to Swift animations
+Animating custom keyboard and input controls in Swift
+Creating animated progress trackers and step-by-step guides in Swift
+Using Core Graphics for animated text effects and typography in Swift
+Animating AR experiences and augmented reality effects in Swift
+Creating animated social media sharing and liking effects in Swift
+Adding smoke and fire effects to Swift animations
+Animating custom camera filters and effects in Swift
+Creating animated weather and climate visualizations in Swift
+Using Core Animation for animated timeline and event displays in Swift
+Animating haptic feedback and touch interactions in Swift
+Creating animated physics simulations and simulations in Swift
+Adding particle and fluid dynamics effects to Swift animations
+Animating custom drawing and painting effects in Swift

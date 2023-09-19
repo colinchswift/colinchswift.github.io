@@ -1,0 +1,100 @@
+Basic enum syntax in Swift
+Associated values in Swift enums
+Raw values in Swift enums
+Enum initializers in Swift
+Enum properties in Swift
+Enum methods in Swift
+Enum cases with different values in Swift
+Recursive enums in Swift
+Enum extensions in Swift
+Switch statements with enums in Swift
+Enum patterns in Swift
+Enum inheritance in Swift
+Nested enums in Swift
+Enum iterating in Swift
+Value binding in enum cases in Swift
+Optional enum cases in Swift
+Enum serialization in Swift
+Enum patterns in functional programming with Swift
+Enum customization in Swift
+Enum pattern matching in Swift
+Declaring enums with associated types in Swift
+Enum case iterating in Swift
+Using enums in switch statements with pattern matching in Swift
+Uninhabited Swift enums
+Swift Result type vs enum
+Protocol-oriented programming with Swift enums
+Using enums as state machines in Swift
+Enum comparability in Swift
+Enum composition in Swift
+Enum raw value type conversion in Swift
+Enum factory methods in Swift
+Enum inheritance vs composition in Swift
+Using enums with generics in Swift
+Enum method overloading in Swift
+Error handling with enums in Swift
+Optional chaining with enum properties in Swift
+Converting enums to strings in Swift
+Enum default case in Swift
+Associated values vs raw values in Swift enums
+Enum default values in Swift
+Enum case pattern matching with where clause in Swift
+Swift enum performance considerations
+Using enums for type safety in Swift
+Enum initializers with default values in Swift
+Enum iteration order in Swift
+Enum constructors in Swift
+Enum cases with string raw values in Swift
+Enum case availability in Swift
+Enum raw value validation in Swift
+Swift enum error handling with try-catch
+Enum hashability in Swift
+Enum subscript syntax in Swift
+Circular dependencies in Swift enums
+Enum value comparison in Swift
+Enum alternatives in Swift
+Enum case conditionals in Swift
+Enum accessor methods in Swift
+Enum type casting in Swift
+Enum static members in Swift
+Multi-case pattern matching with enums in Swift
+Foreign key constraints in Swift enums
+Enum raw value encoding and decoding in Swift
+Recursive enum pattern matching in Swift
+Enum factory initializers in Swift
+Enum-based state machines in Swift
+Enum lazy initialization in Swift
+Enum size and memory usage in Swift
+Enum binding in optional binding statement in Swift
+Enum with generic associated type in Swift
+Enum protocols and protocol inheritance in Swift
+Enum induction in Swift
+Enum properties with lazy initialization in Swift
+Optional enum binding in Swift
+Enum sequence and collection conformance in Swift
+Case-iterable enums in Swift
+Enum reflection in Swift
+Enum recursion and indirect keyword in Swift
+Enum custom debug descriptions in Swift
+Enum with static factory methods in Swift
+Switch statement fallthrough with enums in Swift
+Enum subscripts in Swift
+Enum initializers with multiple associated values in Swift
+Enum memberwise initialization synthesis in Swift
+Self-referencing enums in Swift
+Enum with conditional conformance in Swift
+Enum case availability checks in Swift
+Enum case translation in Swift
+Enum case customization in Swift
+Enum string interpolation in Swift
+Enum equality in Swift
+Enum customization with Codable in Swift
+Enum with non-unique raw values in Swift
+Enum conformance to custom protocols in Swift
+Enum API versioning in Swift
+Enum customization with KeyPath in Swift
+Enum with custom equatable and hashable implementation in Swift
+Enum pattern matching with multiple conditions in Swift
+Enum inheritance and associated type constraints in Swift
+Enum differentiation in Swift
+Enum integration with Objective-C in Swift

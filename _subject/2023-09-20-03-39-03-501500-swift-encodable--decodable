@@ -1,0 +1,100 @@
+What is Swift Encodable & Decodable?
+Differences between Encodable & Decodable in Swift.
+Using Encodable & Decodable protocols in Swift.
+JSON encoding in Swift using Encodable.
+JSON decoding in Swift using Decodable.
+Encoding custom types with Encodable in Swift.
+Decoding custom types with Decodable in Swift.
+Custom JSON key mapping with Encodable & Decodable in Swift.
+Nested encoding with Encodable in Swift.
+Nested decoding with Decodable in Swift.
+Omitting properties from encoding with Encodable in Swift.
+Ignoring unknown keys in JSON decoding with Decodable in Swift.
+Encoding enums with associated values using Encodable in Swift.
+Decoding enums with associated values using Decodable in Swift.
+Conditional encoding with Encodable in Swift.
+Conditional decoding with Decodable in Swift.
+Ignoring optional properties in encoding with Encodable in Swift.
+Handling optional values in decoding with Decodable in Swift.
+Encoding date values using Encodable in Swift.
+Decoding date values using Decodable in Swift.
+Custom date formatting with Encodable & Decodable in Swift.
+Encoding URL values using Encodable in Swift.
+Decoding URL values using Decodable in Swift.
+Nested JSON objects with Encodable & Decodable in Swift.
+Encoding and decoding arrays with Encodable & Decodable in Swift.
+Encoding and decoding dictionaries with Encodable & Decodable in Swift.
+Handling errors during encoding with Encodable in Swift.
+Handling errors during decoding with Decodable in Swift.
+Conforming to Encodable & Decodable in Swift extensions.
+Using Codable for persistence in Swift.
+Performance considerations when using Encodable & Decodable in Swift.
+Encoding and decoding binary data with Encodable & Decodable in Swift.
+Integration with third-party libraries using Encodable & Decodable in Swift.
+Using Encodable & Decodable with Codable types in Swift.
+Converting Encodable & Decodable to and from JSON strings in Swift.
+Implementation details of Encodable & Decodable protocols in Swift.
+Serializing and deserializing Swift objects using Encodable & Decodable.
+Using KeyedEncodingContainer and KeyedDecodingContainer with Encodable & Decodable in Swift.
+Custom encoding and decoding strategies with Encodable & Decodable in Swift.
+Using Encodable & Decodable to communicate with web APIs in Swift.
+Migrating from NSCoding to Encodable & Decodable in Swift.
+Persistent storage of Codable objects in Swift.
+Using Codable for networking in Swift.
+Codable vs. NSCoding in Swift.
+Limitations and best practices of using Encodable & Decodable in Swift.
+Implementing conditional encoding and decoding with Encodable & Decodable in Swift.
+Encoding and decoding raw values with Encodable & Decodable in Swift.
+Resolving circular references when encoding and decoding with Encodable & Decodable in Swift.
+Using Encodable & Decodable with Core Data in Swift.
+Sharing Codable models between iOS and macOS apps in Swift.
+Conforming to Encodable & Decodable in Objective-C compatibility mode in Swift.
+Debugging encoding and decoding errors with Encodable & Decodable in Swift.
+Encoding and decoding with external format specifiers using Encodable & Decodable in Swift.
+Using Encodable & Decodable with protocol-oriented programming in Swift.
+Implementing custom serialization and deserialization logic with Encodable & Decodable in Swift.
+Using KeyedEncodingContainer and KeyedDecodingContainer to customize encoding and decoding process in Swift.
+Implementing conditional conformance to Encodable & Decodable in Swift.
+Using Encodable & Decodable to serialize and deserialize Swift structs and classes.
+Encoding and decoding Swift enums with associated values using Encodable & Decodable.
+Sharing Encodable & Decodable models between different platforms in Swift.
+Customizing encoding and decoding process using userInfo dictionary with Encodable & Decodable in Swift.
+Using Encodable & Decodable with Core Data entities in Swift.
+Encoding and decoding fractions and percentages with Encodable & Decodable in Swift.
+Using Encodable & Decodable to store and retrieve complex data structures in Swift.
+Automatic encoding and decoding of nested types with Encodable & Decodable in Swift.
+Using Encodable & Decodable with property wrappers in Swift.
+Performance optimizations for encoding and decoding with Encodable & Decodable in Swift.
+Handling encoding and decoding errors with try-catch blocks in Swift.
+Encoding and decoding large data sets efficiently with Encodable & Decodable in Swift.
+Customizing JSON serialization and deserialization options with Encodable & Decodable in Swift.
+Handling encoding and decoding of optional values with Encodable & Decodable in Swift.
+Using Encodable & Decodable with SQLite databases in Swift.
+Encoding and decoding XML data with Encodable & Decodable in Swift.
+Using Encodable & Decodable with Firebase Realtime Database in Swift.
+Encoding and decoding UUIDs with Encodable & Decodable in Swift.
+Converting Encodable & Decodable models to and from XML strings in Swift.
+Encoding and decoding HTML data with Encodable & Decodable in Swift.
+Using Encodable & Decodable with Realm database in Swift.
+Encoding and decoding binary files with Encodable & Decodable in Swift.
+Integrating Encodable & Decodable with SwiftUI in Swift.
+Encoding and decoding CSV files with Encodable & Decodable in Swift.
+Using Encodable & Decodable with CoreData in Swift.
+Encoding and decoding audio files with Encodable & Decodable in Swift.
+Using Encodable & Decodable for state restoration in Swift.
+Encoding and decoding video files with Encodable & Decodable in Swift.
+Using Encodable & Decodable for data synchronization in Swift.
+Encoding and decoding images with Encodable & Decodable in Swift.
+Using Encodable & Decodable for data persistence in Swift.
+Encoding and decoding geographic data with Encodable & Decodable in Swift.
+Using Encodable & Decodable for data sharing in Swift.
+Encoding and decoding encryption algorithms with Encodable & Decodable in Swift.
+Using Encodable & Decodable for data serialization in Swift.
+Encoding and decoding network requests with Encodable & Decodable in Swift.
+Using Encodable & Decodable for message passing in Swift.
+Encoding and decoding compressed data with Encodable & Decodable in Swift.
+Using Encodable & Decodable for caching in Swift.
+Encoding and decoding binary protocols with Encodable & Decodable in Swift.
+Using Encodable & Decodable for cross-platform data transfer in Swift.
+Encoding and decoding XML-RPC data with Encodable & Decodable in Swift.
+Using Encodable & Decodable for real-time data synchronization in Swift.

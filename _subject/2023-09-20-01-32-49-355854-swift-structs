@@ -1,0 +1,100 @@
+Why use structs in Swift?
+Differences between structs and classes in Swift.
+How to define a struct in Swift.
+What are the properties of a struct in Swift?
+How to initialize a struct in Swift.
+Accessing properties and methods of a struct in Swift.
+How to define methods in a struct in Swift.
+How to define computed properties in a struct in Swift.
+How to define static properties and methods in a struct in Swift.
+How to define initializers in a struct in Swift.
+Value types vs reference types in Swift structs.
+How to use structs as function parameters in Swift.
+How to use structs as return types in Swift functions.
+How to define subscripting in a struct in Swift.
+Copying and mutability of structs in Swift.
+How to implement protocols in a struct in Swift.
+How to create a custom initializer for a struct in Swift.
+How to define extensions for a struct in Swift.
+How to use mutating methods in a struct in Swift.
+How to make a struct conform to Equatable protocol in Swift.
+How to make a struct conform to Hashable protocol in Swift.
+How to make a struct conform to Comparable protocol in Swift.
+How to make a struct conform to Codable protocol in Swift.
+How to make a struct conform to CustomStringConvertible protocol in Swift.
+Defining static constants and variables in a struct in Swift.
+Defining associated types in a struct in Swift.
+How to implement subscripting with keypaths in a struct in Swift.
+Structs as value types and thread safety in Swift.
+Structs and memory management in Swift.
+When to use structs over classes in Swift.
+Structs for modeling geometric shapes in Swift.
+Structs for modeling networking requests in Swift.
+Structs for modeling mathematical operations in Swift.
+Structs for modeling date and time in Swift.
+Structs for modeling user interfaces in Swift.
+Structs for modeling game components in Swift.
+Structs for modeling JSON data in Swift.
+Structs for modeling database records in Swift.
+Structs for modeling file system entities in Swift.
+Structs for modeling user input in Swift.
+Structs for modeling user preferences in Swift.
+Structs for modeling sensor data in Swift.
+Structs for modeling machine learning models in Swift.
+Structs for modeling image processing operations in Swift.
+Structs for modeling audio processing operations in Swift.
+Structs for modeling video processing operations in Swift.
+Structs for modeling graph data structures in Swift.
+Structs for modeling tree data structures in Swift.
+Structs for modeling linked list data structures in Swift.
+Structs for modeling stack data structures in Swift.
+Structs for modeling queue data structures in Swift.
+Structs for modeling binary search tree data structures in Swift.
+Structs for modeling hash table data structures in Swift.
+Structs for modeling heap data structures in Swift.
+Structs for modeling priority queue data structures in Swift.
+Structs for modeling trie data structures in Swift.
+Structs for modeling graph algorithms in Swift.
+Structs for modeling sorting algorithms in Swift.
+Structs for modeling searching algorithms in Swift.
+Structs for modeling pathfinding algorithms in Swift.
+Structs for modeling encryption algorithms in Swift.
+Structs for modeling compression algorithms in Swift.
+Structs for modeling hashing algorithms in Swift.
+Structs for modeling machine learning algorithms in Swift.
+Structs for modeling neural networks in Swift.
+Structs for modeling natural language processing algorithms in Swift.
+Structs for modeling computer vision algorithms in Swift.
+Structs for modeling clustering algorithms in Swift.
+Structs for modeling classification algorithms in Swift.
+Structs for modeling regression algorithms in Swift.
+Structs for modeling anomaly detection algorithms in Swift.
+Structs for modeling time series analysis algorithms in Swift.
+Structs for modeling reinforcement learning algorithms in Swift.
+Structs for modeling recommendation systems in Swift.
+Structs for modeling dimensionality reduction algorithms in Swift.
+Structs for modeling collaborative filtering algorithms in Swift.
+Structs for modeling matrix factorization algorithms in Swift.
+Structs for modeling text classification algorithms in Swift.
+Structs for modeling image recognition algorithms in Swift.
+Structs for modeling sentiment analysis algorithms in Swift.
+Structs for modeling speech recognition algorithms in Swift.
+Structs for modeling genetic algorithms in Swift.
+Structs for modeling evolutionary algorithms in Swift.
+Structs for modeling swarm intelligence algorithms in Swift.
+Structs for modeling ant colony optimization algorithms in Swift.
+Structs for modeling particle swarm optimization algorithms in Swift.
+Structs for modeling genetic programming algorithms in Swift.
+Structs for modeling artificial immune systems in Swift.
+Structs for modeling cellular automata in Swift.
+Structs for modeling game of life in Swift.
+Structs for modeling cellular networks in Swift.
+Structs for modeling neural networks in Swift.
+Structs for modeling digital filters in Swift.
+Structs for modeling signal processing operations in Swift.
+Structs for modeling image compression algorithms in Swift.
+Structs for modeling video compression algorithms in Swift.
+Structs for modeling audio compression algorithms in Swift.
+Structs for modeling error correction codes in Swift.
+Structs for modeling error detection codes in Swift.
+Structs for modeling cryptography algorithms in Swift.
