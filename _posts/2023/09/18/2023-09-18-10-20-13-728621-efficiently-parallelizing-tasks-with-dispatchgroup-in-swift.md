@@ -3,7 +3,7 @@ layout: post
 title: "Efficiently parallelizing tasks with DispatchGroup in Swift"
 description: " "
 date: 2023-09-18
-tags: [swift, dispatchgroup]
+tags: [dispatchgroup]
 comments: true
 share: true
 ---

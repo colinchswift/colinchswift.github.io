@@ -3,7 +3,7 @@ layout: post
 title: "Guarding against network and API failures with guard statements in Swift"
 description: " "
 date: 2023-09-18
-tags: [swift, networking]
+tags: [networking]
 comments: true
 share: true
 ---

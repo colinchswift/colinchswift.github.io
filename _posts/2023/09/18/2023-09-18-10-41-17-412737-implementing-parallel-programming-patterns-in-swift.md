@@ -3,7 +3,7 @@ layout: post
 title: "Implementing parallel programming patterns in Swift"
 description: " "
 date: 2023-09-18
-tags: [swift, parallelprogramming]
+tags: [parallelprogramming]
 comments: true
 share: true
 ---

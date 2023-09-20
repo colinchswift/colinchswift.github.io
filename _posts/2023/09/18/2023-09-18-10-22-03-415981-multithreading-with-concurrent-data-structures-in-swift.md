@@ -3,7 +3,7 @@ layout: post
 title: "Multithreading with concurrent data structures in Swift"
 description: " "
 date: 2023-09-18
-tags: [swift, multithreading]
+tags: [multithreading]
 comments: true
 share: true
 ---

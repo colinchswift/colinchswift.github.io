@@ -3,7 +3,7 @@ layout: post
 title: "Using guard statements for parameter validation in Swift"
 description: " "
 date: 2023-09-18
-tags: [swift, guardstatement]
+tags: [guardstatement]
 comments: true
 share: true
 ---

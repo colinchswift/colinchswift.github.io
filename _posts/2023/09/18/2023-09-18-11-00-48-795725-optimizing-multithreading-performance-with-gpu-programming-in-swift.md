@@ -3,7 +3,7 @@ layout: post
 title: "Optimizing multithreading performance with GPU programming in Swift"
 description: " "
 date: 2023-09-18
-tags: [swift]
+tags: []
 comments: true
 share: true
 ---

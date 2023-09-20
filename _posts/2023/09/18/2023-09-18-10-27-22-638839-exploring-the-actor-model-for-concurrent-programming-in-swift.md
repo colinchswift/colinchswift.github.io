@@ -3,7 +3,7 @@ layout: post
 title: "Exploring the Actor model for concurrent programming in Swift"
 description: " "
 date: 2023-09-18
-tags: [swift, concurrency]
+tags: [concurrency]
 comments: true
 share: true
 ---

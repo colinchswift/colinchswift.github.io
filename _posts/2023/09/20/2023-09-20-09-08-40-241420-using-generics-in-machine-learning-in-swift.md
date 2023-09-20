@@ -3,7 +3,7 @@ layout: post
 title: "Using generics in machine learning in Swift"
 description: " "
 date: 2023-09-20
-tags: [Swift, MachineLearning]
+tags: [MachineLearning]
 comments: true
 share: true
 ---

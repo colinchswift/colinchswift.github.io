@@ -3,7 +3,7 @@ layout: post
 title: "Implementing a generic collection in Swift"
 description: " "
 date: 2023-09-20
-tags: [swift, generics]
+tags: [generics]
 comments: true
 share: true
 ---

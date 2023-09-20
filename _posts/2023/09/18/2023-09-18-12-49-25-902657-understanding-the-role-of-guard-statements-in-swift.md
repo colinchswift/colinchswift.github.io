@@ -3,7 +3,7 @@ layout: post
 title: "Understanding the role of guard statements in Swift"
 description: " "
 date: 2023-09-18
-tags: [swift, guards]
+tags: [guards]
 comments: true
 share: true
 ---

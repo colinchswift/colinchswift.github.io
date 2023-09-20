@@ -3,7 +3,7 @@ layout: post
 title: "Achieving thread safety in Swift with transactional synchronization"
 description: " "
 date: 2023-09-18
-tags: [Swift, ThreadSafety]
+tags: [ThreadSafety]
 comments: true
 share: true
 ---

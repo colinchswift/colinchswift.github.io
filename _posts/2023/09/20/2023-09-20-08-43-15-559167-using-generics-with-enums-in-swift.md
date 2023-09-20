@@ -3,7 +3,7 @@ layout: post
 title: "Using generics with Enums in Swift"
 description: " "
 date: 2023-09-20
-tags: [Swift, Enums]
+tags: [Enums]
 comments: true
 share: true
 ---

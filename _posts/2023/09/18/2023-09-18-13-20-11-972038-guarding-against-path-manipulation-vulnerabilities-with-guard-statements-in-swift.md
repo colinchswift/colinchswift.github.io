@@ -3,7 +3,7 @@ layout: post
 title: "Guarding against path manipulation vulnerabilities with guard statements in Swift"
 description: " "
 date: 2023-09-18
-tags: [Swift, Security]
+tags: [Security]
 comments: true
 share: true
 ---

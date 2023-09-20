@@ -3,7 +3,7 @@ layout: post
 title: "Leveraging Swift atomics for thread-safe operations"
 description: " "
 date: 2023-09-18
-tags: [Swift, Concurrency]
+tags: [Concurrency]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Guarding against data corruption with guard statements in Swift"
 description: " "
 date: 2023-09-18
-tags: [swift, guardstatements]
+tags: [guardstatements]
 comments: true
 share: true
 ---

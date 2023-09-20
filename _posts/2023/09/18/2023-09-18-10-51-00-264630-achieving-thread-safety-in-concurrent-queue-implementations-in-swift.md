@@ -3,7 +3,7 @@ layout: post
 title: "Achieving thread safety in concurrent queue implementations in Swift"
 description: " "
 date: 2023-09-18
-tags: [swift, concurrency]
+tags: [concurrency]
 comments: true
 share: true
 ---

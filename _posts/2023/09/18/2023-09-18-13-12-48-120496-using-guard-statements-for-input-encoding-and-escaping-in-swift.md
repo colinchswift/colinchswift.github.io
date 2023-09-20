@@ -3,7 +3,7 @@ layout: post
 title: "Using guard statements for input encoding and escaping in Swift"
 description: " "
 date: 2023-09-18
-tags: [Swift, InputEncoding]
+tags: [InputEncoding]
 comments: true
 share: true
 ---

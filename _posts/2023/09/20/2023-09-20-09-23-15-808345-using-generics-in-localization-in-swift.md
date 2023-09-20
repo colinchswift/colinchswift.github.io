@@ -3,7 +3,7 @@ layout: post
 title: "Using generics in localization in Swift"
 description: " "
 date: 2023-09-20
-tags: [Swift, Localization]
+tags: [Localization]
 comments: true
 share: true
 ---

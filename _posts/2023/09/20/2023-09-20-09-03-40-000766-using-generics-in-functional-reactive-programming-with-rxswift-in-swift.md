@@ -3,7 +3,7 @@ layout: post
 title: "Using generics in functional reactive programming with RxSwift in Swift"
 description: " "
 date: 2023-09-20
-tags: [swift, RxSwift]
+tags: [RxSwift]
 comments: true
 share: true
 ---

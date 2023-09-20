@@ -3,7 +3,7 @@ layout: post
 title: "Using guard statements for thread safety in Swift"
 description: " "
 date: 2023-09-18
-tags: [Swift, ThreadSafety]
+tags: [ThreadSafety]
 comments: true
 share: true
 ---

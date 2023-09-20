@@ -3,7 +3,7 @@ layout: post
 title: "Using generics in network requests with Alamofire in Swift"
 description: " "
 date: 2023-09-20
-tags: [Swift, Alamofire]
+tags: [Alamofire]
 comments: true
 share: true
 ---

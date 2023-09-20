@@ -3,7 +3,7 @@ layout: post
 title: "Type inference with generics in Swift"
 description: " "
 date: 2023-09-20
-tags: [Swift, Generics]
+tags: [Generics]
 comments: true
 share: true
 ---

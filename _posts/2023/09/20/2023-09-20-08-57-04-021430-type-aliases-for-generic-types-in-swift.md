@@ -3,7 +3,7 @@ layout: post
 title: "Type aliases for generic types in Swift"
 description: " "
 date: 2023-09-20
-tags: [Swift, TypeAliases]
+tags: [TypeAliases]
 comments: true
 share: true
 ---

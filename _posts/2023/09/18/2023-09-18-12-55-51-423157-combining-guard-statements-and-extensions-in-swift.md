@@ -3,7 +3,7 @@ layout: post
 title: "Combining guard statements and extensions in Swift"
 description: " "
 date: 2023-09-18
-tags: [swift, guardstatements]
+tags: [guardstatements]
 comments: true
 share: true
 ---

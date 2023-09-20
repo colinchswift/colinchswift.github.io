@@ -3,7 +3,7 @@ layout: post
 title: "Using generics in encryption and decryption in Swift"
 description: " "
 date: 2023-09-20
-tags: [swift, encryption]
+tags: [encryption]
 comments: true
 share: true
 ---

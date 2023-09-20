@@ -3,7 +3,7 @@ layout: post
 title: "Guarding against remote code execution vulnerabilities with guard statements in Swift"
 description: " "
 date: 2023-09-18
-tags: [Swift, CodeSecurity]
+tags: [CodeSecurity]
 comments: true
 share: true
 ---

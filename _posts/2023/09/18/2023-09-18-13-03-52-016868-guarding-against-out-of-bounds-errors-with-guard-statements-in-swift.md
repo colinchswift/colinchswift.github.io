@@ -3,7 +3,7 @@ layout: post
 title: "Guarding against out-of-bounds errors with guard statements in Swift"
 description: " "
 date: 2023-09-18
-tags: [swift, swiftprogramming]
+tags: [swiftprogramming]
 comments: true
 share: true
 ---

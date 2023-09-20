@@ -3,7 +3,7 @@ layout: post
 title: "Guarding against LDAP injection attacks with guard statements in Swift"
 description: " "
 date: 2023-09-18
-tags: [Swift, LDAPSecurity]
+tags: [LDAPSecurity]
 comments: true
 share: true
 ---

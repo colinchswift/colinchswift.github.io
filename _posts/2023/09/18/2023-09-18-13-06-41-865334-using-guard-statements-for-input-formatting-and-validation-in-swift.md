@@ -3,7 +3,7 @@ layout: post
 title: "Using guard statements for input formatting and validation in Swift"
 description: " "
 date: 2023-09-18
-tags: [swift, guard]
+tags: [guard]
 comments: true
 share: true
 ---

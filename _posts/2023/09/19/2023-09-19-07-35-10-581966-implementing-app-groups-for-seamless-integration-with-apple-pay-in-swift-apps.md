@@ -3,7 +3,7 @@ layout: post
 title: "Implementing App Groups for seamless integration with Apple Pay in Swift apps"
 description: " "
 date: 2023-09-19
-tags: [Swift, ApplePay, AppGroups]
+tags: [ApplePay, AppGroups]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Using generics in error handling in Swift."
 description: " "
 date: 2023-09-20
-tags: [Swift, ErrorHandling]
+tags: [ErrorHandling]
 comments: true
 share: true
 ---

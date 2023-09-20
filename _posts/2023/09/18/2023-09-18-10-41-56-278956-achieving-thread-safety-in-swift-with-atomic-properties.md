@@ -3,7 +3,7 @@ layout: post
 title: "Achieving thread safety in Swift with atomic properties"
 description: " "
 date: 2023-09-18
-tags: [swift, threadsafe]
+tags: [threadsafe]
 comments: true
 share: true
 ---

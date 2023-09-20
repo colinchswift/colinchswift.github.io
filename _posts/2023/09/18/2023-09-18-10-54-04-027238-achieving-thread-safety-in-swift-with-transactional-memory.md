@@ -3,7 +3,7 @@ layout: post
 title: "Achieving thread safety in Swift with transactional memory"
 description: " "
 date: 2023-09-18
-tags: [swift, thread]
+tags: [thread]
 comments: true
 share: true
 ---

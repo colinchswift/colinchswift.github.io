@@ -3,7 +3,7 @@ layout: post
 title: "Achieving parallelism with Swift Parallel Collections"
 description: " "
 date: 2023-09-18
-tags: [Swift, ParallelCollections]
+tags: [ParallelCollections]
 comments: true
 share: true
 ---

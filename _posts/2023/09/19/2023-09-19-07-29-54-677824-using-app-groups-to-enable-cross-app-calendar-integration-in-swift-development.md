@@ -3,7 +3,7 @@ layout: post
 title: "Using App Groups to enable cross-app calendar integration in Swift development"
 description: " "
 date: 2023-09-19
-tags: [Swift]
+tags: []
 comments: true
 share: true
 ---

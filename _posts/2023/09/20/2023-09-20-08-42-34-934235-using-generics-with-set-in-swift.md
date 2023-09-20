@@ -3,7 +3,7 @@ layout: post
 title: "Using generics with Set in Swift"
 description: " "
 date: 2023-09-20
-tags: [swift, generics]
+tags: [generics]
 comments: true
 share: true
 ---

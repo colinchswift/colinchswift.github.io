@@ -3,7 +3,7 @@ layout: post
 title: "Using guard statements for API response validation in Swift"
 description: " "
 date: 2023-09-18
-tags: [Swift, APIResponseValidation]
+tags: [APIResponseValidation]
 comments: true
 share: true
 ---

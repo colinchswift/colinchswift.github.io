@@ -3,7 +3,7 @@ layout: post
 title: "Using App Groups to enable cross-app video and audio streaming in Swift development"
 description: " "
 date: 2023-09-19
-tags: [swift, iOSDevelopment]
+tags: [iOSDevelopment]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Dealing with memory management in generics in Swift"
 description: " "
 date: 2023-09-20
-tags: [swift, memorymanagement]
+tags: [memorymanagement]
 comments: true
 share: true
 ---

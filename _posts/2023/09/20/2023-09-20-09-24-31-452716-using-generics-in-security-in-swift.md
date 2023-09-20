@@ -3,7 +3,7 @@ layout: post
 title: "Using generics in security in Swift"
 description: " "
 date: 2023-09-20
-tags: [swift, security]
+tags: [security]
 comments: true
 share: true
 ---

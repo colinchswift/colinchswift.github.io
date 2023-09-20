@@ -3,7 +3,7 @@ layout: post
 title: "Using generics in JSON parsing with Codable in Swift"
 description: " "
 date: 2023-09-20
-tags: [Swift, Codable]
+tags: [Codable]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Implementing App Groups for seamless integration with Core Location in Swift apps"
 description: " "
 date: 2023-09-19
-tags: [Swift, CoreLocation]
+tags: [CoreLocation]
 comments: true
 share: true
 ---

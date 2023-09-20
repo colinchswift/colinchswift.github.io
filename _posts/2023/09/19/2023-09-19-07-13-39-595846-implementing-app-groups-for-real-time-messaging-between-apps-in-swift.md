@@ -3,7 +3,7 @@ layout: post
 title: "Implementing App Groups for real-time messaging between apps in Swift"
 description: " "
 date: 2023-09-19
-tags: [Swift]
+tags: []
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Guarding against concurrent access issues with guard statements in Swift"
 description: " "
 date: 2023-09-18
-tags: [Swift, Concurrency]
+tags: [Concurrency]
 comments: true
 share: true
 ---

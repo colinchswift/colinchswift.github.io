@@ -3,7 +3,7 @@ layout: post
 title: "Using guard statements for handling multi-threaded programming in Swift"
 description: " "
 date: 2023-09-18
-tags: [Swift, MultiThreading]
+tags: [MultiThreading]
 comments: true
 share: true
 ---

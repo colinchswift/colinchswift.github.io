@@ -3,7 +3,7 @@ layout: post
 title: "Implementing App Groups for seamless integration with Core Text in Swift apps"
 description: " "
 date: 2023-09-19
-tags: [Swift, CoreText]
+tags: [CoreText]
 comments: true
 share: true
 ---

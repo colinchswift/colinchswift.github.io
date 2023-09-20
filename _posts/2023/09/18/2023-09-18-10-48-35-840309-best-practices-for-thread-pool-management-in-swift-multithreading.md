@@ -3,7 +3,7 @@ layout: post
 title: "Best practices for thread pool management in Swift multithreading"
 description: " "
 date: 2023-09-18
-tags: [Swift, Multithreading]
+tags: [Multithreading]
 comments: true
 share: true
 ---

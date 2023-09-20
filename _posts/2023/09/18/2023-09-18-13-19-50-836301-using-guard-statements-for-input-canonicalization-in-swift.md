@@ -3,7 +3,7 @@ layout: post
 title: "Using guard statements for input canonicalization in Swift"
 description: " "
 date: 2023-09-18
-tags: [Swift, InputCanonicalization]
+tags: [InputCanonicalization]
 comments: true
 share: true
 ---

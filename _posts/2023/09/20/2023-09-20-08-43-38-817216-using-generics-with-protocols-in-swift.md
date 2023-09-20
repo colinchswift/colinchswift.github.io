@@ -3,7 +3,7 @@ layout: post
 title: "Using generics with protocols in Swift"
 description: " "
 date: 2023-09-20
-tags: [swift, protocols]
+tags: [protocols]
 comments: true
 share: true
 ---

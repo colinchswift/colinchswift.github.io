@@ -3,7 +3,7 @@ layout: post
 title: "Using guard statements for input transformation and normalization in Swift"
 description: " "
 date: 2023-09-18
-tags: [Swift, InputTransformation]
+tags: [InputTransformation]
 comments: true
 share: true
 ---

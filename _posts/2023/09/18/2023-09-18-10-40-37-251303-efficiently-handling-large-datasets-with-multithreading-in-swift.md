@@ -3,7 +3,7 @@ layout: post
 title: "Efficiently handling large datasets with multithreading in Swift"
 description: " "
 date: 2023-09-18
-tags: [swift, multithreading]
+tags: [multithreading]
 comments: true
 share: true
 ---

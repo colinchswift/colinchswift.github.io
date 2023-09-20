@@ -3,7 +3,7 @@ layout: post
 title: "Using generics in networking in Swift"
 description: " "
 date: 2023-09-20
-tags: [Swift, Networking]
+tags: [Networking]
 comments: true
 share: true
 ---

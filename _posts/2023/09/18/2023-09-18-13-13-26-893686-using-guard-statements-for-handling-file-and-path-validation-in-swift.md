@@ -3,7 +3,7 @@ layout: post
 title: "Using guard statements for handling file and path validation in Swift"
 description: " "
 date: 2023-09-18
-tags: [swift, filevalidation]
+tags: [filevalidation]
 comments: true
 share: true
 ---

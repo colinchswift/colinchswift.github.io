@@ -3,7 +3,7 @@ layout: post
 title: "Guarding against memory leaks with guard statements in Swift"
 description: " "
 date: 2023-09-18
-tags: [Swift, MemoryLeaks]
+tags: [MemoryLeaks]
 comments: true
 share: true
 ---

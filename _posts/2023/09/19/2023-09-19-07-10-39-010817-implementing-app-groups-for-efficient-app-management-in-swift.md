@@ -3,7 +3,7 @@ layout: post
 title: "Implementing App Groups for efficient app management in Swift"
 description: " "
 date: 2023-09-19
-tags: [swift, appdevelopment]
+tags: [appdevelopment]
 comments: true
 share: true
 ---

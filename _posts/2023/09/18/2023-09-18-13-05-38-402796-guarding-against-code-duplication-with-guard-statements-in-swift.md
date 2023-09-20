@@ -3,7 +3,7 @@ layout: post
 title: "Guarding against code duplication with guard statements in Swift"
 description: " "
 date: 2023-09-18
-tags: [Swift, CodeDuplication]
+tags: [CodeDuplication]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Using guard statements for control flow in Swift"
 description: " "
 date: 2023-09-18
-tags: [Swift, ControlFlow]
+tags: [ControlFlow]
 comments: true
 share: true
 ---

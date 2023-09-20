@@ -3,7 +3,7 @@ layout: post
 title: "Utilizing distributed computing for scalable applications with Swift"
 description: " "
 date: 2023-09-18
-tags: [Swift, DistributedComputing]
+tags: [DistributedComputing]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Guarding against resource exhaustion with guard statements in Swift"
 description: " "
 date: 2023-09-18
-tags: [Swift, ResourceExhaustionGuard]
+tags: [ResourceExhaustionGuard]
 comments: true
 share: true
 ---

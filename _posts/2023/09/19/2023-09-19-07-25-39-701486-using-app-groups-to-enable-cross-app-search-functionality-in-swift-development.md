@@ -3,7 +3,7 @@ layout: post
 title: "Using App Groups to enable cross-app search functionality in Swift development"
 description: " "
 date: 2023-09-19
-tags: [Swift, AppGroups, CrossAppSearch]
+tags: [AppGroups, CrossAppSearch]
 comments: true
 share: true
 ---

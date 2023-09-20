@@ -3,7 +3,7 @@ layout: post
 title: "Type constraints in Swift generics"
 description: " "
 date: 2023-09-20
-tags: [swift, generics]
+tags: [generics]
 comments: true
 share: true
 ---

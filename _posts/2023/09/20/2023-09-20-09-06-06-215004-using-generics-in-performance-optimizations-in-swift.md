@@ -3,7 +3,7 @@ layout: post
 title: "Using generics in performance optimizations in Swift"
 description: " "
 date: 2023-09-20
-tags: [Swift, PerformanceOptimization]
+tags: [PerformanceOptimization]
 comments: true
 share: true
 ---

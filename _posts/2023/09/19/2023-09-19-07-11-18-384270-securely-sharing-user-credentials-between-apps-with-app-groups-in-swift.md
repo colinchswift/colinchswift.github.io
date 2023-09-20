@@ -3,7 +3,7 @@ layout: post
 title: "Securely sharing user credentials between apps with App Groups in Swift"
 description: " "
 date: 2023-09-19
-tags: [Swift]
+tags: []
 comments: true
 share: true
 ---

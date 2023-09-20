@@ -3,7 +3,7 @@ layout: post
 title: "Generic operators in Swift"
 description: " "
 date: 2023-09-20
-tags: [Swift, GenericOperators]
+tags: [GenericOperators]
 comments: true
 share: true
 ---

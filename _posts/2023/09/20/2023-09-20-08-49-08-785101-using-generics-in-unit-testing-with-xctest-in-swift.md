@@ -3,7 +3,7 @@ layout: post
 title: "Using generics in unit testing with XCTest in Swift"
 description: " "
 date: 2023-09-20
-tags: [Swift, UnitTesting]
+tags: [UnitTesting]
 comments: true
 share: true
 ---

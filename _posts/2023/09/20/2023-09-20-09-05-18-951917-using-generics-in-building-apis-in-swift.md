@@ -3,7 +3,7 @@ layout: post
 title: "Using generics in building APIs in Swift"
 description: " "
 date: 2023-09-20
-tags: [swift, APIs]
+tags: [APIs]
 comments: true
 share: true
 ---

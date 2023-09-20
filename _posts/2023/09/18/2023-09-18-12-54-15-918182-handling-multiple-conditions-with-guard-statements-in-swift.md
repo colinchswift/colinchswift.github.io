@@ -3,7 +3,7 @@ layout: post
 title: "Handling multiple conditions with guard statements in Swift"
 description: " "
 date: 2023-09-18
-tags: [swift, guardstatements]
+tags: [guardstatements]
 comments: true
 share: true
 ---

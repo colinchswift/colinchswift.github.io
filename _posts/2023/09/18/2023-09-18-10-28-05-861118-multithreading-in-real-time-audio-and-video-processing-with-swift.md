@@ -3,7 +3,7 @@ layout: post
 title: "Multithreading in real-time audio and video processing with Swift"
 description: " "
 date: 2023-09-18
-tags: [Swift, Multithreading]
+tags: [Multithreading]
 comments: true
 share: true
 ---

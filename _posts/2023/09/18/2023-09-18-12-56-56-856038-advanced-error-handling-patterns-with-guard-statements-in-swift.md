@@ -3,7 +3,7 @@ layout: post
 title: "Advanced error handling patterns with guard statements in Swift"
 description: " "
 date: 2023-09-18
-tags: [swift, errorhandling]
+tags: [errorhandling]
 comments: true
 share: true
 ---

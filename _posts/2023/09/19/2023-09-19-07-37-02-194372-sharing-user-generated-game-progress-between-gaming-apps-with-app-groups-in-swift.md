@@ -3,7 +3,7 @@ layout: post
 title: "Sharing user-generated game progress between gaming apps with App Groups in Swift"
 description: " "
 date: 2023-09-19
-tags: [swift, gamedevelopment]
+tags: [gamedevelopment]
 comments: true
 share: true
 ---

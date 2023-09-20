@@ -3,7 +3,7 @@ layout: post
 title: "Exploring parallelism in Swift with concurrent programming models"
 description: " "
 date: 2023-09-18
-tags: [swift, concurrency]
+tags: [concurrency]
 comments: true
 share: true
 ---

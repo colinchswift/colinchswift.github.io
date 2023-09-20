@@ -3,7 +3,7 @@ layout: post
 title: "Guarding against file and directory access errors with guard statements in Swift"
 description: " "
 date: 2023-09-18
-tags: [Swift, FileAccess]
+tags: [FileAccess]
 comments: true
 share: true
 ---

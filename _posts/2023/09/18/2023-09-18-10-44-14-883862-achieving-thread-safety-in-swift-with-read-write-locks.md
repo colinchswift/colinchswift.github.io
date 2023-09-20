@@ -3,7 +3,7 @@ layout: post
 title: "Achieving thread safety in Swift with read-write locks"
 description: " "
 date: 2023-09-18
-tags: [swift, multithreading]
+tags: [multithreading]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Using guard statements for input masking and formatting in Swift"
 description: " "
 date: 2023-09-18
-tags: [Swift, InputFormatting]
+tags: [InputFormatting]
 comments: true
 share: true
 ---

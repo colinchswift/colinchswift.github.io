@@ -3,7 +3,7 @@ layout: post
 title: "Implementing App Groups for seamless integration with Core Bluetooth in Swift apps"
 description: " "
 date: 2023-09-19
-tags: [swift, corebluetooth]
+tags: [corebluetooth]
 comments: true
 share: true
 ---

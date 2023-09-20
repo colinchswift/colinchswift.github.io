@@ -3,7 +3,7 @@ layout: post
 title: "Guarding against invalid URL schemes with guard statements in Swift"
 description: " "
 date: 2023-09-18
-tags: [swift, guard]
+tags: [guard]
 comments: true
 share: true
 ---

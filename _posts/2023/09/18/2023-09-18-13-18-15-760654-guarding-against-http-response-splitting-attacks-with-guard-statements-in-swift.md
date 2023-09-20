@@ -3,7 +3,7 @@ layout: post
 title: "Guarding against HTTP response splitting attacks with guard statements in Swift"
 description: " "
 date: 2023-09-18
-tags: [Swift, HTTPResponseSplitting]
+tags: [HTTPResponseSplitting]
 comments: true
 share: true
 ---

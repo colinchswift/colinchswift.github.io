@@ -3,7 +3,7 @@ layout: post
 title: "Utilizing App Groups for collaborative movie and TV show recommendations between apps in Swift"
 description: " "
 date: 2023-09-19
-tags: [Swift, AppGroups]
+tags: [AppGroups]
 comments: true
 share: true
 ---

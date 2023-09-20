@@ -3,7 +3,7 @@ layout: post
 title: "Guard statements vs. if-let statements in Swift: pros and cons"
 description: " "
 date: 2023-09-18
-tags: [Swift, OptionalHandling]
+tags: [OptionalHandling]
 comments: true
 share: true
 ---

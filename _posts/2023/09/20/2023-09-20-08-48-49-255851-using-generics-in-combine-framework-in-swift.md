@@ -3,7 +3,7 @@ layout: post
 title: "Using generics in Combine framework in Swift"
 description: " "
 date: 2023-09-20
-tags: [Swift, Combine]
+tags: [Combine]
 comments: true
 share: true
 ---

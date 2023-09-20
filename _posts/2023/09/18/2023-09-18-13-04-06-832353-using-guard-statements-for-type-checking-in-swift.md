@@ -3,7 +3,7 @@ layout: post
 title: "Using guard statements for type checking in Swift"
 description: " "
 date: 2023-09-18
-tags: [Swift, TypeChecking]
+tags: [TypeChecking]
 comments: true
 share: true
 ---

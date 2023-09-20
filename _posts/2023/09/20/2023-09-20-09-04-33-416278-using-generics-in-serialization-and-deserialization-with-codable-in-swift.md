@@ -3,7 +3,7 @@ layout: post
 title: "Using generics in serialization and deserialization with Codable in Swift"
 description: " "
 date: 2023-09-20
-tags: [Swift, Generics]
+tags: [Generics]
 comments: true
 share: true
 ---

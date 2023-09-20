@@ -3,7 +3,7 @@ layout: post
 title: "Protocol composition with generics in Swift"
 description: " "
 date: 2023-09-20
-tags: [Swift, ProtocolComposition]
+tags: [ProtocolComposition]
 comments: true
 share: true
 ---

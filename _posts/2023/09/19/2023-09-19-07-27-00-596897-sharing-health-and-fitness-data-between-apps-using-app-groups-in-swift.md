@@ -3,7 +3,7 @@ layout: post
 title: "Sharing health and fitness data between apps using App Groups in Swift"
 description: " "
 date: 2023-09-19
-tags: [Swift]
+tags: []
 comments: true
 share: true
 ---

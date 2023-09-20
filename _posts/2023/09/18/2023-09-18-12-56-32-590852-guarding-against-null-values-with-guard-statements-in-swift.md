@@ -3,7 +3,7 @@ layout: post
 title: "Guarding against null values with guard statements in Swift"
 description: " "
 date: 2023-09-18
-tags: [swift, nullhandling]
+tags: [nullhandling]
 comments: true
 share: true
 ---

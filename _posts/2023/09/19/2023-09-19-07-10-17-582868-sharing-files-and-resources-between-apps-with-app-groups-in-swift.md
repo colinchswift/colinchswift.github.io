@@ -3,7 +3,7 @@ layout: post
 title: "Sharing files and resources between apps with App Groups in Swift"
 description: " "
 date: 2023-09-19
-tags: [Swift, AppGroups]
+tags: [AppGroups]
 comments: true
 share: true
 ---

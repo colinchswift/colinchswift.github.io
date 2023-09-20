@@ -3,7 +3,7 @@ layout: post
 title: "Using generics in async/await in Swift"
 description: " "
 date: 2023-09-20
-tags: [swift, asyncawait]
+tags: [asyncawait]
 comments: true
 share: true
 ---
