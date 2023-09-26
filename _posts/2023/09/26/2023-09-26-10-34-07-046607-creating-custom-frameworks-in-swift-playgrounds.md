@@ -3,7 +3,7 @@ layout: post
 title: "Creating custom frameworks in Swift Playgrounds"
 description: " "
 date: 2023-09-26
-tags: [iOSDevelopment, #SwiftPlaygrounds]
+tags: [iOSDevelopment, SwiftPlaygrounds]
 comments: true
 share: true
 ---

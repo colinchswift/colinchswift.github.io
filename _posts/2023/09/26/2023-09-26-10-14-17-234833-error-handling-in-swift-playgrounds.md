@@ -3,7 +3,7 @@ layout: post
 title: "Error handling in Swift Playgrounds"
 description: " "
 date: 2023-09-26
-tags: [Error, #Understanding]
+tags: [Error, Understanding]
 comments: true
 share: true
 ---
