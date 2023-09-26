@@ -3,7 +3,7 @@ layout: post
 title: "Implementing consent withdrawal in Swift ResearchKit"
 description: " "
 date: 2023-09-25
-tags: [swift, ResearchKit]
+tags: [ResearchKit]
 comments: true
 share: true
 ---

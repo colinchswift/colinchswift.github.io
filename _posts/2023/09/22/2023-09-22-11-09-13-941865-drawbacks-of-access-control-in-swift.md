@@ -3,7 +3,7 @@ layout: post
 title: "Drawbacks of Access Control in Swift"
 description: " "
 date: 2023-09-22
-tags: [swift, accesscontrol]
+tags: [accesscontrol]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Techniques for handling image processing and manipulation in Swift for forward compatibility"
 description: " "
 date: 2023-09-21
-tags: [Swift, ImageProcessing_]
+tags: [ImageProcessing_]
 comments: true
 share: true
 ---

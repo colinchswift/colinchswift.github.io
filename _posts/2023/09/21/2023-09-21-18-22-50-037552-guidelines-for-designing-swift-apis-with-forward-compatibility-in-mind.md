@@ -3,7 +3,7 @@ layout: post
 title: "Guidelines for designing Swift APIs with forward compatibility in mind"
 description: " "
 date: 2023-09-21
-tags: [Swift, APIs]
+tags: [APIs]
 comments: true
 share: true
 ---

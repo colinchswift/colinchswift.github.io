@@ -3,7 +3,7 @@ layout: post
 title: "Method injection in Swift"
 description: " "
 date: 2023-09-24
-tags: [swift, methodinjection]
+tags: [methodinjection]
 comments: true
 share: true
 ---

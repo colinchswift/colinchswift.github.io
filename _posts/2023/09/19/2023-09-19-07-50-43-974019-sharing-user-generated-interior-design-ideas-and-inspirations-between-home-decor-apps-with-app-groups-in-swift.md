@@ -3,7 +3,7 @@ layout: post
 title: "Sharing user-generated interior design ideas and inspirations between home decor apps with App Groups in Swift"
 description: " "
 date: 2023-09-19
-tags: [interiordesign, appdevelopment, interiordesignideas, appdevelopment, swift]
+tags: [interiordesign, appdevelopment, interiordesignideas, appdevelopment]
 comments: true
 share: true
 ---

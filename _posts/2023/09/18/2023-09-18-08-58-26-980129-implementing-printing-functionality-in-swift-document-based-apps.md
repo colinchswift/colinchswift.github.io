@@ -3,7 +3,7 @@ layout: post
 title: "Implementing printing functionality in Swift document-based apps"
 description: " "
 date: 2023-09-18
-tags: [selector(printButtonTapped)), Swift]
+tags: [selector(printButtonTapped))]
 comments: true
 share: true
 ---

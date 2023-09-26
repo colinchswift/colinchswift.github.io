@@ -3,7 +3,7 @@ layout: post
 title: "Setting up Swift Playgrounds on Mac"
 description: " "
 date: 2023-09-26
-tags: [programming, swift]
+tags: [programming]
 comments: true
 share: true
 ---

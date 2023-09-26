@@ -3,7 +3,7 @@ layout: post
 title: "Approaches to functional programming in Swift for better forward compatibility"
 description: " "
 date: 2023-09-21
-tags: [FunctionalProgramming, Swift]
+tags: [FunctionalProgramming]
 comments: true
 share: true
 ---

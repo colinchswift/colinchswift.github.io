@@ -3,7 +3,7 @@ layout: post
 title: "Inheritance in Swift Playgrounds"
 description: " "
 date: 2023-09-26
-tags: [Swift, Inheritance]
+tags: [Inheritance]
 comments: true
 share: true
 ---

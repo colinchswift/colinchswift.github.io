@@ -3,7 +3,7 @@ layout: post
 title: "Implementing a character-based password generator in Swift"
 description: " "
 date: 2023-09-15
-tags: [passwordgenerator, Swift]
+tags: [passwordgenerator]
 comments: true
 share: true
 ---

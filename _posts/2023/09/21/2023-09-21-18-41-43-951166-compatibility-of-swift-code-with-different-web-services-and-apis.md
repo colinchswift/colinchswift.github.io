@@ -3,7 +3,7 @@ layout: post
 title: "Compatibility of Swift code with different web services and APIs"
 description: " "
 date: 2023-09-21
-tags: [Swift, APIs]
+tags: [APIs]
 comments: true
 share: true
 ---

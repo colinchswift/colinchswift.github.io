@@ -3,7 +3,7 @@ layout: post
 title: "Testing benefits of dependency injection in Swift"
 description: " "
 date: 2023-09-24
-tags: [DependencyInjection, Swift]
+tags: [DependencyInjection]
 comments: true
 share: true
 ---

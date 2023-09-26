@@ -3,7 +3,7 @@ layout: post
 title: "Working with protocols and Codable in Swift"
 description: " "
 date: 2023-09-22
-tags: [swift, coding]
+tags: [coding]
 comments: true
 share: true
 ---

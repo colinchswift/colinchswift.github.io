@@ -3,7 +3,7 @@ layout: post
 title: "File-private Access Level in Swift"
 description: " "
 date: 2023-09-22
-tags: [Swift, AccessLevels]
+tags: [AccessLevels]
 comments: true
 share: true
 ---

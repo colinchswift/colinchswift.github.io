@@ -3,7 +3,7 @@ layout: post
 title: "Internal Access Level in Swift"
 description: " "
 date: 2023-09-22
-tags: [swift, access]
+tags: [access]
 comments: true
 share: true
 ---

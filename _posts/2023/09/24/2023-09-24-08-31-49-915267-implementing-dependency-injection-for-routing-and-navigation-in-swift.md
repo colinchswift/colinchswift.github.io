@@ -3,7 +3,7 @@ layout: post
 title: "Implementing dependency injection for routing and navigation in Swift"
 description: " "
 date: 2023-09-24
-tags: [Swift, DependencyInjection]
+tags: [DependencyInjection]
 comments: true
 share: true
 ---

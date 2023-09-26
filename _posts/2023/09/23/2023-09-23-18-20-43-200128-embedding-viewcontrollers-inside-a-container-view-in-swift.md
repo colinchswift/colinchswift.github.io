@@ -3,7 +3,7 @@ layout: post
 title: "Embedding ViewControllers inside a container view in Swift"
 description: " "
 date: 2023-09-23
-tags: [iOSDevelopment, Swift]
+tags: [iOSDevelopment]
 comments: true
 share: true
 ---

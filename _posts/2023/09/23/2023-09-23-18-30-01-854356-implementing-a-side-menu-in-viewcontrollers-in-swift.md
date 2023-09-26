@@ -3,7 +3,7 @@ layout: post
 title: "Implementing a side menu in ViewControllers in Swift"
 description: " "
 date: 2023-09-23
-tags: [selector(showSideMenu)), swift]
+tags: [selector(showSideMenu))]
 comments: true
 share: true
 ---

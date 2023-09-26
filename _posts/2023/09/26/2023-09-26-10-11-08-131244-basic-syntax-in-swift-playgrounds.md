@@ -3,7 +3,7 @@ layout: post
 title: "Basic syntax in Swift Playgrounds"
 description: " "
 date: 2023-09-26
-tags: [Swift, SwiftPlaygrounds]
+tags: [SwiftPlaygrounds]
 comments: true
 share: true
 ---

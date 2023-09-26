@@ -3,7 +3,7 @@ layout: post
 title: "Exploring the role of Swift Tuples in constraint programming frameworks."
 description: " "
 date: 2023-09-15
-tags: [techblog, swift]
+tags: [techblog]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Serialization and deserialization of complex value types with Codable"
 description: " "
 date: 2023-09-22
-tags: [TechBlog, Swift]
+tags: [TechBlog]
 comments: true
 share: true
 ---

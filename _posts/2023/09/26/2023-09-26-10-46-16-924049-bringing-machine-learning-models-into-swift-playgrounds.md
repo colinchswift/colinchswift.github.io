@@ -3,7 +3,7 @@ layout: post
 title: "Bringing machine learning models into Swift Playgrounds"
 description: " "
 date: 2023-09-26
-tags: [machinelearning, Swift]
+tags: [machinelearning]
 comments: true
 share: true
 ---

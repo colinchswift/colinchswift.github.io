@@ -3,7 +3,7 @@ layout: post
 title: "Audio synthesis and MIDI in Swift Playgrounds"
 description: " "
 date: 2023-09-26
-tags: [swift, audio]
+tags: [audio]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Using Swift Mirror to retrieve the associated types of a generic type"
 description: " "
 date: 2023-09-21
-tags: [swift, associatedtypes]
+tags: [associatedtypes]
 comments: true
 share: true
 ---

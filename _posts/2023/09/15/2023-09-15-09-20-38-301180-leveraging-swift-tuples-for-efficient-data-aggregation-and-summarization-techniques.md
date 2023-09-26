@@ -3,7 +3,7 @@ layout: post
 title: "Leveraging Swift Tuples for efficient data aggregation and summarization techniques."
 description: " "
 date: 2023-09-15
-tags: [programming, Swift]
+tags: [programming]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Custom operators for working with images and graphics in Swift"
 description: " "
 date: 2023-09-23
-tags: [programming, swift]
+tags: [programming]
 comments: true
 share: true
 ---

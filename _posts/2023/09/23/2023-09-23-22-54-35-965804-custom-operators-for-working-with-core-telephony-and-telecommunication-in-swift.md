@@ -3,7 +3,7 @@ layout: post
 title: "Custom operators for working with Core Telephony and telecommunication in Swift"
 description: " "
 date: 2023-09-23
-tags: [telephony, swift]
+tags: [telephony]
 comments: true
 share: true
 ---

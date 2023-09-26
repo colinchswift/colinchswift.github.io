@@ -3,7 +3,7 @@ layout: post
 title: "Custom operators for parsing and manipulating JSON in Swift"
 description: " "
 date: 2023-09-23
-tags: [Swift, JSON]
+tags: [JSON]
 comments: true
 share: true
 ---

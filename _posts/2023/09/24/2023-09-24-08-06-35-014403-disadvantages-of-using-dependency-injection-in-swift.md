@@ -3,7 +3,7 @@ layout: post
 title: "Disadvantages of using dependency injection in Swift"
 description: " "
 date: 2023-09-24
-tags: [technology, Swift]
+tags: [technology]
 comments: true
 share: true
 ---

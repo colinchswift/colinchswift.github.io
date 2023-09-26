@@ -3,7 +3,7 @@ layout: post
 title: "Using custom operators to enhance readability of code in Swift"
 description: " "
 date: 2023-09-23
-tags: [swift, coding]
+tags: [coding]
 comments: true
 share: true
 ---

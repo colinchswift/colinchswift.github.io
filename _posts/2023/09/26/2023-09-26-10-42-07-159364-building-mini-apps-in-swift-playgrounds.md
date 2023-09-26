@@ -3,7 +3,7 @@ layout: post
 title: "Building mini-apps in Swift Playgrounds"
 description: " "
 date: 2023-09-26
-tags: [selector(buttonTapped), swift]
+tags: [selector(buttonTapped)]
 comments: true
 share: true
 ---

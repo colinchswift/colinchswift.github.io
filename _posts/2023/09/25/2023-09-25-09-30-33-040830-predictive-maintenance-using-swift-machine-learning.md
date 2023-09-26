@@ -3,7 +3,7 @@ layout: post
 title: "Predictive Maintenance using Swift Machine Learning"
 description: " "
 date: 2023-09-25
-tags: [Swift, PredictiveMaintenance]
+tags: [PredictiveMaintenance]
 comments: true
 share: true
 ---

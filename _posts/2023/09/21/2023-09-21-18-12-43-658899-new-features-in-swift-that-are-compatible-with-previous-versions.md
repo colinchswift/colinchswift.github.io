@@ -3,7 +3,7 @@ layout: post
 title: "New features in Swift that are compatible with previous versions"
 description: " "
 date: 2023-09-21
-tags: [swift, compatibility]
+tags: [compatibility]
 comments: true
 share: true
 ---

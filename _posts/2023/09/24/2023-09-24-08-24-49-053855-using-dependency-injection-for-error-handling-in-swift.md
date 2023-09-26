@@ -3,7 +3,7 @@ layout: post
 title: "Using dependency injection for error handling in Swift"
 description: " "
 date: 2023-09-24
-tags: [swift, errorhandling]
+tags: [errorhandling]
 comments: true
 share: true
 ---

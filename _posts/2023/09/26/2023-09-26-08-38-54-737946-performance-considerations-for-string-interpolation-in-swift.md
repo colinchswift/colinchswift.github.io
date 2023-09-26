@@ -3,7 +3,7 @@ layout: post
 title: "Performance considerations for string interpolation in Swift"
 description: " "
 date: 2023-09-26
-tags: [Swift, PerformanceTips]
+tags: [PerformanceTips]
 comments: true
 share: true
 ---

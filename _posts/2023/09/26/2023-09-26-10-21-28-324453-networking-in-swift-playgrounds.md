@@ -3,7 +3,7 @@ layout: post
 title: "Networking in Swift Playgrounds"
 description: " "
 date: 2023-09-26
-tags: [swift, networking]
+tags: [networking]
 comments: true
 share: true
 ---

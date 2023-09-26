@@ -3,7 +3,7 @@ layout: post
 title: "Implementing lock-free programming in Swift"
 description: " "
 date: 2023-09-17
-tags: [tech, lockfree, programming, swift]
+tags: [tech, lockfree, programming]
 comments: true
 share: true
 ---

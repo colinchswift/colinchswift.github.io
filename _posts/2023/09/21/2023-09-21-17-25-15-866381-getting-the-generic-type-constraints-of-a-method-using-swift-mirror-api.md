@@ -3,7 +3,7 @@ layout: post
 title: "Getting the generic type constraints of a method using Swift Mirror API"
 description: " "
 date: 2023-09-21
-tags: [Swift, MirrorAPI, GenericTypeConstraints]
+tags: [MirrorAPI, GenericTypeConstraints]
 comments: true
 share: true
 ---

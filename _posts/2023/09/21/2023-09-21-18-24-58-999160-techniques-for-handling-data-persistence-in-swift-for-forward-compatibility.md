@@ -3,7 +3,7 @@ layout: post
 title: "Techniques for handling data persistence in Swift for forward compatibility"
 description: " "
 date: 2023-09-21
-tags: [Swift, DataPersistence]
+tags: [DataPersistence]
 comments: true
 share: true
 ---

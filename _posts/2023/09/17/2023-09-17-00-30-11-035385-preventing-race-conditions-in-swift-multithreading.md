@@ -3,7 +3,7 @@ layout: post
 title: "Preventing race conditions in Swift multithreading"
 description: " "
 date: 2023-09-17
-tags: [multithreading, Swift]
+tags: [multithreading]
 comments: true
 share: true
 ---

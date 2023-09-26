@@ -3,7 +3,7 @@ layout: post
 title: "Custom operators and functional programming in Swift"
 description: " "
 date: 2023-09-23
-tags: [Swift, FunctionalProgramming]
+tags: [FunctionalProgramming]
 comments: true
 share: true
 ---

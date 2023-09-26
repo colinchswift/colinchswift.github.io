@@ -3,7 +3,7 @@ layout: post
 title: "Custom operators for working with Core Data in Swift"
 description: " "
 date: 2023-09-23
-tags: [hashtags, Swift]
+tags: [hashtags]
 comments: true
 share: true
 ---

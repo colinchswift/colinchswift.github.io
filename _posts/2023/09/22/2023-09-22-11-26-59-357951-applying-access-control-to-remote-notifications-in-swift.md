@@ -3,7 +3,7 @@ layout: post
 title: "Applying Access Control to Remote Notifications in Swift"
 description: " "
 date: 2023-09-22
-tags: [Swift, RemoteNotifications]
+tags: [RemoteNotifications]
 comments: true
 share: true
 ---

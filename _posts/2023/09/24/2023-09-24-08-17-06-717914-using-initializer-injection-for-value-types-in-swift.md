@@ -3,7 +3,7 @@ layout: post
 title: "Using initializer injection for value types in Swift"
 description: " "
 date: 2023-09-24
-tags: [Swift, ValueTypes]
+tags: [ValueTypes]
 comments: true
 share: true
 ---

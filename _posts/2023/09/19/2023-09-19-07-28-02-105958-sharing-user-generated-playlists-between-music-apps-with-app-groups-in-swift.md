@@ -3,7 +3,7 @@ layout: post
 title: "Sharing user-generated playlists between music apps with App Groups in Swift"
 description: " "
 date: 2023-09-19
-tags: [musicapps, appgroups, swift]
+tags: [musicapps, appgroups]
 comments: true
 share: true
 ---

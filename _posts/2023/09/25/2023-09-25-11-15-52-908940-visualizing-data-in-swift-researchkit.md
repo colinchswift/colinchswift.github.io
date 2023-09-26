@@ -3,7 +3,7 @@ layout: post
 title: "Visualizing data in Swift ResearchKit"
 description: " "
 date: 2023-09-25
-tags: [Swift, DataVisualization]
+tags: [DataVisualization]
 comments: true
 share: true
 ---

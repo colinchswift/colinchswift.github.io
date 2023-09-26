@@ -3,7 +3,7 @@ layout: post
 title: "Custom operators for handling media playback and streaming in Swift"
 description: " "
 date: 2023-09-23
-tags: [swift, mediaplayback]
+tags: [mediaplayback]
 comments: true
 share: true
 ---

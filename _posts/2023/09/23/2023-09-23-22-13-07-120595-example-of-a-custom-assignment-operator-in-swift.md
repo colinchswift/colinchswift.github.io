@@ -3,7 +3,7 @@ layout: post
 title: "Example of a custom assignment operator in Swift"
 description: " "
 date: 2023-09-23
-tags: [Swift, CustomAssignmentOperator]
+tags: [CustomAssignmentOperator]
 comments: true
 share: true
 ---

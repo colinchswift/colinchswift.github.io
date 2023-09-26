@@ -3,7 +3,7 @@ layout: post
 title: "Deep linking and universal links in Swift Playgrounds"
 description: " "
 date: 2023-09-26
-tags: [Swift]
+tags: []
 comments: true
 share: true
 ---

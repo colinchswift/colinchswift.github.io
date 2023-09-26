@@ -3,7 +3,7 @@ layout: post
 title: "Using CodingKeys to control the encoding and decoding process in Codable"
 description: " "
 date: 2023-09-22
-tags: [swift, codable]
+tags: [codable]
 comments: true
 share: true
 ---

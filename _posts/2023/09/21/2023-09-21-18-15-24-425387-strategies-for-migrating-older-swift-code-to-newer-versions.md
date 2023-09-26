@@ -3,7 +3,7 @@ layout: post
 title: "Strategies for migrating older Swift code to newer versions"
 description: " "
 date: 2023-09-21
-tags: [swift, migration]
+tags: [migration]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Distributing events with Reactive Programming in Swift"
 description: " "
 date: 2023-09-24
-tags: [swift, reactiveprogramming]
+tags: [reactiveprogramming]
 comments: true
 share: true
 ---

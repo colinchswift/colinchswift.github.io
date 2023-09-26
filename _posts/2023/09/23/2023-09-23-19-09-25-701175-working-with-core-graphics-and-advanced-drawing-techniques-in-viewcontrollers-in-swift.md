@@ -3,7 +3,7 @@ layout: post
 title: "Working with Core Graphics and advanced drawing techniques in ViewControllers in Swift"
 description: " "
 date: 2023-09-23
-tags: [Swift]
+tags: []
 comments: true
 share: true
 ---

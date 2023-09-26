@@ -3,7 +3,7 @@ layout: post
 title: "Implementing Core Bluetooth and IoT integration in ViewControllers in Swift"
 description: " "
 date: 2023-09-23
-tags: [swift, corebluetooth]
+tags: [corebluetooth]
 comments: true
 share: true
 ---

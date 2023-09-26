@@ -3,7 +3,7 @@ layout: post
 title: "Creating slide-out menus in ViewControllers in Swift"
 description: " "
 date: 2023-09-23
-tags: [selector(toggleMenu), swift]
+tags: [selector(toggleMenu)]
 comments: true
 share: true
 ---

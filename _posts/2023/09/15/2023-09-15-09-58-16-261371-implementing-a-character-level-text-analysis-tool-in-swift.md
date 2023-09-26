@@ -3,7 +3,7 @@ layout: post
 title: "Implementing a character-level text analysis tool in Swift"
 description: " "
 date: 2023-09-15
-tags: [textanalysis, swift]
+tags: [textanalysis]
 comments: true
 share: true
 ---

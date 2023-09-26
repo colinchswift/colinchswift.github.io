@@ -3,7 +3,7 @@ layout: post
 title: "Implementing dependency injection for multitasking in Swift"
 description: " "
 date: 2023-09-24
-tags: [multitasking, swift]
+tags: [multitasking]
 comments: true
 share: true
 ---

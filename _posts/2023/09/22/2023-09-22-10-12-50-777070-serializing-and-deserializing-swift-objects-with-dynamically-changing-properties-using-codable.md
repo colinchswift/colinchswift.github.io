@@ -3,7 +3,7 @@ layout: post
 title: "Serializing and deserializing Swift objects with dynamically changing properties using Codable"
 description: " "
 date: 2023-09-22
-tags: [Swift, Codable]
+tags: [Codable]
 comments: true
 share: true
 ---

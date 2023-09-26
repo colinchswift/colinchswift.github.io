@@ -3,7 +3,7 @@ layout: post
 title: "Strategies for managing dependencies in Swift to ensure forward compatibility"
 description: " "
 date: 2023-09-21
-tags: [swift, dependencymanagement]
+tags: [dependencymanagement]
 comments: true
 share: true
 ---

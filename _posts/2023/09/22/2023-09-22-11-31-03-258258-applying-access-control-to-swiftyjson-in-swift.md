@@ -3,7 +3,7 @@ layout: post
 title: "Applying Access Control to SwiftyJSON in Swift"
 description: " "
 date: 2023-09-22
-tags: [Swift, SwiftyJSON]
+tags: [SwiftyJSON]
 comments: true
 share: true
 ---

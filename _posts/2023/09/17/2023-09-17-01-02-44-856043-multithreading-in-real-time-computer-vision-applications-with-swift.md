@@ -3,7 +3,7 @@ layout: post
 title: "Multithreading in real-time computer vision applications with Swift"
 description: " "
 date: 2023-09-17
-tags: [computerVision, swift]
+tags: [computerVision]
 comments: true
 share: true
 ---

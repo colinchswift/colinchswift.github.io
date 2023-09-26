@@ -3,7 +3,7 @@ layout: post
 title: "Leveraging Swift Tuples for efficient data compression in storage systems."
 description: " "
 date: 2023-09-15
-tags: [datacompression, Swift]
+tags: [datacompression]
 comments: true
 share: true
 ---

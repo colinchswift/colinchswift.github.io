@@ -3,7 +3,7 @@ layout: post
 title: "Approaches to debugging and error handling in Swift for better forward compatibility"
 description: " "
 date: 2023-09-21
-tags: [Swift, ErrorHandling, Debugging]
+tags: [ErrorHandling, Debugging]
 comments: true
 share: true
 ---

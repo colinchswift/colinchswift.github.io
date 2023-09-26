@@ -3,7 +3,7 @@ layout: post
 title: "Harnessing the power of Swift Tuples in functional programming paradigms."
 description: " "
 date: 2023-09-15
-tags: [functionalprogramming, swift]
+tags: [functionalprogramming]
 comments: true
 share: true
 ---

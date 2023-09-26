@@ -3,7 +3,7 @@ layout: post
 title: "Custom operators for working with Core Motion and device motion in Swift"
 description: " "
 date: 2023-09-23
-tags: [Swift, CoreMotion]
+tags: [CoreMotion]
 comments: true
 share: true
 ---

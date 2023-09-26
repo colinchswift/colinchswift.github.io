@@ -3,7 +3,7 @@ layout: post
 title: "Encoding and decoding Codable objects with circular dependencies"
 description: " "
 date: 2023-09-22
-tags: [Coding, Swift]
+tags: [Coding]
 comments: true
 share: true
 ---

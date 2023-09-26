@@ -3,7 +3,7 @@ layout: post
 title: "Best practices for handling and processing character-based log files, including log parsing and analysis, in Swift applications"
 description: " "
 date: 2023-09-15
-tags: [logfiles, Swift]
+tags: [logfiles]
 comments: true
 share: true
 ---

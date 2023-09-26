@@ -3,7 +3,7 @@ layout: post
 title: "Audio and video playback in Swift Playgrounds"
 description: " "
 date: 2023-09-26
-tags: [Swift, Playgrounds]
+tags: [Playgrounds]
 comments: true
 share: true
 ---

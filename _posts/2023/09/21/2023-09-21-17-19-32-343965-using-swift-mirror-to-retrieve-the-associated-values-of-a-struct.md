@@ -3,7 +3,7 @@ layout: post
 title: "Using Swift Mirror to retrieve the associated values of a struct"
 description: " "
 date: 2023-09-21
-tags: [Swift, SwiftProgramming]
+tags: [SwiftProgramming]
 comments: true
 share: true
 ---

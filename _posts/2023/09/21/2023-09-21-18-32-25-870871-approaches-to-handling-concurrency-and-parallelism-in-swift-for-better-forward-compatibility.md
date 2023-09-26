@@ -3,7 +3,7 @@ layout: post
 title: "Approaches to handling concurrency and parallelism in Swift for better forward compatibility"
 description: " "
 date: 2023-09-21
-tags: [swift, concurrency, parallelism, forwardcompatibility]
+tags: [concurrency, parallelism, forwardcompatibility]
 comments: true
 share: true
 ---

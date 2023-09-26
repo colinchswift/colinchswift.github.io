@@ -3,7 +3,7 @@ layout: post
 title: "Testing Reactive code in Swift Reactive Programming"
 description: " "
 date: 2023-09-24
-tags: [Swift, ReactiveProgramming]
+tags: [ReactiveProgramming]
 comments: true
 share: true
 ---

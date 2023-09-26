@@ -3,7 +3,7 @@ layout: post
 title: "Handling complex JSON structures with Codable"
 description: " "
 date: 2023-09-22
-tags: [swift, json]
+tags: [json]
 comments: true
 share: true
 ---

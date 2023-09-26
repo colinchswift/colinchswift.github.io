@@ -3,7 +3,7 @@ layout: post
 title: "Compatibility of Swift code with different cloud storage providers and APIs"
 description: " "
 date: 2023-09-21
-tags: [Swift, CloudStorage, APIIntegration]
+tags: [CloudStorage, APIIntegration]
 comments: true
 share: true
 ---

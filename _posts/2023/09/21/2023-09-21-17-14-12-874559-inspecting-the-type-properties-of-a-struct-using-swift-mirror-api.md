@@ -3,7 +3,7 @@ layout: post
 title: "Inspecting the type properties of a struct using Swift Mirror API"
 description: " "
 date: 2023-09-21
-tags: [Swift, Structs, Swift, Structs]
+tags: [Structs, Swift, Structs]
 comments: true
 share: true
 ---

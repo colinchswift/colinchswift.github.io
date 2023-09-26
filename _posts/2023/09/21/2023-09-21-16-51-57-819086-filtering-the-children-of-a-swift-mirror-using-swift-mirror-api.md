@@ -3,7 +3,7 @@ layout: post
 title: "Filtering the children of a Swift Mirror using Swift Mirror API"
 description: " "
 date: 2023-09-21
-tags: [swift, reflection]
+tags: [reflection]
 comments: true
 share: true
 ---

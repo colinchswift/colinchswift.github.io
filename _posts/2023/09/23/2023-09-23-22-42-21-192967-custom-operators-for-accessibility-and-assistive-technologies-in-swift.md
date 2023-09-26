@@ -3,7 +3,7 @@ layout: post
 title: "Custom operators for accessibility and assistive technologies in Swift"
 description: " "
 date: 2023-09-23
-tags: [Accessibility, Swift]
+tags: [Accessibility]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Accessing the type information of a property with Swift Mirror API"
 description: " "
 date: 2023-09-21
-tags: [Swift, Reflection]
+tags: [Reflection]
 comments: true
 share: true
 ---

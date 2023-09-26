@@ -3,7 +3,7 @@ layout: post
 title: "Implementing sign-in with Apple feature in Swift iOS apps"
 description: " "
 date: 2023-09-14
-tags: [selector(handleSignInWithAppleButtonTap), Swift]
+tags: [selector(handleSignInWithAppleButtonTap)]
 comments: true
 share: true
 ---

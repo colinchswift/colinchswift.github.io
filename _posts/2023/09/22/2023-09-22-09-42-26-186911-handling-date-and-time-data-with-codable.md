@@ -3,7 +3,7 @@ layout: post
 title: "Handling date and time data with Codable"
 description: " "
 date: 2023-09-22
-tags: [swift, Codable]
+tags: [Codable]
 comments: true
 share: true
 ---

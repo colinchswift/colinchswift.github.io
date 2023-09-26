@@ -3,7 +3,7 @@ layout: post
 title: "Inspecting the deinitializer method of a class using Swift Mirror API"
 description: " "
 date: 2023-09-21
-tags: [swift, SwiftMirrorAPI]
+tags: [SwiftMirrorAPI]
 comments: true
 share: true
 ---

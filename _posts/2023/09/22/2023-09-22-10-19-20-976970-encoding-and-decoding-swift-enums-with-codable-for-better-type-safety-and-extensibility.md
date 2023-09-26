@@ -3,7 +3,7 @@ layout: post
 title: "Encoding and decoding Swift enums with Codable for better type safety and extensibility"
 description: " "
 date: 2023-09-22
-tags: [Swift, Codable]
+tags: [Codable]
 comments: true
 share: true
 ---

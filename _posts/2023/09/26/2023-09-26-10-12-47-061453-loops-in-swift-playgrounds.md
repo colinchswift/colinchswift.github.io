@@ -3,7 +3,7 @@ layout: post
 title: "Loops in Swift Playgrounds"
 description: " "
 date: 2023-09-26
-tags: [swift, swiftplaygrounds]
+tags: [swiftplaygrounds]
 comments: true
 share: true
 ---

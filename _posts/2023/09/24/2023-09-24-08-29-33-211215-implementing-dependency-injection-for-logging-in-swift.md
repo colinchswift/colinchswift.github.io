@@ -3,7 +3,7 @@ layout: post
 title: "Implementing dependency injection for logging in Swift"
 description: " "
 date: 2023-09-24
-tags: [hashtags, Swift]
+tags: [hashtags]
 comments: true
 share: true
 ---

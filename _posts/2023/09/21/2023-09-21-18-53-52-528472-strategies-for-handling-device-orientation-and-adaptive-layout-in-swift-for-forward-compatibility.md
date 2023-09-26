@@ -3,7 +3,7 @@ layout: post
 title: "Strategies for handling device orientation and adaptive layout in Swift for forward compatibility"
 description: " "
 date: 2023-09-21
-tags: [Swift, MobileDevelopment]
+tags: [MobileDevelopment]
 comments: true
 share: true
 ---

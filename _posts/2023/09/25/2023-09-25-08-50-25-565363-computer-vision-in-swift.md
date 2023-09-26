@@ -3,7 +3,7 @@ layout: post
 title: "Computer Vision in Swift"
 description: " "
 date: 2023-09-25
-tags: [computerVision, Swift]
+tags: [computerVision]
 comments: true
 share: true
 ---

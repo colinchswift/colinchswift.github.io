@@ -3,7 +3,7 @@ layout: post
 title: "Using a factory pattern with dependency injection in Swift"
 description: " "
 date: 2023-09-24
-tags: [swift, FactoryPattern]
+tags: [FactoryPattern]
 comments: true
 share: true
 ---

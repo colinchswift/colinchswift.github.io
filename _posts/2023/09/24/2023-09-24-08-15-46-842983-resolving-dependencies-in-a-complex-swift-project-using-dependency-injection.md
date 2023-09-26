@@ -3,7 +3,7 @@ layout: post
 title: "Resolving dependencies in a complex Swift project using dependency injection"
 description: " "
 date: 2023-09-24
-tags: [Swift, DependencyInjection]
+tags: [DependencyInjection]
 comments: true
 share: true
 ---

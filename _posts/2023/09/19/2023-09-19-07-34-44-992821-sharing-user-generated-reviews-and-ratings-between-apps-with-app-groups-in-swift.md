@@ -3,7 +3,7 @@ layout: post
 title: "Sharing user-generated reviews and ratings between apps with App Groups in Swift"
 description: " "
 date: 2023-09-19
-tags: [iOSDevelopment, AppGroups, Swift]
+tags: [iOSDevelopment, AppGroups]
 comments: true
 share: true
 ---

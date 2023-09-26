@@ -3,7 +3,7 @@ layout: post
 title: "Inspecting the initializer methods of a class using Swift Mirror API"
 description: " "
 date: 2023-09-21
-tags: [Swift, MirrorAPI]
+tags: [MirrorAPI]
 comments: true
 share: true
 ---

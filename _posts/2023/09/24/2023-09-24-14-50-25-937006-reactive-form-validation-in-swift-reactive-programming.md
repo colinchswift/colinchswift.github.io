@@ -3,7 +3,7 @@ layout: post
 title: "Reactive form validation in Swift Reactive Programming"
 description: " "
 date: 2023-09-24
-tags: [swift, reactiveprogramming]
+tags: [reactiveprogramming]
 comments: true
 share: true
 ---

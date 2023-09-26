@@ -3,7 +3,7 @@ layout: post
 title: "Creating a document translation tool with language detection in Swift"
 description: " "
 date: 2023-09-18
-tags: [Programming, Swift]
+tags: [Programming]
 comments: true
 share: true
 ---

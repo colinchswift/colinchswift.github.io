@@ -3,7 +3,7 @@ layout: post
 title: "Leveraging Codable in unit tests and test data generation in Swift"
 description: " "
 date: 2023-09-22
-tags: [Swift, UnitTesting]
+tags: [UnitTesting]
 comments: true
 share: true
 ---

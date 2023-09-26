@@ -3,7 +3,7 @@ layout: post
 title: "Implementing document collaboration using Firebase in Swift"
 description: " "
 date: 2023-09-18
-tags: [firebase, swift]
+tags: [firebase]
 comments: true
 share: true
 ---

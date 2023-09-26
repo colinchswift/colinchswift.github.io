@@ -3,7 +3,7 @@ layout: post
 title: "Techniques for handling concurrency in Swift for forward compatibility"
 description: " "
 date: 2023-09-21
-tags: [swift, concurrency]
+tags: [concurrency]
 comments: true
 share: true
 ---

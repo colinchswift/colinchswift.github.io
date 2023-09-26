@@ -3,7 +3,7 @@ layout: post
 title: "Common pitfalls to avoid in dependency injection in Swift"
 description: " "
 date: 2023-09-24
-tags: [dependencyinjection, Swift]
+tags: [dependencyinjection]
 comments: true
 share: true
 ---

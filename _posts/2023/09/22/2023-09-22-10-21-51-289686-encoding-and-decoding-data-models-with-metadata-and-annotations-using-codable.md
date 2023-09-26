@@ -3,7 +3,7 @@ layout: post
 title: "Encoding and decoding data models with metadata and annotations using Codable"
 description: " "
 date: 2023-09-22
-tags: [Swift, EncodingDecoding]
+tags: [EncodingDecoding]
 comments: true
 share: true
 ---

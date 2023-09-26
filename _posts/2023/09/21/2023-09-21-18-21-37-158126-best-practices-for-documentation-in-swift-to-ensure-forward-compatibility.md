@@ -3,7 +3,7 @@ layout: post
 title: "Best practices for documentation in Swift to ensure forward compatibility"
 description: " "
 date: 2023-09-21
-tags: [documentation, Swift]
+tags: [documentation]
 comments: true
 share: true
 ---

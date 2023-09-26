@@ -3,7 +3,7 @@ layout: post
 title: "Tips for writing future-proof Swift code that remains compatible with upcoming versions"
 description: " "
 date: 2023-09-21
-tags: [Swift, FutureProofing]
+tags: [FutureProofing]
 comments: true
 share: true
 ---

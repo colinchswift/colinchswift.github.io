@@ -3,7 +3,7 @@ layout: post
 title: "Using dependency injection for localization in Swift"
 description: " "
 date: 2023-09-24
-tags: [swift, localization]
+tags: [localization]
 comments: true
 share: true
 ---

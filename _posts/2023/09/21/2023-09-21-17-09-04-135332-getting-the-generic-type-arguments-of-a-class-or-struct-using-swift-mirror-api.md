@@ -3,7 +3,7 @@ layout: post
 title: "Getting the generic type arguments of a class or struct using Swift Mirror API"
 description: " "
 date: 2023-09-21
-tags: [Swift, Reflection]
+tags: [Reflection]
 comments: true
 share: true
 ---

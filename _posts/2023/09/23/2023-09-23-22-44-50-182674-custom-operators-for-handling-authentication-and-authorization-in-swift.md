@@ -3,7 +3,7 @@ layout: post
 title: "Custom operators for handling authentication and authorization in Swift"
 description: " "
 date: 2023-09-23
-tags: [swift, authentication]
+tags: [authentication]
 comments: true
 share: true
 ---

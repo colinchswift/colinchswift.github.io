@@ -3,7 +3,7 @@ layout: post
 title: "Achieving thread safety in Swift with atomic properties and fences"
 description: " "
 date: 2023-09-18
-tags: [hashtags, Swift]
+tags: [hashtags]
 comments: true
 share: true
 ---

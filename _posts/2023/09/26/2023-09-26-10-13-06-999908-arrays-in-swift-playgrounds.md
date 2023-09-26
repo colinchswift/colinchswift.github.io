@@ -3,7 +3,7 @@ layout: post
 title: "Arrays in Swift Playgrounds"
 description: " "
 date: 2023-09-26
-tags: [Swift, Arrays]
+tags: [Arrays]
 comments: true
 share: true
 ---

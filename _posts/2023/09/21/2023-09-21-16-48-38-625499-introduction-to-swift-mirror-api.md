@@ -3,7 +3,7 @@ layout: post
 title: "Introduction to Swift Mirror API"
 description: " "
 date: 2023-09-21
-tags: [swift, mirrorapi]
+tags: [mirrorapi]
 comments: true
 share: true
 ---

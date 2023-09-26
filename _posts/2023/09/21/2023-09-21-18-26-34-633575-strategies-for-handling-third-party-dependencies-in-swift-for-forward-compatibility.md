@@ -3,7 +3,7 @@ layout: post
 title: "Strategies for handling third-party dependencies in Swift for forward compatibility"
 description: " "
 date: 2023-09-21
-tags: [swift, dependencies]
+tags: [dependencies]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Handling localization and multilingual support with Codable in Swift"
 description: " "
 date: 2023-09-22
-tags: [Swift, Localization]
+tags: [Localization]
 comments: true
 share: true
 ---

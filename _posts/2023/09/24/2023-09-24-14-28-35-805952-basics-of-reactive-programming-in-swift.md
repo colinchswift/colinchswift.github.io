@@ -3,7 +3,7 @@ layout: post
 title: "Basics of Reactive Programming in Swift"
 description: " "
 date: 2023-09-24
-tags: [reactiveprogramming, swift]
+tags: [reactiveprogramming]
 comments: true
 share: true
 ---

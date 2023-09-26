@@ -3,7 +3,7 @@ layout: post
 title: "Creating a custom OCR (Optical Character Recognition) feature using Core ML in Swift"
 description: " "
 date: 2023-09-15
-tags: [CoreML, Swift]
+tags: [CoreML]
 comments: true
 share: true
 ---

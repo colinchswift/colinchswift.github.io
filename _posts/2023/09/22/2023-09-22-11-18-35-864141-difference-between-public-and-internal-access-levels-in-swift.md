@@ -3,7 +3,7 @@ layout: post
 title: "Difference between Public and Internal Access Levels in Swift"
 description: " "
 date: 2023-09-22
-tags: [Tech, Swift]
+tags: [Tech]
 comments: true
 share: true
 ---

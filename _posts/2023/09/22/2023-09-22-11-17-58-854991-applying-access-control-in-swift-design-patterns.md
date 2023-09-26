@@ -3,7 +3,7 @@ layout: post
 title: "Applying Access Control in Swift Design Patterns"
 description: " "
 date: 2023-09-22
-tags: [Swift, AccessControl]
+tags: [AccessControl]
 comments: true
 share: true
 ---

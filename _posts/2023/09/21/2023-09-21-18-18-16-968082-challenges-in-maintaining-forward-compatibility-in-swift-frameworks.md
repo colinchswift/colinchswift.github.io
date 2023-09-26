@@ -3,7 +3,7 @@ layout: post
 title: "Challenges in maintaining forward compatibility in Swift frameworks"
 description: " "
 date: 2023-09-21
-tags: [swift, forwardcompatibility]
+tags: [forwardcompatibility]
 comments: true
 share: true
 ---

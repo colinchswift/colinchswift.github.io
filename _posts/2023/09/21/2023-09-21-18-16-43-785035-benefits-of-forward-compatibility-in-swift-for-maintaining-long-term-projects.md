@@ -3,7 +3,7 @@ layout: post
 title: "Benefits of forward compatibility in Swift for maintaining long-term projects"
 description: " "
 date: 2023-09-21
-tags: [swift, forwardcompatibility]
+tags: [forwardcompatibility]
 comments: true
 share: true
 ---

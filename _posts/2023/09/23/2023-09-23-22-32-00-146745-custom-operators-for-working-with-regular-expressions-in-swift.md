@@ -3,7 +3,7 @@ layout: post
 title: "Custom operators for working with regular expressions in Swift"
 description: " "
 date: 2023-09-23
-tags: [swift, regex]
+tags: [regex]
 comments: true
 share: true
 ---

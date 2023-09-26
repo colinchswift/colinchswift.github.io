@@ -3,7 +3,7 @@ layout: post
 title: "Clustering Algorithms in Swift"
 description: " "
 date: 2023-09-25
-tags: [Swift, ClusteringAlgorithms]
+tags: [ClusteringAlgorithms]
 comments: true
 share: true
 ---

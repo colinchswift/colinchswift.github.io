@@ -3,7 +3,7 @@ layout: post
 title: "Implementing runtime graph construction in Swift dependency injection"
 description: " "
 date: 2023-09-24
-tags: [dependencyinjection, swift]
+tags: [dependencyinjection]
 comments: true
 share: true
 ---

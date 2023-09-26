@@ -3,7 +3,7 @@ layout: post
 title: "Drug Discovery using Swift Machine Learning"
 description: " "
 date: 2023-09-25
-tags: [drugdiscovery, swift]
+tags: [drugdiscovery]
 comments: true
 share: true
 ---

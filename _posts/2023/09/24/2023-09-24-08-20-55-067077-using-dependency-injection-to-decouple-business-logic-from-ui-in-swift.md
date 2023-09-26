@@ -3,7 +3,7 @@ layout: post
 title: "Using dependency injection to decouple business logic from UI in Swift"
 description: " "
 date: 2023-09-24
-tags: [Swift, DependencyInjection]
+tags: [DependencyInjection]
 comments: true
 share: true
 ---

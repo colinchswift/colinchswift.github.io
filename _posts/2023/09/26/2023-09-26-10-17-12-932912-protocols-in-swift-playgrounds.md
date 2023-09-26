@@ -3,7 +3,7 @@ layout: post
 title: "Protocols in Swift Playgrounds"
 description: " "
 date: 2023-09-26
-tags: [Swift, Protocols]
+tags: [Protocols]
 comments: true
 share: true
 ---

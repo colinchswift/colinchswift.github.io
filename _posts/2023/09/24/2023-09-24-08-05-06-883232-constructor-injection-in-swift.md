@@ -3,7 +3,7 @@ layout: post
 title: "Constructor injection in Swift"
 description: " "
 date: 2023-09-24
-tags: [Swift, ConstructorInjection]
+tags: [ConstructorInjection]
 comments: true
 share: true
 ---

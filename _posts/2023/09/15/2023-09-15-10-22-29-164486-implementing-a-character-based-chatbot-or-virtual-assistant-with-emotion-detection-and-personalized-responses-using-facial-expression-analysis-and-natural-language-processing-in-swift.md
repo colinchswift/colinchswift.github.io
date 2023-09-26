@@ -3,7 +3,7 @@ layout: post
 title: "Implementing a character-based chatbot or virtual assistant with emotion detection and personalized responses using facial expression analysis and natural language processing in Swift"
 description: " "
 date: 2023-09-15
-tags: [chatbot, Swift]
+tags: [chatbot]
 comments: true
 share: true
 ---

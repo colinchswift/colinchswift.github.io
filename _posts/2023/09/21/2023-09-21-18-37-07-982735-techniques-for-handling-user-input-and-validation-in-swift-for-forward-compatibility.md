@@ -3,7 +3,7 @@ layout: post
 title: "Techniques for handling user input and validation in Swift for forward compatibility"
 description: " "
 date: 2023-09-21
-tags: [swift, inputhandling, validation]
+tags: [inputhandling, validation]
 comments: true
 share: true
 ---

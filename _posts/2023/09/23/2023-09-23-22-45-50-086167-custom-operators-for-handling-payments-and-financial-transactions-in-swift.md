@@ -3,7 +3,7 @@ layout: post
 title: "Custom operators for handling payments and financial transactions in Swift"
 description: " "
 date: 2023-09-23
-tags: [Swift, FinancialTransactions]
+tags: [FinancialTransactions]
 comments: true
 share: true
 ---

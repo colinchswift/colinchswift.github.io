@@ -3,7 +3,7 @@ layout: post
 title: "Custom operators for working with Core Video and video processing in Swift"
 description: " "
 date: 2023-09-23
-tags: [VideoProcessing, Swift]
+tags: [VideoProcessing]
 comments: true
 share: true
 ---

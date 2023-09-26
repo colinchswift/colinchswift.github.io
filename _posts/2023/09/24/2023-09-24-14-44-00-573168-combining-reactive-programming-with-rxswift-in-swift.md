@@ -3,7 +3,7 @@ layout: post
 title: "Combining Reactive Programming with RxSwift in Swift"
 description: " "
 date: 2023-09-24
-tags: [swift, RxSwift]
+tags: [RxSwift]
 comments: true
 share: true
 ---

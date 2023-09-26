@@ -3,7 +3,7 @@ layout: post
 title: "Strategies for managing Swift codebase with multiple developers for forward compatibility"
 description: " "
 date: 2023-09-21
-tags: [Swift, ForwardCompatibility]
+tags: [ForwardCompatibility]
 comments: true
 share: true
 ---

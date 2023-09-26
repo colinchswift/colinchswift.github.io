@@ -3,7 +3,7 @@ layout: post
 title: "Implementing dark mode in ViewControllers in Swift"
 description: " "
 date: 2023-09-23
-tags: [swift, darkmode]
+tags: [darkmode]
 comments: true
 share: true
 ---

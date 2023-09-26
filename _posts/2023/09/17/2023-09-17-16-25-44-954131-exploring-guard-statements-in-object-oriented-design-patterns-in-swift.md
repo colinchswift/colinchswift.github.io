@@ -3,7 +3,7 @@ layout: post
 title: "Exploring guard statements in object-oriented design patterns in Swift"
 description: " "
 date: 2023-09-17
-tags: [ObjectOrientedDesign, Swift]
+tags: [ObjectOrientedDesign]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Changes in Swift syntax that are compatible with older code"
 description: " "
 date: 2023-09-21
-tags: [Swift, BackwardCompatibility]
+tags: [BackwardCompatibility]
 comments: true
 share: true
 ---

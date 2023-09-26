@@ -3,7 +3,7 @@ layout: post
 title: "Transfer Learning in Swift"
 description: " "
 date: 2023-09-25
-tags: [Swift, TransferLearning]
+tags: [TransferLearning]
 comments: true
 share: true
 ---

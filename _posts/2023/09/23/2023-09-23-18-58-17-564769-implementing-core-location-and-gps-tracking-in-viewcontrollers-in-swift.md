@@ -3,7 +3,7 @@ layout: post
 title: "Implementing Core Location and GPS tracking in ViewControllers in Swift"
 description: " "
 date: 2023-09-23
-tags: [CoreLocation, Swift]
+tags: [CoreLocation]
 comments: true
 share: true
 ---

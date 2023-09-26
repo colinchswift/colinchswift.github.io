@@ -3,7 +3,7 @@ layout: post
 title: "Implementing audio and video recording in Swift ResearchKit"
 description: " "
 date: 2023-09-25
-tags: [Swift, ResearchKit]
+tags: [ResearchKit]
 comments: true
 share: true
 ---

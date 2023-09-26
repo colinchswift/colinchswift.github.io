@@ -3,7 +3,7 @@ layout: post
 title: "Extracting the protocols adopted by a struct using Swift Mirror API"
 description: " "
 date: 2023-09-21
-tags: [swift, mirrorapi]
+tags: [mirrorapi]
 comments: true
 share: true
 ---

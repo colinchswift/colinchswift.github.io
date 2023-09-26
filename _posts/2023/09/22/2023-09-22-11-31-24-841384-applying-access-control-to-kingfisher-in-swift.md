@@ -3,7 +3,7 @@ layout: post
 title: "Applying Access Control to Kingfisher in Swift"
 description: " "
 date: 2023-09-22
-tags: [Swift, Kingfisher]
+tags: [Kingfisher]
 comments: true
 share: true
 ---

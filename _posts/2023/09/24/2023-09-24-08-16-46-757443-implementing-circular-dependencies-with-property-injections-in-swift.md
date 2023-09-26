@@ -3,7 +3,7 @@ layout: post
 title: "Implementing circular dependencies with property injections in Swift"
 description: " "
 date: 2023-09-24
-tags: [Swift, CircularDependencies]
+tags: [CircularDependencies]
 comments: true
 share: true
 ---

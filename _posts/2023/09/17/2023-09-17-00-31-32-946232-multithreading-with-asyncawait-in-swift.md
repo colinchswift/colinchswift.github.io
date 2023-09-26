@@ -3,7 +3,7 @@ layout: post
 title: "Multithreading with async/await in Swift"
 description: " "
 date: 2023-09-17
-tags: [async, multithreading, Swift]
+tags: [async, multithreading]
 comments: true
 share: true
 ---

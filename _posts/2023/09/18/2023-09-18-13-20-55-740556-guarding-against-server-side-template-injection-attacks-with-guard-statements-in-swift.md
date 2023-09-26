@@ -3,7 +3,7 @@ layout: post
 title: "Guarding against server-side template injection attacks with guard statements in Swift"
 description: " "
 date: 2023-09-18
-tags: [security, swift]
+tags: [security]
 comments: true
 share: true
 ---

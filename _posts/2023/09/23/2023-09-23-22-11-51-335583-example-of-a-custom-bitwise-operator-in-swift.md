@@ -3,7 +3,7 @@ layout: post
 title: "Example of a custom bitwise operator in Swift"
 description: " "
 date: 2023-09-23
-tags: [Swift, SwiftProgramming]
+tags: [SwiftProgramming]
 comments: true
 share: true
 ---

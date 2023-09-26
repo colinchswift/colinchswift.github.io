@@ -3,7 +3,7 @@ layout: post
 title: "Using third-party dependency injection frameworks in Swift"
 description: " "
 date: 2023-09-24
-tags: [Swift, DependencyInjection]
+tags: [DependencyInjection]
 comments: true
 share: true
 ---

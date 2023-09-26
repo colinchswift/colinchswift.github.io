@@ -3,7 +3,7 @@ layout: post
 title: "Implementing document export to popular design formats (e.g., Sketch, Adobe XD) in Swift"
 description: " "
 date: 2023-09-18
-tags: [design, Swift]
+tags: [design]
 comments: true
 share: true
 ---

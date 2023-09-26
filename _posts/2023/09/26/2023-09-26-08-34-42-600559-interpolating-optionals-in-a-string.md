@@ -3,7 +3,7 @@ layout: post
 title: "Interpolating optionals in a string"
 description: " "
 date: 2023-09-26
-tags: [Swift, OptionalInterpolation]
+tags: [OptionalInterpolation]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Implementing live streaming in ViewControllers in Swift"
 description: " "
 date: 2023-09-23
-tags: [Swift, LiveStreaming]
+tags: [LiveStreaming]
 comments: true
 share: true
 ---

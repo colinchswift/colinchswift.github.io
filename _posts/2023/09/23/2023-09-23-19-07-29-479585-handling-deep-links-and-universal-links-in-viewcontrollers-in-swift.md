@@ -3,7 +3,7 @@ layout: post
 title: "Handling deep links and universal links in ViewControllers in Swift"
 description: " "
 date: 2023-09-23
-tags: [iOSdevelopment, Swift]
+tags: [iOSdevelopment]
 comments: true
 share: true
 ---

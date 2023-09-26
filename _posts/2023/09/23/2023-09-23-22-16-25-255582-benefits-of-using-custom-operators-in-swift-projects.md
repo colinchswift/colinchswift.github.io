@@ -3,7 +3,7 @@ layout: post
 title: "Benefits of using custom operators in Swift projects"
 description: " "
 date: 2023-09-23
-tags: [Swift, CustomOperators]
+tags: [CustomOperators]
 comments: true
 share: true
 ---

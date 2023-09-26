@@ -3,7 +3,7 @@ layout: post
 title: "Custom operators for interacting with databases in Swift"
 description: " "
 date: 2023-09-23
-tags: [swift, databases]
+tags: [databases]
 comments: true
 share: true
 ---

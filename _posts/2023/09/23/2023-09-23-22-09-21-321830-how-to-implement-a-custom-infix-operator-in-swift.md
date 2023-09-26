@@ -3,7 +3,7 @@ layout: post
 title: "How to implement a custom infix operator in Swift"
 description: " "
 date: 2023-09-23
-tags: [Swift, Operators]
+tags: [Operators]
 comments: true
 share: true
 ---

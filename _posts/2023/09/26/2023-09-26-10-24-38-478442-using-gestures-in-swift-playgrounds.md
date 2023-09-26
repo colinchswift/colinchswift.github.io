@@ -3,7 +3,7 @@ layout: post
 title: "Using gestures in Swift Playgrounds"
 description: " "
 date: 2023-09-26
-tags: [selector(handleTap)), swift]
+tags: [selector(handleTap))]
 comments: true
 share: true
 ---

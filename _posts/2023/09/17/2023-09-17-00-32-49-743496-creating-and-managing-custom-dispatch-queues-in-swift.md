@@ -3,7 +3,7 @@ layout: post
 title: "Creating and managing custom dispatch queues in Swift"
 description: " "
 date: 2023-09-17
-tags: [programming, Swift]
+tags: [programming]
 comments: true
 share: true
 ---

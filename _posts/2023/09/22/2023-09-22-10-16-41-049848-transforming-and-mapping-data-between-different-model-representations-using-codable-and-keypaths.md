@@ -3,7 +3,7 @@ layout: post
 title: "Transforming and mapping data between different model representations using Codable and KeyPaths"
 description: " "
 date: 2023-09-22
-tags: [swift, dataTransformation]
+tags: [dataTransformation]
 comments: true
 share: true
 ---

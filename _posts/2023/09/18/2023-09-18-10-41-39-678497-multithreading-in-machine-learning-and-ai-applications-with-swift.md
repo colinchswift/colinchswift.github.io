@@ -3,7 +3,7 @@ layout: post
 title: "Multithreading in machine learning and AI applications with Swift"
 description: " "
 date: 2023-09-18
-tags: [MachineLearning, Swift]
+tags: [MachineLearning]
 comments: true
 share: true
 ---

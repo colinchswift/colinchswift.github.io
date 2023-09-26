@@ -3,7 +3,7 @@ layout: post
 title: "Debugging and troubleshooting dependency injection issues in Swift"
 description: " "
 date: 2023-09-24
-tags: [Swift, DependencyInjection]
+tags: [DependencyInjection]
 comments: true
 share: true
 ---

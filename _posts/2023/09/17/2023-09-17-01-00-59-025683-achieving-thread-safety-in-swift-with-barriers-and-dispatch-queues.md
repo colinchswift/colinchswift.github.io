@@ -3,7 +3,7 @@ layout: post
 title: "Achieving thread safety in Swift with barriers and dispatch queues"
 description: " "
 date: 2023-09-17
-tags: [threadsafe, swift]
+tags: [threadsafe]
 comments: true
 share: true
 ---

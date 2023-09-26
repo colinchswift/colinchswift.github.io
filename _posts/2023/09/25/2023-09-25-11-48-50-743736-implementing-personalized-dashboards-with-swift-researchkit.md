@@ -3,7 +3,7 @@ layout: post
 title: "Implementing personalized dashboards with Swift ResearchKit"
 description: " "
 date: 2023-09-25
-tags: [Swift, ResearchKit]
+tags: [ResearchKit]
 comments: true
 share: true
 ---

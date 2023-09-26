@@ -3,7 +3,7 @@ layout: post
 title: "Example of a custom range operator in Swift"
 description: " "
 date: 2023-09-23
-tags: [swift, customrangeoperator]
+tags: [customrangeoperator]
 comments: true
 share: true
 ---

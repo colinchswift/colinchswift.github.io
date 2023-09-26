@@ -3,7 +3,7 @@ layout: post
 title: "Sharing user-generated playlists between streaming music apps using App Groups in Swift"
 description: " "
 date: 2023-09-19
-tags: [AppGroups, Swift]
+tags: [AppGroups]
 comments: true
 share: true
 ---

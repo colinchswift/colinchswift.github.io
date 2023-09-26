@@ -3,7 +3,7 @@ layout: post
 title: "Techniques for handling file I/O and filesystem operations in Swift for forward compatibility"
 description: " "
 date: 2023-09-21
-tags: [Swift, FileIO, ForwardCompatibility]
+tags: [FileIO, ForwardCompatibility]
 comments: true
 share: true
 ---

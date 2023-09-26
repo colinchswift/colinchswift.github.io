@@ -3,7 +3,7 @@ layout: post
 title: "Example of a custom logical operator in Swift"
 description: " "
 date: 2023-09-23
-tags: [Swift, CustomOperators]
+tags: [CustomOperators]
 comments: true
 share: true
 ---

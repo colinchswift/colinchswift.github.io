@@ -3,7 +3,7 @@ layout: post
 title: "Custom operators for working with AVFoundation and multimedia in Swift"
 description: " "
 date: 2023-09-23
-tags: [swift, AVFoundation]
+tags: [AVFoundation]
 comments: true
 share: true
 ---

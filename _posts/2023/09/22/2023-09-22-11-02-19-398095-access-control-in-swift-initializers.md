@@ -3,7 +3,7 @@ layout: post
 title: "Access Control in Swift Initializers"
 description: " "
 date: 2023-09-22
-tags: [swift, accesscontrol]
+tags: [accesscontrol]
 comments: true
 share: true
 ---

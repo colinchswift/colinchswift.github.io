@@ -3,7 +3,7 @@ layout: post
 title: "Typecasting in Swift Playgrounds"
 description: " "
 date: 2023-09-26
-tags: [Swift, Typecasting]
+tags: [Typecasting]
 comments: true
 share: true
 ---

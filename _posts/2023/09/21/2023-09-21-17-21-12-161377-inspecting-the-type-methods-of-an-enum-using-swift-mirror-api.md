@@ -3,7 +3,7 @@ layout: post
 title: "Inspecting the type methods of an enum using Swift Mirror API"
 description: " "
 date: 2023-09-21
-tags: [swift, enum, mirror, runtime]
+tags: [enum, mirror, runtime]
 comments: true
 share: true
 ---

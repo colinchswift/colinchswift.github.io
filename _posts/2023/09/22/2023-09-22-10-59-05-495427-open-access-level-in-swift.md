@@ -3,7 +3,7 @@ layout: post
 title: "Open Access Level in Swift"
 description: " "
 date: 2023-09-22
-tags: [Swift, AccessLevel]
+tags: [AccessLevel]
 comments: true
 share: true
 ---

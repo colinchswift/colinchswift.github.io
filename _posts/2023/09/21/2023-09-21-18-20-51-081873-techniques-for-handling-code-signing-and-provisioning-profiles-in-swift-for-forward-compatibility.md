@@ -3,7 +3,7 @@ layout: post
 title: "Techniques for handling code signing and provisioning profiles in Swift for forward compatibility"
 description: " "
 date: 2023-09-21
-tags: [Swift, CodeSigning, ProvisioningProfiles]
+tags: [CodeSigning, ProvisioningProfiles]
 comments: true
 share: true
 ---

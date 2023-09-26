@@ -3,7 +3,7 @@ layout: post
 title: "Exploring data persistence options in Swift iOS development"
 description: " "
 date: 2023-09-14
-tags: [iOSDevelopment, Swift]
+tags: [iOSDevelopment]
 comments: true
 share: true
 ---

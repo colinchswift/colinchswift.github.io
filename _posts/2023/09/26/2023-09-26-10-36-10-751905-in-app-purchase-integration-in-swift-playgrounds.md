@@ -3,7 +3,7 @@ layout: post
 title: "In-app purchase integration in Swift Playgrounds"
 description: " "
 date: 2023-09-26
-tags: [swift]
+tags: []
 comments: true
 share: true
 ---

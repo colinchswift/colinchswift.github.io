@@ -3,7 +3,7 @@ layout: post
 title: "Dependency injection for handling geolocation in Swift"
 description: " "
 date: 2023-09-24
-tags: [swift, geolocation]
+tags: [geolocation]
 comments: true
 share: true
 ---

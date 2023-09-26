@@ -3,7 +3,7 @@ layout: post
 title: "Validating input data with Codable using regular expressions and custom logic"
 description: " "
 date: 2023-09-22
-tags: [Swift, Validation]
+tags: [Validation]
 comments: true
 share: true
 ---

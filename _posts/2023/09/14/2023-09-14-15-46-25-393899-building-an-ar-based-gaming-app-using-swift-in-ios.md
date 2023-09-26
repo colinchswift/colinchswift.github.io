@@ -3,7 +3,7 @@ layout: post
 title: "Building an AR-based gaming app using Swift in iOS"
 description: " "
 date: 2023-09-14
-tags: [selector(handleTap(_, Swift]
+tags: [selector(handleTap(_]
 comments: true
 share: true
 ---

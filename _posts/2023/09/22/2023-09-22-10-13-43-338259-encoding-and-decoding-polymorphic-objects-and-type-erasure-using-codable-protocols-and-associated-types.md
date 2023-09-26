@@ -3,7 +3,7 @@ layout: post
 title: "Encoding and decoding polymorphic objects and type erasure using Codable protocols and associated types"
 description: " "
 date: 2023-09-22
-tags: [coding, swift]
+tags: [coding]
 comments: true
 share: true
 ---

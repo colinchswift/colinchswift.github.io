@@ -3,7 +3,7 @@ layout: post
 title: "Multithreading techniques for 3D rendering with SceneKit in Swift"
 description: " "
 date: 2023-09-18
-tags: [SceneKit, Swift]
+tags: [SceneKit]
 comments: true
 share: true
 ---

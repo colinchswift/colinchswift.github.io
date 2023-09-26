@@ -3,7 +3,7 @@ layout: post
 title: "Implementing medication tracking in Swift ResearchKit"
 description: " "
 date: 2023-09-25
-tags: [medicationtracking, swift]
+tags: [medicationtracking]
 comments: true
 share: true
 ---

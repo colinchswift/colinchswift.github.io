@@ -3,7 +3,7 @@ layout: post
 title: "Example of a simple custom arithmetic operator in Swift"
 description: " "
 date: 2023-09-23
-tags: [Swift, CustomArithmeticOperator]
+tags: [CustomArithmeticOperator]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Techniques for implementing a character-based facial expression recognition feature using Vision framework in Swift"
 description: " "
 date: 2023-09-15
-tags: [facialexpression, Swift]
+tags: [facialexpression]
 comments: true
 share: true
 ---

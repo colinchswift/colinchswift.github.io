@@ -3,7 +3,7 @@ layout: post
 title: "Configuring custom serializers and deserializers with Codable"
 description: " "
 date: 2023-09-22
-tags: [Swift, Codable]
+tags: [Codable]
 comments: true
 share: true
 ---

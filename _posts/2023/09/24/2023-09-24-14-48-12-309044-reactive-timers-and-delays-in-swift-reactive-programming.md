@@ -3,7 +3,7 @@ layout: post
 title: "Reactive timers and delays in Swift Reactive Programming"
 description: " "
 date: 2023-09-24
-tags: [swift, RxSwift]
+tags: [RxSwift]
 comments: true
 share: true
 ---

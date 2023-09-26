@@ -3,7 +3,7 @@ layout: post
 title: "Encoding and decoding Swift enums with associated values using Codable"
 description: " "
 date: 2023-09-22
-tags: [Swift, Codable]
+tags: [Codable]
 comments: true
 share: true
 ---

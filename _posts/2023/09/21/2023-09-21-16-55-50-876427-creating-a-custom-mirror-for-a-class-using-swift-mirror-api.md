@@ -3,7 +3,7 @@ layout: post
 title: "Creating a custom mirror for a class using Swift Mirror API"
 description: " "
 date: 2023-09-21
-tags: [Swift, MirrorAPI]
+tags: [MirrorAPI]
 comments: true
 share: true
 ---

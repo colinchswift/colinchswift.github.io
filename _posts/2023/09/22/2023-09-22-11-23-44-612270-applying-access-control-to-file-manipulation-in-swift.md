@@ -3,7 +3,7 @@ layout: post
 title: "Applying Access Control to File Manipulation in Swift"
 description: " "
 date: 2023-09-22
-tags: [programming, swift]
+tags: [programming]
 comments: true
 share: true
 ---

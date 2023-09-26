@@ -3,7 +3,7 @@ layout: post
 title: "Reinforcement Learning for Robotics in Swift"
 description: " "
 date: 2023-09-25
-tags: [robotics, swift]
+tags: [robotics]
 comments: true
 share: true
 ---

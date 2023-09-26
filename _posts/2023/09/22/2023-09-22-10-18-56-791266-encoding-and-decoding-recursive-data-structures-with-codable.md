@@ -3,7 +3,7 @@ layout: post
 title: "Encoding and decoding recursive data structures with Codable"
 description: " "
 date: 2023-09-22
-tags: [swift, codable]
+tags: [codable]
 comments: true
 share: true
 ---

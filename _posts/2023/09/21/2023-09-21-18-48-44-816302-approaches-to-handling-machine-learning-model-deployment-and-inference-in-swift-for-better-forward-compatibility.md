@@ -3,7 +3,7 @@ layout: post
 title: "Approaches to handling machine learning model deployment and inference in Swift for better forward compatibility"
 description: " "
 date: 2023-09-21
-tags: [MachineLearning, Swift]
+tags: [MachineLearning]
 comments: true
 share: true
 ---

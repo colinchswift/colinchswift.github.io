@@ -3,7 +3,7 @@ layout: post
 title: "Best practices for using dependency injection in Swift"
 description: " "
 date: 2023-09-24
-tags: [swift, dependencyinjection]
+tags: [dependencyinjection]
 comments: true
 share: true
 ---

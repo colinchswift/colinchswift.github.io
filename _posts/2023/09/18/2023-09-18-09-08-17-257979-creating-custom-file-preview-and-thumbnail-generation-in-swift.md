@@ -3,7 +3,7 @@ layout: post
 title: "Creating custom file preview and thumbnail generation in Swift"
 description: " "
 date: 2023-09-18
-tags: [available(iOS, Swift]
+tags: [available(iOS]
 comments: true
 share: true
 ---

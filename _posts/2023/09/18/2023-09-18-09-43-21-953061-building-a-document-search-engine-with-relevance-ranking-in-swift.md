@@ -3,7 +3,7 @@ layout: post
 title: "Building a document search engine with relevance ranking in Swift"
 description: " "
 date: 2023-09-18
-tags: [searchengine, Swift]
+tags: [searchengine]
 comments: true
 share: true
 ---

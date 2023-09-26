@@ -3,7 +3,7 @@ layout: post
 title: "Natural Language Understanding with Swift Machine Learning"
 description: " "
 date: 2023-09-25
-tags: [Swift, MachineLearning]
+tags: [MachineLearning]
 comments: true
 share: true
 ---

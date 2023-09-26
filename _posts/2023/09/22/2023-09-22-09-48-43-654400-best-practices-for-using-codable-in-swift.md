@@ -3,7 +3,7 @@ layout: post
 title: "Best practices for using Codable in Swift"
 description: " "
 date: 2023-09-22
-tags: [Swift, CodingTips]
+tags: [CodingTips]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Custom operators for working with Core Bluetooth and Bluetooth Low Energy in Swift"
 description: " "
 date: 2023-09-23
-tags: [coreBluetooth, Swift]
+tags: [coreBluetooth]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Using Codable to map and transform data between different APIs"
 description: " "
 date: 2023-09-22
-tags: [Swift, Codable]
+tags: [Codable]
 comments: true
 share: true
 ---

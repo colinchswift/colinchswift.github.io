@@ -3,7 +3,7 @@ layout: post
 title: "Implementing a character-based personalized news recommendation system that suggests relevant articles based on user interests and reading history using collaborative filtering and natural language processing in Swift"
 description: " "
 date: 2023-09-15
-tags: [newsrecommendation, swift]
+tags: [newsrecommendation]
 comments: true
 share: true
 ---

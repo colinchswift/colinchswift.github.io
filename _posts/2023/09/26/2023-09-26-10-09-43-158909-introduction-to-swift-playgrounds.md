@@ -3,7 +3,7 @@ layout: post
 title: "Introduction to Swift Playgrounds"
 description: " "
 date: 2023-09-26
-tags: [swift, coding]
+tags: [coding]
 comments: true
 share: true
 ---

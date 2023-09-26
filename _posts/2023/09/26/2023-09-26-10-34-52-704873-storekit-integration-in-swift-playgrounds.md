@@ -3,7 +3,7 @@ layout: post
 title: "StoreKit integration in Swift Playgrounds"
 description: " "
 date: 2023-09-26
-tags: [swift, StoreKit]
+tags: [StoreKit]
 comments: true
 share: true
 ---

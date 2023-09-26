@@ -3,7 +3,7 @@ layout: post
 title: "Internationalization in Swift Playgrounds"
 description: " "
 date: 2023-09-26
-tags: [swift, internationalization]
+tags: [internationalization]
 comments: true
 share: true
 ---

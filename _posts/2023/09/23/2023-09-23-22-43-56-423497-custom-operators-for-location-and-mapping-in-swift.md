@@ -3,7 +3,7 @@ layout: post
 title: "Custom operators for location and mapping in Swift"
 description: " "
 date: 2023-09-23
-tags: [Swift, LocationMapping]
+tags: [LocationMapping]
 comments: true
 share: true
 ---

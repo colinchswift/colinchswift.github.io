@@ -3,7 +3,7 @@ layout: post
 title: "Multithreading techniques for image processing in Swift"
 description: " "
 date: 2023-09-18
-tags: [iOSDevelopment, Swift]
+tags: [iOSDevelopment]
 comments: true
 share: true
 ---

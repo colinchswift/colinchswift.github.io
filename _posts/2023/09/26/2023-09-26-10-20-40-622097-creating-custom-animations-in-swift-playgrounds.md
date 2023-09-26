@@ -3,7 +3,7 @@ layout: post
 title: "Creating custom animations in Swift Playgrounds"
 description: " "
 date: 2023-09-26
-tags: [swift, animation]
+tags: [animation]
 comments: true
 share: true
 ---

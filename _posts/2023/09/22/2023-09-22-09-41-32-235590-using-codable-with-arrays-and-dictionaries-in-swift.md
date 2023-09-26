@@ -3,7 +3,7 @@ layout: post
 title: "Using Codable with arrays and dictionaries in Swift"
 description: " "
 date: 2023-09-22
-tags: [swift, Codable]
+tags: [Codable]
 comments: true
 share: true
 ---

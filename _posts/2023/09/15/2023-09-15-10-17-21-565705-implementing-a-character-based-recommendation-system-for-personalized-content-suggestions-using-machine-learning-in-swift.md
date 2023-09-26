@@ -3,7 +3,7 @@ layout: post
 title: "Implementing a character-based recommendation system for personalized content suggestions using machine learning in Swift"
 description: " "
 date: 2023-09-15
-tags: [MachineLearning, Swift]
+tags: [MachineLearning]
 comments: true
 share: true
 ---

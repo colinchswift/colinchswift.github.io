@@ -3,7 +3,7 @@ layout: post
 title: "Building Codable-based data persistence frameworks and libraries in Swift"
 description: " "
 date: 2023-09-22
-tags: [Coding, Swift]
+tags: [Coding]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Implementing real-time notifications in Swift ResearchKit"
 description: " "
 date: 2023-09-25
-tags: [healthtech, swift]
+tags: [healthtech]
 comments: true
 share: true
 ---

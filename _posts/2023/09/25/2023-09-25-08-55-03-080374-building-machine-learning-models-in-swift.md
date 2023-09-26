@@ -3,7 +3,7 @@ layout: post
 title: "Building Machine Learning Models in Swift"
 description: " "
 date: 2023-09-25
-tags: [machinelearning, Swift]
+tags: [machinelearning]
 comments: true
 share: true
 ---

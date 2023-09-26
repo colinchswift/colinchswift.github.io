@@ -3,7 +3,7 @@ layout: post
 title: "Techniques for handling string manipulation and regular expressions in Swift for forward compatibility"
 description: " "
 date: 2023-09-21
-tags: [Tech, Swift]
+tags: [Tech]
 comments: true
 share: true
 ---

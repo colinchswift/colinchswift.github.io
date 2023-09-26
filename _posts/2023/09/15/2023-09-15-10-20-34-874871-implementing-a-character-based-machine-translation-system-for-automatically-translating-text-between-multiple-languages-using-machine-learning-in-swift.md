@@ -3,7 +3,7 @@ layout: post
 title: "Implementing a character-based machine translation system for automatically translating text between multiple languages using machine learning in Swift"
 description: " "
 date: 2023-09-15
-tags: [MachineTranslation, Swift]
+tags: [MachineTranslation]
 comments: true
 share: true
 ---

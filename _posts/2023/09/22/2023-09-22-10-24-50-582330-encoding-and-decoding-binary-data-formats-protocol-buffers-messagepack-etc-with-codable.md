@@ -3,7 +3,7 @@ layout: post
 title: "Encoding and decoding binary data formats (Protocol Buffers, MessagePack, etc.) with Codable"
 description: " "
 date: 2023-09-22
-tags: [swift, Codable]
+tags: [Codable]
 comments: true
 share: true
 ---

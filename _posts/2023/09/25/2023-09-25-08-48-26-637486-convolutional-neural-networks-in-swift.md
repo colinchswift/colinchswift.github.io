@@ -3,7 +3,7 @@ layout: post
 title: "Convolutional Neural Networks in Swift"
 description: " "
 date: 2023-09-25
-tags: [Swift]
+tags: []
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Data types in Swift Playgrounds"
 description: " "
 date: 2023-09-26
-tags: [Swift, DataTypes]
+tags: [DataTypes]
 comments: true
 share: true
 ---

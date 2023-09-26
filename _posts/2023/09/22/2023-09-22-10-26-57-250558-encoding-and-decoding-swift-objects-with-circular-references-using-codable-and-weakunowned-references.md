@@ -3,7 +3,7 @@ layout: post
 title: "Encoding and decoding Swift objects with circular references using Codable and weak/unowned references"
 description: " "
 date: 2023-09-22
-tags: [Swift, CircularReferences]
+tags: [CircularReferences]
 comments: true
 share: true
 ---

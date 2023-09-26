@@ -3,7 +3,7 @@ layout: post
 title: "Operator overloading in Swift and its relation to custom operators"
 description: " "
 date: 2023-09-23
-tags: [Swift, OperatorOverloading]
+tags: [OperatorOverloading]
 comments: true
 share: true
 ---

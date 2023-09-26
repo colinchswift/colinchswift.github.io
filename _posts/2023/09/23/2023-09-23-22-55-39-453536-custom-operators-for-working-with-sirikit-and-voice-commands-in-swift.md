@@ -3,7 +3,7 @@ layout: post
 title: "Custom operators for working with SiriKit and voice commands in Swift"
 description: " "
 date: 2023-09-23
-tags: [Swift, SiriKit]
+tags: [SiriKit]
 comments: true
 share: true
 ---

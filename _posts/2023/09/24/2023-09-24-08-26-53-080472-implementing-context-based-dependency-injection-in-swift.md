@@ -3,7 +3,7 @@ layout: post
 title: "Implementing context-based dependency injection in Swift"
 description: " "
 date: 2023-09-24
-tags: [Swift, DependencyInjection]
+tags: [DependencyInjection]
 comments: true
 share: true
 ---

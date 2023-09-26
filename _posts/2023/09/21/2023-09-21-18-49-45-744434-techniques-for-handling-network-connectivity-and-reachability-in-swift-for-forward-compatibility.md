@@ -3,7 +3,7 @@ layout: post
 title: "Techniques for handling network connectivity and reachability in Swift for forward compatibility"
 description: " "
 date: 2023-09-21
-tags: [networking, Swift]
+tags: [networking]
 comments: true
 share: true
 ---

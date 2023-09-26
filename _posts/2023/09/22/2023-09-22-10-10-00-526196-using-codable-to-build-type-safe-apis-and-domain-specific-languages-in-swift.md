@@ -3,7 +3,7 @@ layout: post
 title: "Using Codable to build type-safe APIs and domain specific languages in Swift"
 description: " "
 date: 2023-09-22
-tags: [Codable, Swift]
+tags: [Codable]
 comments: true
 share: true
 ---

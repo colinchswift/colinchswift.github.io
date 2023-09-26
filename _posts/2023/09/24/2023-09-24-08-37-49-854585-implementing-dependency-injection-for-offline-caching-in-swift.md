@@ -3,7 +3,7 @@ layout: post
 title: "Implementing dependency injection for offline caching in Swift"
 description: " "
 date: 2023-09-24
-tags: [Swift, offlinecaching]
+tags: [offlinecaching]
 comments: true
 share: true
 ---

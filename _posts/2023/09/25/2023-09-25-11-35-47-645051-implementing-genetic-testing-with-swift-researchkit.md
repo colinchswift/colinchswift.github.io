@@ -3,7 +3,7 @@ layout: post
 title: "Implementing genetic testing with Swift ResearchKit"
 description: " "
 date: 2023-09-25
-tags: [genetictesting, swift]
+tags: [genetictesting]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Using Access Control to Protect Sensitive Data in Swift"
 description: " "
 date: 2023-09-22
-tags: [Swift]
+tags: []
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Using UIAlertController in ViewControllers in Swift"
 description: " "
 date: 2023-09-23
-tags: [Swift, UIAlertController]
+tags: [UIAlertController]
 comments: true
 share: true
 ---

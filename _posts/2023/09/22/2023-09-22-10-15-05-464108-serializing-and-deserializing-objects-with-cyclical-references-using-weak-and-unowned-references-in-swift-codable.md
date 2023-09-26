@@ -3,7 +3,7 @@ layout: post
 title: "Serializing and deserializing objects with cyclical references using weak and unowned references in Swift Codable"
 description: " "
 date: 2023-09-22
-tags: [Swift, Codable]
+tags: [Codable]
 comments: true
 share: true
 ---

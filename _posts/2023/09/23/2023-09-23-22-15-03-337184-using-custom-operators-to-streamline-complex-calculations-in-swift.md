@@ -3,7 +3,7 @@ layout: post
 title: "Using custom operators to streamline complex calculations in Swift"
 description: " "
 date: 2023-09-23
-tags: [swift, customoperators]
+tags: [customoperators]
 comments: true
 share: true
 ---

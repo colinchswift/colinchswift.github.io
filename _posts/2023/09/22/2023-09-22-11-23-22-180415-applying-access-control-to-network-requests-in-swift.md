@@ -3,7 +3,7 @@ layout: post
 title: "Applying Access Control to Network Requests in Swift"
 description: " "
 date: 2023-09-22
-tags: [swift, networking]
+tags: [networking]
 comments: true
 share: true
 ---

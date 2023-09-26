@@ -3,7 +3,7 @@ layout: post
 title: "Dealing with invalid JSON data and decoding errors in Codable"
 description: " "
 date: 2023-09-22
-tags: [swift, JSON]
+tags: [JSON]
 comments: true
 share: true
 ---

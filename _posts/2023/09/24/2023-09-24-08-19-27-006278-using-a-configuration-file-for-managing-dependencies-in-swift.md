@@ -3,7 +3,7 @@ layout: post
 title: "Using a configuration file for managing dependencies in Swift"
 description: " "
 date: 2023-09-24
-tags: [dependencymanagement, Swift]
+tags: [dependencymanagement]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Implementing push notifications in ViewControllers in Swift"
 description: " "
 date: 2023-09-23
-tags: [swift, pushnotifications]
+tags: [pushnotifications]
 comments: true
 share: true
 ---

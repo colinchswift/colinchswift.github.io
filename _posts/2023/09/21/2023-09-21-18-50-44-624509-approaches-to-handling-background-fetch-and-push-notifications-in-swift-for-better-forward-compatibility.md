@@ -3,7 +3,7 @@ layout: post
 title: "Approaches to handling background fetch and push notifications in Swift for better forward compatibility"
 description: " "
 date: 2023-09-21
-tags: [tech, swift]
+tags: [tech]
 comments: true
 share: true
 ---

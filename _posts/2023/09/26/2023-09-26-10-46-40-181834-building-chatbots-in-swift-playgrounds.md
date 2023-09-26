@@ -3,7 +3,7 @@ layout: post
 title: "Building chatbots in Swift Playgrounds"
 description: " "
 date: 2023-09-26
-tags: [chatbot, Swift]
+tags: [chatbot]
 comments: true
 share: true
 ---

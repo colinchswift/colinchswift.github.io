@@ -3,7 +3,7 @@ layout: post
 title: "Creating a character-based game mechanic using SpriteKit and Swift"
 description: " "
 date: 2023-09-15
-tags: [SpriteKit, Swift, SpriteKit, Swift]
+tags: [SpriteKit, Swift, SpriteKit]
 comments: true
 share: true
 ---

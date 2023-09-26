@@ -3,7 +3,7 @@ layout: post
 title: "Applying Access Control to Local Notifications in Swift"
 description: " "
 date: 2023-09-22
-tags: [Swift, LocalNotifications]
+tags: [LocalNotifications]
 comments: true
 share: true
 ---

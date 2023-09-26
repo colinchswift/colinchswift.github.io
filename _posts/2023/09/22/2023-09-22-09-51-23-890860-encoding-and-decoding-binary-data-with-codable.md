@@ -3,7 +3,7 @@ layout: post
 title: "Encoding and decoding binary data with Codable"
 description: " "
 date: 2023-09-22
-tags: [Swift]
+tags: []
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Implementing undo/redo functionality in a Swift document-based app"
 description: " "
 date: 2023-09-18
-tags: [selector(undoManagerDidChange), swift]
+tags: [selector(undoManagerDidChange)]
 comments: true
 share: true
 ---

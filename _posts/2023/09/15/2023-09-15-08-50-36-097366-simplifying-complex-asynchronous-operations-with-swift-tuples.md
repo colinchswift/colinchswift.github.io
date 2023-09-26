@@ -3,7 +3,7 @@ layout: post
 title: "Simplifying complex asynchronous operations with Swift Tuples."
 description: " "
 date: 2023-09-15
-tags: [programming, swift]
+tags: [programming]
 comments: true
 share: true
 ---

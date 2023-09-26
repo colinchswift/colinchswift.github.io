@@ -3,7 +3,7 @@ layout: post
 title: "Working with Core Audio and audio processing in ViewControllers in Swift"
 description: " "
 date: 2023-09-23
-tags: [Swift, CoreAudio]
+tags: [CoreAudio]
 comments: true
 share: true
 ---

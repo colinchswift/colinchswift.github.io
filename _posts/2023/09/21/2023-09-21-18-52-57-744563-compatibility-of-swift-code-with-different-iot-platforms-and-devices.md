@@ -3,7 +3,7 @@ layout: post
 title: "Compatibility of Swift code with different IoT platforms and devices"
 description: " "
 date: 2023-09-21
-tags: [Swift, Programming, Compatibility]
+tags: [Programming, Compatibility]
 comments: true
 share: true
 ---

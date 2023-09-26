@@ -3,7 +3,7 @@ layout: post
 title: "Natural Language Processing in Swift"
 description: " "
 date: 2023-09-25
-tags: [naturallanguageprocessing, swift]
+tags: [naturallanguageprocessing]
 comments: true
 share: true
 ---

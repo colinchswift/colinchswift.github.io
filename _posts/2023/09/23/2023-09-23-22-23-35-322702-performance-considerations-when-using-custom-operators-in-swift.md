@@ -3,7 +3,7 @@ layout: post
 title: "Performance considerations when using custom operators in Swift"
 description: " "
 date: 2023-09-23
-tags: [Swift, PerformanceConsiderations]
+tags: [PerformanceConsiderations]
 comments: true
 share: true
 ---

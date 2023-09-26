@@ -3,7 +3,7 @@ layout: post
 title: "Custom operators for working with Multipeer Connectivity and peer-to-peer communication in Swift"
 description: " "
 date: 2023-09-23
-tags: [swift, multipeerconnectivity]
+tags: [multipeerconnectivity]
 comments: true
 share: true
 ---

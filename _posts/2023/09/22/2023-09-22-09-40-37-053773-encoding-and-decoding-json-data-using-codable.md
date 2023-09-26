@@ -3,7 +3,7 @@ layout: post
 title: "Encoding and decoding JSON data using Codable"
 description: " "
 date: 2023-09-22
-tags: [Swift, JSON]
+tags: [JSON]
 comments: true
 share: true
 ---

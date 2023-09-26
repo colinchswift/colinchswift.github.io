@@ -3,7 +3,7 @@ layout: post
 title: "Implementing parallel sorting algorithms in Swift"
 description: " "
 date: 2023-09-17
-tags: [tech, swift]
+tags: [tech]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Enhancing document collaboration with real-time presence indicators in Swift"
 description: " "
 date: 2023-09-18
-tags: [hashtags, Swift]
+tags: [hashtags]
 comments: true
 share: true
 ---

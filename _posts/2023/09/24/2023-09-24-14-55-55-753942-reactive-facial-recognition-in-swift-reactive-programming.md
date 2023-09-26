@@ -3,7 +3,7 @@ layout: post
 title: "Reactive facial recognition in Swift Reactive Programming"
 description: " "
 date: 2023-09-24
-tags: [facialrecognition, swift]
+tags: [facialrecognition]
 comments: true
 share: true
 ---

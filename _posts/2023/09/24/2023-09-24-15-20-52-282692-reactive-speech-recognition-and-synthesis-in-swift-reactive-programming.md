@@ -3,7 +3,7 @@ layout: post
 title: "Reactive speech recognition and synthesis in Swift Reactive Programming"
 description: " "
 date: 2023-09-24
-tags: [swift, ReactiveProgramming]
+tags: [ReactiveProgramming]
 comments: true
 share: true
 ---

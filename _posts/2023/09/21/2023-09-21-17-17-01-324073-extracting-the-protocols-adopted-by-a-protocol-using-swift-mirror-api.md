@@ -3,7 +3,7 @@ layout: post
 title: "Extracting the protocols adopted by a protocol using Swift Mirror API"
 description: " "
 date: 2023-09-21
-tags: [swift, reflection]
+tags: [reflection]
 comments: true
 share: true
 ---

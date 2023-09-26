@@ -3,7 +3,7 @@ layout: post
 title: "Utilizing App Groups for collaborative recipe sharing between cooking apps in Swift"
 description: " "
 date: 2023-09-19
-tags: [CookingApps, Swift]
+tags: [CookingApps]
 comments: true
 share: true
 ---

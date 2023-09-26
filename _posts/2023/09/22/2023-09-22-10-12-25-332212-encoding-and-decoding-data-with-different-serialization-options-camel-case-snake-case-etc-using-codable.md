@@ -3,7 +3,7 @@ layout: post
 title: "Encoding and decoding data with different serialization options (camel case, snake case, etc.) using Codable"
 description: " "
 date: 2023-09-22
-tags: [coding, swift]
+tags: [coding]
 comments: true
 share: true
 ---

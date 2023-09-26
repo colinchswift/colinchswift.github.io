@@ -3,7 +3,7 @@ layout: post
 title: "Encoding and decoding Swift objects with default values using Codable"
 description: " "
 date: 2023-09-22
-tags: [Swift, CodingTips]
+tags: [CodingTips]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Strategies for handling security and encryption in Swift for forward compatibility"
 description: " "
 date: 2023-09-21
-tags: [security, encryption, Swift]
+tags: [security, encryption]
 comments: true
 share: true
 ---

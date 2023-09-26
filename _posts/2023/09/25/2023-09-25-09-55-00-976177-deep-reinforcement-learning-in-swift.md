@@ -3,7 +3,7 @@ layout: post
 title: "Deep Reinforcement Learning in Swift."
 description: " "
 date: 2023-09-25
-tags: [deeplearning, swift]
+tags: [deeplearning]
 comments: true
 share: true
 ---

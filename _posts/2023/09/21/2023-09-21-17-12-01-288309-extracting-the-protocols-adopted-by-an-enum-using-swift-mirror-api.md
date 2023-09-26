@@ -3,7 +3,7 @@ layout: post
 title: "Extracting the protocols adopted by an enum using Swift Mirror API"
 description: " "
 date: 2023-09-21
-tags: [Swift, Enums, Protocols, SwiftMirrorAPI]
+tags: [Enums, Protocols, SwiftMirrorAPI]
 comments: true
 share: true
 ---

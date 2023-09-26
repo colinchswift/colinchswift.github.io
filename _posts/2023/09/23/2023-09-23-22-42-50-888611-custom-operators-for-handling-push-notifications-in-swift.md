@@ -3,7 +3,7 @@ layout: post
 title: "Custom operators for handling push notifications in Swift"
 description: " "
 date: 2023-09-23
-tags: [Swift, PushNotifications]
+tags: [PushNotifications]
 comments: true
 share: true
 ---

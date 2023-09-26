@@ -3,7 +3,7 @@ layout: post
 title: "Multithreading in cryptography and encryption with Swift"
 description: " "
 date: 2023-09-17
-tags: [cryptography, encryption, multithreading, Swift]
+tags: [cryptography, encryption, multithreading]
 comments: true
 share: true
 ---

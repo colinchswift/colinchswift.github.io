@@ -3,7 +3,7 @@ layout: post
 title: "Closures in Swift Playgrounds"
 description: " "
 date: 2023-09-26
-tags: [swift, closures]
+tags: [closures]
 comments: true
 share: true
 ---

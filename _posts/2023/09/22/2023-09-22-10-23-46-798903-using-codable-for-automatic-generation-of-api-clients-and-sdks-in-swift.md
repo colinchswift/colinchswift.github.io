@@ -3,7 +3,7 @@ layout: post
 title: "Using Codable for automatic generation of API clients and SDKs in Swift"
 description: " "
 date: 2023-09-22
-tags: [Swift, Codable]
+tags: [Codable]
 comments: true
 share: true
 ---

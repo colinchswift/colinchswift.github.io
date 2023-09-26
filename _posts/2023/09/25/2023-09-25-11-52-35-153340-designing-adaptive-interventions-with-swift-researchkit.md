@@ -3,7 +3,7 @@ layout: post
 title: "Designing adaptive interventions with Swift ResearchKit"
 description: " "
 date: 2023-09-25
-tags: [swift, adaptiveinterventions]
+tags: [adaptiveinterventions]
 comments: true
 share: true
 ---

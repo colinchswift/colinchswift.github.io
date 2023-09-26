@@ -3,7 +3,7 @@ layout: post
 title: "Guarding against XML entity expansion attacks with guard statements in Swift"
 description: " "
 date: 2023-09-18
-tags: [Example, Swift]
+tags: [Example]
 comments: true
 share: true
 ---

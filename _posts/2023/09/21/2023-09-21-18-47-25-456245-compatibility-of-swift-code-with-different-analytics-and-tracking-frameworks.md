@@ -3,7 +3,7 @@ layout: post
 title: "Compatibility of Swift code with different analytics and tracking frameworks"
 description: " "
 date: 2023-09-21
-tags: [swift, analytics, tracking, frameworks]
+tags: [analytics, tracking, frameworks]
 comments: true
 share: true
 ---

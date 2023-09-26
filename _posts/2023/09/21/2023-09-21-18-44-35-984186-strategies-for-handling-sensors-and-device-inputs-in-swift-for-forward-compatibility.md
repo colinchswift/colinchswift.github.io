@@ -3,7 +3,7 @@ layout: post
 title: "Strategies for handling sensors and device inputs in Swift for forward compatibility"
 description: " "
 date: 2023-09-21
-tags: [Swift]
+tags: []
 comments: true
 share: true
 ---

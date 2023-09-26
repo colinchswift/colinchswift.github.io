@@ -3,7 +3,7 @@ layout: post
 title: "How to handle deprecated APIs in Swift for future compatibility"
 description: " "
 date: 2023-09-21
-tags: [Swift, DeprecatedAPIs, FutureCompatibility]
+tags: [DeprecatedAPIs, FutureCompatibility]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Creating a character-based encryption algorithm in Swift"
 description: " "
 date: 2023-09-15
-tags: [Encryption, Swift]
+tags: [Encryption]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Custom operators for working with Bluetooth and wireless communication in Swift"
 description: " "
 date: 2023-09-23
-tags: [Swift, Bluetooth]
+tags: [Bluetooth]
 comments: true
 share: true
 ---

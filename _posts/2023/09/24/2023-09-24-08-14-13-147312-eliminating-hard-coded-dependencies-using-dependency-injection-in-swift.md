@@ -3,7 +3,7 @@ layout: post
 title: "Eliminating hard-coded dependencies using dependency injection in Swift"
 description: " "
 date: 2023-09-24
-tags: [Swift, DependencyInjection]
+tags: [DependencyInjection]
 comments: true
 share: true
 ---

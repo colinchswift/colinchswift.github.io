@@ -3,7 +3,7 @@ layout: post
 title: "Reactive push notifications in Swift Reactive Programming"
 description: " "
 date: 2023-09-24
-tags: [hashtags, Swift]
+tags: [hashtags]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Optionals in Swift Playgrounds"
 description: " "
 date: 2023-09-26
-tags: [Swift, Optionals]
+tags: [Optionals]
 comments: true
 share: true
 ---

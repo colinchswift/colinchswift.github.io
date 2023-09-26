@@ -3,7 +3,7 @@ layout: post
 title: "Reactive audio recording and playback in Swift Reactive Programming"
 description: " "
 date: 2023-09-24
-tags: [swift, audio]
+tags: [audio]
 comments: true
 share: true
 ---

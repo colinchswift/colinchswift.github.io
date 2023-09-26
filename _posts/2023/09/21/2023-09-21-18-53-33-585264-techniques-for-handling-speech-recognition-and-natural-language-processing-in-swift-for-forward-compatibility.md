@@ -3,7 +3,7 @@ layout: post
 title: "Techniques for handling speech recognition and natural language processing in Swift for forward compatibility"
 description: " "
 date: 2023-09-21
-tags: [Swift, SpeechRecognition, NaturalLanguageProcessing]
+tags: [SpeechRecognition, NaturalLanguageProcessing]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Using generics in animation frameworks in Swift"
 description: " "
 date: 2023-09-20
-tags: [Tech, Swift]
+tags: [Tech]
 comments: true
 share: true
 ---

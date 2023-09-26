@@ -3,7 +3,7 @@ layout: post
 title: "Explainable Recommendation Systems using Swift Machine Learning"
 description: " "
 date: 2023-09-25
-tags: [Swift, RecommendationSystems]
+tags: [RecommendationSystems]
 comments: true
 share: true
 ---

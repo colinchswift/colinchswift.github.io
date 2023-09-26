@@ -3,7 +3,7 @@ layout: post
 title: "Using Access Control to Restrict Access to Specific Resources in Swift"
 description: " "
 date: 2023-09-22
-tags: [Swift, AccessControl]
+tags: [AccessControl]
 comments: true
 share: true
 ---

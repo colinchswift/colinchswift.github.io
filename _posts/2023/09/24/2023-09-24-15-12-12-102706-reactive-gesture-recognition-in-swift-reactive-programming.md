@@ -3,7 +3,7 @@ layout: post
 title: "Reactive gesture recognition in Swift Reactive Programming"
 description: " "
 date: 2023-09-24
-tags: [selector(observer, swift]
+tags: [selector(observer]
 comments: true
 share: true
 ---

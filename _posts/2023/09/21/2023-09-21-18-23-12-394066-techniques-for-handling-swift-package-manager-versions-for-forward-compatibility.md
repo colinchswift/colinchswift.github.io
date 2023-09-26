@@ -3,7 +3,7 @@ layout: post
 title: "Techniques for handling Swift package manager versions for forward compatibility"
 description: " "
 date: 2023-09-21
-tags: [Swift, ForwardCompatibility]
+tags: [ForwardCompatibility]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Applying Access Control to Error Handling in Swift"
 description: " "
 date: 2023-09-22
-tags: [Swift, ErrorHandling]
+tags: [ErrorHandling]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Custom operators for handling file I/O in Swift"
 description: " "
 date: 2023-09-23
-tags: [swift, customoperators]
+tags: [customoperators]
 comments: true
 share: true
 ---

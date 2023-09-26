@@ -3,7 +3,7 @@ layout: post
 title: "Utilizing parallel computing architectures with Swift"
 description: " "
 date: 2023-09-18
-tags: [programming, swift]
+tags: [programming]
 comments: true
 share: true
 ---

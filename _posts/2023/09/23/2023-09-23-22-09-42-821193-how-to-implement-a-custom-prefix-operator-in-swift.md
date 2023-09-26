@@ -3,7 +3,7 @@ layout: post
 title: "How to implement a custom prefix operator in Swift"
 description: " "
 date: 2023-09-23
-tags: [Swift, CustomOperators]
+tags: [CustomOperators]
 comments: true
 share: true
 ---

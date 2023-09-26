@@ -3,7 +3,7 @@ layout: post
 title: "Cross-validation in Swift"
 description: " "
 date: 2023-09-25
-tags: [Swift, CrossValidation]
+tags: [CrossValidation]
 comments: true
 share: true
 ---

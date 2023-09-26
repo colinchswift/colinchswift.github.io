@@ -3,7 +3,7 @@ layout: post
 title: "Custom operators and protocol-oriented programming in Swift"
 description: " "
 date: 2023-09-23
-tags: [swift, programming]
+tags: [programming]
 comments: true
 share: true
 ---

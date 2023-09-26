@@ -3,7 +3,7 @@ layout: post
 title: "How Swift ensures backward compatibility"
 description: " "
 date: 2023-09-21
-tags: [Swift, BackwardCompatibility]
+tags: [BackwardCompatibility]
 comments: true
 share: true
 ---

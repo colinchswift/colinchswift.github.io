@@ -3,7 +3,7 @@ layout: post
 title: "Techniques for searching and replacing characters in Swift strings"
 description: " "
 date: 2023-09-15
-tags: [tech, Swift]
+tags: [tech]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Inspecting the type properties of an enum using Swift Mirror API"
 description: " "
 date: 2023-09-21
-tags: [swift, enum]
+tags: [enum]
 comments: true
 share: true
 ---

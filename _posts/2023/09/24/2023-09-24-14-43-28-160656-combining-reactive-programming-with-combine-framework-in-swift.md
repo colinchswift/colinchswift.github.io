@@ -3,7 +3,7 @@ layout: post
 title: "Combining Reactive Programming with Combine framework in Swift"
 description: " "
 date: 2023-09-24
-tags: [reactiveprogramming, swift]
+tags: [reactiveprogramming]
 comments: true
 share: true
 ---

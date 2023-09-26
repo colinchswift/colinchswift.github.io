@@ -3,7 +3,7 @@ layout: post
 title: "Using third-party libraries and frameworks in ViewControllers in Swift"
 description: " "
 date: 2023-09-23
-tags: [Swift, ThirdPartyLibraries]
+tags: [ThirdPartyLibraries]
 comments: true
 share: true
 ---

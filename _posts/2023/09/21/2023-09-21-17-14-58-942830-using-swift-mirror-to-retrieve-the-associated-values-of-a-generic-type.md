@@ -3,7 +3,7 @@ layout: post
 title: "Using Swift Mirror to retrieve the associated values of a generic type"
 description: " "
 date: 2023-09-21
-tags: [Swift, Mirror]
+tags: [Mirror]
 comments: true
 share: true
 ---

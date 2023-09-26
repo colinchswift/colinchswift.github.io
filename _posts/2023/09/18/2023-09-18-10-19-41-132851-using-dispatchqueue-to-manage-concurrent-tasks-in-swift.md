@@ -3,7 +3,7 @@ layout: post
 title: "Using DispatchQueue to manage concurrent tasks in Swift"
 description: " "
 date: 2023-09-18
-tags: [concurrency, Swift]
+tags: [concurrency]
 comments: true
 share: true
 ---

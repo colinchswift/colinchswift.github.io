@@ -3,7 +3,7 @@ layout: post
 title: "Accessing the type metadata of a struct using Swift Mirror API"
 description: " "
 date: 2023-09-21
-tags: [Swift, TypeMetadata]
+tags: [TypeMetadata]
 comments: true
 share: true
 ---

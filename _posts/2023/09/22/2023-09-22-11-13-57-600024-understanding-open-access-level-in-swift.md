@@ -3,7 +3,7 @@ layout: post
 title: "Understanding Open Access Level in Swift"
 description: " "
 date: 2023-09-22
-tags: [swift, programming]
+tags: [programming]
 comments: true
 share: true
 ---

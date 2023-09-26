@@ -3,7 +3,7 @@ layout: post
 title: "Dependency injection for handling Bluetooth connectivity in Swift"
 description: " "
 date: 2023-09-24
-tags: [Swift, BluetoothConnectivity]
+tags: [BluetoothConnectivity]
 comments: true
 share: true
 ---

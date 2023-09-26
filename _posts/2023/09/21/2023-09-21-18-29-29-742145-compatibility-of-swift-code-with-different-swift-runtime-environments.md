@@ -3,7 +3,7 @@ layout: post
 title: "Compatibility of Swift code with different Swift runtime environments"
 description: " "
 date: 2023-09-21
-tags: [Swift, Compatibility]
+tags: [Compatibility]
 comments: true
 share: true
 ---

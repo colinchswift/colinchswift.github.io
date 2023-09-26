@@ -3,7 +3,7 @@ layout: post
 title: "Utilizing worker queues for efficient task processing in Swift"
 description: " "
 date: 2023-09-17
-tags: [Tech, Swift]
+tags: [Tech]
 comments: true
 share: true
 ---

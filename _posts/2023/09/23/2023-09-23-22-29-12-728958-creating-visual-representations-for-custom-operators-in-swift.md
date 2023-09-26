@@ -3,7 +3,7 @@ layout: post
 title: "Creating visual representations for custom operators in Swift"
 description: " "
 date: 2023-09-23
-tags: [customoperators, Swift]
+tags: [customoperators]
 comments: true
 share: true
 ---

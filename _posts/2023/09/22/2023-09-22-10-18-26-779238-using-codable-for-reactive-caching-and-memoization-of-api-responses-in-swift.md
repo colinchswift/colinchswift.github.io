@@ -3,7 +3,7 @@ layout: post
 title: "Using Codable for reactive caching and memoization of API responses in Swift"
 description: " "
 date: 2023-09-22
-tags: [swift, coding]
+tags: [coding]
 comments: true
 share: true
 ---

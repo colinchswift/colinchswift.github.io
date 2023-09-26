@@ -3,7 +3,7 @@ layout: post
 title: "Approaches to networking and JSON parsing in Swift for better forward compatibility"
 description: " "
 date: 2023-09-21
-tags: [Swift, Networking, JSONParsing]
+tags: [Networking, JSONParsing]
 comments: true
 share: true
 ---

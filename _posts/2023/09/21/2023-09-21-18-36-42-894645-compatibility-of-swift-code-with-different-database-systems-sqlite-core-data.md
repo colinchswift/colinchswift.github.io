@@ -3,7 +3,7 @@ layout: post
 title: "Compatibility of Swift code with different database systems (SQLite, Core Data)"
 description: " "
 date: 2023-09-21
-tags: [Swift, databases]
+tags: [databases]
 comments: true
 share: true
 ---

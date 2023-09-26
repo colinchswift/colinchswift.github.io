@@ -3,7 +3,7 @@ layout: post
 title: "Applying Access Control to User Authorization in Swift"
 description: " "
 date: 2023-09-22
-tags: [Swift, Authorization]
+tags: [Authorization]
 comments: true
 share: true
 ---

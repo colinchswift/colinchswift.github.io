@@ -3,7 +3,7 @@ layout: post
 title: "Using dependency injection for caching in Swift applications"
 description: " "
 date: 2023-09-24
-tags: [Swift, Caching]
+tags: [Caching]
 comments: true
 share: true
 ---

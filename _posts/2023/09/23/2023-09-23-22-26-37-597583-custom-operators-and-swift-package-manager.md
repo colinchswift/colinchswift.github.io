@@ -3,7 +3,7 @@ layout: post
 title: "Custom operators and Swift package manager"
 description: " "
 date: 2023-09-23
-tags: [Swift, DependencyManagement]
+tags: [DependencyManagement]
 comments: true
 share: true
 ---

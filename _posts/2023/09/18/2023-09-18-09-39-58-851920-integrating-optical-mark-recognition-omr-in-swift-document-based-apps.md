@@ -3,7 +3,7 @@ layout: post
 title: "Integrating optical mark recognition (OMR) in Swift document-based apps"
 description: " "
 date: 2023-09-18
-tags: [techblog, swift]
+tags: [techblog]
 comments: true
 share: true
 ---

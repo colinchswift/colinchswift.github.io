@@ -3,7 +3,7 @@ layout: post
 title: "Dependency injection vs singleton pattern in Swift"
 description: " "
 date: 2023-09-24
-tags: [Swift, DependencyInjection]
+tags: [DependencyInjection]
 comments: true
 share: true
 ---

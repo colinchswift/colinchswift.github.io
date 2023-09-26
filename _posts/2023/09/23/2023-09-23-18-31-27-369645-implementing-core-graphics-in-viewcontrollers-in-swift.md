@@ -3,7 +3,7 @@ layout: post
 title: "Implementing Core Graphics in ViewControllers in Swift"
 description: " "
 date: 2023-09-23
-tags: [Swift, CoreGraphics]
+tags: [CoreGraphics]
 comments: true
 share: true
 ---

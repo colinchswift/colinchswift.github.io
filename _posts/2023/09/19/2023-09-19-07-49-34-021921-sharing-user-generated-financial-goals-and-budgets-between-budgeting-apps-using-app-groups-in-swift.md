@@ -3,7 +3,7 @@ layout: post
 title: "Sharing user-generated financial goals and budgets between budgeting apps using App Groups in Swift"
 description: " "
 date: 2023-09-19
-tags: [Summary, techblog, swift]
+tags: [Summary, techblog]
 comments: true
 share: true
 ---

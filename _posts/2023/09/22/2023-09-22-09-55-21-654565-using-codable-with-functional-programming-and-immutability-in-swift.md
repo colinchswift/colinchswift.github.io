@@ -3,7 +3,7 @@ layout: post
 title: "Using Codable with functional programming and immutability in Swift"
 description: " "
 date: 2023-09-22
-tags: [Swift, FunctionalProgramming]
+tags: [FunctionalProgramming]
 comments: true
 share: true
 ---

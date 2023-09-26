@@ -3,7 +3,7 @@ layout: post
 title: "Transforming and manipulating JSON data during encoding and decoding with Codable"
 description: " "
 date: 2023-09-22
-tags: [Swift, JSONManipulation]
+tags: [JSONManipulation]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Implementing App Groups for seamless integration with Core Video in Swift apps."
 description: " "
 date: 2023-09-19
-tags: [corevideo, swift]
+tags: [corevideo]
 comments: true
 share: true
 ---

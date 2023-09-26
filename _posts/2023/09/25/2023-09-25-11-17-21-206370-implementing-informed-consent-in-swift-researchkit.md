@@ -3,7 +3,7 @@ layout: post
 title: "Implementing informed consent in Swift ResearchKit"
 description: " "
 date: 2023-09-25
-tags: [swift, researchkit]
+tags: [researchkit]
 comments: true
 share: true
 ---

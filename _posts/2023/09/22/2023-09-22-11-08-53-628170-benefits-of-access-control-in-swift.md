@@ -3,7 +3,7 @@ layout: post
 title: "Benefits of Access Control in Swift"
 description: " "
 date: 2023-09-22
-tags: [Swift, AccessControl]
+tags: [AccessControl]
 comments: true
 share: true
 ---

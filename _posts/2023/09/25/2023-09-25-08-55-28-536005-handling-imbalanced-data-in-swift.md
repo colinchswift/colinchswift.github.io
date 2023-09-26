@@ -3,7 +3,7 @@ layout: post
 title: "Handling Imbalanced Data in Swift"
 description: " "
 date: 2023-09-25
-tags: [swift, machinelearning]
+tags: [machinelearning]
 comments: true
 share: true
 ---

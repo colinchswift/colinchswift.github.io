@@ -3,7 +3,7 @@ layout: post
 title: "Custom operators for networking and HTTP requests in Swift"
 description: " "
 date: 2023-09-23
-tags: [networking, Swift]
+tags: [networking]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Understanding Access Control for WatchOS Development in Swift"
 description: " "
 date: 2023-09-22
-tags: [watchOS, Swift]
+tags: [watchOS]
 comments: true
 share: true
 ---

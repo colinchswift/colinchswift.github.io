@@ -3,7 +3,7 @@ layout: post
 title: "Compatibility of Swift code with different architectures (ARM, x86)"
 description: " "
 date: 2023-09-21
-tags: [Swift, Architecture]
+tags: [Architecture]
 comments: true
 share: true
 ---

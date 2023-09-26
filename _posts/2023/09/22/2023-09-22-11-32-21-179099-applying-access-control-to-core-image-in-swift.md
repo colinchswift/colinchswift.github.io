@@ -3,7 +3,7 @@ layout: post
 title: "Applying Access Control to Core Image in Swift"
 description: " "
 date: 2023-09-22
-tags: [coreimage, swift]
+tags: [coreimage]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Implementing dependency injection for network layers in Swift"
 description: " "
 date: 2023-09-24
-tags: [programming, swift]
+tags: [programming]
 comments: true
 share: true
 ---

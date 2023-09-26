@@ -3,7 +3,7 @@ layout: post
 title: "Strategies for handling notifications and messaging in Swift for forward compatibility"
 description: " "
 date: 2023-09-21
-tags: [iOSdevelopment, Swift]
+tags: [iOSdevelopment]
 comments: true
 share: true
 ---

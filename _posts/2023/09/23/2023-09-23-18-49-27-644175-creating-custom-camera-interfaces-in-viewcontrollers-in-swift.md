@@ -3,7 +3,7 @@ layout: post
 title: "Creating custom camera interfaces in ViewControllers in Swift"
 description: " "
 date: 2023-09-23
-tags: [Swift, CustomCameraInterface]
+tags: [CustomCameraInterface]
 comments: true
 share: true
 ---

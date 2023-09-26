@@ -3,7 +3,7 @@ layout: post
 title: "Supervised Learning in Swift"
 description: " "
 date: 2023-09-25
-tags: [MachineLearning, Swift]
+tags: [MachineLearning]
 comments: true
 share: true
 ---

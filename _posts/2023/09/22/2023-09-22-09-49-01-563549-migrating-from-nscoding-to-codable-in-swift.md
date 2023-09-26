@@ -3,7 +3,7 @@ layout: post
 title: "Migrating from NSCoding to Codable in Swift"
 description: " "
 date: 2023-09-22
-tags: [swift, codable]
+tags: [codable]
 comments: true
 share: true
 ---

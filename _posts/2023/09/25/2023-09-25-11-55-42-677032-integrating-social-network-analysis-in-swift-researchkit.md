@@ -3,7 +3,7 @@ layout: post
 title: "Integrating social network analysis in Swift ResearchKit"
 description: " "
 date: 2023-09-25
-tags: [swift, socialnetworkanalysis]
+tags: [socialnetworkanalysis]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Implementing conditional dependency injection in Swift"
 description: " "
 date: 2023-09-24
-tags: [hashtags, swift]
+tags: [hashtags]
 comments: true
 share: true
 ---

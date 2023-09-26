@@ -3,7 +3,7 @@ layout: post
 title: "Guarding against command injection vulnerabilities with guard statements in Swift"
 description: " "
 date: 2023-09-18
-tags: [cybersecurity, swift]
+tags: [cybersecurity]
 comments: true
 share: true
 ---

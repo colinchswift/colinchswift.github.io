@@ -3,7 +3,7 @@ layout: post
 title: "Using Swift Mirror to retrieve the associated types of a struct"
 description: " "
 date: 2023-09-21
-tags: [Swift, Reflection]
+tags: [Reflection]
 comments: true
 share: true
 ---

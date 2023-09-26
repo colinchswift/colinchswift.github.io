@@ -3,7 +3,7 @@ layout: post
 title: "Using Codable to parse and process HTML and web scraping in Swift"
 description: " "
 date: 2023-09-22
-tags: [webdevelopment, swift]
+tags: [webdevelopment]
 comments: true
 share: true
 ---

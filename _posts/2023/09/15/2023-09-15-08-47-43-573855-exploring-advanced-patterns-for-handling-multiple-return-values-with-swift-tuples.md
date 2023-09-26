@@ -3,7 +3,7 @@ layout: post
 title: "Exploring advanced patterns for handling multiple return values with Swift Tuples."
 description: " "
 date: 2023-09-15
-tags: [programming, swift]
+tags: [programming]
 comments: true
 share: true
 ---

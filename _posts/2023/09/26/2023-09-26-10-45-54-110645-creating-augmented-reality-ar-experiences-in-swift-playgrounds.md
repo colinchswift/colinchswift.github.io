@@ -3,7 +3,7 @@ layout: post
 title: "Creating augmented reality (AR) experiences in Swift Playgrounds"
 description: " "
 date: 2023-09-26
-tags: [Swift, Swift]
+tags: []
 comments: true
 share: true
 ---

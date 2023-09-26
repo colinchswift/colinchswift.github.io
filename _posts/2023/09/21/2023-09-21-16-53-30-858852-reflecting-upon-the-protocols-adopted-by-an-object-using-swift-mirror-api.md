@@ -3,7 +3,7 @@ layout: post
 title: "Reflecting upon the protocols adopted by an object using Swift Mirror API"
 description: " "
 date: 2023-09-21
-tags: [Swift, MirrorAPI]
+tags: [MirrorAPI]
 comments: true
 share: true
 ---

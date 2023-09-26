@@ -3,7 +3,7 @@ layout: post
 title: "Integrating handwriting and sketch recognition in Swift document-based apps"
 description: " "
 date: 2023-09-18
-tags: [Tech, Swift]
+tags: [Tech]
 comments: true
 share: true
 ---

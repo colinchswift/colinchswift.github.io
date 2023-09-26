@@ -3,7 +3,7 @@ layout: post
 title: "Handling circular dependencies in Swift dependency injection"
 description: " "
 date: 2023-09-24
-tags: [Swift, DependencyInjection]
+tags: [DependencyInjection]
 comments: true
 share: true
 ---

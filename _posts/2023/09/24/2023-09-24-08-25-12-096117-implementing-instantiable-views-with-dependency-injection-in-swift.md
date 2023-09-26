@@ -3,7 +3,7 @@ layout: post
 title: "Implementing instantiable views with dependency injection in Swift"
 description: " "
 date: 2023-09-24
-tags: [Swift]
+tags: []
 comments: true
 share: true
 ---

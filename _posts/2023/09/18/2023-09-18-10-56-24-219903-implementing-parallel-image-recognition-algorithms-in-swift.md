@@ -3,7 +3,7 @@ layout: post
 title: "Implementing parallel image recognition algorithms in Swift"
 description: " "
 date: 2023-09-18
-tags: [imageRecognition, Swift]
+tags: [imageRecognition]
 comments: true
 share: true
 ---

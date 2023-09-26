@@ -3,7 +3,7 @@ layout: post
 title: "Strategies for handling in-app purchases and subscription management in Swift for forward compatibility"
 description: " "
 date: 2023-09-21
-tags: [mobileappdevelopment, swift]
+tags: [mobileappdevelopment]
 comments: true
 share: true
 ---

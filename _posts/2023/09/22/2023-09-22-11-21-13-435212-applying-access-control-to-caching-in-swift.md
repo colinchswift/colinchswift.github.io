@@ -3,7 +3,7 @@ layout: post
 title: "Applying Access Control to Caching in Swift"
 description: " "
 date: 2023-09-22
-tags: [Swift, Caching]
+tags: [Caching]
 comments: true
 share: true
 ---

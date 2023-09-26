@@ -3,7 +3,7 @@ layout: post
 title: "Enhancing testability with Swift Tuples for more comprehensive unit testing."
 description: " "
 date: 2023-09-15
-tags: [programming, swift]
+tags: [programming]
 comments: true
 share: true
 ---

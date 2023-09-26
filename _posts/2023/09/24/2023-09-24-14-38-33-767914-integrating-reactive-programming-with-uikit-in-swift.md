@@ -3,7 +3,7 @@ layout: post
 title: "Integrating Reactive Programming with UIKit in Swift"
 description: " "
 date: 2023-09-24
-tags: [reactiveprogramming, swift]
+tags: [reactiveprogramming]
 comments: true
 share: true
 ---

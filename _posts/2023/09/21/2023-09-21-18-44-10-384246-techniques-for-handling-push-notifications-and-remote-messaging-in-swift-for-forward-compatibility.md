@@ -3,7 +3,7 @@ layout: post
 title: "Techniques for handling push notifications and remote messaging in Swift for forward compatibility"
 description: " "
 date: 2023-09-21
-tags: [swift, pushnotifications]
+tags: [pushnotifications]
 comments: true
 share: true
 ---

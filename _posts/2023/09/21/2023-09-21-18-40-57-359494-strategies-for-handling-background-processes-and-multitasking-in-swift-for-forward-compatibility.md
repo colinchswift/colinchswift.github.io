@@ -3,7 +3,7 @@ layout: post
 title: "Strategies for handling background processes and multitasking in Swift for forward compatibility"
 description: " "
 date: 2023-09-21
-tags: [Swift, BackgroundProcesses]
+tags: [BackgroundProcesses]
 comments: true
 share: true
 ---

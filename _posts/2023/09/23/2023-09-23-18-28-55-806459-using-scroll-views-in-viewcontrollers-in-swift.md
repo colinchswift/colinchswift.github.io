@@ -3,7 +3,7 @@ layout: post
 title: "Using scroll views in ViewControllers in Swift"
 description: " "
 date: 2023-09-23
-tags: [Swift]
+tags: []
 comments: true
 share: true
 ---

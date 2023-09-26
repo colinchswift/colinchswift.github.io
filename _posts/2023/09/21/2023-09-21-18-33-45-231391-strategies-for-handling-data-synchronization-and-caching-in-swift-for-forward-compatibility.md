@@ -3,7 +3,7 @@ layout: post
 title: "Strategies for handling data synchronization and caching in Swift for forward compatibility"
 description: " "
 date: 2023-09-21
-tags: [programming, mobiledevelopment, iosdevelopment, swift]
+tags: [programming, mobiledevelopment, iosdevelopment]
 comments: true
 share: true
 ---

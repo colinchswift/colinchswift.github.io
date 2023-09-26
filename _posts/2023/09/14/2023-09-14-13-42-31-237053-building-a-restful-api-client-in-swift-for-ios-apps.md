@@ -3,7 +3,7 @@ layout: post
 title: "Building a RESTful API client in Swift for iOS apps"
 description: " "
 date: 2023-09-14
-tags: [iOSdevelopment, Swift]
+tags: [iOSdevelopment]
 comments: true
 share: true
 ---

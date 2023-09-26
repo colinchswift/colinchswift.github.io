@@ -3,7 +3,7 @@ layout: post
 title: "Using Codable with simple data types (String, Int, Double, etc.)"
 description: " "
 date: 2023-09-22
-tags: [Swift, Coding]
+tags: [Coding]
 comments: true
 share: true
 ---

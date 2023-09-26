@@ -3,7 +3,7 @@ layout: post
 title: "Guide to Access Control in Swift Documentation"
 description: " "
 date: 2023-09-22
-tags: [Swift, AccessControl]
+tags: [AccessControl]
 comments: true
 share: true
 ---

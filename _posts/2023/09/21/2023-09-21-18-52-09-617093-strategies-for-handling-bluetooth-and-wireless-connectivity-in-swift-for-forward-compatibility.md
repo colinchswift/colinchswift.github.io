@@ -3,7 +3,7 @@ layout: post
 title: "Strategies for handling Bluetooth and wireless connectivity in Swift for forward compatibility"
 description: " "
 date: 2023-09-21
-tags: [development, Swift]
+tags: [development]
 comments: true
 share: true
 ---

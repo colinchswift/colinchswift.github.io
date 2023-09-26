@@ -3,7 +3,7 @@ layout: post
 title: "Custom operators for working with Core Graphics and drawing in Swift"
 description: " "
 date: 2023-09-23
-tags: [swift, CoreGraphics]
+tags: [CoreGraphics]
 comments: true
 share: true
 ---

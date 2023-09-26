@@ -3,7 +3,7 @@ layout: post
 title: "Security and permissions in Swift Playgrounds"
 description: " "
 date: 2023-09-26
-tags: [swift, security]
+tags: [security]
 comments: true
 share: true
 ---

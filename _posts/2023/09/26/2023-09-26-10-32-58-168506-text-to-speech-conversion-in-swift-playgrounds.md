@@ -3,7 +3,7 @@ layout: post
 title: "Text to speech conversion in Swift Playgrounds"
 description: " "
 date: 2023-09-26
-tags: [Code, Swift]
+tags: [Code]
 comments: true
 share: true
 ---

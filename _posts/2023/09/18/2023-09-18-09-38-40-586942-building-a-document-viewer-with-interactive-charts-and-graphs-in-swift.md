@@ -3,7 +3,7 @@ layout: post
 title: "Building a document viewer with interactive charts and graphs in Swift"
 description: " "
 date: 2023-09-18
-tags: [selector(segmentedControlValueChanged), Swift]
+tags: [selector(segmentedControlValueChanged)]
 comments: true
 share: true
 ---

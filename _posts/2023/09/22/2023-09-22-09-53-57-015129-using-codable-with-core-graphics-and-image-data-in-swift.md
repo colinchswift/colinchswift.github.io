@@ -3,7 +3,7 @@ layout: post
 title: "Using Codable with Core Graphics and image data in Swift"
 description: " "
 date: 2023-09-22
-tags: [Swift, Codable]
+tags: [Codable]
 comments: true
 share: true
 ---

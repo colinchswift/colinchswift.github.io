@@ -3,7 +3,7 @@ layout: post
 title: "Implementing collection views in ViewControllers in Swift"
 description: " "
 date: 2023-09-23
-tags: [swift, collectionview]
+tags: [collectionview]
 comments: true
 share: true
 ---

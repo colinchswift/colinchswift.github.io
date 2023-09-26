@@ -3,7 +3,7 @@ layout: post
 title: "Multithreading techniques for real-time facial recognition with Swift"
 description: " "
 date: 2023-09-18
-tags: [techblog, swift]
+tags: [techblog]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Sentiment Analysis in Swift"
 description: " "
 date: 2023-09-25
-tags: [Swift, SentimentAnalysis]
+tags: [SentimentAnalysis]
 comments: true
 share: true
 ---

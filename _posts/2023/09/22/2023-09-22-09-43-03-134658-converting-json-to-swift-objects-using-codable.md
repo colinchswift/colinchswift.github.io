@@ -3,7 +3,7 @@ layout: post
 title: "Converting JSON to Swift objects using Codable"
 description: " "
 date: 2023-09-22
-tags: [Swift, JSON]
+tags: [JSON]
 comments: true
 share: true
 ---

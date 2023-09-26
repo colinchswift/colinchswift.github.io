@@ -3,7 +3,7 @@ layout: post
 title: "Sharing user-generated workout data between fitness tracking apps using App Groups in Swift"
 description: " "
 date: 2023-09-19
-tags: [iOSDevelopment, AppGroups, FitnessTracking, Swift]
+tags: [iOSDevelopment, AppGroups, FitnessTracking]
 comments: true
 share: true
 ---

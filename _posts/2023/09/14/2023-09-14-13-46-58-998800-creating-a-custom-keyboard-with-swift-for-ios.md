@@ -3,7 +3,7 @@ layout: post
 title: "Creating a custom keyboard with Swift for iOS"
 description: " "
 date: 2023-09-14
-tags: [selector(buttonTapped), Swift]
+tags: [selector(buttonTapped)]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Dependency inversion principle and dependency injection in Swift"
 description: " "
 date: 2023-09-24
-tags: [techblog, swift]
+tags: [techblog]
 comments: true
 share: true
 ---

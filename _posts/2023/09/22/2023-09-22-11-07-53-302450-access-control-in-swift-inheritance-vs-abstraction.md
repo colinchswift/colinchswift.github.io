@@ -3,7 +3,7 @@ layout: post
 title: "Access Control in Swift Inheritance vs Abstraction"
 description: " "
 date: 2023-09-22
-tags: [Swift, AccessControl]
+tags: [AccessControl]
 comments: true
 share: true
 ---

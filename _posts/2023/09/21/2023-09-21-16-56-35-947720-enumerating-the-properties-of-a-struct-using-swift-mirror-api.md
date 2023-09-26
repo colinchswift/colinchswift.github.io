@@ -3,7 +3,7 @@ layout: post
 title: "Enumerating the properties of a struct using Swift Mirror API"
 description: " "
 date: 2023-09-21
-tags: [Swift, SwiftMirrorAPI]
+tags: [SwiftMirrorAPI]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Functional programming with guard statements in Swift"
 description: " "
 date: 2023-09-17
-tags: [functionalprogramming, Swift]
+tags: [functionalprogramming]
 comments: true
 share: true
 ---

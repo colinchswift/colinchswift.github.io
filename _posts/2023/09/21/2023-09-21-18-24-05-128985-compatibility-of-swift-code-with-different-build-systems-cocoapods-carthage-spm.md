@@ -3,7 +3,7 @@ layout: post
 title: "Compatibility of Swift code with different build systems (CocoaPods, Carthage, SPM)"
 description: " "
 date: 2023-09-21
-tags: [Swift, CocoaPods, Carthage]
+tags: [CocoaPods, Carthage]
 comments: true
 share: true
 ---

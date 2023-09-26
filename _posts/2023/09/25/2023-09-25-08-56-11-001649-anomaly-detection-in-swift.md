@@ -3,7 +3,7 @@ layout: post
 title: "Anomaly Detection in Swift"
 description: " "
 date: 2023-09-25
-tags: [tech, swift]
+tags: [tech]
 comments: true
 share: true
 ---

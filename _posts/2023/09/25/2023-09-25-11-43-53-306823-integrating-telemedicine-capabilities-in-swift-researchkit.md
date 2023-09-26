@@ -3,7 +3,7 @@ layout: post
 title: "Integrating telemedicine capabilities in Swift ResearchKit"
 description: " "
 date: 2023-09-25
-tags: [Telemedicine, Swift]
+tags: [Telemedicine]
 comments: true
 share: true
 ---

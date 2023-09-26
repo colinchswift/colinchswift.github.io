@@ -3,7 +3,7 @@ layout: post
 title: "Reactive fitness tracking in Swift Reactive Programming"
 description: " "
 date: 2023-09-24
-tags: [ReactiveProgramming, Swift]
+tags: [ReactiveProgramming]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Using the displayStyle property of Swift Mirror to determine the type of an object"
 description: " "
 date: 2023-09-21
-tags: [Swift, Mirror, TypeChecking]
+tags: [Mirror, TypeChecking]
 comments: true
 share: true
 ---

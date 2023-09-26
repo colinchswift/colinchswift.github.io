@@ -3,7 +3,7 @@ layout: post
 title: "Functional Reactive Programming in Swift Reactive Programming"
 description: " "
 date: 2023-09-24
-tags: [swift, functionalprogramming]
+tags: [functionalprogramming]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Strategies for handling battery optimization and energy efficiency in Swift for forward compatibility"
 description: " "
 date: 2023-09-21
-tags: [Swift, EnergyEfficiency, BatteryOptimization]
+tags: [EnergyEfficiency, BatteryOptimization]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Custom operators for localization and internationalization in Swift"
 description: " "
 date: 2023-09-23
-tags: [technology, swift]
+tags: [technology]
 comments: true
 share: true
 ---

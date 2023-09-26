@@ -3,7 +3,7 @@ layout: post
 title: "Custom operators for working with Core NFC and Near Field Communication in Swift"
 description: " "
 date: 2023-09-23
-tags: [TechBlog, Swift]
+tags: [TechBlog]
 comments: true
 share: true
 ---

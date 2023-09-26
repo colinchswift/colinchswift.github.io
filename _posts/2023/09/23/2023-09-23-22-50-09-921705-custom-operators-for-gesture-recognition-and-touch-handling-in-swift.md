@@ -3,7 +3,7 @@ layout: post
 title: "Custom operators for gesture recognition and touch handling in Swift"
 description: " "
 date: 2023-09-23
-tags: [Swift]
+tags: []
 comments: true
 share: true
 ---

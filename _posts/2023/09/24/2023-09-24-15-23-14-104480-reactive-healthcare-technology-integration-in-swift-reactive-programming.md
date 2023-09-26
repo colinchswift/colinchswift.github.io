@@ -3,7 +3,7 @@ layout: post
 title: "Reactive healthcare technology integration in Swift Reactive Programming"
 description: " "
 date: 2023-09-24
-tags: [healthcare, swift]
+tags: [healthcare]
 comments: true
 share: true
 ---

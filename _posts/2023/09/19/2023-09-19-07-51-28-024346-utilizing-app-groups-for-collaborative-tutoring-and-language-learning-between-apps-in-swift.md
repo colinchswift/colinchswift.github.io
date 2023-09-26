@@ -3,7 +3,7 @@ layout: post
 title: "Utilizing App Groups for collaborative tutoring and language learning between apps in Swift"
 description: " "
 date: 2023-09-19
-tags: [hashtag, AppGroups, Swift]
+tags: [hashtag, AppGroups]
 comments: true
 share: true
 ---

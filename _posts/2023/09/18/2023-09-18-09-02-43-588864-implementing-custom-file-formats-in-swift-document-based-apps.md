@@ -3,7 +3,7 @@ layout: post
 title: "Implementing custom file formats in Swift document-based apps"
 description: " "
 date: 2023-09-18
-tags: [Development, Swift]
+tags: [Development]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Creating a document annotation and markup tool in Swift"
 description: " "
 date: 2023-09-18
-tags: [annotations, Swift]
+tags: [annotations]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Applying Access Control to Background Tasks in Swift"
 description: " "
 date: 2023-09-22
-tags: [hashtags, Swift]
+tags: [hashtags]
 comments: true
 share: true
 ---

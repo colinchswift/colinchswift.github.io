@@ -3,7 +3,7 @@ layout: post
 title: "How Swift handles compatibility with different Swift Evolution proposals"
 description: " "
 date: 2023-09-21
-tags: [Swift, Compatibility]
+tags: [Compatibility]
 comments: true
 share: true
 ---

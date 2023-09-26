@@ -3,7 +3,7 @@ layout: post
 title: "Interoperability of custom operators in Swift with Objective-C"
 description: " "
 date: 2023-09-23
-tags: [import, Swift]
+tags: [import]
 comments: true
 share: true
 ---

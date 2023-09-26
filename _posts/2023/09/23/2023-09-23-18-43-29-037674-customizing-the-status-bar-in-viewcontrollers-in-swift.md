@@ -3,7 +3,7 @@ layout: post
 title: "Customizing the status bar in ViewControllers in Swift"
 description: " "
 date: 2023-09-23
-tags: [iOSDevelopment, Swift]
+tags: [iOSDevelopment]
 comments: true
 share: true
 ---

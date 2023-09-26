@@ -3,7 +3,7 @@ layout: post
 title: "Building a document digitization and archival system using Swift"
 description: " "
 date: 2023-09-18
-tags: [DocumentDigitization, Swift]
+tags: [DocumentDigitization]
 comments: true
 share: true
 ---

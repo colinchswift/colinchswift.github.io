@@ -3,7 +3,7 @@ layout: post
 title: "Approaches to error handling and fault tolerance in Swift for better forward compatibility"
 description: " "
 date: 2023-09-21
-tags: [Swift, ErrorHandling]
+tags: [ErrorHandling]
 comments: true
 share: true
 ---

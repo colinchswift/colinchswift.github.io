@@ -3,7 +3,7 @@ layout: post
 title: "Integrating App Groups with SiriKit in Swift for voice-controlled app interaction"
 description: " "
 date: 2023-09-19
-tags: [iOSDevelopment, SiriKit, Swift]
+tags: [iOSDevelopment, SiriKit]
 comments: true
 share: true
 ---

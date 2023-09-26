@@ -3,7 +3,7 @@ layout: post
 title: "Implementing static and dynamic table views in ViewControllers in Swift"
 description: " "
 date: 2023-09-23
-tags: [Swift, iOSDevelopment]
+tags: [iOSDevelopment]
 comments: true
 share: true
 ---

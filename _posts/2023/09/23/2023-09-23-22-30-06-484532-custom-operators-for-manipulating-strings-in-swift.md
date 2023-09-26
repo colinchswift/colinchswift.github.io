@@ -3,7 +3,7 @@ layout: post
 title: "Custom operators for manipulating strings in Swift"
 description: " "
 date: 2023-09-23
-tags: [Swift, StringManipulation]
+tags: [StringManipulation]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Implementing real-time collaboration features in Swift document-based apps"
 description: " "
 date: 2023-09-18
-tags: [Collaboration, Swift]
+tags: [Collaboration]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Dependency injection for handling biometric authentication in Swift"
 description: " "
 date: 2023-09-24
-tags: [swift, biometricauthentication]
+tags: [biometricauthentication]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Enhancing document annotation and commenting features in Swift"
 description: " "
 date: 2023-09-18
-tags: [Tech, Swift]
+tags: [Tech]
 comments: true
 share: true
 ---

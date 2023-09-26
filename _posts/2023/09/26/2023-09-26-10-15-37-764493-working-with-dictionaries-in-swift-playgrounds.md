@@ -3,7 +3,7 @@ layout: post
 title: "Working with dictionaries in Swift Playgrounds"
 description: " "
 date: 2023-09-26
-tags: [swift, playgrounds]
+tags: [playgrounds]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Enumerations in Swift Playgrounds"
 description: " "
 date: 2023-09-26
-tags: [swift, enums]
+tags: [enums]
 comments: true
 share: true
 ---

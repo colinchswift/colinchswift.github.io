@@ -3,7 +3,7 @@ layout: post
 title: "Custom operators for game development in Swift"
 description: " "
 date: 2023-09-23
-tags: [GameDevelopment, Swift]
+tags: [GameDevelopment]
 comments: true
 share: true
 ---

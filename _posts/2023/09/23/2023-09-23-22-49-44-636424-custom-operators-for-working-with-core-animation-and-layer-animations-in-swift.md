@@ -3,7 +3,7 @@ layout: post
 title: "Custom operators for working with Core Animation and layer animations in Swift"
 description: " "
 date: 2023-09-23
-tags: [Swift, CoreAnimation]
+tags: [CoreAnimation]
 comments: true
 share: true
 ---

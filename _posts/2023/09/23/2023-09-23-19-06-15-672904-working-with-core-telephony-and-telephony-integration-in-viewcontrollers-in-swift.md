@@ -3,7 +3,7 @@ layout: post
 title: "Working with Core Telephony and telephony integration in ViewControllers in Swift"
 description: " "
 date: 2023-09-23
-tags: [telephony, Swift]
+tags: [telephony]
 comments: true
 share: true
 ---

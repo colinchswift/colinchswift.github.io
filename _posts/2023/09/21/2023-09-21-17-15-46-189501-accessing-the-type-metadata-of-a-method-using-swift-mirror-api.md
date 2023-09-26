@@ -3,7 +3,7 @@ layout: post
 title: "Accessing the type metadata of a method using Swift Mirror API"
 description: " "
 date: 2023-09-21
-tags: [Swift, MirrorAPI]
+tags: [MirrorAPI]
 comments: true
 share: true
 ---

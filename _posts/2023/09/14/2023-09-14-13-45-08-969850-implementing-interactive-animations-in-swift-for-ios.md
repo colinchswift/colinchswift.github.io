@@ -3,7 +3,7 @@ layout: post
 title: "Implementing interactive animations in Swift for iOS"
 description: " "
 date: 2023-09-14
-tags: [selector(handlePanGesture(_, Swift]
+tags: [selector(handlePanGesture(_]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Working with Core Foundation and low-level APIs in ViewControllers in Swift"
 description: " "
 date: 2023-09-23
-tags: [swift, CoreFoundation]
+tags: [CoreFoundation]
 comments: true
 share: true
 ---

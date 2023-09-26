@@ -3,7 +3,7 @@ layout: post
 title: "Comparing two Swift Mirrors for equality using Swift Mirror API"
 description: " "
 date: 2023-09-21
-tags: [Swift, Mirrors, Reflection]
+tags: [Mirrors, Reflection]
 comments: true
 share: true
 ---

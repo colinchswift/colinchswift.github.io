@@ -3,7 +3,7 @@ layout: post
 title: "Using Swift Mirror to retrieve the associated types of a protocol"
 description: " "
 date: 2023-09-21
-tags: [swift, reflection]
+tags: [reflection]
 comments: true
 share: true
 ---

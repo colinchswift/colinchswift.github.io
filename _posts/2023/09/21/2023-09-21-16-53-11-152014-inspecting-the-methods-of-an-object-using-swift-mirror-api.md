@@ -3,7 +3,7 @@ layout: post
 title: "Inspecting the methods of an object using Swift Mirror API"
 description: " "
 date: 2023-09-21
-tags: [Swift, RuntimeInspection]
+tags: [RuntimeInspection]
 comments: true
 share: true
 ---

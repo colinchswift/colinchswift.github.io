@@ -3,7 +3,7 @@ layout: post
 title: "Applying Access Control to Localization in Swift"
 description: " "
 date: 2023-09-22
-tags: [Swift, Localization]
+tags: [Localization]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Working with custom fonts and typography in ViewControllers in Swift"
 description: " "
 date: 2023-09-23
-tags: [Swift, CustomFonts]
+tags: [CustomFonts]
 comments: true
 share: true
 ---

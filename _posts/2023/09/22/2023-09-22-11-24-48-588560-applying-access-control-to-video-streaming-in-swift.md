@@ -3,7 +3,7 @@ layout: post
 title: "Applying Access Control to Video Streaming in Swift"
 description: " "
 date: 2023-09-22
-tags: [videoStreaming, Swift]
+tags: [videoStreaming]
 comments: true
 share: true
 ---

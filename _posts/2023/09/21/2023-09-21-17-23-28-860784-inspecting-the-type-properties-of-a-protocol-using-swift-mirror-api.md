@@ -3,7 +3,7 @@ layout: post
 title: "Inspecting the type properties of a protocol using Swift Mirror API"
 description: " "
 date: 2023-09-21
-tags: [Swift, ProtocolReflection]
+tags: [ProtocolReflection]
 comments: true
 share: true
 ---

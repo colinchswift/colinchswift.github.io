@@ -3,7 +3,7 @@ layout: post
 title: "Encoding and decoding structured data formats (JSON Schema, Protocol Buffers, etc.) with Codable"
 description: " "
 date: 2023-09-22
-tags: [Swift, Codable]
+tags: [Codable]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Applying Access Control to Database Queries in Swift"
 description: " "
 date: 2023-09-22
-tags: [Tech, Swift]
+tags: [Tech]
 comments: true
 share: true
 ---

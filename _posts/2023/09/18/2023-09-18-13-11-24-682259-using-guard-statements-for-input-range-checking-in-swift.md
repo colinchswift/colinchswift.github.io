@@ -3,7 +3,7 @@ layout: post
 title: "Using guard statements for input range checking in Swift"
 description: " "
 date: 2023-09-18
-tags: [TechTips, Swift]
+tags: [TechTips]
 comments: true
 share: true
 ---

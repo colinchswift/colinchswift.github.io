@@ -3,7 +3,7 @@ layout: post
 title: "Customizing interpolated string literals in Swift"
 description: " "
 date: 2023-09-26
-tags: [Swift, StringInterpolation]
+tags: [StringInterpolation]
 comments: true
 share: true
 ---

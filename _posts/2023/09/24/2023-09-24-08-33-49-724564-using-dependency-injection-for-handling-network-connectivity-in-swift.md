@@ -3,7 +3,7 @@ layout: post
 title: "Using dependency injection for handling network connectivity in Swift"
 description: " "
 date: 2023-09-24
-tags: [Swift, DependencyInjection]
+tags: [DependencyInjection]
 comments: true
 share: true
 ---

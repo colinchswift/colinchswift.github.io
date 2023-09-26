@@ -3,7 +3,7 @@ layout: post
 title: "Accessing the raw value of an enum using Swift Mirror API"
 description: " "
 date: 2023-09-21
-tags: [swift, enum, mirrortapi]
+tags: [enum, mirrortapi]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Approaches to handling offline data storage and synchronization in Swift for better forward compatibility"
 description: " "
 date: 2023-09-21
-tags: [swift, offline, data]
+tags: [offline, data]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Sharing user-generated travel photos and albums between apps using App Groups in Swift"
 description: " "
 date: 2023-09-19
-tags: [travelapp, appgroups, sharedphotos, swift]
+tags: [travelapp, appgroups, sharedphotos]
 comments: true
 share: true
 ---

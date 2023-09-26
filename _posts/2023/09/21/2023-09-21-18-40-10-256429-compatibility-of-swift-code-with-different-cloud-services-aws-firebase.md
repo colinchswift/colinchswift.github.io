@@ -3,7 +3,7 @@ layout: post
 title: "Compatibility of Swift code with different cloud services (AWS, Firebase)"
 description: " "
 date: 2023-09-21
-tags: [Swift, Firebase]
+tags: [Firebase]
 comments: true
 share: true
 ---

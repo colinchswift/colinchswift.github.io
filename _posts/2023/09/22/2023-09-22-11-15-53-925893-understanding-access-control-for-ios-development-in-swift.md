@@ -3,7 +3,7 @@ layout: post
 title: "Understanding Access Control for iOS Development in Swift"
 description: " "
 date: 2023-09-22
-tags: [iOSDevelopment, Swift]
+tags: [iOSDevelopment]
 comments: true
 share: true
 ---

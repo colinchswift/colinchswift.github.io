@@ -3,7 +3,7 @@ layout: post
 title: "Guide to Handling Database Access in Swift"
 description: " "
 date: 2023-09-22
-tags: [swift, database]
+tags: [database]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Using constructor injection with initializer-based dependency injection in Swift"
 description: " "
 date: 2023-09-24
-tags: [dependencyinjection, swift]
+tags: [dependencyinjection]
 comments: true
 share: true
 ---

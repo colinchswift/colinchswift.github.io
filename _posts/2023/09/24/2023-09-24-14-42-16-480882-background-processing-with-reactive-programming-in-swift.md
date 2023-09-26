@@ -3,7 +3,7 @@ layout: post
 title: "Background processing with Reactive Programming in Swift"
 description: " "
 date: 2023-09-24
-tags: [ReactiveProgramming, Swift]
+tags: [ReactiveProgramming]
 comments: true
 share: true
 ---

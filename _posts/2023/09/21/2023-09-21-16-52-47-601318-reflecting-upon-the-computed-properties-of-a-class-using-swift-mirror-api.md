@@ -3,7 +3,7 @@ layout: post
 title: "Reflecting upon the computed properties of a class using Swift Mirror API"
 description: " "
 date: 2023-09-21
-tags: [Swift, Reflection]
+tags: [Reflection]
 comments: true
 share: true
 ---

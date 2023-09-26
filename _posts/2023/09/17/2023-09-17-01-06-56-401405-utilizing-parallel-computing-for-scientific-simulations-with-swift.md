@@ -3,7 +3,7 @@ layout: post
 title: "Utilizing parallel computing for scientific simulations with Swift"
 description: " "
 date: 2023-09-17
-tags: [techblog, parallelcomputing, scientificsimulations, swift]
+tags: [techblog, parallelcomputing, scientificsimulations]
 comments: true
 share: true
 ---

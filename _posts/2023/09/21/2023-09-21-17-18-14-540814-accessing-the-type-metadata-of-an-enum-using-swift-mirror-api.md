@@ -3,7 +3,7 @@ layout: post
 title: "Accessing the type metadata of an enum using Swift Mirror API"
 description: " "
 date: 2023-09-21
-tags: [Swift, Enum]
+tags: [Enum]
 comments: true
 share: true
 ---

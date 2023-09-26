@@ -3,7 +3,7 @@ layout: post
 title: "Managing complex dependency graphs in Swift"
 description: " "
 date: 2023-09-24
-tags: [swift, dependencymanagement]
+tags: [dependencymanagement]
 comments: true
 share: true
 ---

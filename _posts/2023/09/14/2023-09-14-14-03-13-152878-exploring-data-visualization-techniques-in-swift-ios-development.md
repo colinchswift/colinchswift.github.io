@@ -3,7 +3,7 @@ layout: post
 title: "Exploring data visualization techniques in Swift iOS development"
 description: " "
 date: 2023-09-14
-tags: [datavisualization, Swift]
+tags: [datavisualization]
 comments: true
 share: true
 ---

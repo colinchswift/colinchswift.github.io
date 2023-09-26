@@ -3,7 +3,7 @@ layout: post
 title: "Adding PDF and document support in ViewControllers in Swift"
 description: " "
 date: 2023-09-23
-tags: [tech, swift]
+tags: [tech]
 comments: true
 share: true
 ---

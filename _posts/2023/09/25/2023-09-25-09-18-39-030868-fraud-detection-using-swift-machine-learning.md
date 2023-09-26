@@ -3,7 +3,7 @@ layout: post
 title: "Fraud Detection using Swift Machine Learning"
 description: " "
 date: 2023-09-25
-tags: [Swift, FraudDetection]
+tags: [FraudDetection]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Swift's Service Locator pattern and dependency injection"
 description: " "
 date: 2023-09-24
-tags: [swift, servicelocator]
+tags: [servicelocator]
 comments: true
 share: true
 ---
