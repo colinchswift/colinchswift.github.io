@@ -3,7 +3,7 @@ layout: post
 title: "Creating open-world exploration games in Swift 3D game development"
 description: " "
 date: 2023-10-01
-tags: [Creating, #Conclusion]
+tags: [Creating, Conclusion]
 comments: true
 share: true
 ---
