@@ -3,7 +3,7 @@ layout: post
 title: "Introduction to Swift Core Audio"
 description: " "
 date: 2023-10-02
-tags: [Introduction, #Why]
+tags: [Introduction, Why]
 comments: true
 share: true
 ---
