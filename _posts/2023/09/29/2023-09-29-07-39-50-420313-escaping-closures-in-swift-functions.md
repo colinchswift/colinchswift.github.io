@@ -3,7 +3,7 @@ layout: post
 title: "Escaping Closures in Swift Functions"
 description: " "
 date: 2023-09-29
-tags: [Swift, Closures]
+tags: [Closures]
 comments: true
 share: true
 ---

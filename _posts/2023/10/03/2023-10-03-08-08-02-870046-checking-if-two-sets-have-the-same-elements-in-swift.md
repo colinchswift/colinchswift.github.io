@@ -3,7 +3,7 @@ layout: post
 title: "Checking if two sets have the same elements in Swift"
 description: " "
 date: 2023-10-03
-tags: [Swift, SetEqualityComparer]
+tags: [SetEqualityComparer]
 comments: true
 share: true
 ---

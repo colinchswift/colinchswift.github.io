@@ -3,7 +3,7 @@ layout: post
 title: "Conditional conformance for arrays in Swift"
 description: " "
 date: 2023-09-27
-tags: [Swift, ConditionalConformance]
+tags: [ConditionalConformance]
 comments: true
 share: true
 ---

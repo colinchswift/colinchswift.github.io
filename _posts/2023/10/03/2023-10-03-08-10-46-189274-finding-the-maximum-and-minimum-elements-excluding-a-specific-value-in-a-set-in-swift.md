@@ -3,7 +3,7 @@ layout: post
 title: "Finding the maximum and minimum elements excluding a specific value in a set in Swift"
 description: " "
 date: 2023-10-03
-tags: [Swift, SetOperations]
+tags: [SetOperations]
 comments: true
 share: true
 ---

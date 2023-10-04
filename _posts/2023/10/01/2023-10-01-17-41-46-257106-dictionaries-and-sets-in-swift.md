@@ -3,7 +3,7 @@ layout: post
 title: "Dictionaries and sets in Swift"
 description: " "
 date: 2023-10-01
-tags: [swift, dictionaries]
+tags: [dictionaries]
 comments: true
 share: true
 ---

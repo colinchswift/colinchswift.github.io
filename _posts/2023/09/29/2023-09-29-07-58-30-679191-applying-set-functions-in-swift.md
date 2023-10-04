@@ -3,7 +3,7 @@ layout: post
 title: "Applying Set Functions in Swift"
 description: " "
 date: 2023-09-29
-tags: [Swift, SetFunctions]
+tags: [SetFunctions]
 comments: true
 share: true
 ---

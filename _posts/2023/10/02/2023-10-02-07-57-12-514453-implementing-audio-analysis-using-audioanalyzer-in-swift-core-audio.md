@@ -3,7 +3,7 @@ layout: post
 title: "Implementing audio analysis using AudioAnalyzer in Swift Core Audio"
 description: " "
 date: 2023-10-02
-tags: [Swift, CoreAudio]
+tags: [CoreAudio]
 comments: true
 share: true
 ---

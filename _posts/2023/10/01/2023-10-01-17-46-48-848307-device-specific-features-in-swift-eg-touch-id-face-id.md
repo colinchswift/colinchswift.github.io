@@ -3,7 +3,7 @@ layout: post
 title: "Device-specific features in Swift (e.g., Touch ID, Face ID)"
 description: " "
 date: 2023-10-01
-tags: [Swift, TouchID]
+tags: [TouchID]
 comments: true
 share: true
 ---

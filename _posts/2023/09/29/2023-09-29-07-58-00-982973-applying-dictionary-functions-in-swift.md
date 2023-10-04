@@ -3,7 +3,7 @@ layout: post
 title: "Applying Dictionary Functions in Swift"
 description: " "
 date: 2023-09-29
-tags: [swift, dictionary]
+tags: [dictionary]
 comments: true
 share: true
 ---

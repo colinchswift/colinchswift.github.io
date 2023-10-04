@@ -3,7 +3,7 @@ layout: post
 title: "Implementing audio modulation effects in Swift Core Audio"
 description: " "
 date: 2023-10-02
-tags: [audioeffects, swift]
+tags: [audioeffects]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Conditional conformance for lazy initialization in Swift"
 description: " "
 date: 2023-09-27
-tags: [Swift, ConditionalConformance]
+tags: [ConditionalConformance]
 comments: true
 share: true
 ---

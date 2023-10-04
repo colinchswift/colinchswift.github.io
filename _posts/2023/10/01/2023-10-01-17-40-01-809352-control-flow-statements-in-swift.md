@@ -3,7 +3,7 @@ layout: post
 title: "Control flow statements in Swift"
 description: " "
 date: 2023-10-01
-tags: [Swift, ControlFlow]
+tags: [ControlFlow]
 comments: true
 share: true
 ---

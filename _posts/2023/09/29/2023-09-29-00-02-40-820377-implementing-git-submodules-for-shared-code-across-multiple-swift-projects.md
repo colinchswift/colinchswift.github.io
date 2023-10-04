@@ -3,7 +3,7 @@ layout: post
 title: "Implementing Git submodules for shared code across multiple Swift projects"
 description: " "
 date: 2023-09-29
-tags: [swift, gitsubmodules]
+tags: [gitsubmodules]
 comments: true
 share: true
 ---

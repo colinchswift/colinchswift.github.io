@@ -3,7 +3,7 @@ layout: post
 title: "Using pre-commit hooks for automated code validation in Swift projects"
 description: " "
 date: 2023-09-28
-tags: [swift, codevalidation]
+tags: [codevalidation]
 comments: true
 share: true
 ---

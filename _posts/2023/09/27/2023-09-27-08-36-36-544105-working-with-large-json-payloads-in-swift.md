@@ -3,7 +3,7 @@ layout: post
 title: "Working with large JSON payloads in Swift"
 description: " "
 date: 2023-09-27
-tags: [Swift, JSON]
+tags: [JSON]
 comments: true
 share: true
 ---

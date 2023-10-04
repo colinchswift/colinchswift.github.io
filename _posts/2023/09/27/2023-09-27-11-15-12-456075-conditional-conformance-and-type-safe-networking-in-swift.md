@@ -3,7 +3,7 @@ layout: post
 title: "Conditional conformance and type-safe networking in Swift"
 description: " "
 date: 2023-09-27
-tags: [Swift, Networking]
+tags: [Networking]
 comments: true
 share: true
 ---

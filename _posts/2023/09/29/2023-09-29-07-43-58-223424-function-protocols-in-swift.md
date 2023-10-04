@@ -3,7 +3,7 @@ layout: post
 title: "Function Protocols in Swift"
 description: " "
 date: 2023-09-29
-tags: [Swift, FunctionProtocols]
+tags: [FunctionProtocols]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Applying Network Functions in Swift"
 description: " "
 date: 2023-09-29
-tags: [networking, swift]
+tags: [networking]
 comments: true
 share: true
 ---

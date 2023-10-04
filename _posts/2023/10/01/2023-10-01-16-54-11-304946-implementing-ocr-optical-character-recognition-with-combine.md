@@ -3,7 +3,7 @@ layout: post
 title: "Implementing OCR (optical character recognition) with Combine"
 description: " "
 date: 2023-10-01
-tags: [Combine, Swift]
+tags: [Combine]
 comments: true
 share: true
 ---

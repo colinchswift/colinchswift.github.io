@@ -3,7 +3,7 @@ layout: post
 title: "Conditional conformance and custom subscripts in Swift"
 description: " "
 date: 2023-09-27
-tags: [hashtags, Swift]
+tags: [hashtags]
 comments: true
 share: true
 ---

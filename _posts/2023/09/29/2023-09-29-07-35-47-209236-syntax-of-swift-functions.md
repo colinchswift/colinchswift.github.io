@@ -3,7 +3,7 @@ layout: post
 title: "Syntax of Swift Functions"
 description: " "
 date: 2023-09-29
-tags: [Swift, Functions]
+tags: [Functions]
 comments: true
 share: true
 ---

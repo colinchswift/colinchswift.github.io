@@ -3,7 +3,7 @@ layout: post
 title: "Understanding JSON performance trade-offs in Swift"
 description: " "
 date: 2023-09-27
-tags: [Swift, JSON]
+tags: [JSON]
 comments: true
 share: true
 ---

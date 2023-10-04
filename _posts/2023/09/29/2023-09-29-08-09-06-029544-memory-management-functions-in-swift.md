@@ -3,7 +3,7 @@ layout: post
 title: "Memory Management Functions in Swift"
 description: " "
 date: 2023-09-29
-tags: [swift, memorymanagement]
+tags: [memorymanagement]
 comments: true
 share: true
 ---

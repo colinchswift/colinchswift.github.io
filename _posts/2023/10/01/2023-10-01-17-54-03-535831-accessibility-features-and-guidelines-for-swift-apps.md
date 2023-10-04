@@ -3,7 +3,7 @@ layout: post
 title: "Accessibility features and guidelines for Swift apps"
 description: " "
 date: 2023-10-01
-tags: [accessibility, swift]
+tags: [accessibility]
 comments: true
 share: true
 ---

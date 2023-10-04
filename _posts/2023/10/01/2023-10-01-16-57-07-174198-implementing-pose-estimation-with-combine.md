@@ -3,7 +3,7 @@ layout: post
 title: "Implementing pose estimation with Combine"
 description: " "
 date: 2023-10-01
-tags: [swift, combine]
+tags: [combine]
 comments: true
 share: true
 ---

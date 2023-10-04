@@ -3,7 +3,7 @@ layout: post
 title: "Working with audio files in Swift Core Audio"
 description: " "
 date: 2023-10-02
-tags: [swift, audio]
+tags: [audio]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Applying Contains Functions in Swift"
 description: " "
 date: 2023-09-29
-tags: [Swift, ContainsFunction]
+tags: [ContainsFunction]
 comments: true
 share: true
 ---

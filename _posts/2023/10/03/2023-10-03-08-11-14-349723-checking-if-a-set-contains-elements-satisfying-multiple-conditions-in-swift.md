@@ -3,7 +3,7 @@ layout: post
 title: "Checking if a set contains elements satisfying multiple conditions in Swift"
 description: " "
 date: 2023-10-03
-tags: [Swift, SetOperations]
+tags: [SetOperations]
 comments: true
 share: true
 ---

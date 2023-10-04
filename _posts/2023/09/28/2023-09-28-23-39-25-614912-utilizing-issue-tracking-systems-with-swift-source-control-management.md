@@ -3,7 +3,7 @@ layout: post
 title: "Utilizing issue tracking systems with Swift source control management"
 description: " "
 date: 2023-09-28
-tags: [swift, issuetracking]
+tags: [issuetracking]
 comments: true
 share: true
 ---

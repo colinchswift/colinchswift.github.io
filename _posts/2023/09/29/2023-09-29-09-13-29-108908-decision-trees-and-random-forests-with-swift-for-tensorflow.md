@@ -3,7 +3,7 @@ layout: post
 title: "Decision trees and random forests with Swift for TensorFlow"
 description: " "
 date: 2023-09-29
-tags: [machinelearning, swift]
+tags: [machinelearning]
 comments: true
 share: true
 ---

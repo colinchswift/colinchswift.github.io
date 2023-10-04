@@ -3,7 +3,7 @@ layout: post
 title: "Checking if two sets have any common elements in Swift"
 description: " "
 date: 2023-10-03
-tags: [Swift, CommonElements]
+tags: [CommonElements]
 comments: true
 share: true
 ---

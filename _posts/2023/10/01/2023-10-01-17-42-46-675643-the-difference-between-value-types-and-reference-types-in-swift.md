@@ -3,7 +3,7 @@ layout: post
 title: "The difference between value types and reference types in Swift"
 description: " "
 date: 2023-10-01
-tags: [Swift, ValueTypes]
+tags: [ValueTypes]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Git commands for managing branches in Swift projects"
 description: " "
 date: 2023-09-28
-tags: [Swift, GitCommands]
+tags: [GitCommands]
 comments: true
 share: true
 ---

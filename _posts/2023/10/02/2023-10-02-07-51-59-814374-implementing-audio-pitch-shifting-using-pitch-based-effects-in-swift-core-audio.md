@@ -3,7 +3,7 @@ layout: post
 title: "Implementing audio pitch shifting using pitch-based effects in Swift Core Audio"
 description: " "
 date: 2023-10-02
-tags: [Swift, AudioProcessing]
+tags: [AudioProcessing]
 comments: true
 share: true
 ---

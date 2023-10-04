@@ -3,7 +3,7 @@ layout: post
 title: "Strategies for managing project configurations and settings in Git for Swift projects"
 description: " "
 date: 2023-09-29
-tags: [Swift]
+tags: []
 comments: true
 share: true
 ---

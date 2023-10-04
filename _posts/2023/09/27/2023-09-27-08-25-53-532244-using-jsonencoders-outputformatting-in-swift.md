@@ -3,7 +3,7 @@ layout: post
 title: "Using JSONEncoder's outputFormatting in Swift"
 description: " "
 date: 2023-09-27
-tags: [Swift, JSONEncoderFormatting]
+tags: [JSONEncoderFormatting]
 comments: true
 share: true
 ---

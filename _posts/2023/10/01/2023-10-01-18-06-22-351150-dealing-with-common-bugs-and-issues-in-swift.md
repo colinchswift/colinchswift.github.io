@@ -3,7 +3,7 @@ layout: post
 title: "Dealing with common bugs and issues in Swift"
 description: " "
 date: 2023-10-01
-tags: [Swift, Bugs]
+tags: [Bugs]
 comments: true
 share: true
 ---

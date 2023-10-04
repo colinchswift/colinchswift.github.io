@@ -3,7 +3,7 @@ layout: post
 title: "Finding the maximum and minimum elements excluding specific values in multiple sets in Swift"
 description: " "
 date: 2023-10-03
-tags: [Swift, DataAnalysis]
+tags: [DataAnalysis]
 comments: true
 share: true
 ---

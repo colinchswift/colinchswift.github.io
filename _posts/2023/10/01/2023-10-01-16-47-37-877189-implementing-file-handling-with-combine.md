@@ -3,7 +3,7 @@ layout: post
 title: "Implementing file handling with Combine"
 description: " "
 date: 2023-10-01
-tags: [tech, swift]
+tags: [tech]
 comments: true
 share: true
 ---

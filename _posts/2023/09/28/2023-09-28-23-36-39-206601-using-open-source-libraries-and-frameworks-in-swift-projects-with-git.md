@@ -3,7 +3,7 @@ layout: post
 title: "Using open source libraries and frameworks in Swift projects with Git"
 description: " "
 date: 2023-09-28
-tags: [Swift, OpenSource]
+tags: [OpenSource]
 comments: true
 share: true
 ---

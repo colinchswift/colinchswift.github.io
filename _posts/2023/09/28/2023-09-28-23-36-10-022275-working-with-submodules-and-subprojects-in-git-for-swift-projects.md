@@ -3,7 +3,7 @@ layout: post
 title: "Working with submodules and subprojects in Git for Swift projects"
 description: " "
 date: 2023-09-28
-tags: [swift, submodules]
+tags: [submodules]
 comments: true
 share: true
 ---

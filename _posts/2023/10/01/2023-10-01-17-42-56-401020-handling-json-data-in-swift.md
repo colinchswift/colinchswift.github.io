@@ -3,7 +3,7 @@ layout: post
 title: "Handling JSON data in Swift"
 description: " "
 date: 2023-10-01
-tags: [programming, swift]
+tags: [programming]
 comments: true
 share: true
 ---

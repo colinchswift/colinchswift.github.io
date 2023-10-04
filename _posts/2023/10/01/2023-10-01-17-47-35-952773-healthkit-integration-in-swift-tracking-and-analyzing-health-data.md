@@ -3,7 +3,7 @@ layout: post
 title: "HealthKit integration in Swift: tracking and analyzing health data"
 description: " "
 date: 2023-10-01
-tags: [Swift, HealthKit]
+tags: [HealthKit]
 comments: true
 share: true
 ---

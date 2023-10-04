@@ -3,7 +3,7 @@ layout: post
 title: "Anomaly detection with Swift for TensorFlow"
 description: " "
 date: 2023-09-29
-tags: [MachineLearning, Swift]
+tags: [MachineLearning]
 comments: true
 share: true
 ---

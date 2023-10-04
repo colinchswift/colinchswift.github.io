@@ -3,7 +3,7 @@ layout: post
 title: "Continuous integration and deployment for Swift apps"
 description: " "
 date: 2023-10-01
-tags: [swift]
+tags: []
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Using conditional conformance to provide default implementations in Swift"
 description: " "
 date: 2023-09-27
-tags: [Swift, SwiftProgramming]
+tags: [SwiftProgramming]
 comments: true
 share: true
 ---

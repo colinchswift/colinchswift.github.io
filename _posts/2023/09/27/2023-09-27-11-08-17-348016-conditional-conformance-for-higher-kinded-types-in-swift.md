@@ -3,7 +3,7 @@ layout: post
 title: "Conditional conformance for higher-kinded types in Swift"
 description: " "
 date: 2023-09-27
-tags: [Swift, HigherKindedTypes]
+tags: [HigherKindedTypes]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "3D Touch integration in Swift: adding quick actions and shortcuts"
 description: " "
 date: 2023-10-01
-tags: [swift, 3DTouch]
+tags: [3DTouch]
 comments: true
 share: true
 ---

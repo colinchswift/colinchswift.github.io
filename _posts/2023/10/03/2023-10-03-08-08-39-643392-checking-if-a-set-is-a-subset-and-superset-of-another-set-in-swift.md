@@ -3,7 +3,7 @@ layout: post
 title: "Checking if a set is a subset and superset of another set in Swift"
 description: " "
 date: 2023-10-03
-tags: [swift, setoperations]
+tags: [setoperations]
 comments: true
 share: true
 ---

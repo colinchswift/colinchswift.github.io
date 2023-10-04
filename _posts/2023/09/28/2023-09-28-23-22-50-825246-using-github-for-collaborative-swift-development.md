@@ -3,7 +3,7 @@ layout: post
 title: "Using GitHub for collaborative Swift development"
 description: " "
 date: 2023-09-28
-tags: [swift, GitHub]
+tags: [GitHub]
 comments: true
 share: true
 ---

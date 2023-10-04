@@ -3,7 +3,7 @@ layout: post
 title: "Integrating code review tools with Git for Swift project quality control"
 description: " "
 date: 2023-09-28
-tags: [swift, codereview]
+tags: [codereview]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Applying File Functions in Swift"
 description: " "
 date: 2023-09-29
-tags: [Swift, FileFunctions]
+tags: [FileFunctions]
 comments: true
 share: true
 ---

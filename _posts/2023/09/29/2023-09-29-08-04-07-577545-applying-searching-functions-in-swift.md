@@ -3,7 +3,7 @@ layout: post
 title: "Applying Searching Functions in Swift"
 description: " "
 date: 2023-09-29
-tags: [Swift]
+tags: []
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Transforming a set by applying a function to its elements in Swift"
 description: " "
 date: 2023-10-03
-tags: [Swift, Transformation]
+tags: [Transformation]
 comments: true
 share: true
 ---

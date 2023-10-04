@@ -3,7 +3,7 @@ layout: post
 title: "Integrating SwiftLint with Git for code quality control"
 description: " "
 date: 2023-09-28
-tags: [configuration), swift]
+tags: [configuration)]
 comments: true
 share: true
 ---

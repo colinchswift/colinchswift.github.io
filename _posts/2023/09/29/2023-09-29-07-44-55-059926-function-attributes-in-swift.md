@@ -3,7 +3,7 @@ layout: post
 title: "Function Attributes in Swift"
 description: " "
 date: 2023-09-29
-tags: [swift, functionattributes]
+tags: [functionattributes]
 comments: true
 share: true
 ---

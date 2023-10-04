@@ -3,7 +3,7 @@ layout: post
 title: "Updating multiple elements in a set in Swift"
 description: " "
 date: 2023-10-03
-tags: [Swift, Update]
+tags: [Update]
 comments: true
 share: true
 ---

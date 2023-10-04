@@ -3,7 +3,7 @@ layout: post
 title: "Performance optimization techniques in Swift"
 description: " "
 date: 2023-10-01
-tags: [Swift, PerformanceOptimization]
+tags: [PerformanceOptimization]
 comments: true
 share: true
 ---

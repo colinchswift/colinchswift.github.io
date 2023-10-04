@@ -3,7 +3,7 @@ layout: post
 title: "Implementing UI updates with Combine"
 description: " "
 date: 2023-10-01
-tags: [Swift]
+tags: []
 comments: true
 share: true
 ---

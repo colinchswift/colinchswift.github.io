@@ -3,7 +3,7 @@ layout: post
 title: "Inout Parameters in Swift Functions"
 description: " "
 date: 2023-09-29
-tags: [Swift, InoutParameters]
+tags: [InoutParameters]
 comments: true
 share: true
 ---

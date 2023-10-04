@@ -3,7 +3,7 @@ layout: post
 title: "Auto layout and constraints in Swift"
 description: " "
 date: 2023-10-01
-tags: [Swift]
+tags: []
 comments: true
 share: true
 ---

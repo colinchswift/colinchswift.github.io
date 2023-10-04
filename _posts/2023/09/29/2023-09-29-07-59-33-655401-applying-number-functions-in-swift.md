@@ -3,7 +3,7 @@ layout: post
 title: "Applying Number Functions in Swift"
 description: " "
 date: 2023-09-29
-tags: [Swift, NumberFunctions]
+tags: [NumberFunctions]
 comments: true
 share: true
 ---

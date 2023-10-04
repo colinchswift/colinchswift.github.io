@@ -3,7 +3,7 @@ layout: post
 title: "Configuring and managing githooks for code quality checks in Swift projects"
 description: " "
 date: 2023-09-28
-tags: [Swift, CodeQuality]
+tags: [CodeQuality]
 comments: true
 share: true
 ---

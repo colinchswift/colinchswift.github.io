@@ -3,7 +3,7 @@ layout: post
 title: "Shuffling the elements in a set in Swift"
 description: " "
 date: 2023-10-03
-tags: [swift, shuffling]
+tags: [shuffling]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Implementing audio spectral analysis in Swift Core Audio"
 description: " "
 date: 2023-10-02
-tags: [Swift, AudioSpectralAnalysis]
+tags: [AudioSpectralAnalysis]
 comments: true
 share: true
 ---

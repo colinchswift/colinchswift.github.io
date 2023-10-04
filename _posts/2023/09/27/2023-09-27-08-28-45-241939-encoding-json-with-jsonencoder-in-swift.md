@@ -3,7 +3,7 @@ layout: post
 title: "Encoding JSON with JSONEncoder in Swift"
 description: " "
 date: 2023-09-27
-tags: [Swift, JSONEncoder]
+tags: [JSONEncoder]
 comments: true
 share: true
 ---

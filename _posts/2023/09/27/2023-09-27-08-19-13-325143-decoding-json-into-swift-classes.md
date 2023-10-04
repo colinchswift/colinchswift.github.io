@@ -3,7 +3,7 @@ layout: post
 title: "Decoding JSON into Swift classes"
 description: " "
 date: 2023-09-27
-tags: [Swift, JSONDecoding]
+tags: [JSONDecoding]
 comments: true
 share: true
 ---

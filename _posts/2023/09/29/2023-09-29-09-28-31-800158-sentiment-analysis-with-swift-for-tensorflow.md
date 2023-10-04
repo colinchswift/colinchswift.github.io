@@ -3,7 +3,7 @@ layout: post
 title: "Sentiment analysis with Swift for TensorFlow"
 description: " "
 date: 2023-09-29
-tags: [swift, tensorflow]
+tags: [tensorflow]
 comments: true
 share: true
 ---

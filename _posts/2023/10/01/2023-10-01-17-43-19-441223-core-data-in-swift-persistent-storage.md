@@ -3,7 +3,7 @@ layout: post
 title: "Core Data in Swift: persistent storage"
 description: " "
 date: 2023-10-01
-tags: [Swift, CoreData]
+tags: [CoreData]
 comments: true
 share: true
 ---

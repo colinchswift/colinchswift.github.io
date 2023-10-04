@@ -3,7 +3,7 @@ layout: post
 title: "Creating a fuzzy set in Swift"
 description: " "
 date: 2023-10-03
-tags: [FuzzyLogic, Swift]
+tags: [FuzzyLogic]
 comments: true
 share: true
 ---

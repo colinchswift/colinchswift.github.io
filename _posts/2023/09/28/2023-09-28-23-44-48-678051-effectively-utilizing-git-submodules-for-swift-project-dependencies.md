@@ -3,7 +3,7 @@ layout: post
 title: "Effectively utilizing Git submodules for Swift project dependencies"
 description: " "
 date: 2023-09-28
-tags: [Swift, GitSubmodules]
+tags: [GitSubmodules]
 comments: true
 share: true
 ---

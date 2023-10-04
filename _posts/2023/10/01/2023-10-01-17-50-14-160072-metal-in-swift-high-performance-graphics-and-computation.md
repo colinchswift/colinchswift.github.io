@@ -3,7 +3,7 @@ layout: post
 title: "Metal in Swift: high-performance graphics and computation"
 description: " "
 date: 2023-10-01
-tags: [Metal, Swift]
+tags: [Metal]
 comments: true
 share: true
 ---

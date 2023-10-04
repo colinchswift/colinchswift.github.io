@@ -3,7 +3,7 @@ layout: post
 title: "Swift closures and higher-order functions"
 description: " "
 date: 2023-10-01
-tags: [Swift, Closures]
+tags: [Closures]
 comments: true
 share: true
 ---

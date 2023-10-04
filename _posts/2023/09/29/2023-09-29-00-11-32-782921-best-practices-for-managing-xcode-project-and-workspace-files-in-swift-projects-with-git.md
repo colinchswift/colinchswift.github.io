@@ -3,7 +3,7 @@ layout: post
 title: "Best practices for managing Xcode project and workspace files in Swift projects with Git"
 description: " "
 date: 2023-09-29
-tags: [Xcode, Swift]
+tags: [Xcode]
 comments: true
 share: true
 ---

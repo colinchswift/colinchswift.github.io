@@ -3,7 +3,7 @@ layout: post
 title: "Supporting multi-language localization with JSONEncoder and JSONDecoder in Swift"
 description: " "
 date: 2023-09-27
-tags: [Swift, Localization]
+tags: [Localization]
 comments: true
 share: true
 ---

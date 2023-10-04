@@ -3,7 +3,7 @@ layout: post
 title: "Working with MIDI in Swift Core Audio"
 description: " "
 date: 2023-10-02
-tags: [midi, swift]
+tags: [midi]
 comments: true
 share: true
 ---

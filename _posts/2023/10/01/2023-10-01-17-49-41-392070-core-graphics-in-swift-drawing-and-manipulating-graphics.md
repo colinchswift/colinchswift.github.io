@@ -3,7 +3,7 @@ layout: post
 title: "Core Graphics in Swift: drawing and manipulating graphics"
 description: " "
 date: 2023-10-01
-tags: [swift, coregraphics]
+tags: [coregraphics]
 comments: true
 share: true
 ---

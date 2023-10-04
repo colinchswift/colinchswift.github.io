@@ -3,7 +3,7 @@ layout: post
 title: "Implementing inventory and item management in Swift 3D games"
 description: " "
 date: 2023-10-01
-tags: [Swift, GameDevelopment]
+tags: [GameDevelopment]
 comments: true
 share: true
 ---

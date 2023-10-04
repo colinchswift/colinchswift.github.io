@@ -3,7 +3,7 @@ layout: post
 title: "Applying Split Functions in Swift"
 description: " "
 date: 2023-09-29
-tags: [Swift, String]
+tags: [String]
 comments: true
 share: true
 ---

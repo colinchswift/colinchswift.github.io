@@ -3,7 +3,7 @@ layout: post
 title: "Creating cooperative multiplayer games in Swift 3D game development"
 description: " "
 date: 2023-10-01
-tags: [Swift, MultiplayerGames]
+tags: [MultiplayerGames]
 comments: true
 share: true
 ---

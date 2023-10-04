@@ -3,7 +3,7 @@ layout: post
 title: "Implementing audio processing using AudioKit in Swift Core Audio"
 description: " "
 date: 2023-10-02
-tags: [Swift, AudioKit]
+tags: [AudioKit]
 comments: true
 share: true
 ---

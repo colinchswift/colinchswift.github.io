@@ -3,7 +3,7 @@ layout: post
 title: "GameplayKit in Swift: implementing game mechanics and AI"
 description: " "
 date: 2023-10-01
-tags: [gameplaykit, swift]
+tags: [gameplaykit]
 comments: true
 share: true
 ---

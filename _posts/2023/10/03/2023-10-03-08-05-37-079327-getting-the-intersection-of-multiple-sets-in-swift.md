@@ -3,7 +3,7 @@ layout: post
 title: "Getting the intersection of multiple sets in Swift"
 description: " "
 date: 2023-10-03
-tags: [Swift, Intersection]
+tags: [Intersection]
 comments: true
 share: true
 ---

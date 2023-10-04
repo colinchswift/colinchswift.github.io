@@ -3,7 +3,7 @@ layout: post
 title: "Type Alias for Functions in Swift"
 description: " "
 date: 2023-09-29
-tags: [Swift, TypeAliases]
+tags: [TypeAliases]
 comments: true
 share: true
 ---

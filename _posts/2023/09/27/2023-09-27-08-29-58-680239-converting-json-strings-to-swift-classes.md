@@ -3,7 +3,7 @@ layout: post
 title: "Converting JSON strings to Swift classes"
 description: " "
 date: 2023-09-27
-tags: [Swift, JSON]
+tags: [JSON]
 comments: true
 share: true
 ---

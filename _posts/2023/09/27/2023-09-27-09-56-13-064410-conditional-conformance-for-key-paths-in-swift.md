@@ -3,7 +3,7 @@ layout: post
 title: "Conditional conformance for key paths in Swift"
 description: " "
 date: 2023-09-27
-tags: [Swift, KeyPaths]
+tags: [KeyPaths]
 comments: true
 share: true
 ---

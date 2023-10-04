@@ -3,7 +3,7 @@ layout: post
 title: "Implementing procedural generation of levels in Swift 3D games"
 description: " "
 date: 2023-10-01
-tags: [Swift, ProceduralGeneration]
+tags: [ProceduralGeneration]
 comments: true
 share: true
 ---

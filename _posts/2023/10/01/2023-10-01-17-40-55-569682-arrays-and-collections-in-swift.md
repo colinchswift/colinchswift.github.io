@@ -3,7 +3,7 @@ layout: post
 title: "Arrays and collections in Swift"
 description: " "
 date: 2023-10-01
-tags: [Swift, Collections]
+tags: [Collections]
 comments: true
 share: true
 ---

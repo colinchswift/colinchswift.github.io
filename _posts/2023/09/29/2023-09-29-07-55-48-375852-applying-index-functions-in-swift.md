@@ -3,7 +3,7 @@ layout: post
 title: "Applying Index Functions in Swift"
 description: " "
 date: 2023-09-29
-tags: [Swift, IndexFunctions]
+tags: [IndexFunctions]
 comments: true
 share: true
 ---

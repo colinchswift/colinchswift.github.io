@@ -3,7 +3,7 @@ layout: post
 title: "Introduction to Swift 3D Game Development"
 description: " "
 date: 2023-10-01
-tags: [gamedevelopment, swift]
+tags: [gamedevelopment]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Working with strings in Swift"
 description: " "
 date: 2023-10-01
-tags: [swift, stringmanipulation]
+tags: [stringmanipulation]
 comments: true
 share: true
 ---

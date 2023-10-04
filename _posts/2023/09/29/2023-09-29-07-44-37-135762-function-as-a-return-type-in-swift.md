@@ -3,7 +3,7 @@ layout: post
 title: "Function as a Return Type in Swift"
 description: " "
 date: 2023-09-29
-tags: [swift, function]
+tags: [function]
 comments: true
 share: true
 ---

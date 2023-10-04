@@ -3,7 +3,7 @@ layout: post
 title: "Applying UI Functions in Swift"
 description: " "
 date: 2023-09-29
-tags: [selector(submitButtonTapped), Swift]
+tags: [selector(submitButtonTapped)]
 comments: true
 share: true
 ---

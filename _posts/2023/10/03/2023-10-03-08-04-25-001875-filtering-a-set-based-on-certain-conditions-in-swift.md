@@ -3,7 +3,7 @@ layout: post
 title: "Filtering a set based on certain conditions in Swift"
 description: " "
 date: 2023-10-03
-tags: [Swift, Filtering]
+tags: [Filtering]
 comments: true
 share: true
 ---

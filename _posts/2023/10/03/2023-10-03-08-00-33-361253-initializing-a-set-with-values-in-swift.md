@@ -3,7 +3,7 @@ layout: post
 title: "Initializing a set with values in Swift"
 description: " "
 date: 2023-10-03
-tags: [swift, sets]
+tags: [sets]
 comments: true
 share: true
 ---

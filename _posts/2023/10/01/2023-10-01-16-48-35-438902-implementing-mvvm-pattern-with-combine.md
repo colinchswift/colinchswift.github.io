@@ -3,7 +3,7 @@ layout: post
 title: "Implementing MVVM pattern with Combine"
 description: " "
 date: 2023-10-01
-tags: [iOSDevelopment, Swift]
+tags: [iOSDevelopment]
 comments: true
 share: true
 ---

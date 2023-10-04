@@ -3,7 +3,7 @@ layout: post
 title: "Leveraging Git worktrees for parallel development in Swift projects"
 description: " "
 date: 2023-09-28
-tags: [Swift, GitWorktrees]
+tags: [GitWorktrees]
 comments: true
 share: true
 ---

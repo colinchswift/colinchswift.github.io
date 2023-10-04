@@ -3,7 +3,7 @@ layout: post
 title: "Sorting a set in descending order in Swift"
 description: " "
 date: 2023-10-03
-tags: [Swift, Sorting]
+tags: [Sorting]
 comments: true
 share: true
 ---

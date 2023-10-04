@@ -3,7 +3,7 @@ layout: post
 title: "Counting the occurrences of each element in a set in Swift"
 description: " "
 date: 2023-10-03
-tags: [Swift, Frequency]
+tags: [Frequency]
 comments: true
 share: true
 ---

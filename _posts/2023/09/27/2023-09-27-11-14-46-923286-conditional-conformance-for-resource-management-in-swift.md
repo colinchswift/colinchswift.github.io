@@ -3,7 +3,7 @@ layout: post
 title: "Conditional conformance for resource management in Swift"
 description: " "
 date: 2023-09-27
-tags: [Swift, ResourceManagement]
+tags: [ResourceManagement]
 comments: true
 share: true
 ---

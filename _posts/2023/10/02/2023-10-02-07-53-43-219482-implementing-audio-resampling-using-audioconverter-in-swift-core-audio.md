@@ -3,7 +3,7 @@ layout: post
 title: "Implementing audio resampling using AudioConverter in Swift Core Audio"
 description: " "
 date: 2023-10-02
-tags: [swift, coreaudio]
+tags: [coreaudio]
 comments: true
 share: true
 ---

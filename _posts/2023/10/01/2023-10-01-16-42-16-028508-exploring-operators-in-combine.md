@@ -3,7 +3,7 @@ layout: post
 title: "Exploring operators in Combine"
 description: " "
 date: 2023-10-01
-tags: [combine, swift]
+tags: [combine]
 comments: true
 share: true
 ---

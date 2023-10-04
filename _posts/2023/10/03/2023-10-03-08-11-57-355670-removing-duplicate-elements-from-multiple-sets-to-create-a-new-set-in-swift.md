@@ -3,7 +3,7 @@ layout: post
 title: "Removing duplicate elements from multiple sets to create a new set in Swift"
 description: " "
 date: 2023-10-03
-tags: [swift, sets]
+tags: [sets]
 comments: true
 share: true
 ---

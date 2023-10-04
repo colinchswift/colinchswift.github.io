@@ -3,7 +3,7 @@ layout: post
 title: "App Store guidelines and review criteria for Swift apps"
 description: " "
 date: 2023-10-01
-tags: [swift, AppStoreGuidelines]
+tags: [AppStoreGuidelines]
 comments: true
 share: true
 ---

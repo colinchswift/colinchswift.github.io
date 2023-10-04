@@ -3,7 +3,7 @@ layout: post
 title: "Strategies for managing large codebases with Git in Swift projects"
 description: " "
 date: 2023-09-28
-tags: [swift, gitmanagement]
+tags: [gitmanagement]
 comments: true
 share: true
 ---

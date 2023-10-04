@@ -3,7 +3,7 @@ layout: post
 title: "Using JSONEncoder and JSONDecoder with UserDefaults in Swift"
 description: " "
 date: 2023-09-27
-tags: [Swift, UserDefaults]
+tags: [UserDefaults]
 comments: true
 share: true
 ---

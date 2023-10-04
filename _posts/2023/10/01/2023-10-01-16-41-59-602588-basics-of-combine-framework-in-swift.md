@@ -3,7 +3,7 @@ layout: post
 title: "Basics of Combine framework in Swift"
 description: " "
 date: 2023-10-01
-tags: [techblog, swift]
+tags: [techblog]
 comments: true
 share: true
 ---

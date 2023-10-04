@@ -3,7 +3,7 @@ layout: post
 title: "Applying Max/Min Functions in Swift"
 description: " "
 date: 2023-09-29
-tags: [Swift, Programming]
+tags: [Programming]
 comments: true
 share: true
 ---

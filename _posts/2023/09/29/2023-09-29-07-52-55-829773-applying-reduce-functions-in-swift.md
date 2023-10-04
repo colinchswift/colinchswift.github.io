@@ -3,7 +3,7 @@ layout: post
 title: "Applying Reduce Functions in Swift"
 description: " "
 date: 2023-09-29
-tags: [Swift, Reduce]
+tags: [Reduce]
 comments: true
 share: true
 ---

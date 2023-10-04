@@ -3,7 +3,7 @@ layout: post
 title: "Checking if a set contains elements satisfying multiple conditions using a custom predicate in Swift"
 description: " "
 date: 2023-10-03
-tags: [Swift, Sets]
+tags: [Sets]
 comments: true
 share: true
 ---

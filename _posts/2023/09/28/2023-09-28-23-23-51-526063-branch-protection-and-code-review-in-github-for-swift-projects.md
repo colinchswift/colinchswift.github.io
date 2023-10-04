@@ -3,7 +3,7 @@ layout: post
 title: "Branch protection and code review in GitHub for Swift projects"
 description: " "
 date: 2023-09-28
-tags: [GitHub, Swift]
+tags: [GitHub]
 comments: true
 share: true
 ---

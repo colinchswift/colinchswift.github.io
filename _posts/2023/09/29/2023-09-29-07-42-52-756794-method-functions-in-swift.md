@@ -3,7 +3,7 @@ layout: post
 title: "Method Functions in Swift"
 description: " "
 date: 2023-09-29
-tags: [Swift, MethodFunctions]
+tags: [MethodFunctions]
 comments: true
 share: true
 ---

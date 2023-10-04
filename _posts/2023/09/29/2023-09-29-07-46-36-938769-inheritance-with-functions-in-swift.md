@@ -3,7 +3,7 @@ layout: post
 title: "Inheritance with Functions in Swift"
 description: " "
 date: 2023-09-29
-tags: [TechBlog, Swift]
+tags: [TechBlog]
 comments: true
 share: true
 ---

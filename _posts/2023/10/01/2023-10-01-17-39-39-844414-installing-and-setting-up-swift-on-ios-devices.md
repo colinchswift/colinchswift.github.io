@@ -3,7 +3,7 @@ layout: post
 title: "Installing and setting up Swift on iOS devices"
 description: " "
 date: 2023-10-01
-tags: [iOSDevelopment, Swift]
+tags: [iOSDevelopment]
 comments: true
 share: true
 ---

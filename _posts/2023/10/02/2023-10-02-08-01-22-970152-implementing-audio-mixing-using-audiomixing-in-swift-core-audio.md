@@ -3,7 +3,7 @@ layout: post
 title: "Implementing audio mixing using AudioMixing in Swift Core Audio"
 description: " "
 date: 2023-10-02
-tags: [AudioMixing, Swift]
+tags: [AudioMixing]
 comments: true
 share: true
 ---

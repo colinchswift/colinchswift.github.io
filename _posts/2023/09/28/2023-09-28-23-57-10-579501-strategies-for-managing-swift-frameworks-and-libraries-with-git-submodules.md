@@ -3,7 +3,7 @@ layout: post
 title: "Strategies for managing Swift frameworks and libraries with Git submodules"
 description: " "
 date: 2023-09-28
-tags: [Swift, GitSubmodules]
+tags: [GitSubmodules]
 comments: true
 share: true
 ---

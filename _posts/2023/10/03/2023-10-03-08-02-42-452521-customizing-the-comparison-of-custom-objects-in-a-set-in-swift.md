@@ -3,7 +3,7 @@ layout: post
 title: "Customizing the comparison of custom objects in a set in Swift"
 description: " "
 date: 2023-10-03
-tags: [Swift, CustomObjects]
+tags: [CustomObjects]
 comments: true
 share: true
 ---

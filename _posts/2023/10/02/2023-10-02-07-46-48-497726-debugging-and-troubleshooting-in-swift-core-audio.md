@@ -3,7 +3,7 @@ layout: post
 title: "Debugging and troubleshooting in Swift Core Audio"
 description: " "
 date: 2023-10-02
-tags: [Logging, Swift]
+tags: [Logging]
 comments: true
 share: true
 ---

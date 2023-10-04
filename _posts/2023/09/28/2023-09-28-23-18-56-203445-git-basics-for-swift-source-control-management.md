@@ -3,7 +3,7 @@ layout: post
 title: "Git Basics for Swift Source Control Management"
 description: " "
 date: 2023-09-28
-tags: [Swift, GitBasics]
+tags: [GitBasics]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Mutating Functions in Swift"
 description: " "
 date: 2023-09-29
-tags: [Swift, MutatingFunctions]
+tags: [MutatingFunctions]
 comments: true
 share: true
 ---

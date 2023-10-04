@@ -3,7 +3,7 @@ layout: post
 title: "Function Chaining in Swift"
 description: " "
 date: 2023-09-29
-tags: [Swift, FunctionChaining]
+tags: [FunctionChaining]
 comments: true
 share: true
 ---

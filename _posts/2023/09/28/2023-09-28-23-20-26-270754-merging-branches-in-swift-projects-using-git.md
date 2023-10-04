@@ -3,7 +3,7 @@ layout: post
 title: "Merging branches in Swift projects using Git"
 description: " "
 date: 2023-09-28
-tags: [Swift]
+tags: []
 comments: true
 share: true
 ---

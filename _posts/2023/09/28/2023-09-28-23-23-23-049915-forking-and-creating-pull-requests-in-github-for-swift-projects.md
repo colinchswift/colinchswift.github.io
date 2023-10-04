@@ -3,7 +3,7 @@ layout: post
 title: "Forking and creating pull requests in GitHub for Swift projects"
 description: " "
 date: 2023-09-28
-tags: [GitHub, Swift]
+tags: [GitHub]
 comments: true
 share: true
 ---

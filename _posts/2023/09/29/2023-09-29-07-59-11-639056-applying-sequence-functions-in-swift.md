@@ -3,7 +3,7 @@ layout: post
 title: "Applying Sequence Functions in Swift"
 description: " "
 date: 2023-09-29
-tags: [swift, sequence]
+tags: [sequence]
 comments: true
 share: true
 ---

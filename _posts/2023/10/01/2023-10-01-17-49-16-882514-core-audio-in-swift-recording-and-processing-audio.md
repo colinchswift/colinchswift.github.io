@@ -3,7 +3,7 @@ layout: post
 title: "Core Audio in Swift: recording and processing audio"
 description: " "
 date: 2023-10-01
-tags: [CoreAudio, Swift]
+tags: [CoreAudio]
 comments: true
 share: true
 ---

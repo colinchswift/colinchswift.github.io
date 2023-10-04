@@ -3,7 +3,7 @@ layout: post
 title: "Checking if a set is equal to an array in Swift"
 description: " "
 date: 2023-10-03
-tags: [Swift, Array]
+tags: [Array]
 comments: true
 share: true
 ---

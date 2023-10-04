@@ -3,7 +3,7 @@ layout: post
 title: "Reversing the elements in a set in Swift"
 description: " "
 date: 2023-10-03
-tags: [swift, reversal]
+tags: [reversal]
 comments: true
 share: true
 ---

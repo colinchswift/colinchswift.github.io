@@ -3,7 +3,7 @@ layout: post
 title: "Closures in Swift Functions"
 description: " "
 date: 2023-09-29
-tags: [swift, closures]
+tags: [closures]
 comments: true
 share: true
 ---

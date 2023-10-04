@@ -3,7 +3,7 @@ layout: post
 title: "Applying Filter Functions in Swift"
 description: " "
 date: 2023-09-29
-tags: [swift, filter]
+tags: [filter]
 comments: true
 share: true
 ---

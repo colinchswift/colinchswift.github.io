@@ -3,7 +3,7 @@ layout: post
 title: "HomeKit integration in Swift: controlling smart home devices"
 description: " "
 date: 2023-10-01
-tags: [HomeKit, Swift]
+tags: [HomeKit]
 comments: true
 share: true
 ---

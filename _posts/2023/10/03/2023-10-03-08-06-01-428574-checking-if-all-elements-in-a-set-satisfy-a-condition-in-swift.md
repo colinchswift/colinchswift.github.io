@@ -3,7 +3,7 @@ layout: post
 title: "Checking if all elements in a set satisfy a condition in Swift"
 description: " "
 date: 2023-10-03
-tags: [swift, condition]
+tags: [condition]
 comments: true
 share: true
 ---

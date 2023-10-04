@@ -3,7 +3,7 @@ layout: post
 title: "Decoding JSON into Swift enums"
 description: " "
 date: 2023-09-27
-tags: [Swift, JSON]
+tags: [JSON]
 comments: true
 share: true
 ---

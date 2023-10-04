@@ -3,7 +3,7 @@ layout: post
 title: "Conditional conformance for Codable types in Swift"
 description: " "
 date: 2023-09-27
-tags: [Swift, Codable]
+tags: [Codable]
 comments: true
 share: true
 ---

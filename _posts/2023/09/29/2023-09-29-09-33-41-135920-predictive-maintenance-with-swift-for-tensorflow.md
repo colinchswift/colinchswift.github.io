@@ -3,7 +3,7 @@ layout: post
 title: "Predictive maintenance with Swift for TensorFlow"
 description: " "
 date: 2023-09-29
-tags: [Swift, PredictiveMaintenance]
+tags: [PredictiveMaintenance]
 comments: true
 share: true
 ---

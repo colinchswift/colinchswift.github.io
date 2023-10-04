@@ -3,7 +3,7 @@ layout: post
 title: "Optionals as Return Types in Swift Functions"
 description: " "
 date: 2023-09-29
-tags: [Swift, Optionals]
+tags: [Optionals]
 comments: true
 share: true
 ---

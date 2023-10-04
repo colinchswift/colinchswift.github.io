@@ -3,7 +3,7 @@ layout: post
 title: "Using Bitbucket for Swift Source Control Management"
 description: " "
 date: 2023-09-28
-tags: [Swift, SourceControl]
+tags: [SourceControl]
 comments: true
 share: true
 ---

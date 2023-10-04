@@ -3,7 +3,7 @@ layout: post
 title: "Configuring and managing remote repositories for Swift projects"
 description: " "
 date: 2023-09-28
-tags: [Swift, GitConfiguration]
+tags: [GitConfiguration]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Strategies for managing release branches and hotfixes in Git for Swift projects"
 description: " "
 date: 2023-09-28
-tags: [swift, releaseManagement]
+tags: [releaseManagement]
 comments: true
 share: true
 ---

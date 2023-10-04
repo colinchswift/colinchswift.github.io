@@ -3,7 +3,7 @@ layout: post
 title: "Conditional conformance for graph traversal in Swift"
 description: " "
 date: 2023-09-27
-tags: [Swift, GraphTraversal]
+tags: [GraphTraversal]
 comments: true
 share: true
 ---

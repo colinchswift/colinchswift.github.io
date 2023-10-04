@@ -3,7 +3,7 @@ layout: post
 title: "Managing CocoaPods dependencies in Git for Swift projects"
 description: " "
 date: 2023-09-28
-tags: [Swift, CocoaPods]
+tags: [CocoaPods]
 comments: true
 share: true
 ---

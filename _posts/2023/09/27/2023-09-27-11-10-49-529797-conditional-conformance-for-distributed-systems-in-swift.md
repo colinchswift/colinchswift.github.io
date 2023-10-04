@@ -3,7 +3,7 @@ layout: post
 title: "Conditional conformance for distributed systems in Swift"
 description: " "
 date: 2023-09-27
-tags: [Swift, DistributedSystems]
+tags: [DistributedSystems]
 comments: true
 share: true
 ---

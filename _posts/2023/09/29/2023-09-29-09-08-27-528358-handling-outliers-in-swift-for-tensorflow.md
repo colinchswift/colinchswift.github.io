@@ -3,7 +3,7 @@ layout: post
 title: "Handling outliers in Swift for TensorFlow"
 description: " "
 date: 2023-09-29
-tags: [Swift, SwiftForTensorFlow]
+tags: [SwiftForTensorFlow]
 comments: true
 share: true
 ---

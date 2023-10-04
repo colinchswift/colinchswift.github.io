@@ -3,7 +3,7 @@ layout: post
 title: "Conditional conformance versus protocol inheritance in Swift"
 description: " "
 date: 2023-09-27
-tags: [Swift, Protocols]
+tags: [Protocols]
 comments: true
 share: true
 ---

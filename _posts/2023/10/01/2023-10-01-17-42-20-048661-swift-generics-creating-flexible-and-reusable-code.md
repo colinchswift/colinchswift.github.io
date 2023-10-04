@@ -3,7 +3,7 @@ layout: post
 title: "Swift generics: creating flexible and reusable code"
 description: " "
 date: 2023-10-01
-tags: [swift, generics]
+tags: [generics]
 comments: true
 share: true
 ---

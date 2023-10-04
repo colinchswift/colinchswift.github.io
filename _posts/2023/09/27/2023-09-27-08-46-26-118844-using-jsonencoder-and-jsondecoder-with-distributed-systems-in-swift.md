@@ -3,7 +3,7 @@ layout: post
 title: "Using JSONEncoder and JSONDecoder with distributed systems in Swift"
 description: " "
 date: 2023-09-27
-tags: [Swift, DistributedSystems]
+tags: [DistributedSystems]
 comments: true
 share: true
 ---

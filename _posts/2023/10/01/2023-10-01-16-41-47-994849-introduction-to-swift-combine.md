@@ -3,7 +3,7 @@ layout: post
 title: "Introduction to Swift Combine"
 description: " "
 date: 2023-10-01
-tags: [swift, combine]
+tags: [combine]
 comments: true
 share: true
 ---

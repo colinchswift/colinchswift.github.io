@@ -3,7 +3,7 @@ layout: post
 title: "Implementing audio encoding/decoding using AudioToolbox in Swift Core Audio"
 description: " "
 date: 2023-10-02
-tags: [Swift, CoreAudio]
+tags: [CoreAudio]
 comments: true
 share: true
 ---

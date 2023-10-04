@@ -3,7 +3,7 @@ layout: post
 title: "Checking if a set is a proper subset of any proper subset of another set in Swift"
 description: " "
 date: 2023-10-03
-tags: [swift, subset]
+tags: [subset]
 comments: true
 share: true
 ---

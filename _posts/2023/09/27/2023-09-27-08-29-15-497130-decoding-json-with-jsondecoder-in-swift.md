@@ -3,7 +3,7 @@ layout: post
 title: "Decoding JSON with JSONDecoder in Swift"
 description: " "
 date: 2023-09-27
-tags: [Swift, JSONDecoder]
+tags: [JSONDecoder]
 comments: true
 share: true
 ---

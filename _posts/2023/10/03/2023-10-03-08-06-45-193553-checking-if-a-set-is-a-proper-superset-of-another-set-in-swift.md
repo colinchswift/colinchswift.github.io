@@ -3,7 +3,7 @@ layout: post
 title: "Checking if a set is a proper superset of another set in Swift"
 description: " "
 date: 2023-10-03
-tags: [Swift, ProperSuperset]
+tags: [ProperSuperset]
 comments: true
 share: true
 ---

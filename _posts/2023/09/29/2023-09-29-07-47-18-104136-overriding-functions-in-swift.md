@@ -3,7 +3,7 @@ layout: post
 title: "Overriding Functions in Swift"
 description: " "
 date: 2023-09-29
-tags: [swift, functions]
+tags: [functions]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Generating random elements from a set in Swift"
 description: " "
 date: 2023-10-03
-tags: [Swift, RandomElements]
+tags: [RandomElements]
 comments: true
 share: true
 ---

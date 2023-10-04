@@ -3,7 +3,7 @@ layout: post
 title: "Function Currying in Swift"
 description: " "
 date: 2023-09-29
-tags: [Swift, FunctionCurrying]
+tags: [FunctionCurrying]
 comments: true
 share: true
 ---

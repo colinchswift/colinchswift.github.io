@@ -3,7 +3,7 @@ layout: post
 title: "Applying Database Functions in Swift"
 description: " "
 date: 2023-09-29
-tags: [Swift, DatabaseFunctions]
+tags: [DatabaseFunctions]
 comments: true
 share: true
 ---

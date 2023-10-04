@@ -3,7 +3,7 @@ layout: post
 title: "Adding elements to a set in Swift"
 description: " "
 date: 2023-10-03
-tags: [Swift, AddingElements]
+tags: [AddingElements]
 comments: true
 share: true
 ---

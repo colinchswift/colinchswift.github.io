@@ -3,7 +3,7 @@ layout: post
 title: "Finding the first element that satisfies a condition in a set in Swift"
 description: " "
 date: 2023-10-03
-tags: [Swift, HigherOrderFunctions]
+tags: [HigherOrderFunctions]
 comments: true
 share: true
 ---

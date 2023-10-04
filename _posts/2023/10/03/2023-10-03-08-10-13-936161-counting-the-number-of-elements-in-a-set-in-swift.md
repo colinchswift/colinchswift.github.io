@@ -3,7 +3,7 @@ layout: post
 title: "Counting the number of elements in a set in Swift"
 description: " "
 date: 2023-10-03
-tags: [Swift, Count]
+tags: [Count]
 comments: true
 share: true
 ---

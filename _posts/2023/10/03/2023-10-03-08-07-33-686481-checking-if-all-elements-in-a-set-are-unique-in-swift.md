@@ -3,7 +3,7 @@ layout: post
 title: "Checking if all elements in a set are unique in Swift"
 description: " "
 date: 2023-10-03
-tags: [Swift, Uniqueness]
+tags: [Uniqueness]
 comments: true
 share: true
 ---

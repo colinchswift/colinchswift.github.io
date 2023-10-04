@@ -3,7 +3,7 @@ layout: post
 title: "Audio and video playback in Swift"
 description: " "
 date: 2023-10-01
-tags: [Swift, AVFoundation]
+tags: [AVFoundation]
 comments: true
 share: true
 ---

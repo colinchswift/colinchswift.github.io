@@ -3,7 +3,7 @@ layout: post
 title: "Debugging Functions in Swift"
 description: " "
 date: 2023-09-29
-tags: [Swift, Debugging]
+tags: [Debugging]
 comments: true
 share: true
 ---

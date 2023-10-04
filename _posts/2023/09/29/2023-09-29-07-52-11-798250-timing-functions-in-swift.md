@@ -3,7 +3,7 @@ layout: post
 title: "Timing Functions in Swift"
 description: " "
 date: 2023-09-29
-tags: [selector(updateAnimation)), swift]
+tags: [selector(updateAnimation))]
 comments: true
 share: true
 ---

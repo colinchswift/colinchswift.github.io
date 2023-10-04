@@ -3,7 +3,7 @@ layout: post
 title: "Conditional conformance and shared memory in Swift"
 description: " "
 date: 2023-09-27
-tags: [Swift, CodingTips]
+tags: [CodingTips]
 comments: true
 share: true
 ---

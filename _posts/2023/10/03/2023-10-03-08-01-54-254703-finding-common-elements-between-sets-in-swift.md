@@ -3,7 +3,7 @@ layout: post
 title: "Finding common elements between sets in Swift"
 description: " "
 date: 2023-10-03
-tags: [swift, common]
+tags: [common]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Using Xcode's built-in source control features for Swift development"
 description: " "
 date: 2023-09-28
-tags: [swift, sourcecontrol]
+tags: [sourcecontrol]
 comments: true
 share: true
 ---

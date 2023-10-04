@@ -3,7 +3,7 @@ layout: post
 title: "Integrating Swift projects with external APIs using Git"
 description: " "
 date: 2023-09-28
-tags: [swift, APIintegration]
+tags: [APIintegration]
 comments: true
 share: true
 ---

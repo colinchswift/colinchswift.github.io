@@ -3,7 +3,7 @@ layout: post
 title: "Using Git LFS (Large File Storage) for managing large assets in Swift projects"
 description: " "
 date: 2023-09-28
-tags: [gitlfs, swift]
+tags: [gitlfs]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Sorting a set in descending order based on a custom comparator in Swift"
 description: " "
 date: 2023-10-03
-tags: [swift, sorting]
+tags: [sorting]
 comments: true
 share: true
 ---

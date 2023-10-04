@@ -3,7 +3,7 @@ layout: post
 title: "Collaborating with remote teams using Git in Swift projects"
 description: " "
 date: 2023-09-28
-tags: [swift, collaboration]
+tags: [collaboration]
 comments: true
 share: true
 ---

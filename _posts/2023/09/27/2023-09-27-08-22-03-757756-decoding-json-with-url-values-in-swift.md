@@ -3,7 +3,7 @@ layout: post
 title: "Decoding JSON with URL values in Swift"
 description: " "
 date: 2023-09-27
-tags: [JSON, Swift]
+tags: [JSON]
 comments: true
 share: true
 ---

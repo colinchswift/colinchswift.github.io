@@ -3,7 +3,7 @@ layout: post
 title: "Implementing leaderboards and achievements in Swift 3D games"
 description: " "
 date: 2023-10-01
-tags: [swift, gamedevelopment]
+tags: [gamedevelopment]
 comments: true
 share: true
 ---

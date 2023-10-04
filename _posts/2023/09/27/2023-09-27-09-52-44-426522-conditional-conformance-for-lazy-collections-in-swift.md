@@ -3,7 +3,7 @@ layout: post
 title: "Conditional conformance for lazy collections in Swift"
 description: " "
 date: 2023-09-27
-tags: [Swift, LazyCollections]
+tags: [LazyCollections]
 comments: true
 share: true
 ---

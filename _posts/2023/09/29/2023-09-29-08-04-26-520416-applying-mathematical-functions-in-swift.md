@@ -3,7 +3,7 @@ layout: post
 title: "Applying Mathematical Functions in Swift"
 description: " "
 date: 2023-09-29
-tags: [programming, Swift]
+tags: [programming]
 comments: true
 share: true
 ---

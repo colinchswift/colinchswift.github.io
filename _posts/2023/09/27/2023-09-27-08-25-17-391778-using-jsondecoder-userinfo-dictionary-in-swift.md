@@ -3,7 +3,7 @@ layout: post
 title: "Using JSONDecoder userInfo dictionary in Swift"
 description: " "
 date: 2023-09-27
-tags: [Swift, JSONDecoder]
+tags: [JSONDecoder]
 comments: true
 share: true
 ---

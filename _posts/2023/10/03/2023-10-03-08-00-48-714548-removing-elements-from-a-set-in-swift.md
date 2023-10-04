@@ -3,7 +3,7 @@ layout: post
 title: "Removing elements from a set in Swift"
 description: " "
 date: 2023-10-03
-tags: [Swift]
+tags: []
 comments: true
 share: true
 ---

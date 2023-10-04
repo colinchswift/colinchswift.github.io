@@ -3,7 +3,7 @@ layout: post
 title: "Enumerating the subsets of a set in Swift"
 description: " "
 date: 2023-10-03
-tags: [Swift, Subsets]
+tags: [Subsets]
 comments: true
 share: true
 ---

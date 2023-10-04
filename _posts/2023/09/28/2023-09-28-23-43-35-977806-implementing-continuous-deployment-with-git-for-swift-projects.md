@@ -3,7 +3,7 @@ layout: post
 title: "Implementing continuous deployment with Git for Swift projects"
 description: " "
 date: 2023-09-28
-tags: [continuousdeployment, Swift]
+tags: [continuousdeployment]
 comments: true
 share: true
 ---

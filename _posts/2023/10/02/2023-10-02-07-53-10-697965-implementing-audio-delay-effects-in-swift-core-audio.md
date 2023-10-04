@@ -3,7 +3,7 @@ layout: post
 title: "Implementing audio delay effects in Swift Core Audio"
 description: " "
 date: 2023-10-02
-tags: [coreaudio, swift]
+tags: [coreaudio]
 comments: true
 share: true
 ---

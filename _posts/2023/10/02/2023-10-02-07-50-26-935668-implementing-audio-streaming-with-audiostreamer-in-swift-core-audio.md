@@ -3,7 +3,7 @@ layout: post
 title: "Implementing audio streaming with AudioStreamer in Swift Core Audio"
 description: " "
 date: 2023-10-02
-tags: [Swift, AudioStreaming]
+tags: [AudioStreaming]
 comments: true
 share: true
 ---

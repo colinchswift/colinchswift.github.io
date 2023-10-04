@@ -3,7 +3,7 @@ layout: post
 title: "Conditional conformance for enum cases in Swift"
 description: " "
 date: 2023-09-27
-tags: [Swift, Enums]
+tags: [Enums]
 comments: true
 share: true
 ---

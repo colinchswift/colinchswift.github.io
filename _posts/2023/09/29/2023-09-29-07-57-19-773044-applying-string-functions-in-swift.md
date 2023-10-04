@@ -3,7 +3,7 @@ layout: post
 title: "Applying String Functions in Swift"
 description: " "
 date: 2023-09-29
-tags: [swift, stringfunctions]
+tags: [stringfunctions]
 comments: true
 share: true
 ---

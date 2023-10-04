@@ -3,7 +3,7 @@ layout: post
 title: "Transfer learning with Swift for TensorFlow"
 description: " "
 date: 2023-09-29
-tags: [Swift, TransferLearning]
+tags: [TransferLearning]
 comments: true
 share: true
 ---

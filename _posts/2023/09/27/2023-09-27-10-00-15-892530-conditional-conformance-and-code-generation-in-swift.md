@@ -3,7 +3,7 @@ layout: post
 title: "Conditional conformance and code generation in Swift"
 description: " "
 date: 2023-09-27
-tags: [Swift, CodeGeneration]
+tags: [CodeGeneration]
 comments: true
 share: true
 ---

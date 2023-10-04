@@ -3,7 +3,7 @@ layout: post
 title: "Using version tags for release management in Git for Swift projects"
 description: " "
 date: 2023-09-28
-tags: [swift]
+tags: []
 comments: true
 share: true
 ---

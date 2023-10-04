@@ -3,7 +3,7 @@ layout: post
 title: "Conditional conformance for dictionaries in Swift"
 description: " "
 date: 2023-09-27
-tags: [Swift, Dictionaries]
+tags: [Dictionaries]
 comments: true
 share: true
 ---

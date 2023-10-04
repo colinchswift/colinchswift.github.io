@@ -3,7 +3,7 @@ layout: post
 title: "Optional Chaining with Functions in Swift"
 description: " "
 date: 2023-09-29
-tags: [swift, optionalchaining]
+tags: [optionalchaining]
 comments: true
 share: true
 ---

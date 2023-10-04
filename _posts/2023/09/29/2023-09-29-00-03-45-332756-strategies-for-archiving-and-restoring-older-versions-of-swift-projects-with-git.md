@@ -3,7 +3,7 @@ layout: post
 title: "Strategies for archiving and restoring older versions of Swift projects with Git"
 description: " "
 date: 2023-09-29
-tags: [Swift]
+tags: []
 comments: true
 share: true
 ---

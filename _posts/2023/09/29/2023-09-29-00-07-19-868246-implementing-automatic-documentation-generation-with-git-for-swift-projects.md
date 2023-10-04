@@ -3,7 +3,7 @@ layout: post
 title: "Implementing automatic documentation generation with Git for Swift projects"
 description: " "
 date: 2023-09-29
-tags: [documentation, Swift]
+tags: [documentation]
 comments: true
 share: true
 ---

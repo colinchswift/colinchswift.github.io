@@ -3,7 +3,7 @@ layout: post
 title: "Implementing audio synthesis using MIDI in Swift Core Audio"
 description: " "
 date: 2023-10-02
-tags: [swift, coreaudio]
+tags: [coreaudio]
 comments: true
 share: true
 ---

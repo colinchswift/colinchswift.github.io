@@ -3,7 +3,7 @@ layout: post
 title: "Deep Q-learning with Swift for TensorFlow"
 description: " "
 date: 2023-09-29
-tags: [Swift, MachineLearning]
+tags: [MachineLearning]
 comments: true
 share: true
 ---

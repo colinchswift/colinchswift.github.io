@@ -3,7 +3,7 @@ layout: post
 title: "Siri integration in Swift"
 description: " "
 date: 2023-10-01
-tags: [SiriIntegration, Swift]
+tags: [SiriIntegration]
 comments: true
 share: true
 ---

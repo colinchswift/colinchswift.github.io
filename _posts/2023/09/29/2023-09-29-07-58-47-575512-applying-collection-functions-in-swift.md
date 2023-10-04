@@ -3,7 +3,7 @@ layout: post
 title: "Applying Collection Functions in Swift"
 description: " "
 date: 2023-09-29
-tags: [swift, collection]
+tags: [collection]
 comments: true
 share: true
 ---

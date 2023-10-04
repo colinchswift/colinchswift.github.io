@@ -3,7 +3,7 @@ layout: post
 title: "How to define conditional conformance in Swift"
 description: " "
 date: 2023-09-27
-tags: [Swift, ConditionalConformance]
+tags: [ConditionalConformance]
 comments: true
 share: true
 ---

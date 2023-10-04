@@ -3,7 +3,7 @@ layout: post
 title: "Type Constraints in Swift Functions"
 description: " "
 date: 2023-09-29
-tags: [swift, typeconstraints]
+tags: [typeconstraints]
 comments: true
 share: true
 ---

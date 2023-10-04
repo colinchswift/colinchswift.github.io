@@ -3,7 +3,7 @@ layout: post
 title: "Implementing audio modeling using AudioModeler in Swift Core Audio"
 description: " "
 date: 2023-10-02
-tags: [swift, audiomodeling]
+tags: [audiomodeling]
 comments: true
 share: true
 ---

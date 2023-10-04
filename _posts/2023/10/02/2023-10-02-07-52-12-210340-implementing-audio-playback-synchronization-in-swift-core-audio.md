@@ -3,7 +3,7 @@ layout: post
 title: "Implementing audio playback synchronization in Swift Core Audio"
 description: " "
 date: 2023-10-02
-tags: [CoreAudio, Swift]
+tags: [CoreAudio]
 comments: true
 share: true
 ---

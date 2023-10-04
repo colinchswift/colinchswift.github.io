@@ -3,7 +3,7 @@ layout: post
 title: "Applying Array Functions in Swift"
 description: " "
 date: 2023-09-29
-tags: [swift, array]
+tags: [array]
 comments: true
 share: true
 ---

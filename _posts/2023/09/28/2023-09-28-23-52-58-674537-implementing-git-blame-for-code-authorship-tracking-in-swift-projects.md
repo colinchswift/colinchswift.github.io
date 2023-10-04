@@ -3,7 +3,7 @@ layout: post
 title: "Implementing Git blame for code authorship tracking in Swift projects"
 description: " "
 date: 2023-09-28
-tags: [gitblame, Swift]
+tags: [gitblame]
 comments: true
 share: true
 ---

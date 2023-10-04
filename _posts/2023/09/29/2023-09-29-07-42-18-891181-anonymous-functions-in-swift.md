@@ -3,7 +3,7 @@ layout: post
 title: "Anonymous Functions in Swift"
 description: " "
 date: 2023-09-29
-tags: [Swift, AnonymousFunctions]
+tags: [AnonymousFunctions]
 comments: true
 share: true
 ---

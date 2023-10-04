@@ -3,7 +3,7 @@ layout: post
 title: "Future trends and updates in Swift"
 description: " "
 date: 2023-10-01
-tags: [swift, programming]
+tags: [programming]
 comments: true
 share: true
 ---

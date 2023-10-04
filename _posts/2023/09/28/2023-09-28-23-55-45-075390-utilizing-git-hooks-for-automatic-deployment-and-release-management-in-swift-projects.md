@@ -3,7 +3,7 @@ layout: post
 title: "Utilizing Git hooks for automatic deployment and release management in Swift projects"
 description: " "
 date: 2023-09-28
-tags: [Swift, GitHooks]
+tags: [GitHooks]
 comments: true
 share: true
 ---

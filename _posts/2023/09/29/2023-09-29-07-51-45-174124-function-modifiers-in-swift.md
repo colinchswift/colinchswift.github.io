@@ -3,7 +3,7 @@ layout: post
 title: "Function Modifiers in Swift"
 description: " "
 date: 2023-09-29
-tags: [Swift, FunctionModifiers]
+tags: [FunctionModifiers]
 comments: true
 share: true
 ---

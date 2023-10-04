@@ -3,7 +3,7 @@ layout: post
 title: "Checking if a set contains at least one element in Swift"
 description: " "
 date: 2023-10-03
-tags: [Swift, SetOperations]
+tags: [SetOperations]
 comments: true
 share: true
 ---

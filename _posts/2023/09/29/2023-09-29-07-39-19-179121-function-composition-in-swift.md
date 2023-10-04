@@ -3,7 +3,7 @@ layout: post
 title: "Function Composition in Swift"
 description: " "
 date: 2023-09-29
-tags: [swift, functioncomposition]
+tags: [functioncomposition]
 comments: true
 share: true
 ---

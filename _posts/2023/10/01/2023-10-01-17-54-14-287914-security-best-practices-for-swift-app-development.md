@@ -3,7 +3,7 @@ layout: post
 title: "Security best practices for Swift app development"
 description: " "
 date: 2023-10-01
-tags: [swift, appsecurity]
+tags: [appsecurity]
 comments: true
 share: true
 ---

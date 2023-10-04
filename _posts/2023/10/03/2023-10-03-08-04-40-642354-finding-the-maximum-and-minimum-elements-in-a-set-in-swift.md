@@ -3,7 +3,7 @@ layout: post
 title: "Finding the maximum and minimum elements in a set in Swift"
 description: " "
 date: 2023-10-03
-tags: [swift, maximum]
+tags: [maximum]
 comments: true
 share: true
 ---

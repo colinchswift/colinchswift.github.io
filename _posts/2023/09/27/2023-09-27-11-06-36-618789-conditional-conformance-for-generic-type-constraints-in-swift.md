@@ -3,7 +3,7 @@ layout: post
 title: "Conditional conformance for generic type constraints in Swift"
 description: " "
 date: 2023-09-27
-tags: [Swift, Generics]
+tags: [Generics]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Strategies for rebasing and squashing commits in Swift projects with Git"
 description: " "
 date: 2023-09-28
-tags: [swift, rebasing]
+tags: [rebasing]
 comments: true
 share: true
 ---

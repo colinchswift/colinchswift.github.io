@@ -3,7 +3,7 @@ layout: post
 title: "User authentication and authorization in Swift"
 description: " "
 date: 2023-10-01
-tags: [Swift, Authentication]
+tags: [Authentication]
 comments: true
 share: true
 ---

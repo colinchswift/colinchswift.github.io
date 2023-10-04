@@ -3,7 +3,7 @@ layout: post
 title: "Applying XML Functions in Swift"
 description: " "
 date: 2023-09-29
-tags: [swift, programming]
+tags: [programming]
 comments: true
 share: true
 ---

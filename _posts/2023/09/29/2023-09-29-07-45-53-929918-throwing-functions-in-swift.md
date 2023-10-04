@@ -3,7 +3,7 @@ layout: post
 title: "Throwing Functions in Swift"
 description: " "
 date: 2023-09-29
-tags: [swift, throwingfunctions]
+tags: [throwingfunctions]
 comments: true
 share: true
 ---

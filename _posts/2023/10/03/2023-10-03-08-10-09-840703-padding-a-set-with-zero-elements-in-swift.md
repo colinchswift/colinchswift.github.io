@@ -3,7 +3,7 @@ layout: post
 title: "Padding a set with zero elements in Swift"
 description: " "
 date: 2023-10-03
-tags: [Swift, SetPadding]
+tags: [SetPadding]
 comments: true
 share: true
 ---

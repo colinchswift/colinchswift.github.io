@@ -3,7 +3,7 @@ layout: post
 title: "Applying CompactMap Functions in Swift"
 description: " "
 date: 2023-09-29
-tags: [swift, higherorderfunctions]
+tags: [higherorderfunctions]
 comments: true
 share: true
 ---

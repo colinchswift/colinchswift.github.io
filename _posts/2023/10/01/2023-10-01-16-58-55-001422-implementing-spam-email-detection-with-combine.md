@@ -3,7 +3,7 @@ layout: post
 title: "Implementing spam email detection with Combine"
 description: " "
 date: 2023-10-01
-tags: [spamdetection, swift]
+tags: [spamdetection]
 comments: true
 share: true
 ---

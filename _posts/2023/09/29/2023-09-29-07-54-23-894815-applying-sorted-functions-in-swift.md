@@ -3,7 +3,7 @@ layout: post
 title: "Applying Sorted Functions in Swift"
 description: " "
 date: 2023-09-29
-tags: [Swift, Sorting]
+tags: [Sorting]
 comments: true
 share: true
 ---

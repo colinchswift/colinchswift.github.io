@@ -3,7 +3,7 @@ layout: post
 title: "Conditional conformance and type-safe file I/O in Swift"
 description: " "
 date: 2023-09-27
-tags: [Swift, ConditionalConformance]
+tags: [ConditionalConformance]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Language translation with Swift for TensorFlow"
 description: " "
 date: 2023-09-29
-tags: [Swift, TensorFlow]
+tags: [TensorFlow]
 comments: true
 share: true
 ---

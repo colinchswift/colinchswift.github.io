@@ -3,7 +3,7 @@ layout: post
 title: "Conditional conformance for graph algorithms in Swift"
 description: " "
 date: 2023-09-27
-tags: [Swift, GraphAlgorithms]
+tags: [GraphAlgorithms]
 comments: true
 share: true
 ---

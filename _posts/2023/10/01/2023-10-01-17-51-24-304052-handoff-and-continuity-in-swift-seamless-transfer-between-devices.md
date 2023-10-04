@@ -3,7 +3,7 @@ layout: post
 title: "Handoff and Continuity in Swift: seamless transfer between devices"
 description: " "
 date: 2023-10-01
-tags: [Swift]
+tags: []
 comments: true
 share: true
 ---

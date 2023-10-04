@@ -3,7 +3,7 @@ layout: post
 title: "Merging multiple sets into one in Swift"
 description: " "
 date: 2023-10-03
-tags: [swift, merge]
+tags: [merge]
 comments: true
 share: true
 ---

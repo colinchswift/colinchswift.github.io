@@ -3,7 +3,7 @@ layout: post
 title: "Applying Subscript Functions in Swift"
 description: " "
 date: 2023-09-29
-tags: [swift, subscript]
+tags: [subscript]
 comments: true
 share: true
 ---

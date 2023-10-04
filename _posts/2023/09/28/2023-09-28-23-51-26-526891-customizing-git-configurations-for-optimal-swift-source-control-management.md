@@ -3,7 +3,7 @@ layout: post
 title: "Customizing Git configurations for optimal Swift source control management"
 description: " "
 date: 2023-09-28
-tags: [Swift, versioncontrol]
+tags: [versioncontrol]
 comments: true
 share: true
 ---

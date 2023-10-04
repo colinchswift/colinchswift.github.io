@@ -3,7 +3,7 @@ layout: post
 title: "Using Git grep for code search and refactoring in Swift projects"
 description: " "
 date: 2023-09-29
-tags: [swift, code]
+tags: [code]
 comments: true
 share: true
 ---

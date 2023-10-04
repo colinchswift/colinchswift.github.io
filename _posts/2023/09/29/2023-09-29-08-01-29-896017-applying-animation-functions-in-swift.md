@@ -3,7 +3,7 @@ layout: post
 title: "Applying Animation Functions in Swift"
 description: " "
 date: 2023-09-29
-tags: [Swift, Animation]
+tags: [Animation]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Introduction to Swift Source Control Management"
 description: " "
 date: 2023-09-28
-tags: [sourcecontrol, Swift]
+tags: [sourcecontrol]
 comments: true
 share: true
 ---

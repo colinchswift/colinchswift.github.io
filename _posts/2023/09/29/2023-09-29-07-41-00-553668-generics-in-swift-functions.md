@@ -3,7 +3,7 @@ layout: post
 title: "Generics in Swift Functions"
 description: " "
 date: 2023-09-29
-tags: [swift, generics]
+tags: [generics]
 comments: true
 share: true
 ---

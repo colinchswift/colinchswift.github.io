@@ -3,7 +3,7 @@ layout: post
 title: "Subscripting a set in Swift"
 description: " "
 date: 2023-10-03
-tags: [swift, subscripting]
+tags: [subscripting]
 comments: true
 share: true
 ---

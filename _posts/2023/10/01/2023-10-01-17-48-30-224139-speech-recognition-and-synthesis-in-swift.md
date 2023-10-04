@@ -3,7 +3,7 @@ layout: post
 title: "Speech recognition and synthesis in Swift"
 description: " "
 date: 2023-10-01
-tags: [swift, speechrecognition]
+tags: [speechrecognition]
 comments: true
 share: true
 ---

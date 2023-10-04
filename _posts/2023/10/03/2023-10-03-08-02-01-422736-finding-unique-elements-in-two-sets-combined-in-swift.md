@@ -3,7 +3,7 @@ layout: post
 title: "Finding unique elements in two sets combined in Swift"
 description: " "
 date: 2023-10-03
-tags: [Swift, Sets]
+tags: [Sets]
 comments: true
 share: true
 ---

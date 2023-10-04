@@ -3,7 +3,7 @@ layout: post
 title: "Social media integration in Swift"
 description: " "
 date: 2023-10-01
-tags: [socialmediaintegration, Swift]
+tags: [socialmediaintegration]
 comments: true
 share: true
 ---

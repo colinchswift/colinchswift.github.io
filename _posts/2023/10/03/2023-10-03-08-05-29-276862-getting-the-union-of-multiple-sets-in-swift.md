@@ -3,7 +3,7 @@ layout: post
 title: "Getting the union of multiple sets in Swift"
 description: " "
 date: 2023-10-03
-tags: [Swift, Sets]
+tags: [Sets]
 comments: true
 share: true
 ---

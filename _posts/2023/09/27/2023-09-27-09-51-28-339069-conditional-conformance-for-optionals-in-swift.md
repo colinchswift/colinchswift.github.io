@@ -3,7 +3,7 @@ layout: post
 title: "Conditional conformance for optionals in Swift"
 description: " "
 date: 2023-09-27
-tags: [Swift, Optionals]
+tags: [Optionals]
 comments: true
 share: true
 ---

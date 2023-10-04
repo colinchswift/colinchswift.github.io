@@ -3,7 +3,7 @@ layout: post
 title: "Utilizing Git hooks for automatic code formatting in Swift projects"
 description: " "
 date: 2023-09-29
-tags: [swift]
+tags: []
 comments: true
 share: true
 ---

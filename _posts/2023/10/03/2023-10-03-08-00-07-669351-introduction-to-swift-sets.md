@@ -3,7 +3,7 @@ layout: post
 title: "Introduction to Swift sets"
 description: " "
 date: 2023-10-03
-tags: [Swift, DataStructures]
+tags: [DataStructures]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Function Argument Labels in Swift"
 description: " "
 date: 2023-09-29
-tags: [swift, functionarguments]
+tags: [functionarguments]
 comments: true
 share: true
 ---

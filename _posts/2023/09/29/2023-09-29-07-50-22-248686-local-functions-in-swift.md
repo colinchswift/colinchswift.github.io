@@ -3,7 +3,7 @@ layout: post
 title: "Local Functions in Swift"
 description: " "
 date: 2023-09-29
-tags: [Swift, LocalFunctions]
+tags: [LocalFunctions]
 comments: true
 share: true
 ---

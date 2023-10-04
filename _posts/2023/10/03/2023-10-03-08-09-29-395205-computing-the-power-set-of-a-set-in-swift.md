@@ -3,7 +3,7 @@ layout: post
 title: "Computing the power set of a set in Swift"
 description: " "
 date: 2023-10-03
-tags: [Swift, PowerSet]
+tags: [PowerSet]
 comments: true
 share: true
 ---

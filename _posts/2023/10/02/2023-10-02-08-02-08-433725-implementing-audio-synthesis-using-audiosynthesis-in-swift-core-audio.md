@@ -3,7 +3,7 @@ layout: post
 title: "Implementing audio synthesis using AudioSynthesis in Swift Core Audio"
 description: " "
 date: 2023-10-02
-tags: [Swift, AudioSynthesis]
+tags: [AudioSynthesis]
 comments: true
 share: true
 ---

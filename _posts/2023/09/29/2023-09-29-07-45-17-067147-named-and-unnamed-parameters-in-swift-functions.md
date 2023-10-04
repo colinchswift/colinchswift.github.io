@@ -3,7 +3,7 @@ layout: post
 title: "Named and Unnamed Parameters in Swift Functions"
 description: " "
 date: 2023-09-29
-tags: [Swift, Functions]
+tags: [Functions]
 comments: true
 share: true
 ---

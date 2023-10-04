@@ -3,7 +3,7 @@ layout: post
 title: "Using JSONSchema with Codable in Swift"
 description: " "
 date: 2023-09-27
-tags: [Swift, JSONSchema]
+tags: [JSONSchema]
 comments: true
 share: true
 ---

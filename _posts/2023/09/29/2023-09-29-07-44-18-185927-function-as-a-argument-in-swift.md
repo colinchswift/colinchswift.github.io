@@ -3,7 +3,7 @@ layout: post
 title: "Function as a Argument in Swift"
 description: " "
 date: 2023-09-29
-tags: [Swift, FunctionsAsArguments]
+tags: [FunctionsAsArguments]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Applying FlatMap Functions in Swift"
 description: " "
 date: 2023-09-29
-tags: [swift, flatMap]
+tags: [flatMap]
 comments: true
 share: true
 ---

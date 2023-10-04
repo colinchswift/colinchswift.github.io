@@ -3,7 +3,7 @@ layout: post
 title: "Using Git stash for temporary code storage in Swift projects"
 description: " "
 date: 2023-09-28
-tags: [Swift, GitStash]
+tags: [GitStash]
 comments: true
 share: true
 ---

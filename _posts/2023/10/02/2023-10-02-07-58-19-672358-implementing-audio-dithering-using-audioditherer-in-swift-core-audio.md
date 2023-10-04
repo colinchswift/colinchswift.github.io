@@ -3,7 +3,7 @@ layout: post
 title: "Implementing audio dithering using AudioDitherer in Swift Core Audio"
 description: " "
 date: 2023-10-02
-tags: [swift, audiodithering]
+tags: [audiodithering]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Using conditional conformance to add functionality to existing types"
 description: " "
 date: 2023-09-27
-tags: [Swift, ConditionalConformance]
+tags: [ConditionalConformance]
 comments: true
 share: true
 ---

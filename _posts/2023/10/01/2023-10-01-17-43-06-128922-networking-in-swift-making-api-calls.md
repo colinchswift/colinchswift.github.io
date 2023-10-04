@@ -3,7 +3,7 @@ layout: post
 title: "Networking in Swift: making API calls"
 description: " "
 date: 2023-10-01
-tags: [swift, networking]
+tags: [networking]
 comments: true
 share: true
 ---

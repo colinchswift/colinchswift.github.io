@@ -3,7 +3,7 @@ layout: post
 title: "Active learning with Swift for TensorFlow"
 description: " "
 date: 2023-09-29
-tags: [ActiveLearning, Swift]
+tags: [ActiveLearning]
 comments: true
 share: true
 ---

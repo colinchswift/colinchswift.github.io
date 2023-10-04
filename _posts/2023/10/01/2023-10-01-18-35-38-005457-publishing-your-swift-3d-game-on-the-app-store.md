@@ -3,7 +3,7 @@ layout: post
 title: "Publishing your Swift 3D game on the App Store"
 description: " "
 date: 2023-10-01
-tags: [Swift]
+tags: []
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Implementing audio visualization using AudioVisualization in Swift Core Audio"
 description: " "
 date: 2023-10-02
-tags: [swift, audiovisualization]
+tags: [audiovisualization]
 comments: true
 share: true
 ---

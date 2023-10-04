@@ -3,7 +3,7 @@ layout: post
 title: "Implementing virtual reality (VR) interactions in Swift 3D games"
 description: " "
 date: 2023-10-01
-tags: [Swift, VirtualReality]
+tags: [VirtualReality]
 comments: true
 share: true
 ---

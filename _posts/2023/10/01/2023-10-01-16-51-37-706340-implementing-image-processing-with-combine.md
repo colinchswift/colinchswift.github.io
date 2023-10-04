@@ -3,7 +3,7 @@ layout: post
 title: "Implementing image processing with Combine"
 description: " "
 date: 2023-10-01
-tags: [imageprocessing, swift]
+tags: [imageprocessing]
 comments: true
 share: true
 ---

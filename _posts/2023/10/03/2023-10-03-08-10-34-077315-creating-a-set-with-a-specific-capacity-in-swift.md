@@ -3,7 +3,7 @@ layout: post
 title: "Creating a set with a specific capacity in Swift"
 description: " "
 date: 2023-10-03
-tags: [Swift, Sets]
+tags: [Sets]
 comments: true
 share: true
 ---

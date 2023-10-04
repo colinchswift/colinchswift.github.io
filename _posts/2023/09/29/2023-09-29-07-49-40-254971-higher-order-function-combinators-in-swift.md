@@ -3,7 +3,7 @@ layout: post
 title: "Higher-Order-Function Combinators in Swift"
 description: " "
 date: 2023-09-29
-tags: [Swift, HigherOrderFunctions]
+tags: [HigherOrderFunctions]
 comments: true
 share: true
 ---

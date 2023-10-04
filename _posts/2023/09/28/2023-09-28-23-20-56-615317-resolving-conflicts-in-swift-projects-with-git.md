@@ -3,7 +3,7 @@ layout: post
 title: "Resolving conflicts in Swift projects with Git"
 description: " "
 date: 2023-09-28
-tags: [swift]
+tags: []
 comments: true
 share: true
 ---

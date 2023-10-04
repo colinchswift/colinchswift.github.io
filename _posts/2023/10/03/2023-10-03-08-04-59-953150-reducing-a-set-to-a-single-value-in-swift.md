@@ -3,7 +3,7 @@ layout: post
 title: "Reducing a set to a single value in Swift"
 description: " "
 date: 2023-10-03
-tags: [Swift, Reduce]
+tags: [Reduce]
 comments: true
 share: true
 ---

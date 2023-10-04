@@ -3,7 +3,7 @@ layout: post
 title: "Core Location in Swift: working with maps and location services"
 description: " "
 date: 2023-10-01
-tags: [Swift, CoreLocation]
+tags: [CoreLocation]
 comments: true
 share: true
 ---

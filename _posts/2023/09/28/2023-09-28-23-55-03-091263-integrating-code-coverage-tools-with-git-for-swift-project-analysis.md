@@ -3,7 +3,7 @@ layout: post
 title: "Integrating code coverage tools with Git for Swift project analysis"
 description: " "
 date: 2023-09-28
-tags: [Development, Swift]
+tags: [Development]
 comments: true
 share: true
 ---

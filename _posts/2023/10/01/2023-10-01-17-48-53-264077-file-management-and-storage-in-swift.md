@@ -3,7 +3,7 @@ layout: post
 title: "File management and storage in Swift"
 description: " "
 date: 2023-10-01
-tags: [Swift, FileManagement]
+tags: [FileManagement]
 comments: true
 share: true
 ---

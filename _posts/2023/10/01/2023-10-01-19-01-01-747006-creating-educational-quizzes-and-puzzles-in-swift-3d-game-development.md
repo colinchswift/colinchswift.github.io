@@ -3,7 +3,7 @@ layout: post
 title: "Creating educational quizzes and puzzles in Swift 3D game development"
 description: " "
 date: 2023-10-01
-tags: [Swift, GameDevelopment]
+tags: [GameDevelopment]
 comments: true
 share: true
 ---

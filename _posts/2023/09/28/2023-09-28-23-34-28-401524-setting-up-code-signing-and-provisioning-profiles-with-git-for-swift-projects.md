@@ -3,7 +3,7 @@ layout: post
 title: "Setting up code signing and provisioning profiles with Git for Swift projects"
 description: " "
 date: 2023-09-28
-tags: [Swift]
+tags: []
 comments: true
 share: true
 ---

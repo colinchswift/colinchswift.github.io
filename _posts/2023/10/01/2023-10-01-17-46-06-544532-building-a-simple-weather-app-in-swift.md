@@ -3,7 +3,7 @@ layout: post
 title: "Building a simple weather app in Swift"
 description: " "
 date: 2023-10-01
-tags: [swift, weather]
+tags: [weather]
 comments: true
 share: true
 ---

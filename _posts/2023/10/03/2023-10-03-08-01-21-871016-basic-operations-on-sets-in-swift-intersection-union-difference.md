@@ -3,7 +3,7 @@ layout: post
 title: "Basic operations on sets in Swift (intersection, union, difference)"
 description: " "
 date: 2023-10-03
-tags: [Swift, SetOperations]
+tags: [SetOperations]
 comments: true
 share: true
 ---

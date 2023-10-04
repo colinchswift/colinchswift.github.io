@@ -3,7 +3,7 @@ layout: post
 title: "Checking the size of a set in Swift"
 description: " "
 date: 2023-10-03
-tags: [swift, size]
+tags: [size]
 comments: true
 share: true
 ---

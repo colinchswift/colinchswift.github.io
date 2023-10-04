@@ -3,7 +3,7 @@ layout: post
 title: "Implementing release tagging and versioning schemes in Git for Swift projects"
 description: " "
 date: 2023-09-29
-tags: [Swift]
+tags: []
 comments: true
 share: true
 ---

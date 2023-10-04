@@ -3,7 +3,7 @@ layout: post
 title: "Implementing audio routing using AudioRouter in Swift Core Audio"
 description: " "
 date: 2023-10-02
-tags: [Swift, AudioRouting]
+tags: [AudioRouting]
 comments: true
 share: true
 ---

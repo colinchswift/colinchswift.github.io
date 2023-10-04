@@ -3,7 +3,7 @@ layout: post
 title: "AVFoundation in Swift: capturing and editing media"
 description: " "
 date: 2023-10-01
-tags: [AVFoundation, Swift]
+tags: [AVFoundation]
 comments: true
 share: true
 ---

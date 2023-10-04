@@ -3,7 +3,7 @@ layout: post
 title: "Return Types in Swift Functions"
 description: " "
 date: 2023-09-29
-tags: [swift, functions]
+tags: [functions]
 comments: true
 share: true
 ---

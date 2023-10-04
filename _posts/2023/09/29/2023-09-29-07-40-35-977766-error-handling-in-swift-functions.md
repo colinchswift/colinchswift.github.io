@@ -3,7 +3,7 @@ layout: post
 title: "Error Handling in Swift Functions"
 description: " "
 date: 2023-09-29
-tags: [swift, errorhandling]
+tags: [errorhandling]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Removing duplicate elements from an array to create a set in Swift"
 description: " "
 date: 2023-10-03
-tags: [swift]
+tags: []
 comments: true
 share: true
 ---

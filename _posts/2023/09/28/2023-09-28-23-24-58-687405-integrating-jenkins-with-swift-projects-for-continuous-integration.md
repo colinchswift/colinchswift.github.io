@@ -3,7 +3,7 @@ layout: post
 title: "Integrating Jenkins with Swift projects for continuous integration"
 description: " "
 date: 2023-09-28
-tags: [swift, continuousintegration]
+tags: [continuousintegration]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Unit testing JSON encoding and decoding in Swift"
 description: " "
 date: 2023-09-27
-tags: [Swift, UnitTesting]
+tags: [UnitTesting]
 comments: true
 share: true
 ---

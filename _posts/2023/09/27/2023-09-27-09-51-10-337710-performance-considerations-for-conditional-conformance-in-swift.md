@@ -3,7 +3,7 @@ layout: post
 title: "Performance considerations for conditional conformance in Swift"
 description: " "
 date: 2023-09-27
-tags: [Swift, Performance]
+tags: [Performance]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Function Pointers in Swift"
 description: " "
 date: 2023-09-29
-tags: [swift, functionpointers]
+tags: [functionpointers]
 comments: true
 share: true
 ---

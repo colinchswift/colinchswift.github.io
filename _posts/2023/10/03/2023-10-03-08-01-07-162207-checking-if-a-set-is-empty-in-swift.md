@@ -3,7 +3,7 @@ layout: post
 title: "Checking if a set is empty in Swift"
 description: " "
 date: 2023-10-03
-tags: [swift, sets]
+tags: [sets]
 comments: true
 share: true
 ---

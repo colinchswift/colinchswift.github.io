@@ -3,7 +3,7 @@ layout: post
 title: "Creating a basic 3D game scene in Swift"
 description: " "
 date: 2023-10-01
-tags: [swift, SceneKit]
+tags: [SceneKit]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Implementing audio input/output on iOS devices using Swift Core Audio"
 description: " "
 date: 2023-10-02
-tags: [iOSDevelopment, Swift]
+tags: [iOSDevelopment]
 comments: true
 share: true
 ---
