@@ -3,7 +3,7 @@ layout: post
 title: "Implementing advanced camera controls in Swift 3D games"
 description: " "
 date: 2023-10-01
-tags: [selector(handlePan(_, selector(handleRotation(_]
+tags: []
 comments: true
 share: true
 ---

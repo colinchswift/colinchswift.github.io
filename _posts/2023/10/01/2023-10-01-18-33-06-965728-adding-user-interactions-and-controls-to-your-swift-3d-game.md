@@ -3,7 +3,7 @@ layout: post
 title: "Adding user interactions and controls to your Swift 3D game"
 description: " "
 date: 2023-10-01
-tags: [selector(handleTap)), selector(handlePan))]
+tags: []
 comments: true
 share: true
 ---

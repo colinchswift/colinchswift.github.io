@@ -3,7 +3,7 @@ layout: post
 title: "Strategies for minimizing database roundtrips and improving overall performance in server-side Swift applications"
 description: " "
 date: 2023-10-05
-tags: [tags]
+tags: []
 comments: true
 share: true
 ---

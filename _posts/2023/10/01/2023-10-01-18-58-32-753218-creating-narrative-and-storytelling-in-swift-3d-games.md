@@ -3,7 +3,7 @@ layout: post
 title: "Creating narrative and storytelling in Swift 3D games"
 description: " "
 date: 2023-10-01
-tags: [selector(handleTap(_, gamestorytelling]
+tags: [gamestorytelling]
 comments: true
 share: true
 ---

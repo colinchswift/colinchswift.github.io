@@ -40,7 +40,7 @@ session?.begin()
 4. Implement the delegate methods to handle successful tag detection and data retrieval.
 
 ```swift
-func tagReaderSession(_ session: NFCTagReaderSession, didDetect tags: [NFCTag]) {
+func tagReaderSession(_ session: NFCTagReaderSession, didDetect NFCTag) {
     guard let tag = tags.first else {
         session.invalidate(errorMessage: "No NFC tag found")
         return

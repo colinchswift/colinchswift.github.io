@@ -3,7 +3,7 @@ layout: post
 title: "Apple Pay integration in Swift: enabling secure payments"
 description: " "
 date: 2023-10-01
-tags: [selector(presentApplePayUI), ApplePay]
+tags: [presentApplePayUI, ApplePay]
 comments: true
 share: true
 ---

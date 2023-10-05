@@ -3,7 +3,7 @@ layout: post
 title: "Touch Bar integration in Swift: creating custom controls for MacBook Pro"
 description: " "
 date: 2023-10-01
-tags: [selector(sliderValueChanged(_]
+tags: []
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Apple Watch integration in Swift: developing watchOS apps"
 description: " "
 date: 2023-10-01
-tags: [selector(buttonTapped), watchOS]
+tags: [buttonTapped, watchOS]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Gestures and touch handling in Swift"
 description: " "
 date: 2023-10-01
-tags: [selector(handleTap)), selector(handleSwipe))]
+tags: []
 comments: true
 share: true
 ---

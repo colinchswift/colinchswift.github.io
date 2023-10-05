@@ -3,7 +3,7 @@ layout: post
 title: "Indoor Maps integration in Swift: navigating indoor spaces"
 description: " "
 date: 2023-10-01
-tags: [selector(navigateButtonPressed), Tech]
+tags: [navigateButtonPressed, Tech]
 comments: true
 share: true
 ---

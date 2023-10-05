@@ -3,7 +3,7 @@ layout: post
 title: "Implementing augmented reality features in Swift 3D game development"
 description: " "
 date: 2023-10-01
-tags: [selector(handleTap(_, ARKit]
+tags: [ARKit]
 comments: true
 share: true
 ---
