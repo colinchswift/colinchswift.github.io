@@ -3,7 +3,7 @@ layout: post
 title: "User interface development with UIKit in Swift"
 description: " "
 date: 2023-10-01
-tags: [selector(buttonClicked), iOSDevelopment]
+tags: [iOSDevelopment]
 comments: true
 share: true
 ---

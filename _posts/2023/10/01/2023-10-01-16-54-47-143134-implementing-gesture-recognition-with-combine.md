@@ -3,7 +3,7 @@ layout: post
 title: "Implementing gesture recognition with Combine"
 description: " "
 date: 2023-10-01
-tags: [selector(handleTap)), selector(handleTap))]
+tags: []
 comments: true
 share: true
 ---
