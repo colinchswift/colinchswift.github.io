@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Working with async/await in voice recognition in Swift"
+title: "Working with async await in voice recognition in Swift"
 description: " "
 date: 2023-10-04
-tags: [selector(startRecognition)]
+tags: [selector]
 comments: true
 share: true
 ---

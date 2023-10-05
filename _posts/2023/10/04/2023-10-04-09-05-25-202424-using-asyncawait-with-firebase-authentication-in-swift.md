@@ -3,7 +3,7 @@ layout: post
 title: "Using async/await with Firebase Authentication in Swift"
 description: " "
 date: 2023-10-04
-tags: [prerequisites), enabling]
+tags: [python]
 comments: true
 share: true
 ---

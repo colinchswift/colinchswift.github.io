@@ -3,7 +3,7 @@ layout: post
 title: "Working with async/await in real-time location tracking in Swift"
 description: " "
 date: 2023-10-04
-tags: [introduction), setting]
+tags: [setting]
 comments: true
 share: true
 ---

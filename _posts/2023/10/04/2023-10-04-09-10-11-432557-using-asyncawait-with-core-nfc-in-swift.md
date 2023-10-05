@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Using async/await with Core NFC in Swift"
+title: "Using async await with Core NFC in Swift"
 description: " "
 date: 2023-10-04
 tags: [Swift, AsyncAwait]

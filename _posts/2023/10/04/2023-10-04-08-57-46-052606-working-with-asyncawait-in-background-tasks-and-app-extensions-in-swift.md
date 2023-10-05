@@ -3,7 +3,7 @@ layout: post
 title: "Working with async/await in background tasks and app extensions in Swift"
 description: " "
 date: 2023-10-04
-tags: [introduction), async]
+tags: [async]
 comments: true
 share: true
 ---

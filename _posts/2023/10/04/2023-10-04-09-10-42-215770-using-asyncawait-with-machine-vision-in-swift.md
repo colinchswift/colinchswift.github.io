@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Using async/await with machine vision in Swift"
+title: "Using async await with machine vision in Swift"
 description: " "
 date: 2023-10-04
 tags: [machinevision, asynchronousprogramming]

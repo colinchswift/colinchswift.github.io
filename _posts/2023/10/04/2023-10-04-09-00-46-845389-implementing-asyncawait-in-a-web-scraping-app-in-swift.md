@@ -3,7 +3,7 @@ layout: post
 title: "Implementing async/await in a web scraping app in Swift"
 description: " "
 date: 2023-10-04
-tags: [prerequisites), setting]
+tags: [python]
 comments: true
 share: true
 ---

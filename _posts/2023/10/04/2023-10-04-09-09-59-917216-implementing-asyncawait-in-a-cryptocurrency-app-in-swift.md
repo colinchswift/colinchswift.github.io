@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Implementing async/await in a cryptocurrency app in Swift"
+title: "Implementing async await in a cryptocurrency app in Swift"
 description: " "
 date: 2023-10-04
 tags: [what, using]

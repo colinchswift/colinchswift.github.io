@@ -3,7 +3,7 @@ layout: post
 title: "How to handle pagination with async/await in Swift"
 description: " "
 date: 2023-10-04
-tags: [introduction), understanding]
+tags: [understanding]
 comments: true
 share: true
 ---

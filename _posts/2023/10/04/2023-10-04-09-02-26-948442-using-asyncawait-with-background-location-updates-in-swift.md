@@ -3,7 +3,7 @@ layout: post
 title: "Using async/await with background location updates in Swift"
 description: " "
 date: 2023-10-04
-tags: [introduction), getting]
+tags: [getting]
 comments: true
 share: true
 ---
